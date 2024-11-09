@@ -1,0 +1,450 @@
+[
+    {
+        "id": "d0VP1eH5g6J89xYigOEJEA",
+        "alias": "klea-general-contracting-troy",
+        "name": "Klea General Contracting",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0t78hYv2QClMJM7-WMAtlA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/klea-general-contracting-troy?adjust_creative=FW9uzWMJpbIYp9Yqq1L-iA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FW9uzWMJpbIYp9Yqq1L-iA",
+        "review_count": 5,
+        "categories": [
+            {
+                "alias": "plumbing",
+                "title": "Plumbing"
+            },
+            {
+                "alias": "contractors",
+                "title": "General Contractors"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 42.73449,
+            "longitude": -73.68809
+        },
+        "transactions": [],
+        "location": {
+            "address1": null,
+            "address2": null,
+            "address3": null,
+            "city": "Troy",
+            "zip_code": "12180",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "Troy, NY 12180"
+            ]
+        },
+        "phone": "+18452823081",
+        "display_phone": "(845) 282-3081",
+        "distance": 2007.966585943127,
+        "business_hours": [
+            {
+                "open": [
+                    {
+                        "is_overnight": true,
+                        "start": "0000",
+                        "end": "0000",
+                        "day": 0
+                    },
+                    {
+                        "is_overnight": true,
+                        "start": "0000",
+                        "end": "0000",
+                        "day": 1
+                    },
+                    {
+                        "is_overnight": true,
+                        "start": "0000",
+                        "end": "0000",
+                        "day": 2
+                    },
+                    {
+                        "is_overnight": true,
+                        "start": "0000",
+                        "end": "0000",
+                        "day": 3
+                    },
+                    {
+                        "is_overnight": true,
+                        "start": "0000",
+                        "end": "0000",
+                        "day": 4
+                    },
+                    {
+                        "is_overnight": true,
+                        "start": "0000",
+                        "end": "0000",
+                        "day": 5
+                    },
+                    {
+                        "is_overnight": true,
+                        "start": "0000",
+                        "end": "0000",
+                        "day": 6
+                    }
+                ],
+                "hours_type": "REGULAR",
+                "is_open_now": true
+            }
+        ],
+        "attributes": {
+            "business_temp_closed": null,
+            "waitlist_reservation": null
+        }
+    },
+    {
+        "id": "PfTUWAxxD-lZ2AJlpEn8ww",
+        "alias": "maccio-physical-therapy-troy-2",
+        "name": "Maccio Physical Therapy",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/f83cQ3AUgEqTQyqPc8vtqQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/maccio-physical-therapy-troy-2?adjust_creative=FW9uzWMJpbIYp9Yqq1L-iA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FW9uzWMJpbIYp9Yqq1L-iA",
+        "review_count": 5,
+        "categories": [
+            {
+                "alias": "physicaltherapy",
+                "title": "Physical Therapy"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 42.74023,
+            "longitude": -73.67371
+        },
+        "transactions": [],
+        "location": {
+            "address1": "1 New Hampshire Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Troy",
+            "zip_code": "12180",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1 New Hampshire Ave",
+                "Troy, NY 12180"
+            ]
+        },
+        "phone": "+15182732121",
+        "display_phone": "(518) 273-2121",
+        "distance": 722.4962712070189,
+        "business_hours": [
+            {
+                "open": [
+                    {
+                        "is_overnight": false,
+                        "start": "0800",
+                        "end": "1800",
+                        "day": 0
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "0900",
+                        "end": "1630",
+                        "day": 1
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "0800",
+                        "end": "1800",
+                        "day": 2
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "0900",
+                        "end": "1630",
+                        "day": 3
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "0800",
+                        "end": "1800",
+                        "day": 4
+                    }
+                ],
+                "hours_type": "REGULAR",
+                "is_open_now": false
+            }
+        ],
+        "attributes": {
+            "business_temp_closed": null,
+            "menu_url": null,
+            "waitlist_reservation": null
+        }
+    },
+    {
+        "id": "r9MEjFJUt41aOWk9k7EDLQ",
+        "alias": "bard-and-baker-board-game-cafe-troy",
+        "name": "Bard & Baker Board Game Cafe",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZmpRwwf3M82g5Tbae8_7sA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bard-and-baker-board-game-cafe-troy?adjust_creative=FW9uzWMJpbIYp9Yqq1L-iA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FW9uzWMJpbIYp9Yqq1L-iA",
+        "review_count": 72,
+        "categories": [
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            },
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "tabletopgames",
+                "title": "Tabletop Games"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 42.730903572460655,
+            "longitude": -73.68767833153002
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "501 Broadway",
+            "address2": "Ste 105",
+            "address3": "",
+            "city": "Troy",
+            "zip_code": "12180",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "501 Broadway",
+                "Ste 105",
+                "Troy, NY 12180"
+            ]
+        },
+        "phone": "+15189486693",
+        "display_phone": "(518) 948-6693",
+        "distance": 1601.6948006042378,
+        "business_hours": [
+            {
+                "open": [
+                    {
+                        "is_overnight": false,
+                        "start": "1400",
+                        "end": "2200",
+                        "day": 1
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1400",
+                        "end": "2200",
+                        "day": 2
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1400",
+                        "end": "2200",
+                        "day": 3
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "0000",
+                        "day": 4
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "0000",
+                        "day": 5
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "2000",
+                        "day": 6
+                    }
+                ],
+                "hours_type": "REGULAR",
+                "is_open_now": true
+            }
+        ],
+        "attributes": {
+            "business_temp_closed": null,
+            "menu_url": null,
+            "open24_hours": null,
+            "waitlist_reservation": null
+        }
+    },
+    {
+        "id": "rQlviwDVosYQU5HilIYSag",
+        "alias": "the-bakery-cannabis-dispensary-cohoes",
+        "name": "The Bakery Cannabis Dispensary",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dfjRcsKDUgGdoFjAqjgR7g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-bakery-cannabis-dispensary-cohoes?adjust_creative=FW9uzWMJpbIYp9Yqq1L-iA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FW9uzWMJpbIYp9Yqq1L-iA",
+        "review_count": 2,
+        "categories": [
+            {
+                "alias": "cannabisdispensaries",
+                "title": "Cannabis Dispensaries"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 42.78388,
+            "longitude": -73.74356
+        },
+        "transactions": [],
+        "location": {
+            "address1": "1099 Loudon Rd",
+            "address2": null,
+            "address3": "",
+            "city": "Cohoes",
+            "zip_code": "12047",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1099 Loudon Rd",
+                "Cohoes, NY 12047"
+            ]
+        },
+        "phone": "+15182137714",
+        "display_phone": "(518) 213-7714",
+        "distance": 8181.072781987605,
+        "business_hours": [
+            {
+                "open": [
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "2000",
+                        "day": 0
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "2000",
+                        "day": 1
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "2000",
+                        "day": 2
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "2000",
+                        "day": 3
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "2100",
+                        "day": 4
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "2100",
+                        "day": 5
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "1700",
+                        "day": 6
+                    }
+                ],
+                "hours_type": "REGULAR",
+                "is_open_now": true
+            }
+        ],
+        "attributes": {
+            "business_temp_closed": null,
+            "open24_hours": null,
+            "waitlist_reservation": null
+        }
+    },
+    {
+        "id": "PbyM7Bimt-u1bXJiX1Y1Ng",
+        "alias": "photography-center-of-capital-district-troy",
+        "name": "Photography Center Of Capital District",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KVC4CCQeriH2dc4aTx9QiQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/photography-center-of-capital-district-troy?adjust_creative=FW9uzWMJpbIYp9Yqq1L-iA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FW9uzWMJpbIYp9Yqq1L-iA",
+        "review_count": 4,
+        "categories": [
+            {
+                "alias": "photographers",
+                "title": "Photographers"
+            },
+            {
+                "alias": "photographystores",
+                "title": "Photography Stores & Services"
+            },
+            {
+                "alias": "galleries",
+                "title": "Art Galleries"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 42.73533,
+            "longitude": -73.68733
+        },
+        "transactions": [],
+        "location": {
+            "address1": "404 River St",
+            "address2": null,
+            "address3": null,
+            "city": "Troy",
+            "zip_code": "12180",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "404 River St",
+                "Troy, NY 12180"
+            ]
+        },
+        "phone": "+15182730100",
+        "display_phone": "(518) 273-0100",
+        "distance": 1507.714529434775,
+        "business_hours": [
+            {
+                "open": [
+                    {
+                        "is_overnight": false,
+                        "start": "1700",
+                        "end": "2100",
+                        "day": 3
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1700",
+                        "end": "2100",
+                        "day": 4
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1200",
+                        "end": "1800",
+                        "day": 5
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1200",
+                        "end": "1800",
+                        "day": 6
+                    }
+                ],
+                "hours_type": "REGULAR",
+                "is_open_now": true
+            }
+        ],
+        "attributes": {
+            "business_temp_closed": null,
+            "open24_hours": null,
+            "waitlist_reservation": null
+        }
+    }
+]

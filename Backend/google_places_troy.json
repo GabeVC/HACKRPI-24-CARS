@@ -1,0 +1,1053 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "211 Broadway, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7313142,
+                "lng": -73.6911095
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.73269432989272,
+                    "lng": -73.68967757010726
+                },
+                "southwest": {
+                    "lat": 42.72999467010727,
+                    "lng": -73.69237722989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "little pecks",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113665526455029928514\">Cristina Cornelio</a>"
+                ],
+                "photo_reference": "AdCG2DOco1Mia4NqIYISscxjmlK4Q_EEdfbtKgG_MwkiSarrRB4eUm2TgfIoGfq0VLx_Q7y0mgQF2ZHxRyKbaNhYny3ddEAmIsSztJNdK0gYW_agpN0TV5hUiD_l5Kiajc5h6adgXWoDUn8QVHRyXe9ZSvZ_5ifSH13JF7A02nrDZYhosWS8",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJK4vFJagP3okRgZ1-lctP85Y",
+        "plus_code": {
+            "compound_code": "P8J5+GH Troy, New York",
+            "global_code": "87J8P8J5+GH"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJK4vFJagP3okRgZ1-lctP85Y",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 401
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "225 River St, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7313652,
+                "lng": -73.6931451
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.73263527989273,
+                    "lng": -73.69172417010728
+                },
+                "southwest": {
+                    "lat": 42.72993562010728,
+                    "lng": -73.69442382989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Cafe Euphoria",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1205,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112976954563791025947\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DND_naZvsDe5A8gnGhjrYXIvpzxO8kJmznRJk31bIzshJ5_D3t3_bOIgxZ00shh7K0lPKwGPT0oMwLzE930qf5SYRrKJQAUhMwwFleh0MTt1RKlmJSXrPrKbAVGDUpK7ACFsJAGjJw8lvO9boZgBfzIaEX69hiJeDOGA5KaZ5ipe6bP",
+                "width": 1205
+            }
+        ],
+        "place_id": "ChIJYwfu5F8P3okR_LA-5or_yT4",
+        "plus_code": {
+            "compound_code": "P8J4+GP Troy, New York",
+            "global_code": "87J8P8J4+GP"
+        },
+        "rating": 4.6,
+        "reference": "ChIJYwfu5F8P3okR_LA-5or_yT4",
+        "types": [
+            "restaurant",
+            "cafe",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 145
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "219 4th St, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7249622,
+                "lng": -73.6906851
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.72629607989272,
+                    "lng": -73.68920322010729
+                },
+                "southwest": {
+                    "lat": 42.72359642010728,
+                    "lng": -73.69190287989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Alias Coffee",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117651271704498339103\">nischinth sadhak</a>"
+                ],
+                "photo_reference": "AdCG2DPMUxbcJKJvruiAj7sTKBgdho-x0rS7x3ISQOg5bWu5OCktcHmz55AUoPw5EQQbPbsyaFBPszWXsuIrRO6rKB_clzzd09-DjFA6K3yoNzMvAwMh6Sobxd7aipbAqaKnisH5iCWmUx4ut3B0doPy8vxRC3yGW1hdemlXVDeFRS5NVojM",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJY2xb8C0P3okRnnfQGireFBw",
+        "plus_code": {
+            "compound_code": "P8F5+XP Troy, New York",
+            "global_code": "87J8P8F5+XP"
+        },
+        "rating": 4.9,
+        "reference": "ChIJY2xb8C0P3okRnnfQGireFBw",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 138
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "254 Broadway, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7314618,
+                "lng": -73.6906679
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.73276157989272,
+                    "lng": -73.68934217010728
+                },
+                "southwest": {
+                    "lat": 42.73006192010727,
+                    "lng": -73.69204182989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Whistling Kettle",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107787538413030771628\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DMHv60bYol-VtQ0WXky_OKtV9oBZN_sBeR8NjcctWq14sYvYa-aVRFQu-FkH65L2N20kpR2_9UAA6_ZnzjHm2RE6GMQNPxCVJlWCAYwhbCTp5Jd6Qtc1f6ZysT5MbYzwSql_QZxoz6dJjJ80BBGMr9ExNQzkq5cOCxGJuyINfBa0Ksu",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJqb6cI6gP3okRnrgyVX13JrA",
+        "plus_code": {
+            "compound_code": "P8J5+HP Troy, New York",
+            "global_code": "87J8P8J5+HP"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJqb6cI6gP3okRnrgyVX13JrA",
+        "types": [
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1187
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "274 River St, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.731978,
+                "lng": -73.6909306
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.73338207989272,
+                    "lng": -73.68961567010727
+                },
+                "southwest": {
+                    "lat": 42.73068242010727,
+                    "lng": -73.69231532989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "JACOB ALEJANDRO",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114648346585109687712\">Steve J</a>"
+                ],
+                "photo_reference": "AdCG2DPrSi1vN52aZNsch4I34cUtFM28kJynMhMgu0i4GSEr1v7YjCvA63gySHP0uYOeT1TqSUNBWYAlOAQcX-FfBItHFXYdikku9DxZgVuE2dyRjrCLiomFiqhsmKrWRzc_jaKc8yfT-Aur26mrObb6mlZAR42PXj0tvf3juLDP5xMRUuox",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJGRWttrYP3okRgVz57wMwDjw",
+        "plus_code": {
+            "compound_code": "P8J5+QJ Troy, New York",
+            "global_code": "87J8P8J5+QJ"
+        },
+        "rating": 4.8,
+        "reference": "ChIJGRWttrYP3okRgVz57wMwDjw",
+        "types": [
+            "cafe",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 357
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "147 4th St, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7280264,
+                "lng": -73.689993
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.72935307989272,
+                    "lng": -73.68851567010728
+                },
+                "southwest": {
+                    "lat": 42.72665342010727,
+                    "lng": -73.69121532989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "MoJo's Cafe and Gallery",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105791724959624412051\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DP7MWo47CctHJhqfLOE2KfEMHy5cma3wjdxNWZfW2pHaEE408fZ6_nIoX-wJhK8wgu4GpwTbiUBZnydX3L-CP3rFbWwqvhQWdZVuc2qR02huGq7qmW1mYUkVniRicoJFK9cpvJuWnJbtJMm4cazVSMnrdRqg8_0aZeUlpxjAq-ybKSX",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ4wUnXAAP3okRczK1k3s67wc",
+        "plus_code": {
+            "compound_code": "P8H6+62 Troy, New York",
+            "global_code": "87J8P8H6+62"
+        },
+        "rating": 4.9,
+        "reference": "ChIJ4wUnXAAP3okRczK1k3s67wc",
+        "types": [
+            "cafe",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 28
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "594 Loudon Rd, Latham, NY 12110, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7272116,
+                "lng": -73.7609678
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.72857627989272,
+                    "lng": -73.75953067010727
+                },
+                "southwest": {
+                    "lat": 42.72587662010727,
+                    "lng": -73.76223032989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Works Cafe",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 12000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112301827574945602643\">Shareta Garnes</a>"
+                ],
+                "photo_reference": "AdCG2DPcWQrTPtz6F84MK7S8cbsMKAJupyC4f2OAcFzyBH1PIp1EI9P6TPDdvFOgCU6ttxx8TpfIoA-4dfq0_kq8H3AStKEIquBp1z0tXJb4_rRKd_GJjJkVziwel5oQowaH0pTH8zbV5Vgk2WHmKMcBrUTa5sDittVH-6B38o0XckrX0X8x",
+                "width": 9000
+            }
+        ],
+        "place_id": "ChIJbQyiW1wN3okRkQjRaK_XlW8",
+        "plus_code": {
+            "compound_code": "P6GQ+VJ Latham, New York",
+            "global_code": "87J8P6GQ+VJ"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJbQyiW1wN3okRkQjRaK_XlW8",
+        "types": [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 255
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "720 Hoosick Rd, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7434427,
+                "lng": -73.6428277
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.74485147989272,
+                    "lng": -73.64149782010729
+                },
+                "southwest": {
+                    "lat": 42.74215182010727,
+                    "lng": -73.64419747989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "MochaBlend Espresso Bar",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104176773414033093238\">jeff curran</a>"
+                ],
+                "photo_reference": "AdCG2DOOPjcctf9laYGO8Qnch6N3stellHVnwiRwZIexPCxgCG7_igto_QzYW2mh8e0xzzwE7In7L6JI00zHD5CdpVigA7SkPH167KxR_aiKD1QUqA4VOmtm3lD2_pO-ys9hF1r2vnZT0LkGjYUZxldWoVs3RTlRX91j5La0hqBLWBuAitwG",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ8U-0eF0F3okR_-FqDpk1a_c",
+        "plus_code": {
+            "compound_code": "P9V4+9V Troy, New York",
+            "global_code": "87J8P9V4+9V"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ8U-0eF0F3okR_-FqDpk1a_c",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 146
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "357 Broadway, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7311101,
+                "lng": -73.6894001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.73249877989272,
+                    "lng": -73.68798962010729
+                },
+                "southwest": {
+                    "lat": 42.72979912010727,
+                    "lng": -73.69068927989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Koni's Broadway kafe",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1534,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116710775623489310833\">Joe Masucci</a>"
+                ],
+                "photo_reference": "AdCG2DPPPThfQE0AEcHRcliouyJAZrXuvwydlK9qEpfPAL89dsle_osXAUkvwd4EoKQWa9id29G-BycehpN5C_PBhUyygqWg6luxAMT3cbVAZOeAbKVsU-f2-FRL3AtE2Oaog_vBn4OAQARGm0Pj375vrMZ8xejanm8bJNO9ESgTB7NIRHA5",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJu66HA6gP3okRqcph9QK8dt0",
+        "plus_code": {
+            "compound_code": "P8J6+C6 Troy, New York",
+            "global_code": "87J8P8J6+C6"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJu66HA6gP3okRqcph9QK8dt0",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 114
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "26 N Greenbush Rd, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.69405,
+                "lng": -73.68782
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.69544227989272,
+                    "lng": -73.68619347010728
+                },
+                "southwest": {
+                    "lat": 42.69274262010727,
+                    "lng": -73.68889312989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Starbucks",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116141391448187793789\">ryan naylor</a>"
+                ],
+                "photo_reference": "AdCG2DOkNV1RlVHuUIR0vWCH_KEaaRwwkbBpT0501z-o5PmWlnsx4ZCIT-sDRxhNOQx-uIDdg2lHzVWkf855A1WF460aqPUOT4ozIBIeEm5LN1B6ygpvmmAOQPG3kj88WDpj0DsryUGUQExUYNbEUqXBhTG1rfB4PMT4cWuqCpbgx407d6Kz",
+                "width": 3072
+            }
+        ],
+        "place_id": "ChIJ94b-ciQP3okRlGvvbPHJucs",
+        "plus_code": {
+            "compound_code": "M8V6+JV Troy, New York",
+            "global_code": "87J8M8V6+JV"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ94b-ciQP3okRlGvvbPHJucs",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 77
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "120 Hoosick St, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7387863,
+                "lng": -73.6773376
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.74009412989272,
+                    "lng": -73.67598517010728
+                },
+                "southwest": {
+                    "lat": 42.73739447010728,
+                    "lng": -73.67868482989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Starbucks",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102127816559576392189\">Tammy Liu</a>"
+                ],
+                "photo_reference": "AdCG2DNO-mwLkYNqmTRS4GTGwbavVIkC94gxLrd7RKV0qH3fZe4uu7WPilc4-4Ob3gIygYlVHo41lg0ieUF57wqOHCagfVDwaUTHpik-nv6-9IeX-QgAUlRztI-IGWUB6lWM8GIPmWLq8to5RUMgReSHJG99V2srgOQ0yh6IT8iO0RcKkR9K",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJh2GPOr0P3okRSlSd0gO95fA",
+        "plus_code": {
+            "compound_code": "P8QF+G3 Troy, New York",
+            "global_code": "87J8P8QF+G3"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJh2GPOr0P3okRSlSd0gO95fA",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 675
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "16 N Greenbush Rd, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.6952709,
+                "lng": -73.6884382
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.69664167989272,
+                    "lng": -73.68699627010729
+                },
+                "southwest": {
+                    "lat": 42.69394202010727,
+                    "lng": -73.68969592989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Panera Bread",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116258991740303859738\">Al Diamante</a>"
+                ],
+                "photo_reference": "AdCG2DOOxTnHbWBq39NvD6Tj1zrJaBOTT3kfsKtcjAi3vISHR2VKlgMZ5qPoAqyojGMFLrFgdNsZxJC2lT2xpgHwuiZgF9xntOoSqklUfPfSPJ1M7FZta8X0S2WLPVhOHfQzEDPwdPcipYGNoDFEINbi2yimYnBHNyu15m4e-DxEkngAxg6Y",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ6_N9fi0P3okRBF86U0bbum8",
+        "plus_code": {
+            "compound_code": "M8W6+4J Troy, New York",
+            "global_code": "87J8M8W6+4J"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJ6_N9fi0P3okRBF86U0bbum8",
+        "types": [
+            "cafe",
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 429
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "666 Hoosick Rd, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7415581,
+                "lng": -73.6501634
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.74288557989272,
+                    "lng": -73.64887402010727
+                },
+                "southwest": {
+                    "lat": 42.74018592010727,
+                    "lng": -73.65157367989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Aroma Joe's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110304918009314386805\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DO1UIYhubb1NPhXNSkVRa1r-oa4fbP12KtTpoE0wpYq4d_nhHaDETWDGxtQfW6zIDpps2kRUzGd9TZ2sH-mGfmx2vVF1eUTvAgMxbiOgwiL2Z8GOnX-T5fa7A7NJTwQIP9tIj217TdWMD1YsWSJdH3e-pvTrSVkVBjU2eBvXTzkVfx8",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJezUNBYYF3okRiDL1SngLYcY",
+        "plus_code": {
+            "compound_code": "P8RX+JW Troy, New York",
+            "global_code": "87J8P8RX+JW"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJezUNBYYF3okRiDL1SngLYcY",
+        "types": [
+            "cafe",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 45
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "13 3rd St, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.731995,
+                "lng": -73.6902293
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.73334427989272,
+                    "lng": -73.68887527010729
+                },
+                "southwest": {
+                    "lat": 42.73064462010728,
+                    "lng": -73.69157492989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Stacks Espresso Bar",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113766551786707793393\">Luke S.S.</a>"
+                ],
+                "photo_reference": "AdCG2DPstvKOtzJmIk350vdxCVOKGFiWKGtUsUE4wFOzg2q6UsOBRAmgbtH1O0Ww8F8slZR0v1AztSEH5cXl-XYOsRWTi__EqmVo5zaIPGgyF6zww9h4PSWKjJKyOTadVr9cZnjmptqRqIXzJkzsdjFj60PWGaNzckjr-z3LXqRmgchQgezf",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJqbAhtlkP3okRZsIXgCH-EOQ",
+        "plus_code": {
+            "compound_code": "P8J5+RV Troy, New York",
+            "global_code": "87J8P8J5+RV"
+        },
+        "rating": 4.5,
+        "reference": "ChIJqbAhtlkP3okRZsIXgCH-EOQ",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 81
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "594 Loudon Rd, Latham, NY 12110, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7281592,
+                "lng": -73.7609992
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.72950517989272,
+                    "lng": -73.75958742010727
+                },
+                "southwest": {
+                    "lat": 42.72680552010727,
+                    "lng": -73.76228707989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Starbucks",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116540739101076024420\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DOTyfgP9JWsV716mMC_VpV2j3J7Sw0rpm8hYovY8iTF6GJCGkocltOdBpxecbq0mR08cC6kC6OlnQl1XceKYylgEqfdldKRjRqtDl6GSS4gGg_7h9JNisUOQFiHRyTCjT_7NizJiPlKNw5QuBReSGB2gjoWNzFHje28vXLqNFjKpI8F",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJn0WYQjsM3okR4YhiamAMcTg",
+        "plus_code": {
+            "compound_code": "P6HQ+7H Latham, New York",
+            "global_code": "87J8P6HQ+7H"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJn0WYQjsM3okR4YhiamAMcTg",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 160
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "79 102nd St, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7559927,
+                "lng": -73.6759393
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.75733492989272,
+                    "lng": -73.67451912010728
+                },
+                "southwest": {
+                    "lat": 42.75463527010728,
+                    "lng": -73.67721877989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Inside the park CAFE",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105101015132257198782\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DMj8jctLjKUI4R1x9CtYtEiRcmWv4Q8MxvKiHhsGilCb9901VkYXish7I9zfskBeXiaLkSUlZBAVAW0X9lRDffic5wpfQGyQeLUjvTPbpkrVJWdGhwtRX2bCNzo5GNfi98ijkeBQzDZ6Mbrd6b9EE__0oPPpPjbKZLkPXBdkKKf13E6",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJm2BpFRkP3okRpRo8OjWzKdg",
+        "plus_code": {
+            "compound_code": "Q84F+9P Troy, New York",
+            "global_code": "87J8Q84F+9P"
+        },
+        "rating": 5,
+        "reference": "ChIJm2BpFRkP3okRpRo8OjWzKdg",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "269 Osborne Rd Unit 3, Albany, NY 12211, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7075029,
+                "lng": -73.7749331
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.70883457989272,
+                    "lng": -73.77363882010727
+                },
+                "southwest": {
+                    "lat": 42.70613492010727,
+                    "lng": -73.77633847989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Eden Advisory Services LLC and Cafe",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111528991790675555160\">Eden Advisory Services and Cafe</a>"
+                ],
+                "photo_reference": "AdCG2DPeQu1yIT1BsPv-Hh0Vw20WxNqlRAKZKijbyIxLhW94XbprTcYxZEJ7aFjGhaQRH7CufPkmDV2yLajbfefsYWpBMVVwrYSbaQIiZF54eidd72LFctgcv91LtF2Qo3ANman3xBzgTjsvcISTgNGHXoibrHfdNIyDg1buf7P8p6X4GNWW",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJf-LvrHUM3okRMSu3MJw8KnA",
+        "plus_code": {
+            "compound_code": "P65G+22 Albany, New York",
+            "global_code": "87J8P65G+22"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJf-LvrHUM3okRMSu3MJw8KnA",
+        "types": [
+            "restaurant",
+            "finance",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 37
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "2207 15th St, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7346118,
+                "lng": -73.67637839999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.73593877989272,
+                    "lng": -73.67490682010728
+                },
+                "southwest": {
+                    "lat": 42.73323912010728,
+                    "lng": -73.67760647989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Mumu's Cafe",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1825,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105248906756071492005\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DOryhLsWkq0YHY-GwVvwBUG3PNboFjlOjHdwf5btmIbNurLUVWQoXYoTQW82BAL1s9Coh5FXc0dm3a3MFG9QT3bW8wkdH8TmoYy2seIo1tfgDo80t-KNLCDtyEaf3p27dOF8lHnrlgTSYoO_AT262-vihFPw7faYHyeF6xWfDkPGrQq",
+                "width": 3246
+            }
+        ],
+        "place_id": "ChIJD10WZdgP3okRjybFG_wRLnc",
+        "plus_code": {
+            "compound_code": "P8MF+RC Troy, New York",
+            "global_code": "87J8P8MF+RC"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJD10WZdgP3okRjybFG_wRLnc",
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 122
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "625 River St, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7434359,
+                "lng": -73.68526949999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.74474087989272,
+                    "lng": -73.68372627010729
+                },
+                "southwest": {
+                    "lat": 42.74204122010728,
+                    "lng": -73.68642592989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Superior Merchandise Company",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 757,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109689927590167762330\">Superior Merchandise Company</a>"
+                ],
+                "photo_reference": "AdCG2DPODiEuEmbw0UWLad41mWkZya6pNFiBk2v--T3bYoviYnJBMlUcLYlFA87-FuUWnJrGVxcF31Dy9MY7-D-NeBMWapFD8Ehu2uY94hQAnke0YTracVkEWUw0zzpr97pOlkyt7cSTrunts8-tBkF92Qix6TgPN0-V8K83vI2pfK3_V51Q",
+                "width": 640
+            }
+        ],
+        "place_id": "ChIJbRMlNwYP3okRkvh9SU6sdeI",
+        "plus_code": {
+            "compound_code": "P8V7+9V Troy, New York",
+            "global_code": "87J8P8V7+9V"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJbRMlNwYP3okRkvh9SU6sdeI",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 318
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "212 River St, Troy, NY 12180, United States",
+        "geometry": {
+            "location": {
+                "lat": 42.7309215,
+                "lng": -73.6934342
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.73228272989272,
+                    "lng": -73.69211602010728
+                },
+                "southwest": {
+                    "lat": 42.72958307010727,
+                    "lng": -73.69481567989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Seasons Cafe & Tea House",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110071809751252809317\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DMPub1jnOfa2vxSFOgzoSMJPvypzEsyzbVqmF17PJHk-wZQgmWAP4rlWp1Q-Nx9ticpDGeeE3KrX-x0Msmi4uumFMeDFxXhU-JL4Nifl07-T3921Gxi0L4WQ_7txfnV1oC7KK7cg1iYfut95JBD0nkJIIQ6zmEbcE43J8EI10lvhkN9",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJYzbth4AP3okR-hlF4K2zp6Q",
+        "plus_code": {
+            "compound_code": "P8J4+9J Troy, New York",
+            "global_code": "87J8P8J4+9J"
+        },
+        "rating": 4.7,
+        "reference": "ChIJYzbth4AP3okR-hlF4K2zp6Q",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 68
+    }
+]

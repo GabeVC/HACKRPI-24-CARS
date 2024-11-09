@@ -1,64 +1,67 @@
-import requests
 import os
+import requests
+import json
 from dotenv import load_dotenv
-from pathlib import Path
 
-# Explicitly load the .env file from the Backend directory
-env_path = Path(__file__).parent / '.env'
-load_dotenv(dotenv_path=env_path)
+# Load environment variables
+load_dotenv()
 
 # Yelp API Key from .env file
 YELP_API_KEY = os.getenv("YELP_API_KEY")
 YELP_API_URL = "https://api.yelp.com/v3/businesses/search"
 
-def fetch_yelp_data(location="Troy, NY", term="accessibility"):
-    # Check if the API key is loaded correctly
-    if not YELP_API_KEY:
-        raise ValueError("Yelp API key is missing. Make sure it's set in the .env file.")
-    
-    # Authorization header with the API key
+def fetch_yelp_data(location="Troy, NY", term="accessible places"):
     headers = {
         "Authorization": f"Bearer {YELP_API_KEY}"
     }
-    
-    # Parameters for the search
     params = {
         "location": location,
         "term": term,
-        "limit": 5  # Number of results to return
+        "limit": 5  # You can adjust this as needed
     }
 
-    # Print URL and headers for debugging
-    print("Request URL:", YELP_API_URL)
-    print("Headers:", headers)
-    print("Params:", params)
-
-    # Send the GET request with headers and parameters
     response = requests.get(YELP_API_URL, headers=headers, params=params)
-    
-    # Check if request was successful
-    if response.status_code != 200:
-        print("Error:", response.json())  # Print the error message from Yelp's response
-        response.raise_for_status()  # Raises an exception for HTTP errors
-    
-    # Parse and return the data
+    response.raise_for_status()  # Raises an error for HTTP issues
     data = response.json()
-    return data['businesses']
+
+    # Process data to include coordinates directly in each business
+    businesses = []
+    for business in data['businesses']:
+        # Extract relevant fields, including coordinates
+        business_data = {
+            "id": business.get("id"),
+            "name": business.get("name"),
+            "rating": business.get("rating"),
+            "review_count": business.get("review_count"),
+            "phone": business.get("display_phone"),
+            "address": ", ".join(business["location"].get("display_address", ["No address available"])),
+            "latitude": business["coordinates"].get("latitude"),
+            "longitude": business["coordinates"].get("longitude"),
+            "categories": [category["title"] for category in business.get("categories", [])]
+        }
+        businesses.append(business_data)
+    
+    return businesses
+
+def save_to_json(data, filename="yelp_data_with_coordinates.json"):
+    """Save data to a JSON file."""
+    with open(filename, "w") as f:
+        json.dump(data, f, indent=4)
+    print(f"Data saved to {filename}")
 
 # Usage example
 if __name__ == "__main__":
     try:
-        # Fetch data for Troy, NY
-        data = fetch_yelp_data("Troy, NY")
+        # Fetch Yelp data with specific location and search term
+        data = fetch_yelp_data("Troy, NY", "accessible cafes")
         
-        # Print the output in a readable format
-        for business in data:
-            print("Name:", business["name"])
-            print("Rating:", business.get("rating", "N/A"))
-            print("Address:", ", ".join(business["location"]["display_address"]))
-            print("Categories:", ", ".join([category["title"] for category in business["categories"]]))
-            print("-" * 40)  # Separator for readability
+        # Save the data to a JSON file with latitude and longitude included
+        save_to_json(data, "yelp_data_with_coordinates.json")
+
+        # Print confirmation
+        print("Data fetching and saving completed successfully.")
+        
     except requests.exceptions.HTTPError as e:
-        print(f"Error: {e}")
+        print(f"HTTP Error: {e}")
     except ValueError as ve:
         print(ve)

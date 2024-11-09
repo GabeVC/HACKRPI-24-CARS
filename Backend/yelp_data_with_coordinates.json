@@ -1,0 +1,75 @@
+[
+    {
+        "id": "tQVp9Uz0G_pNaF3y17XD8Q",
+        "name": "Naughter's",
+        "rating": 4.7,
+        "review_count": 71,
+        "phone": "(518) 818-9196",
+        "address": "1809 5th Ave, Troy, NY 12180",
+        "latitude": 42.7312331,
+        "longitude": -73.68790340000001,
+        "categories": [
+            "Sandwiches",
+            "Breakfast & Brunch",
+            "American"
+        ]
+    },
+    {
+        "id": "yNQOQiDq370xVUcckFcILg",
+        "name": "Cafe Euphoria",
+        "rating": 4.6,
+        "review_count": 24,
+        "phone": "(518) 212-7554",
+        "address": "225 River St, Troy, NY 12180",
+        "latitude": 42.73131235281174,
+        "longitude": -73.6931271135961,
+        "categories": [
+            "Breakfast & Brunch",
+            "Coffee & Tea",
+            "Vegan"
+        ]
+    },
+    {
+        "id": "4P1uhNgDX9IT27WrKrGJKQ",
+        "name": "Little Pecks",
+        "rating": 4.3,
+        "review_count": 126,
+        "phone": "(518) 326-3450",
+        "address": "211 Broadway, Troy, NY 12180",
+        "latitude": 42.7313369062912,
+        "longitude": -73.691201502113,
+        "categories": [
+            "Coffee & Tea",
+            "Sandwiches",
+            "Salad"
+        ]
+    },
+    {
+        "id": "vvBtPsLbVEhriuhwgKfn3w",
+        "name": "Jacob Alejandro",
+        "rating": 4.6,
+        "review_count": 86,
+        "phone": "",
+        "address": "274 River St, Troy, NY 12180",
+        "latitude": 42.73201241312373,
+        "longitude": -73.69098192035293,
+        "categories": [
+            "Coffee & Tea"
+        ]
+    },
+    {
+        "id": "Gc7hSgl-eRrDuYsh0wNdmg",
+        "name": "Lucas Confectionery",
+        "rating": 4.3,
+        "review_count": 236,
+        "phone": "(518) 326-3450",
+        "address": "12 2nd St, Troy, NY 12180",
+        "latitude": 42.73118329983667,
+        "longitude": -73.6913519,
+        "categories": [
+            "Cafes",
+            "Wine Bars",
+            "Tapas/Small Plates"
+        ]
+    }
+]
