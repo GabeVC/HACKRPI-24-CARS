@@ -4,18 +4,20 @@
     "version": "0.0.0",
     "type": "module",
     "scripts": {
-  "dev": "concurrently \"npm run dev --prefix C:/Users/conneg2/Cars/Frontend\" \"node C:/Users/conneg2/Cars/Backend/index.js\"",
-  "build": "vite build",
-  "lint": "eslint .",
-  "preview": "vite preview"
-},
-
-
+        "dev": "concurrently \"npm run dev --prefix C:/Users/conneg2/Cars/Frontend\" \"node C:/Users/conneg2/Cars/Backend/index.js\"",
+        "build": "vite build",
+        "lint": "eslint .",
+        "preview": "vite preview"
+    },
     "dependencies": {
         "@koa/cors": "^5.0.0",
         "firebase": "^11.0.1",
+        "leaflet": "^1.9.4",
+        "leaflet.heat": "^0.2.0",
         "react": "^18.3.1",
-        "react-dom": "^18.3.1"
+        "react-dom": "^18.3.1",
+        "react-leaflet": "^4.2.1",
+        "react-router-dom": "^6.28.0"
     },
     "devDependencies": {
         "@eslint/js": "^9.13.0",

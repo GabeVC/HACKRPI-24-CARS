@@ -1,12 +1,12 @@
 import { React, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { useAuth } from '../context/AuthContext'
+import { useAuth } from '..//AuthContext'
 
 const LandingPage = () => {
   const { user, loading } = useAuth();
   const navigate = useNavigate();
 
-  //Check context for already logged in user
+
   useEffect(() => {
     if (!loading && user) {
       navigate('/home');
