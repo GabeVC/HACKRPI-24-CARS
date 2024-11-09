@@ -1,131 +1,302 @@
 [
     {
-        "id": "ChIJL6VG4t8N3okRf7tDRAmJAWM",
-        "name": "Kbowl",
-        "address": "638 Columbia St Ext, Latham, NY 12110, United States",
-        "latitude": 42.76208090000001,
-        "longitude": -73.7527901,
-        "rating": 4.9,
-        "reviews": [
-            "We had a great experience at Kbowl. It recently opened and the food was spot on. I'd recommend it to those looking for authentic street korean food or anyone just looking for a quick snack in the albany region. The workers are very kind and the vibe is good.",
-            "Stopped in for lunch, the staff was very friendly. The custom bowls offer a great selection. I tried the spicy chicken bulgogi with rice, noodles and all the toppings. The signature sauce is spicy and absolutely delicious. Highly recommend this spot.",
-            "I have, I think, been waiting over a year for the opening, and I'm glad to say that it has been worth the wait.  We love Korean food, and both loved the bowls which we got.  It's great to have a takeout place nearby, and wonderful that it's the food we most want to eat.",
-            "It was delicious and the serving size was large. I plan to come back when I am in town.",
-            "I enjoyed the bowl with spicy pork and chicken The ingredients were fresh and the food was really good, perfectly marinated and grilled. Service was attentive and friendly. I would definitely revisit! Perfect for anyone craving delicious Korean food."
-        ]
-    },
-    {
-        "id": "ChIJLexYRfwP3okRnHKAZpcy1_8",
-        "name": "The Trestle Restaurant & Pub",
-        "address": "2 Cohoes Rd, Watervliet, NY 12189, United States",
-        "latitude": 42.7399314,
-        "longitude": -73.7007548,
-        "rating": 4.2,
-        "reviews": [
-            "This is the quintessential old school restaurant. Similar to the roots of that building, The Purple Pub. Affordable, healthy portions, personal friendly service and a classic wide open dinning room with an active bar with TV\u2019s. The food was fresh, tasty and portions beyond one person\u2019s appetite. We will be back!",
-            "Formerly the Purple Pub, The Trestle has quickly put their own stamp on popular pub. Our pizza as topnotch with a great crust and quality ingredients. Our side salad was fresh with solid Italian dressing. There are plenty of other options...burgers, wings, salads and reasonably priced entrees. Very friendly and accommodating staff.",
-            "Ordered a large half pepper/pepperoni half cheese pizza for lunch today and it came was absolutely delicious. Everything was exactly how a pizza should be with just the right amount of sauce/toppings mix. Staff was above and beyond making sure I was content with my very short wait. I will most definitely be ordering takeout on the weekends. Thank you!!",
-            "Incredible hand-tossed margarita pizza! Fresh basil, generous mozzarella and just the right amount of sauce. Also love how the new owners of the space opened up and brightened up the decor. Well done! \ud83d\udc4f\ud83c\udffb",
-            "Ordered takeout. First few times was amazing. The 3rd time we ordered, they already changed the way sandwiches were made on the menu. Ordered again tonight and everything from the container, to the portion and presentation has rapidly declined. Very sad because the first orders were amazing. Have never been inside but gave atmosphere the benefit of the doubt."
-        ]
-    },
-    {
-        "id": "ChIJ_Xw2IDYP3okRM2jFzuptrio",
-        "name": "Istanbul Hookah Place",
-        "address": "1 101st St, Troy, NY 12180, United States",
-        "latitude": 42.7534554,
-        "longitude": -73.6820302,
-        "rating": 4.9,
-        "reviews": [
-            "This place is amazing for a hangout. Surprised how little people know about it. We ordered mix grill for 2 and it was excellent and fed all 4 of us. Drinks are good too. Hookah is on a whole different level.",
-            "Best halal food, awesome environment, very friendly stuff, definitely coming next",
-            "Turkish hospitality at its best! The service is top notch. It helped that we also had a fellow turkish friend with us! Hummus was on point!",
-            "My wife Melissa and I just ate here. The Lamb Kebab was the best I've ever had. All of the food was delicious! Also, the owner came and talked with us which was a delight. I highly recommend coming here. We can't wait to come back again!",
-            "Chilling zone good flavor hookah authentic culture music party \ud83e\udd73 event room"
-        ]
-    },
-    {
-        "id": "ChIJ-a9U1ccR3okRdUW2lrKHWAI",
-        "name": "The Planter",
-        "address": "109 Remsen St, Cohoes, NY 12047, United States",
-        "latitude": 42.7739888,
-        "longitude": -73.70102609999999,
-        "rating": 4.8,
-        "reviews": [
-            "I was here for a baby shower, thrown by my daughter.  This place is SPECTACULAR!  Mari is the best!  She is extremely flexible, and insures that you will have the perfect experience.\nI highly recommend this venue for your next intimate event!!!",
-            "Awesome plant place. You can sign up to build your own terrariums. Great lady and nice prices. I highly recommend planning a visit to do this with friends. Awesome atmosphere. They also do plant and sip too I believe with wine/cocktails.",
-            "The owner and this store is special. They offer classes as well as drop ins to make terrariums. You can enjoy your green thumb and have a beer or glass of wine. The owner is also like a plant doctor, she helps you to learn how to use the right soil and will help you bring life to your home. Parking is great. Fun quaint area to to do antique and dine too. I love it here. Photos show some classes and also some fun plants I have taken home to make it feel special.",
-            "I have been here a few times and all of those times I had such a wonderful experience. The atmosphere is really nice and the ambience is just giving aesthetic vibes. I love the interior design and decor. The staff and owner are super nice and friendly. I have attended past events that were held here and everything was just so beautifully well put together. Before becoming a brand ambassador I always recommended this place to everyone and now that I actually became a new brand ambassador here, I am loving every minute of it. I get to partake in doing something that I love and I look forward holding my upcoming events here.So overall 10 outta 10. Beautiful place and beautiful people!",
-            "Thank you for bringing beauty and life to Cohoes. Plants are essential for the spirit and your business Is very inviting. I hope everyone takes advantage of this great opportunity to start their own garden, all about learning and growing \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
-        ]
-    },
-    {
-        "id": "ChIJPd2lJagP3okRElfyuLzcxHg",
-        "name": "Bootlegger's on Broadway",
-        "address": "200 Broadway, Troy, NY 12180, United States",
-        "latitude": 42.7314794,
-        "longitude": -73.6910376,
-        "rating": 4.2,
-        "reviews": [
-            "My wife and I held our wedding dinner at Bootlegger's. The staff was more than excited to help us plan our special night. We didn't want to deal with the craziness of hosting a huge wedding, so when we came to Bootlegger's they instantly made us feel heard and seen. We used their \"Perfect night\" catering package and added on some extra sides. The staff went above and beyond in getting the white linens and low rounds to really make the aesthetic work well for our event. All our guests were amazed at how tasty the food was and they haven't stopped raving about it since! The staff tended to my wife and I the whole night. We made the best decision to host our party here, highly recommend!!",
-            "Good food and friendly service.  The patio is pup friendly and the burgers are good with fair prices.\n\nBeer selection is good. Great stop on a Farmers Market day to sit and relax.",
-            "We had a great experience here yesterday night.\nThe atmosphere is a nicer pub, with lots of tvs above the bar if you want to watch the game. The tables where we sat were for enough away that it felt separate from the bar area, though. Also of note, bathrooms were very clean, which says a lot.\nOur waitress was friendly and attentive. She took our order promptly and the appetizers (mozzarella sticks and soup) came out quickly. The entrees arrived hot and as we asked for them.\nLast, but definitely not least, the food was awesome! The mozzarella sticks were 6 to an order (I love when it's an even number) and I really loved the marinara sauce. The Buffalo chicken chowder was so good! A little bit of heat, lots of chicken and veggies, and just thick enough.\nWe ordered the chicken tenders, which had a light and crunchy beer batter coating. If the batter is the same, I can't wait to try the fried fish next. We also tried the Cowboy burger. It came out medium well as we had asked and had just the right amount of bbq (I hate when they pour it on and soak the bun). Fries were good too.\nOverall, a pleasant experience all around and we will be back to try other items too. You should stop by yourself and give it a try.",
-            "Wife and I sat outside - was a Saturday during the farmers market - I live in Troy and first time trying Bootleggers. Was NOT disappointed at all. Will go back no question - I even tried something I have never tried before (peanut butter & Bacon burger) now... I try not to eat a lot of beef or pork so I substituted the veggie burger but still had the \ud83e\udd53 and what a crazy delicious burger. Even with the veggie burger it was stellar good!! The fries, drinks, and my wife's meal was outstanding as well. She got the Turkey-Avovado wrap. It's worth the try if you've never been or if you have try something different! Will absolutely go back!",
-            "Everything was perfect here today! The amount of Lobster meat in the Mac & Cheese is quite impressive and it is ridiculously good! I also got some of the Creole Slaw and it was phenomenal! It's crazy because I usually won't go to a place with this low of a rating on google. I was pleasantly shocked! I can't speak on anything else. This is my first time here and I got the best service as well. I highly recommend."
-        ]
-    },
-    {
-        "id": "ChIJ_QxCiDsP3okRFRdaDQ0SD_E",
-        "name": "tipsy manager",
-        "address": "27 Grapevine Pl, Latham, NY 12110, United States",
-        "latitude": 42.738872,
-        "longitude": -73.7405074,
-        "rating": 0,
-        "reviews": []
-    },
-    {
-        "id": "ChIJtVTsHzcP3okRrRiZjpmnxuw",
-        "name": "353",
-        "address": "353 Broadway, Troy, NY 12180, United States",
-        "latitude": 42.7311592,
-        "longitude": -73.6894799,
-        "rating": 4.8,
-        "reviews": [
-            "Great drinks and bar tender.  Excellent mixology. Stuffed jalape\u00f1o poppers were amazing. Can't wait to go back!",
-            "My bartender had the widest selection of gin I've ever heard of. So I decided to go back to my basic Gin Martini. He recommended the Brooklyn Gin since I'm all about my local distillers... He also recommended that I try blue cheese olives instead of plain olives and orange bitters instead of my go-to Angostura bitters. The Brooklyn Gin has a distinct smooth flavor, unlike anything I've ever had before. I was thinking this would be my nightcap, but am now feeling refreshed... \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4dKudos to Brooklyn Gin and to my knowledgeable bartender, Braden! \ud83e\udd70\ud83d\udc4f\ud83d\udc4c",
-            "Great place! Bartender super friendly and made excellent drinks. Atmosphere perfect and comfortable. Good music playing.",
-            "I wish I could recommend 353 for drinks, because the atmosphere is lovely, and the cocktails were mixed well. However, both my partner and I agreed there was hardly any alcohol in the cocktails (a drinking establishment will get into trouble for this sleight-of-hand in Britain, for example, where rules are strict and enforced.). I think it is frankly kind of lousy and low to serve a cocktail this way, and the fact they did this to both drinks indicates it's their practice. To charge a big city price on top of all that is rather stunning. If you want to have a business that repels customers from returning a second time, this is the way to do it.",
-            "Excited Troy has a great cocktail bar. Very inventive bartenders. Expansive cocktail menu with wonderful drinks.  Overall a nice vibe with excellent drinks."
-        ]
-    },
-    {
-        "id": "ChIJpVRkX6qk44kR4hK1yjM7AM4",
-        "name": "the Establishment",
-        "address": "75 Princeton St, North Chelmsford, MA 01863, United States",
-        "latitude": 42.6354417,
-        "longitude": -71.3798297,
-        "rating": 4.2,
-        "reviews": [
-            "I came here with a large group of 10 but they were very accommodating. Our waiter was very nice and funny I forget her name but she was very nice. The food was also excellent I\u2019ve been here a couple times and every time it\u2019s fantastic. I\u2019d come back here anytime.",
-            "We had my daughter Wedding Reception there this past weekend.  Incredible!  Everything was perfect from walk in to walk out!  The bartenders (Ryan, Maria and Julia ) were also set up, server and breakdown crew, they were the best and so accommodating with all our requests.  The food was amazing ~ we got so many compliments.  The venue is just beautiful with the exposed beams and ductwork ~ sunlight was plentiful from the skylights.  The Establishment has been our go to for many years and they have never disappointed.  Very affordable also \ud83d\ude0a.",
-            "Have been here a few times and never disappointed.  Their baked haddock is so good with butter and bread crumbs; flaky and delicious. Also have enjoyed pull pork mac n cheese. Very generous portions. Peak hours for lunch/dinner can cause a wait. Sides are good and nice selection of seasonal drinks.",
-            "Restaurant was busy. Used call ahead,  and had a short wait to be seated.\nWaitress was very pleasant, was in no rush for us to order drinks and brought us water right away.\nThe drinks were very good.\nOrdered a small portion of the chicken tenders. This was a good move. 6 of them were plenty for the two of us. Tasty, spicy and delicious.\nMy wife had the baked haddock, excellent.\nI had the bacon BBQ burger which was delicious. One doing, no where near enough BBQ sauce and it may have been omitted accidentally. Large portions of fresh lettuce and tomato and a healthy onion slice more than made up for it.\nOnion rings were delicious.\nOn to dessert!\nFried dough bites with chocolate syrup and caramel for dipping. Hot, puffy, just the right amount of powdered sugar.\nDefinitely a return visit is in order.",
-            "Definitely recommend The Establishment! Ryan provided great service friendly and professional. Several menu options for everyone. We ordered Haddock, Steak and Cheese, Bacon Burger and a kids meal pasta they even offered a fruit roll up with the kids meal! We spent around $80. Comfortable fun atmosphere. Can\u2019t wait to go again."
-        ]
-    },
-    {
-        "id": "ChIJ-9-ZV9UP3okRPOExH_4bTBk",
-        "name": "Spindles on Remsen",
-        "address": "241 Remsen St, Cohoes, NY 12047, United States",
-        "latitude": 42.7702773,
-        "longitude": -73.7002084,
+        "id": "ChIJ0fKv7g4P3okRMDPsMT3EtxY",
+        "name": "Prospect Park",
+        "address": "Prospect Park, 65 Prospect Park Rd, Troy, NY 12180, United States",
+        "latitude": 42.7241378,
+        "longitude": -73.68452359999999,
         "rating": 4.3,
         "reviews": [
-            "Went for dinner before a show at the Music Hall. The food and wine were good, but for some reason the service was very slow that night. Show was at 8, we got there at 6. We ordered a few apps and an entree to split. Took 90 minutes before the entree came out. The staff and atmosphere are nice. Pictured are the bacon wrapped stuffed dates and deep fried deviled eggs",
-            "Very quaint wine bar. On occasion there's live music too! All the food is very good including the appetizers. Prices are a little expressive for me ($27 - $45 per wine bottle and around $13 per plate)\n\nI'd definitely recommend a visit! Try to go at a off time since the place gets crowded fast and wait time for food can be long.\n\nAlso, at the time if this posting, there's a Groupon to save around up to $15!!!",
-            "I went here early on a Friday night to treat myself to dinner. The server was very pleasant and it was a cozy little place. Unfortunately, when I tried to order they were out of four items on their tiny menu. All items I would have ordered. Since there was really nothing left that I felt like eating I left after a glass of wine. Why on earth would this happen, especially on a weekend? So disappointing.",
-            "Always excellent, creative fare. Great prices (food & wine); outstanding service. Nice ambiance. Best restaurant in Cohoes. \ud83c\udf77",
-            "Went here for dinner tonight and everything was perfect! They have a nice selection of wine. For dinner we had the blackened chicken pasta (incredible), baked brie ( also incredible) and the Flatbread ( perfection). I highly recommend you give this place a try!"
+            "It's sad that such a nice park is being misused by some of the residents of the city that it is in. Not to mention they cannot spend any money A major overhaul of the pool that i'm sure was beautiful in his day. I think the overlooks\nshould be cleared a little bit more but it is a nice place to sit and just relax.",
+            "I grew up coming here to Prospect Park for playing football, basketball, Frisbee and to cookout. The park was shuttered for a while after a certain political party basically ruined the place of public enjoyment. The roads are and we're in bad shape. I was happy to see on a chance drive by a cpl years ago, the gates were open. I come here to photograph the city in various stages of weather, time as in day or night. The deer are a plenty at 2, 3, 4 a.m. I find it cathartic and peaceful. It was the land where Samuel and Ebenezer Wilson built there home and afforded their livestock to roam and graze. Yes that Samuel 'Uncle Sam' Wilson, whose meatpacking business shipped to United States Army during War of 1812. The troops started to say The US stamped for  United States property as \"Uncle Sam\".\nI do believe that The new Mayor will do the best to get the place in shape at some point. After years of indescribable idiocy from the political party that has   mismanaged everything they touch. So the new Mayor is one of unity and common sense. In that, I have confidence to see there will be improvement here. It will give the Residents of Troy, the park that The Wilson's intended for the public.",
+            "Jr. Prom that night on the JP Morgan.  Park was in the vicinity and everyone wanted photos of the lovely couple.  The park made a great back ground for photos.  Plenty of parking, which was good since a lot of people had the same idea.  Well maintained and clean.  Great start to a memorable night.",
+            "Prospect Park in Troy, New York, is a historic and well-loved green space that offers a variety of amenities and a peaceful environment. Here\u2019s a review of the park:\n\nPros:\n\n1. Panoramic Views: One of the standout features of Prospect Park is its elevation, providing stunning panoramic views of the city of Troy and the Hudson River. It's a fantastic spot for sightseeing, especially at sunset, when the landscape is bathed in golden light.\n\n2. Variety of Recreational Facilities: The park offers a wide range of recreational amenities, including tennis courts, basketball courts, and playgrounds. There\u2019s also plenty of open space for picnicking, playing catch, or simply relaxing on the grass.\n\n3. Historical Significance: Prospect Park has a rich history, being one of the oldest parks in Troy. It was designed in part by Frederick Law Olmsted, the famous landscape architect behind Central Park. The park\u2019s historical elements, like the beautiful stone pavilion and walking paths, add to its charm.\n\n4. Well-Maintained Gardens: The park features well-tended gardens, including a rose garden that blooms beautifully in the warmer months. These areas are perfect for a leisurely stroll or for simply enjoying the floral beauty.\n\n5. Community Events: Prospect Park often hosts community events, such as outdoor concerts and festivals, which draw locals and visitors alike. These events add a vibrant and communal feel to the park, making it a focal point for the community.\n\nCons:\n\n1. Limited Parking: Parking can be challenging, particularly during peak hours or events. The park\u2019s popularity means that finding a spot might require some patience, especially on weekends.\n\n2. Aging Infrastructure: While the park is generally well-kept, some areas, such as the playground equipment and certain paths, could use updates or repairs. The age of the park is evident in some of its infrastructure.\n\n3. Seasonal Maintenance Issues: During certain times of the year, particularly in the winter, some parts of the park may not be as well-maintained, with snow or ice making paths difficult to navigate. In the summer, the park\u2019s popularity can lead to occasional littering, though it\u2019s usually addressed promptly.\n\n4. Crowds During Events: While community events are a positive aspect of the park, they can also make it very crowded, which might detract from the peaceful experience some visitors seek.",
+            "Park would be a lot nicer if the city took better care of it. A lot of the roads in the park are closed, because they're falling apart. The roads that are open are in bad shape. The bathrooms have been closed for years, because they are in bad shape. They did put a few port a potties next to the closed bathrooms. There is a new disc golf course, if you're into that, and over near the tennis courts, there's some newer workout equipment. There is a nice playground for the kids, and a small splash pad. Several grills and picnic tables throughout the park as well. The park is in a beautiful spot, and has a nice view of the city, but overall, needs a lot of work to make it nice again."
+        ]
+    },
+    {
+        "id": "ChIJVy6X4gYP3okRmoZhNRmED6U",
+        "name": "Sage Park",
+        "address": "51 Congress St, Troy, NY 12180, United States",
+        "latitude": 42.7288281,
+        "longitude": -73.69270829999999,
+        "rating": 4.7,
+        "reviews": [
+            "I used to come here as a young boy to ride my bike, it's hardly changed and I love it!",
+            "Small park but very clean, great to relax and soak in the rays. There are a couple benches and also some grassy areas for a blanket!",
+            "very nice small park, close to restaurants in downtown Troy",
+            "Me and the pup used to walk here almost every day but even now that we've moved up the hill every time we're in Troy we stop by.",
+            "It's a pretty park in the middle of Troy. Generally clean, and the dogs are nice."
+        ]
+    },
+    {
+        "id": "ChIJOcWELuwP3okRXwBEpImCyMI",
+        "name": "Frear Park",
+        "address": "Frear Park Rd, Troy, NY 12180, United States",
+        "latitude": 42.7511714,
+        "longitude": -73.66873629999999,
+        "rating": 4.7,
+        "reviews": [
+            "The city of Troy, NY, made a significant investment in the golf course a couple of years ago, which resulted in huge improvements. Golfers come from miles around to play. Every time my husband & I  walk to the park on nice days, it is always busy. There are picnic areas, tennis courts & an ice rink for the local hockey players. We also enjoy getting take out from the Park Pub which is renowned for its chicken wings as well as a ham & cheese on marble rye with wholegrain mustard sandwich called  The Half & Half which is a local favorite.",
+            "Frear Park's lake view is a hidden gem in the heart of the city, offering a picturesque escape from the hustle and bustle of urban life. This serene spot, nestled behind the somewhat dilapidated tennis court, is a haven for nature lovers and those seeking a moment of tranquility.\n\nThe centerpiece of this scenic haven is the glistening lake, which is home to a charming community of ducks that gracefully glide across its surface. Watching these ducks is a delight, and it adds a touch of enchantment to the whole experience. As the day winds down, the lake provides a front-row seat to a breathtaking sunset, casting a warm, golden hue over the water that's simply mesmerizing.\n\nFor those who prefer not to sit idly by, there are well-placed seats along the lake's edge, inviting visitors to relax and take in the view. You can also explore the tranquil surroundings with the walking trail that meanders around the lake. This trail offers a perfect opportunity to get some exercise and immerse yourself in the natural beauty of the park.\n\nWhile the adjacent tennis court may show signs of age, it doesn't detract from the beauty of the lake view. In fact, it adds a touch of nostalgia to the experience, reminding us of the park's history.\n\nIn conclusion, Frear Park's lake view is a sanctuary of calm and beauty, where you can escape the daily grind and reconnect with nature. Watching the ducks and witnessing the sunset here is a truly magical experience. Whether you're seeking solitude or a leisurely stroll, this place has something for everyone, making it a must-visit destination for anyone in search of natural beauty in the heart of the city.",
+            "I try to visit Frear Park as often as I possibly can, the park is always clean and well maintained with beautiful views and freindly people throughout. I especially like the golf course were I visit with most all of the golfers and the people who walk the trails, such a wonderful gift to the people of Troy.",
+            "This was a fun little course with plenty of nice views. The greens are very very tough. They are very hilly and unpredictable. You will enjoy this place",
+            "Frear Park Golf Course is in beautiful shape and condition! Greens are running fast (holes 7&8), fairways are green and fluffy and tee boxes are well cut and defined! Good job Superintendent!"
+        ]
+    },
+    {
+        "id": "ChIJ_3Wr6gcP3okR1z27fPtHCXU",
+        "name": "Barker Park",
+        "address": "64 3rd St, Troy, NY 12180, United States",
+        "latitude": 42.7297879,
+        "longitude": -73.6903633,
+        "rating": 3.8,
+        "reviews": [
+            "Small, cramped, and not that clean. Doesn't appear kid friendly or even me friendly. OK to eat something quick from a local eatery and get bothered for change, but it isn't as bad as the bus stops",
+            "A very nice small private park in the downtown Troy area next to a religious Church where the beauty of this small Park offers an inner city getaway",
+            "Over all nice,  but alcohol abusers around the park makes it little intimidating when bringing kids.",
+            "The plantings have been very nice this year. Looks like the swings are back.",
+            "Very nice little park located at64 3rd St, Troy, NY 12180\n\nKiddos friendly"
+        ]
+    },
+    {
+        "id": "ChIJv9fWVwQP3okRpbKl_konu4E",
+        "name": "Washington Park",
+        "address": "195 2nd St, Troy, NY 12180, United States",
+        "latitude": 42.7240858,
+        "longitude": -73.6925151,
+        "rating": 4.2,
+        "reviews": [
+            "Nice quite little park, convenient for taking a little break. The trees in the park are beautiful and the brownstone apartments that surround it are beautiful as well.\nTogether they're like a lil oasis to grab a few minutes of peace and quiet.",
+            "Change review: spectacular greenery! And love the statue water fall but I don\u2019t believe I\u2019ve ever seen the water actually flowing through it or falling\u2026 needs more seating around or forms of seating maybe more statues or pieces of art would be ideal.",
+            "This park looks nice and unfortunately its sole purpose is to raise property values in the surrounding area. It is privately owned and you can only get in if you have a key but even if you do you're not allowed to do anything except sit there. Pets and having fun are strictly prohibited.",
+            "This is a relatively clean appearing park. We went to see the filming of the show The Gilded Age. It was so cool seeing all the horses and carriages and people dressed up!",
+            "Best and biggest city park in Albany. Lots of events, festivals, performances, and activities throughout the year. Or just go for a leisurely stroll or a small picnic with friends. The tulips and Tulip Fest are a highlight!"
+        ]
+    },
+    {
+        "id": "ChIJD-5TzZgP3okRC7tTXa5eEvo",
+        "name": "Beman Park",
+        "address": "4 15th St, Troy, NY 12180, United States",
+        "latitude": 42.7336976,
+        "longitude": -73.6745911,
+        "rating": 4,
+        "reviews": [
+            "Decent spot with all of the essentials. Parks swings, and a basketball court. However, the two playgrounds themselves are not all that great quality. Relatively small playground areas.\nA defining aspect of this playground is it's calisthenics gym. There are 7 different stations each meant to be done for a minute each. Great way to be active and it got the extra star for it's addition.",
+            "Great Troy, NY Park! Community staple for years, kept well, great location & usually clean! Full size Basketball Court (Blacktop, 2 10' Hoops) & Childrens Play Areas. Too bad Hospital Staff Lunch Breaks are so short or I'd bet you'd see more weekday action, Beman!",
+            "Not very exciting as far as parks go.  There is some grass, a hill, some dilapidated tennis courts.  Closer to the hospital there is a functional basketball court and some playground equipment but it's rarely used to my knowledge.  I think the main purpose of this \"park\" (more like a large patch of unused land Troy happen to mow every few weeks) is to provide shortcuts from Jacob Street to Peoples Ave without walking all the way down to 15th.\n\nThat said, this park is fairly well trafficked during daylight hours, I've never felt unsafe walking.\n\nBeman Park, and the surrounding neighborhood, is often the target of Troy Police initiatives dealing with RPI students, don't let this make you feel the park is anyway unsafe.",
+            "Very annoyed because I typed dog park into Google and it brought me here. THERE IS NO DOG PARK! why is it so hard to find a spot to bring your dog to play in this city!?",
+            "Great place to take your kids. Me and my children had so much fun here"
+        ]
+    },
+    {
+        "id": "ChIJTZQN1moP3okRRq4HEjmlSVw",
+        "name": "William D. Chamberlain Riverfront Park",
+        "address": "255 Front St, Troy, NY 12180, United States",
+        "latitude": 42.7331606,
+        "longitude": -73.6909623,
+        "rating": 4.6,
+        "reviews": [
+            "Mildly trash filled park but no homeless staying. Pretty good third space. See image and video below for further information",
+            "Always fun stopping over here during the week or saturdays for the farmers market. During the summer they open the spray park and it\u2019s great for families with little kids to get cooled down. They have seating for adults. I like to sit and read while my kids have a blast in the water. It would be nice to have a little playground or something too.",
+            "Nice views of the Hudson River, clean , seating available, sprinklers in the warmer months",
+            "A great place to take a stroll during the day or even during the evening. The renovated path definitely helps make the place feel a little less sketchy. In the summers they have free yoga on Sundays and other events throughout the year. A great part of the Troy community.",
+            "Great for parties, strolling by the river alone or with that special friend \ud83d\udc40, or hosting a rally. There's fun for everyone!"
+        ]
+    },
+    {
+        "id": "ChIJUQBPAksJ3okRAOwHa7qMMiQ",
+        "name": "Ganser-Smith Memorial Park",
+        "address": "53 Menand Rd, Menands, NY 12204, United States",
+        "latitude": 42.6960309,
+        "longitude": -73.7265128,
+        "rating": 4.7,
+        "reviews": [
+            "It\u2019s a beautiful park. Very well maintained. I like that there are benches right up next to the playground and the play equipment is looks like new. There\u2019s also a lot of swings for babies and kids alike.\n\nIf this park had shade and the slides/tubes didn\u2019t collect so much water it would be an easy 5 star.",
+            "This is a wonderful looking Park. The grounds are well groomed and kept. The atmosphere presents like a gated community and seems less friendly to visitors, probably due to the very close neighboring homes. It can use some symbols of inclusivity but still a good first impression.",
+            "Excellent Park in Menands, NY, with a covered Pavillion and grill for Village events and available for inexpensive rental. Tuesday has Village Concerts in the Park and Wednesday sees Food Trucks with Village sponsored music. On-site clean bathrooms as well as year-round activities make this a terrific spot for family, friends, and residents!",
+            "This is a nice, quiet neighborhood park featuring a jungle gym for toddlers & one  for slightly older kids. There are plenty of picnic tables to enjoy a small lunch at. There is a nice basketball court too. This park also has a canopy with beautiful backdrop features. And along side that is a tennis court! It's definitely a must visit park! #illseeyouguysthere #followme #ritarants \ud83d\ude0a IG: @geeitsrita",
+            "We love this Park. It's well maintained. Has bathrooms (though I believe they are only open May-September). Big enough to keep the younger kiddos entertained but not so big that it gets over crowded. Two play structures (one on the smaller side), a rock climbing wall and plenty of swings. There is a basketball court and a baseball field.  There is also a large Pavillion area with picnic tables that I believe can be rented. All of the families I've met there have been very sweet and even the older pre-teens that come to play basketball have been very respectful. A hidden gem \ud83d\udc8e."
+        ]
+    },
+    {
+        "id": "ChIJs9RqVrMP3okRtpmIU_n6Rzk",
+        "name": "Brotherhood Park",
+        "address": "Watervliet, NY 12189, United States",
+        "latitude": 42.7350294,
+        "longitude": -73.7043205,
+        "rating": 4.1,
+        "reviews": [
+            "Some of the people aren't social at all; it's like (for some reason unbeknownst to me,) I ALMOST ALWAYS positively initiate point of contact, sometimes a handshake, after talking, perhaps a hug, (I'll ask first) conversation, eye contact, (ppl SEE \ud83d\udc40 ME, some known, DEFINITELY HEARD \ud83d\udc42, body language, etc.\nI'm not gonna get too psychological on some ppl, unless asked- \ud83c\udf3b\n\nBut I almost Almost always change some one's mind about \"stereotypes\" and make a friend!\ud83c\udf39 YES!, all this happens and I'm aware. Whether me and my other half,  are exercising, or I'm playing with together, AND WATCHING  2 of my GrandBabies, keeping keen eyes \ud83d\udc40 on them; as I relish in delight of them being GODS' children, and my children's children\ud83c\udf39",
+            "I go to read and relax and watch the boats go by great pavilion close by for having that barbecue that you want",
+            "A nice park for the kids. I take my great grandson after school. Get all that bottled up energy out!",
+            "The pictures are not of Brotherhood park, the pictures are of Waterliet Hudson Shores park(Picklepark). \ud83d\ude09 Brotherhood park is located on 25th street and 6th avenue in Watervliet.",
+            "It's a nice place to go and relax take a walk I wouldn't hang out in there for too long though"
+        ]
+    },
+    {
+        "id": "ChIJYxisQooP3okRA7syKg87eJM",
+        "name": "Hudson Shores Park",
+        "address": "2 Selke Dr, Watervliet, NY 12189, United States",
+        "latitude": 42.7307898,
+        "longitude": -73.697889,
+        "rating": 4.5,
+        "reviews": [
+            "This has become my place to relax at.  I have not tried using the BBQ pits here yet.  It's just a.nice quiet place to visit and sit or go for a walk at",
+            "Good place for picnic, but no BBQ.",
+            "Very relaxing and claming environment \u2698\ufe0f\ud83e\udeb7\ud83e\udeb7",
+            "When I need a quick getaway to calm my nerves\u2026 this is my go to!",
+            "This is such a great place to go to for fishing walking your dog, cook out and to just relax and watch the boats going past on the river.. you can also rent out one of the picnic areas to have family reunions birthday parties or anything else it's a nice size space that will hold a large amount of people."
+        ]
+    },
+    {
+        "id": "ChIJU3hioNoO3okR6641NIfRGX8",
+        "name": "Town of Colonie Schuyler Flatts Cultural Park",
+        "address": "595 Broadway, Watervliet, NY 12189, United States",
+        "latitude": 42.705452,
+        "longitude": -73.711191,
+        "rating": 4.6,
+        "reviews": [
+            "Basically a big open field with a few trees in the middle. Concrete path that goes around perimeter.\nConnects to Hudson bike trail in the back.\nA few benches.\nSome history reading areas along the way.",
+            "Non-Smoking sign is back up again after some public park vandal took it down, and this is thanks to the Colonie Parks and Rec Supervisor and those who put the sign back up. Changed from 1 to 4 stars due to this. This is a great park to walk, exercise, get fresh air and bring your children so they can enjoy the fresh clean air. This is a great park with the exception of some who ruin it for others and believe they\u2019re above following the rules of public parks. And when not remove signs that are there to protect the most vulnerable (children). Hopefully I and the other folk who bring their children to this park to get fresh air won\u2019t have to have their children\u2019s lungs contaminated with different types of smoke.",
+            "Open park, nice and warm. Safe place to walk children and your your pets. Had a great time. The straight smaller path around the park is . 7 miles and twice around is ~1.5 miles.",
+            "Great place to walk  or let the kids ride bike.  There are no bathrooms or actual amenities here.  It is just well manicured expanse of flat land that connects to the bike trail.",
+            "Great place to get your walk in. Or just to sit and watch nature."
+        ]
+    },
+    {
+        "id": "ChIJdaZKH-cP3okRMapx_8ZuQTM",
+        "name": "Knickerbacker Park",
+        "address": "103rd St & 8th Ave, 320 7th Ave, Troy, NY 12182, United States",
+        "latitude": 42.7614133,
+        "longitude": -73.674959,
+        "rating": 4.1,
+        "reviews": [
+            "I was invited to play softball as my work place has a team that participates in a league. I was reluctant at first, but decided I have been getting lazy and just get out with the weather being perfect.\n\nI dragged my son in with me and he wants to make a trip back to this park already. There are multiple softball grounds and has some historic significance which I have no clue.\n\nI got my exercise, my son had fun and that is  all that matters. There were other kids there playing football, on scooter, bike, mini motorcycles, softball and some play equipment which looks fairly new.",
+            "Visited here for Lansingburgh soccer games. Nice and clean facilities. Nice park with up close parking.",
+            "It's a small track here we like to walk on is also an ice skater ring inside the building it's going to reopen soon",
+            "I saw Knickerbocker Park on my map and since I needed somewhere to relax I walked 12 blocks to visit what I HOPED was a nice park. When I arrived all there was is a baseball diamond attached to a school, and a playground designed for the UNDER 5 group. The few toys on the playground were extremely run down.\nThere was what at one time might have been a pretty fountain, but it was full of weeds and no water. There were 2 pretty run down picnic tables.\nThe grass was in dire need of a lawnmower and the entire park needed love.",
+            "The fields are kept in decent shape. They are adjacent to the school and have parking most of the time. There is a single porta potty there so keep that in mind."
+        ]
+    },
+    {
+        "id": "ChIJ_ZHobFYN3okR725mtd_o6lY",
+        "name": "Latham Kiwanis Park",
+        "address": "3 1st Ave, Latham, NY 12110, United States",
+        "latitude": 42.7458772,
+        "longitude": -73.7534884,
+        "rating": 3.5,
+        "reviews": [
+            "The tennis courts and basketball courts are very nice. The playground seems to be lacking, but it was quiet and clean. No dog area and no restrooms.",
+            "Updated with photos. This park is UNSAFE and DANGEROUS. The playground equipment is broken in multiple areas and the swings & metal areas are rusted. Very disappointing that these complaints have been going on for more than 3 years and nothing has changed.",
+            "Nice park.  Lots of grass to walk the dog on.  Basketball and pickleball courts and some kind of performing arts center building. The kids playground looked a little rough with a cracked slide (6/24) so I took off a star for that. I did not see any restrooms.  I think there was one picnick table.  I didn't see any signs about not allowing dogs so I think they are allowed.  One trashcan available.",
+            "This is the park that time forgot. It was once quite nice, but it's now dilapidated, with paint peeling, tennis courts cracking, and grass overgrowing.  There are some nice soccer fields still, and basketball courts that are still in use, but on the whole the playground has seen much better days. It's so forlorn that even the sign is misspelled. No bathrooms or concessions.",
+            "Smells like garbage. Broken equipment. Not a good place for kids."
+        ]
+    },
+    {
+        "id": "ChIJQVG6Bb8P3okRiH3j7Hg3W9M",
+        "name": "7th Avenue Park",
+        "address": "2910 7th Ave, Troy, NY 12180, United States",
+        "latitude": 42.7458718,
+        "longitude": -73.68114039999999,
+        "rating": 3.9,
+        "reviews": [
+            "Bathroom is dirty and looks like someone was living in it. My daughter stepped on glass in the sprinklers. There are several teenage brawls daily. This park was beautifully redone just for the teenagers to destroy it. Sad",
+            "This is a nice little park. I went in late November so we didn't stick around too long. But the equipment looks new and the swings squeak as all swings do.",
+            "Someone\u2019s always getting shot down at the park every time you turn around. I hope the changes in the park start bringing good things for the neighborhood but I don\u2019t cross my fingers. It starts with the people there.",
+            "One of Troy's best! The community does a great job of keeping it clean and clear.",
+            "Nice park but no where to park .\nPlayground in rear where you can't see your kids from the sitting area.\nCity keeps it clean daily."
+        ]
+    },
+    {
+        "id": "ChIJ2Tdu4igO3okRaKALrnqQpYw",
+        "name": "Lansing Park",
+        "address": "34 James St, Cohoes, NY 12047, United States",
+        "latitude": 42.76859109999999,
+        "longitude": -73.7099044,
+        "rating": 4.2,
+        "reviews": [
+            "Kids go to school here. Enjoy the park and pool during the summer. 8 generations have enjoyed this pool. I personally have for over 47 years.",
+            "Pool was almost empty and water green.  Gives the impression that no one takes care of it.  We were there way before labor day and it was closed.  No restrooms either",
+            "Top-notch Cohoes Youth Soccer\nAwesome season,  very productive!!!",
+            "Traveling from out of town and this park is great! Great place for the kiddos to get out and stretch their legs, burn some energy!",
+            "This is not far from our house but I am always nervous when my kids walk anywhere by themselves and it's not because I don't trust them, I don't trust other people, let's face it, the world isn't the same as it used to be many years ago, now you have to always be on your guard, and what makes me even more nervous is the fact that an 11yr old was taken by a 16yr old from this very park, and that is extremely scary.  I mean the park and playground are very nice with lots to do, but it's always very busy. And now for me with this latest situation of the 11yr old being taken, my message to other parents, Please Please watch your children and if you aren't going to be with them make sure they have a way to check in with you!!! It's not a 100% safe world out there and you have to always be on your guard, you just never know.  Stay safe to you all."
+        ]
+    },
+    {
+        "id": "ChIJgZauRSAQ3okRagJKKbq4aMY",
+        "name": "Powers Park",
+        "address": "3rd Ave, Troy, NY 12182, United States",
+        "latitude": 42.7690184,
+        "longitude": -73.67918949999999,
+        "rating": 4.4,
+        "reviews": [
+            "been going here for summer concerts for a good number of years...great clean park, gets great vendors, great stage and audio setup...first year I've been here to see the really great looking awning setup... attended today to check out modern country cover band Grit -N- Whiskey!\ud83c\udfbc\ud83e\udd43",
+            "It's a very peaceful place! I love the concerts they have every Saturday between the months of June- August! Could have public bathrooms at least 1 through out the year for the people who go there to sit and enjoy the weather and the park.also would be nice if they had a water fountain for people to get drinks on very hot days.maybe even a sprinkler for the kids to cool off.besides the concerts they don't really have much there but a few tables but it's a nice place to just go and sit.",
+            "Nice venue for a concert.  No pets but everyone has beers.",
+            "Had an amazing time good people clean good music danced eight good food my friends came it was a great place to hang out and just meet people stuff for the kids to do I was actually going to paint a painting of the park That's how much I liked it I think I still will I will post a photo on here afterwards so I will one can see how amazing the place is you should definitely check it out if you have spare time and there is a pool close by so the kids can go swimming good food across the street bar if you like to drink come check it out everyone",
+            "Had a great time with Sound Doctrine and Victory chapel band . Preaching and singing for Jesus"
+        ]
+    },
+    {
+        "id": "ChIJi-D5OKEP3okR7Az0DtkW_jk",
+        "name": "Clinton Park",
+        "address": "1861 8th Ave, Watervliet, NY 12189, United States",
+        "latitude": 42.7309709,
+        "longitude": -73.70808629999999,
+        "rating": 3.4,
+        "reviews": [
+            "Nice playground with sets play, one for children between 2-5 and the other for older children.\nThe park is equipped with table & bench sets, swings, basketball area...\nPark is open from 7 am to 10 pm.it is situated in residential clean and nice area.\nNo restroom.",
+            "Good for small kids. Good basketball court swings open field and play equipment area. Alot of teens hang here. Saw a few fondling and kissing. No restrooms. Something to consider. We practice here for t ball.",
+            "Kids love it here. Nice and relax \ud83d\udc4d\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+            "Very nice basketball area with a sprinkler system and a dog park..what more do you want. Will visit again one day maybee again today..",
+            "I love this clean park. Not alot of kids are there so it's great that it's not crowed."
+        ]
+    },
+    {
+        "id": "ChIJ2xWhqCQP3okRG3txIMRthJ0",
+        "name": "Burden Environmental Park",
+        "address": "85 Thompson St, Troy, NY 12180, United States",
+        "latitude": 42.7068903,
+        "longitude": -73.68921069999999,
+        "rating": 4.5,
+        "reviews": [
+            "With the recent trail work and clean up at the Burden Pond Environmental Park starting in May of 2019, a new life has begun at the park. New, maintained and well marked trails are found here now and accessible during all four seasons! Great Improvement to the once decrepit park",
+            "The falls are beautiful but I had a lot of trouble finding it. Turns out you have to drive a little further down the road, past where maps tells you to stop. If you go through the woods a little you can walk in and around the falls.",
+            "Good for a walk around the falls as well as the park itself",
+            "Has a small creek, and nice waterfalls. Good for a quick walking trip.",
+            "So fun. So many trails."
+        ]
+    },
+    {
+        "id": "ChIJZ7Fi58MP3okRiuJtKcUJBm8",
+        "name": "Freedom Square",
+        "address": "35 5th Ave, Troy, NY 12180, United States",
+        "latitude": 42.7540073,
+        "longitude": -73.6816496,
+        "rating": 4.2,
+        "reviews": [
+            "Awesome young man. Keep doing wat u r doing in life one day u will be a great dad, and always remember that ure parents want nothing but the best for u. And remember to always show respect to get respect and stay loyal.",
+            "No longer just an empty lot - but the great thing is the community and the activities that take place here, organized by Sanctuary for Independent Media, Troy Bike Rescue, Missing Link Ministry, Collard City Growers",
+            "5th Avenue from the south (historic Troy) meets head-on 6th Avenue from the north (proud Lansingburgh) at the intersection of 101st Street.  When these two distinct cities merged in late 1800s, the northern one full of green spaces, carpenter-crafted homes, and sloop building industries agreed if it could keep its original street names, and 'better' school system.  City of Troy is the only USA municipality with two school systems:  Enlarged City School District of Troy and Lansingburgh School District.",
+            "Candle Lighting Ceremony",
+            "Good place for family barbecues they have a pavilion with tables public restrooms and a playground"
+        ]
+    },
+    {
+        "id": "ChIJlZG2CbcP3okRx2FiU8CB0aE",
+        "name": "Paine Street Park",
+        "address": "200 Paine St, Troy, NY 12183, United States",
+        "latitude": 42.747598,
+        "longitude": -73.690934,
+        "rating": 4.2,
+        "reviews": [
+            "This splash pad, playground and park are absolutely fantastic! Mr. Mullens runs the park along with his staff. They take great care of the park and are very welcoming and helpful. The splash pad is amazing for the kids. I would highly recommend checking out this summer! The kids use old plastic coffee tubs as buckets (plastic ones break). Kids always have a blast!",
+            "How cute is this place?! I LOVE water so when I saw this I wished my neices were young again! Very nicely done.",
+            "Went there to get wet and it was so hot and the sprinklers weren't on besides that it was a nice park",
+            "Like another reviewer stated they're not really careful about who comes it's a beautiful Park and the facilities are terrific.",
+            "Says it is open 9am to 9pm on Saturday and when we got there it was closed and there was no one there"
         ]
     }
 ]
