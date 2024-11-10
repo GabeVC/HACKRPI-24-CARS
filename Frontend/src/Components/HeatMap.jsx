@@ -153,7 +153,7 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
               <strong>{marker.locationId || "No address provided"}</strong> <br />
               Latitude: {marker.coordinates.lat}, Longitude: {marker.coordinates.lng} <br />
               <AddReviewButton 
-                selectedLocation={{ locationId: marker.locationId, coordinates: marker.coordinates }}
+                selectedLocation={{ locationId: marker.locationId, coordinates: marker.coordinates, existing: true }}
                 setIsModalOpen={setIsModalOpen} 
               />
               <ViewReviewsButton fetchReviews={() => fetchReviewsForLocation(marker.locationId)} />
@@ -176,7 +176,7 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
           <Popup>
             <strong>Latitude: {markerPosition[0]}, Longitude: {markerPosition[1]}</strong> <br />
             <AddReviewButton 
-              selectedLocation={{ locationId: "Selected Location", coordinates: { lat: markerPosition[0], lng: markerPosition[1] } }}
+              selectedLocation={{ locationId: "Selected Location", coordinates: { lat: markerPosition[0], lng: markerPosition[1] }, existing: false }}
               setIsModalOpen={setIsModalOpen} 
             />
             <ViewReviewsButton fetchReviews={() => fetchReviewsForLocation("Selected Location")} />
