@@ -13,12 +13,44 @@ GOOGLE_PLACES_API_KEY = os.getenv("GOOGLE_PLACES_API_KEY")
 GOOGLE_TEXTSEARCH_URL = "https://maps.googleapis.com/maps/api/place/textsearch/json"
 GOOGLE_DETAILS_URL = "https://maps.googleapis.com/maps/api/place/details/json"
 
-# Define keywords related to accessibility features
+# Define keywords related to accessibility features in a single list for each category
 ACCESSIBILITY_KEYWORDS = {
-    "mobility": ["wheelchair", "ramps", "elevator", "accessible"],
-    "vision": ["braille", "signage", "contrast", "audio assistance"],
-    "sensory": ["quiet", "noise", "lights", "overwhelming"],
-    "language": ["sign language", "interpreter", "translated materials"]
+    "mobility": [
+        "accessible parking", "smooth paths", "wide entrances", "automatic doors",
+        "stair lifts", "accessible restrooms", "ground-level entry", "handrails",
+        "easy access", "barrier-free", "wheelchair", "ramps", "elevator", "accessible",
+        "paths", "stairs", "floor level", "corridor", "steps", "pavement",
+        "steep stairs", "narrow entrance", "no ramp", "obstacles", "inaccessible restroom",
+        "rough terrain", "high curb", "crowded access points", "limited space", "lack of handrails"
+    ],
+    "vision": [
+        "clear signage", "high contrast text", "braille signs", "audio guidance",
+        "well-lit paths", "large fonts", "tactile markers", "color-coded maps",
+        "voice-activated systems", "visual cues", "braille", "signage", "contrast",
+        "audio assistance", "lighting", "pathway signs", "indicators", "display",
+        "markers", "directions", "dim lighting", "unclear signs", "low contrast",
+        "no braille", "faded print", "small text", "inconsistent markings", "hard to read",
+        "visual clutter", "poor signage"
+    ],
+    "sensory": [
+        "quiet zone", "soft lighting", "soundproof rooms", "calm environment",
+        "natural lighting", "temperature control", "limited background noise",
+        "noise-canceling features", "calming colors", "low sensory input", "quiet",
+        "noise", "lights", "overwhelming", "sunlight", "noisy", "atmosphere", 
+        "environment", "temperature", "lighting", "loud noises", "bright lights",
+        "overwhelming smells", "constant noise", "strobe lights", "uncontrolled temperature",
+        "echoing", "harsh lighting", "disorienting", "sensory overload"
+    ],
+    "language": [
+        "sign language interpreter", "bilingual staff", "translated materials",
+        "language options", "clear instructions", "easy-to-understand", "language-friendly",
+        "multilingual signage", "language assistance", "accessible language", "sign language",
+        "interpreter", "translated materials", "bilingual", "language support", "help desk",
+        "instructions", "staff communication", "information", "announcements",
+        "no interpreter", "language barrier", "unclear instructions", "only in one language",
+        "difficult to understand", "no translation available", "unhelpful staff", "complex terms",
+        "no visual aids", "hard to follow"
+    ]
 }
 
 def analyze_sentiment(text):

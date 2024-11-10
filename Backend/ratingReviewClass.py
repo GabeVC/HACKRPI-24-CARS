@@ -3,20 +3,16 @@ class ratingReviewParse:
         self.id = id
         self.location = locateId
         self.mobility = 0.0
-        self.accessibility = 0.0
         self.vision = 0.0
         self.sensory = 0.0
         self.language = 0.0
         self.reviewContent = ""
         self.qualityReview = 0.0
-        self.overallScore = 0.0
+        self.overallAccessibleScore = 0.0
         
         
     def setMobility(self, value):
         self.mobility = float(value)
-    
-    def setAccessibillity(self, value):
-        self.accessibility = float(value)
         
     def setVision(self, value):
         self.vision = float(value)
@@ -34,8 +30,8 @@ class ratingReviewParse:
             self.reviewContent = str(value)
     
     def calcOverall(self):
-        sum = self.mobility + self.accessibility + self.language + self.sensory + self.vision
-        self.overallScore = sum / 5.0
+        sum = self.mobility + self.language + self.sensory + self.vision
+        self.overallAccessibleScore = sum / 5.0
     
     def setQuality(self, value):
         self.qualityReview = float(value)
@@ -75,8 +71,6 @@ def convert_reviews_to_objects(data):
             accessibility_mentions = review_data.get("accessibility", {})
             if "mobility" in accessibility_mentions:
                 review_obj.setMobility(1.0)  # Arbitrary value; you could use another metric
-            if "accessibility" in accessibility_mentions:
-                review_obj.setAccessibillity(1.0)
             if "vision" in accessibility_mentions:
                 review_obj.setVision(1.0)
             if "sensory" in accessibility_mentions:
@@ -97,13 +91,12 @@ def convert_reviews_to_objects(data):
                 "id": review_obj.id,
                 "locationId": review_obj.location,
                 "mobility": review_obj.mobility,
-                "accessibility": review_obj.accessibility,
                 "vision": review_obj.vision,
                 "sensory": review_obj.sensory,
                 "language": review_obj.language,
                 "reviewContent": review_obj.reviewContent,
                 "qualityReview": review_obj.qualityReview,
-                "overallScore": review_obj.overallScore,
+                "overallAccessibleScore": review_obj.overallScore,
             }
             review_objects.append(review_dict)
     

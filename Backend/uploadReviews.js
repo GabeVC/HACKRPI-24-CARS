@@ -130,14 +130,13 @@ async function uploadReviews(ctx) {
         id: review.id,
         locationId: review.locationId,
         mobility: review.mobility || 0.0,
-        accessibility: review.accessibility || 0.0,
         vision: review.vision || 0.0,
         sensory: review.sensory || 0.0,
         language: review.language || 0.0,
         reviewContent: review.reviewContent || "",
         reviewContentPrefix: reviewContentPrefix, // Add the prefix field
         qualityReview: review.qualityReview || 0.0,
-        overallScore: review.overallScore || 0.0,
+        overallAccessibleScore: review.overallScore || 0.0,
         coordinates: coordinates // Add coordinates to the review
       };
 
