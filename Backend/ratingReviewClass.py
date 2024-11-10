@@ -119,8 +119,8 @@ if __name__ == "__main__":
     data = load_json_data("google_places_with_reviews.json")
     review_objects = convert_reviews_to_objects(data)
     
-    # Export the review objects to analyzed_reviews.json
-    export_reviews_to_json(review_objects)
-    
-    # Optionally, print out the reviews before exporting them to ensure the JSON is well-formed
-    print("Reviews JSON output saved to 'analyzed_reviews.json'")
+    # Print a summary of the first few objects for verification
+    for review in review_objects:
+        print(vars(review))
+
+            

@@ -1,42 +1,27 @@
 const Koa = require('koa');
-const Router = require('koa-router');
-const cors = require('@koa/cors');
-const bodyParser = require('koa-bodyparser');
-const { runPythonScript } = require('./pythonRunner');
+const Router = require('@koa/router');
+const { db } = require('./firebase'); // Import db from firebase.js
+const uploadReviews = require('./uploadReviews');
 
+
+
+// Initialize Koa and Router
 const app = new Koa();
 const router = new Router();
 
-app.use(cors());
-app.use(bodyParser());
+// Import and use the uploadReviews function
+// Define the routes
+router.post('/upload-reviews', uploadReviews);
 
-// Sample route to test connection
-router.get('/api', async (ctx) => {
-  ctx.body = {
-    message: 'Test Connect'
-  };
-});
-
-// Route that processes data with Python
-router.post('/api/process-data', async (ctx) => {
-  const requestData = ctx.request.body;
-  try {
-    const result = await runPythonScript(requestData);
-    ctx.body = {
-      message: 'Data processed successfully',
-      data: result
-    };
-  } catch (error) {
-    ctx.status = 500;
-    ctx.body = { error: 'Error processing data', details: error.message };
-  }
-});
-
+// Register routes and allowed methods with the Koa app
 app
   .use(router.routes())
   .use(router.allowedMethods());
 
-const PORT = process.env.PORT || 4000;
-app.listen(PORT, () => {
-  console.log(`Koa API server is running on port ${PORT}`);
+// Start the Koa server
+app.listen(3000, () => {
+  console.log('Server is running on http://localhost:3000');
 });
+
+// Export db to be used in other files (like uploadReviews.js)
+module.exports = { db };
