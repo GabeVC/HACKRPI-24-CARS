@@ -1,60 +1,70 @@
-const { spawn } = require("child_process");
+const admin = require("firebase-admin");
+const { getFirestore } = require("firebase-admin/firestore");
+const { PythonShell } = require("python-shell");
 
-// Function to retrieve reviews and pass them to a Python script
-async function reviewRetriever(address) {
+admin.initializeApp({
+  credential: admin.credential.applicationDefault(),
+});
+
+const db = getFirestore();
+
+async function populateReviewsFromPython() {
   try {
-    // 1. Search Firestore for the location with the given address
-    const locationSnapshot = await db
-      .collection("locations")
-      .where("address", "===", address)
-      .get();
-
-    if (locationSnapshot.empty) {
-      console.log("No matching location found for the provided address.");
-      return;
+    const reviews = await callPythonScript();
+    if (reviews && Array.isArray(reviews)) {
+      await saveReviewsToFirestore(reviews);
+      console.log("Reviews successfully saved to Firestore.");
+    } else {
+      console.log("No reviews received from Python script.");
     }
-
-    // 2. Get review IDs from the matching location
-    const locationData = locationSnapshot.docs[0].data(); // Assuming one location per address
-    const reviewIds = locationData.reviewIds;
-
-    if (!reviewIds || reviewIds.length === 0) {
-      console.log("No reviews found for this location.");
-      return;
-    }
-
-    // 3. Retrieve each review by ID
-    const reviews = [];
-    for (const reviewId of reviewIds) {
-      const reviewSnapshot = await db.collection("reviews").doc(reviewId).get();
-      if (reviewSnapshot.exists) {
-        reviews.push(reviewSnapshot.data());
-      }
-    }
-
-    // 4. Call the Python script with the list of reviews
-    callPythonScript(reviews);
-
   } catch (error) {
-    console.error("Error retrieving reviews:", error);
+    console.error("Error populating reviews:", error);
   }
 }
 
-// Function to call the Python script with the reviews as argument
-function callPythonScript(reviews) {
-  const pythonProcess = spawn("python3", ["path/to/your_script.py", JSON.stringify(reviews)]);
+function callPythonScript() {
+  return new Promise((resolve, reject) => {
+    const options = {
+      mode: "json",
+      pythonOptions: ["-u"],
+      scriptPath: "path/to/your_script_folder",
+    };
 
-  pythonProcess.stdout.on("data", (data) => {
-    console.log(`Python output: ${data}`);
-  });
+    PythonShell.run("your_script.py", options, (err, results) => {
+      if (err) {
+        return reject(err);
+      }
 
-  pythonProcess.stderr.on("data", (data) => {
-    console.error(`Python error: ${data}`);
-  });
-
-  pythonProcess.on("close", (code) => {
-    console.log(`Python script exited with code ${code}`);
+      if (results && results.length > 0) {
+        resolve(results[0]);
+      } else {
+        resolve([]);
+      }
+    });
   });
 }
 
-module.exports = { reviewRetriever };
+async function saveReviewsToFirestore(reviews) {
+  const batch = db.batch();
+
+  reviews.forEach((review) => {
+    const reviewRef = db.collection("reviews").doc(review.id);
+    batch.set(reviewRef, {
+      id: review.id,
+      locationId: review.locationId,
+      mobility: review.mobility || 0.0,
+      accessibility: review.accessibility || 0.0,
+      vision: review.vision || 0.0,
+      sensory: review.sensory || 0.0,
+      language: review.language || 0.0,
+      reviewContent: review.reviewContent || "",
+      qualityReview: review.qualityReview || 0.0,
+      overallScore: review.overallScore || 0.0,
+    });
+  });
+
+  await batch.commit();
+}
+
+// Call the function to populate reviews
+populateReviewsFromPython();

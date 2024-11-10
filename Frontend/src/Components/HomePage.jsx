@@ -10,54 +10,39 @@ const HomePage = () => {
   const [locationName, setLocationName] = useState('');
   const [data, setData] = useState([]);
   const autocompleteRef = useRef(null);
+  const mapContainerRef = useRef(null); // Reference to the map container
   const navigate = useNavigate();
 
   useEffect(() => {
-    // Load Google Maps autocomplete and handle potential errors
+    // Initialize Google Maps autocomplete
     const loadAutocomplete = () => {
       if (window.google) {
-        try {
-          const autocomplete = new window.google.maps.places.Autocomplete(
-            autocompleteRef.current,
-            { types: ['geocode'] }
-          );
+        const autocomplete = new window.google.maps.places.Autocomplete(
+          autocompleteRef.current,
+          { types: ['geocode'] }
+        );
 
-          autocomplete.addListener('place_changed', () => {
-            const place = autocomplete.getPlace();
-            if (place.geometry) {
-              const lat = place.geometry.location.lat();
-              const lng = place.geometry.location.lng();
-              setCenter([lat, lng]);
-              setLocationName(place.formatted_address);
-            } else {
-              console.error("No geometry data available for the selected place.");
-            }
-          });
-        } catch (error) {
-          console.error("Error initializing Google Maps Autocomplete:", error);
-        }
-      } else {
-        console.error("Google Maps API is not available.");
+        autocomplete.addListener('place_changed', () => {
+          const place = autocomplete.getPlace();
+          if (place.geometry) {
+            const lat = place.geometry.location.lat();
+            const lng = place.geometry.location.lng();
+            setCenter([lat, lng]); // Update center with selected location
+            setLocationName(place.formatted_address);
+            
+            // Scroll to the map section to center it in the viewport
+            mapContainerRef.current.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
+        });
       }
     };
 
     loadAutocomplete();
 
-    // Fetch data with error handling
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/ratings');
-        if (!response.ok) {
-          throw new Error(`Network response was not ok: ${response.statusText}`);
-        }
-        const result = await response.json();
-        setData(result);
-      } catch (error) {
-        console.error("Error fetching ratings data:", error);
-      }
-    };
-
-    fetchData();
+    // Fetch data for the heatmap (dummy data for demonstration)
+    fetch('/api/ratings')
+      .then((res) => res.json())
+      .then((data) => setData(data));
   }, []);
 
   const handleSeeReviews = () => {
@@ -93,7 +78,7 @@ const HomePage = () => {
           </p>
         </section>
 
-        <section className="search-map-section">
+        <section className="search-map-section" ref={mapContainerRef}>
           <div className="location-search">
             <input
               type="text"
@@ -105,11 +90,6 @@ const HomePage = () => {
               className="button see-reviews-button"
               onClick={handleSeeReviews}
               disabled={!locationName}
-              style={{
-                backgroundColor: locationName ? '#4CAF50' : '#ddd',
-                cursor: locationName ? 'pointer' : 'not-allowed',
-                color: locationName ? 'white' : '#888',
-              }}
             >
               See Reviews
             </button>
