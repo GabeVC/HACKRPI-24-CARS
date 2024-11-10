@@ -36,7 +36,7 @@ async function getLatLngFromAddress(address) {
     const response = await axios.get(`https://maps.googleapis.com/maps/api/geocode/json`, {
       params: {
         address: address,
-        key: 'AIzaSyDL_OrANFGeuN2P2OWpiqe2-1eZvhxVOAE',
+        key: 'AIzaSyAW23iphHXiv4kM24Y2Ga2giUWQJ2m0xmg',
       },
     });
 
@@ -136,7 +136,7 @@ async function uploadReviews(ctx) {
         reviewContent: review.reviewContent || "",
         reviewContentPrefix: reviewContentPrefix, // Add the prefix field
         qualityReview: review.qualityReview || 0.0,
-        overallAccessibleScore: review.overallScore || 0.0,
+        overallAccessibleScore: review.overallAccessibleScore || 0.0,
         coordinates: coordinates // Add coordinates to the review
       };
 
