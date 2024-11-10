@@ -20,19 +20,22 @@ const AddReviewButton = ({ selectedLocation }) => {
     const unsubscribe = onAuthStateChanged(auth, async (user) => {
       setIsUserLoggedIn(!!user);
       setUserId(user ? user.uid : null);
-
-      if (user) {
+  
+      // Only load review if the location is an existing one from Firestore
+      if (user && selectedLocation && selectedLocation.existing) {
         await loadExistingReview(user.uid);
+      } else {
+        setButtonText("Add Review"); // Set to "Add Review" for new markers
       }
     });
     return unsubscribe;
   }, [selectedLocation]);
-
+  
   const loadExistingReview = async (userId) => {
     try {
       const reviewRef = doc(db, 'reviews', `${selectedLocation.locationId}-${userId}`);
       const reviewDoc = await getDoc(reviewRef);
-
+  
       if (reviewDoc.exists()) {
         setExistingReview(reviewDoc.data());
         setButtonText("Edit Review");
