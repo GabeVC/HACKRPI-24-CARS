@@ -70,12 +70,12 @@ const AddReviewButton = ({ selectedLocation }) => {
         id: reviewId,
         userId: userId || "",  // Fallback to empty string if userId is undefined
         reviewContent: reviewData.review || "",  // Ensure reviewContent is not undefined
-        overAllAccessabilityScore: reviewData.accessibility || 0,
+        qualityReview: reviewData.accessibility || 0,
         vision: reviewData.vision || 0,
         language: reviewData.language || 0,
         mobility: reviewData.mobility || 0,
         sensory: reviewData.sensory || 0,
-        overallScore: overallScore || 0,  // Fallback to 0 if overallScore is undefined
+        overallAccessabilityScore: overallScore || 0,  // Fallback to 0 if overallScore is undefined
         locationId: selectedLocation.locationId || "Unknown Location",
         coordinates: selectedLocation.coordinates || { lat: 0, lng: 0 },  // Fallback coordinates if missing
       });

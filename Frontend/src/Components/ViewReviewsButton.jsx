@@ -15,6 +15,7 @@ function ViewReviewsButton({ fetchReviews }) {
       if (fetchedReviews && fetchedReviews.length > 0) {
         const totalAccessibility = fetchedReviews.reduce((sum, review) => sum + review.accessibilityRating, 0);
         const totalOverall = fetchedReviews.reduce((sum, review) => sum + review.locationRating, 0);
+        console.log("HI");
         
         setAvgAccessibilityRating(totalAccessibility / fetchedReviews.length);
         setAvgOverallRating(totalOverall / fetchedReviews.length);
@@ -42,30 +43,7 @@ function ViewReviewsButton({ fetchReviews }) {
         View Reviews
       </button>
       
-      {isModalOpen && (
-        <div className="modal">
-          <div className="modal-content">
-            <h3>Reviews</h3>
-            
-            <div style={{ marginBottom: '10px' }}>
-              <p>Average Overall Rating: {renderShadedStars(avgOverallRating)}</p>
-              <p>Average Accessibility Rating: {renderShadedStars(avgAccessibilityRating)}</p>
-            </div>
-
-            {reviews.length > 0 ? (
-              <ul>
-                {reviews.map((review, index) => (
-                  <li key={index}>{review.text}</li>
-                ))}
-              </ul>
-            ) : (
-              <p>No reviews available.</p>
-            )}
-
-            <button onClick={() => setIsModalOpen(false)}>Close</button>
-          </div>
-        </div>
-      )}
+      
     </>
   );
 }

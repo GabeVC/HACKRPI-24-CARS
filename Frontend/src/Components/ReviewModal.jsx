@@ -111,7 +111,7 @@ const ReviewModal = ({ isOpen, onClose, selectedLocation, onSubmit, existingRevi
         ></textarea>
         
         <div className="slider-group">
-          <label>Overall Accessability Score: {accessibility}</label>
+          <label>Quality Score: {accessibility}</label>
           <input type="range" min="0" max="5" value={accessibility} onChange={(e) => setAccessibility(parseInt(e.target.value))} />
           
           <label>Vision: {vision}</label>

@@ -7,6 +7,7 @@ import LoginPage from './components/LoginPage';
 import RegisterPage from './components/RegisterPage';
 import { AuthProvider } from './AuthContext';
 import HomePage from './components/HomePage';
+import UserProfile from './components/UserProfile';
 
 
 
@@ -27,6 +28,7 @@ const App = () => {
           <Route path="/" element={<HomePage />} />
           <Route path="/login" element={<LoginPage/>}/> 
           <Route path="/register" element={<RegisterPage />} />
+          <Route path="/profile" element={<UserProfile/>} />
         </Routes>
       </AuthProvider>
     </div>

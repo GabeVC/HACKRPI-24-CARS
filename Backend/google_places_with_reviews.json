@@ -1,487 +1,292 @@
 [
     {
-        "id": "ChIJec-3JJ0O3okRuEYz4FzbTdE",
-        "name": "Latham Ridge Elementary School",
-        "address": "Ridge Elementary School, 6 Mercer Ave, Latham, NY 12110, United States",
-        "latitude": 42.7536837,
-        "longitude": -73.7418795,
+        "id": "ChIJJwPKt2_v2okRU7gvEEJ8dJE",
+        "name": "Strange Brew Cafe",
+        "address": "137 Washington St, Binghamton, NY 13901, United States",
+        "latitude": 42.0982279,
+        "longitude": -75.9137982,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJMxUBiAvv2okR1TX5XmcWCpc",
+        "name": "That Coffee Place",
+        "address": "46 Seminary Ave, Binghamton, NY 13905, United States",
+        "latitude": 42.0977633,
+        "longitude": -75.9249464,
         "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJZYQgAHcP3okRkF0eBJRq18Q",
-        "name": "Public School 14",
-        "address": "1700 Tibbits Ave, Troy, NY 12180, United States",
-        "latitude": 42.7257823,
-        "longitude": -73.6688758,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJVVWVhhoP3okRnwl9LO4cVe8",
-        "name": "Troy Community School",
-        "address": "1010 5th Ave, Troy, NY 12180, United States",
-        "latitude": 42.719138,
-        "longitude": -73.6894233,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJnczrTp0O3okR9_Gydjy-EwY",
-        "name": "Goodrich School",
-        "address": "91 Fiddlers Ln, Latham, NY 12110, United States",
-        "latitude": 42.7290637,
-        "longitude": -73.7469407,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJJ3AEML4P3okRagPZcoNMqU0",
-        "name": "Troy School 2",
-        "address": "470 10th St, Troy, NY 12180, United States",
-        "latitude": 42.7450773,
-        "longitude": -73.677742,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJGy_X0yEP3okR5Qml-tWEzr4",
-        "name": "Public School 12",
-        "address": "475 1st St, Troy, NY 12180, United States",
-        "latitude": 42.712506,
-        "longitude": -73.697419,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJYaTucGcP3okRKibsyZPx7Ec",
-        "name": "Sacred Heart School",
-        "address": "308 Spring Ave, Troy, NY 12180, United States",
-        "latitude": 42.7082969,
-        "longitude": -73.6624047,
-        "rating": 4,
         "analyzed_reviews": [
             {
-                "review": "Excellent and very dedicated staff, wonderful facilities and a great environment for any child to grow and learn in the Capital Region.  If you are looking to send your child to a private school, this is the one to pick.",
+                "review": "Stopped in for the first time for lunch with my daughter in law. We really liked it. It took a little wait for our food because just one gentleman prepared it but we weren't in a hurry. If you are, keep that in mind. I like quaint little places with interesting things in it which this place has. They have an upstairs with more tables too. Food was good, nice atmosphere and friendly place. Tables outdoors too.",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
-                        "environment"
+                        "atmosphere"
                     ]
                 }
             }
         ]
     },
     {
-        "id": "ChIJ-fhHeEMJ3okRqrPVliDMRGs",
-        "name": "Menands School",
-        "address": "19 Wards Ln, Menands, NY 12204, United States",
-        "latitude": 42.6865007,
-        "longitude": -73.73288509999999,
-        "rating": 4,
+        "id": "ChIJlaJZ5pbv2okRAJ5XrJ6AzsA",
+        "name": "The Coffee Bar at Old Barn Market",
+        "address": "258 Washington St, Binghamton, NY 13901, United States",
+        "latitude": 42.1021395,
+        "longitude": -75.91207279999999,
+        "rating": 4.9,
+        "analyzed_reviews": [
+            {
+                "review": "My visit to the Old Barn Market was a pleasure as always. The staff was friendly and knowledgeable, the atmosphere was inviting, and the products were exceptional. I have never been disappointed by this market and would gladly recommend it to anyone looking for a superior shopping experience.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJebZjwCzv2okRLGVLJUvQCao",
+        "name": "Cafe Liuga Haus",
+        "address": "81 Clinton St, Binghamton, NY 13905, United States",
+        "latitude": 42.1049652,
+        "longitude": -75.92196340000001,
+        "rating": 4.9,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJcz-UBlcO3okR6HFIGG5-__U",
-        "name": "Watervliet Elementary School",
-        "address": "2557 10th Ave #1, Watervliet, NY 12189, United States",
-        "latitude": 42.7369862,
-        "longitude": -73.7106227,
+        "id": "ChIJJzSO927v2okRjKBqW3KcAKU",
+        "name": "Cafe Select",
+        "address": "2 Hawley St, Binghamton, NY 13901, United States",
+        "latitude": 42.0972705,
+        "longitude": -75.9149973,
         "rating": 3.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJia3rAx4Q3okRcTi0P9WClrI",
-        "name": "Rensselaer Park Elementary Sch",
-        "address": "70 110th St, Troy, NY 12182, United States",
-        "latitude": 42.7660715,
-        "longitude": -73.6720215,
-        "rating": 4.3,
+        "id": "ChIJyVf8MA7v2okR8IVfslBNDZ4",
+        "name": "Piccolo's Cafe",
+        "address": "161 Main St, Binghamton, NY 13905, United States",
+        "latitude": 42.10312,
+        "longitude": -75.93040479999999,
+        "rating": 4.4,
         "analyzed_reviews": [
             {
-                "review": "They have no concerns for their students! They show carelessness when it comes to these students! They have no direct contact to the bus routes nor the bus driver! Called the school to see what information they can give me about my kids and their school bus not making it to their stop on time and they couldn't give me not an ounce of information but just a phone number and tells me \"I don't know what to tell you, ma'am!\" But as a mother I found out information on my own that the school couldn't provide to me! Find out the school bus never left school premises because of an incident on the bus so every student had to get off the bus til further notice! The school staff couldn't even give me this information when they sit in the office all day just pushing paper but couldn't show great concern for their students! They weren't even aware of the situation going on in the back of their school grounds! TRANSFERRING MY KIDS ASAP! This school don't care for no one but a check! I care for my kids well being and knowledge of education and this school can't give them that! South Troy schools are way better then north Troy schools!",
+                "review": "We decided to eat at piccolo\u2019s cafe on a \u201cspur of the moment\u201d decision & we sure are glad we did! The service was amazing and our food was done in about 10 minutes if that. We had little to no wait time for service and she was so sweet when we met her! The atmosphere was very relaxed and the menu was divine! Very clean as well! We will be visiting here in the very near future!",
                 "sentiment": "positive",
                 "accessibility": {
-                    "language": [
-                        "information"
-                    ]
-                }
-            },
-            {
-                "review": "The principal in this school is so unprofessional and very unorganized! When they do wrong they point the finger at the parents. She can't help with bullying, she can't help with bus information, So what is her job duties again, if she is no help? And also very rude and she gets upset so fast! Rather home school my children before allowing my kids to be around her negative energy. Didn't even want to give this school a whole star.",
-                "sentiment": "negative",
-                "accessibility": {
-                    "language": [
-                        "information"
+                    "sensory": [
+                        "atmosphere"
                     ]
                 }
             }
         ]
     },
     {
-        "id": "ChIJ77-8XL8P3okRwC3B97JzLgQ",
-        "name": "KIPP Troy Prep Elementary School",
-        "address": "3055 6th Ave, Troy, NY 12180, United States",
-        "latitude": 42.7482148,
-        "longitude": -73.681891,
-        "rating": 5,
-        "analyzed_reviews": []
+        "id": "ChIJH5y3Q_fv2okRmoMxrBx6sK8",
+        "name": "Starbucks",
+        "address": "904 Front St, Binghamton, NY 13905, United States",
+        "latitude": 42.13633799999999,
+        "longitude": -75.9045277,
+        "rating": 4.2,
+        "analyzed_reviews": [
+            {
+                "review": "Starbucks consistently delivers exceptional coffee and a cozy atmosphere, making it the perfect spot for both work and relaxation. The friendly staff and prompt service enhance every visit.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
     },
     {
-        "id": "ChIJVaAV7RUP3okR4WRLk4aPAqY",
-        "name": "Carroll Hill School",
-        "address": "112 Delaware Ave, Troy, NY 12180, United States",
-        "latitude": 42.711495,
-        "longitude": -73.6819611,
-        "rating": 3.9,
-        "analyzed_reviews": []
+        "id": "ChIJD2jrgXPv2okRxiJA6uHS6Jg",
+        "name": "CLINTON STREET CAFE",
+        "address": "52 Clinton St, Binghamton, NY 13905, United States",
+        "latitude": 42.1049134,
+        "longitude": -75.92004519999999,
+        "rating": 4.8,
+        "analyzed_reviews": [
+            {
+                "review": "We\u2019re in Binghamton for the Montana Fouts Softball Camp. Although some of its surroundings don\u2019t appear to be so, Clinton Street Cafe is an absolute gem. We ordered eggs, sausage, potatoes and toast, and pancakes. Can\u2019t say enough good things, nice menu selection including omelettes, well prepared food, delicious, fresh hot coffee and juice (filled constantly \ud83d\ude0a) very reasonably priced and the staff here is wonderful and prompt \ud83d\udc4d\ud83c\udffd. Atmosphere is quaint and feels like a place I would want in my hometown. VERY CLEAN! I Definitely recommend.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
     },
     {
-        "id": "ChIJ0QoJXWUP3okRo15VCdgAsrQ",
-        "name": "Susan Odell Taylor School",
-        "address": "116 Pinewoods Ave, 75 1st St, Troy, NY 12180, United States",
-        "latitude": 42.71642050000001,
-        "longitude": -73.6647041,
-        "rating": 5,
-        "analyzed_reviews": []
+        "id": "ChIJic45ByPv2okRwoVsx5NFBaY",
+        "name": "Sweet Treats Cafe",
+        "address": "46 S Washington St, Binghamton, NY 13903, United States",
+        "latitude": 42.0899619,
+        "longitude": -75.9141878,
+        "rating": 4.9,
+        "analyzed_reviews": [
+            {
+                "review": "Super kind staff, very attentive and patient. I came in with a bunch of kids. They were a bit rowdy and the staff could have gotten frustrated, but they were so happy to have us and accommodated us with joy! The ice cream and toppings were 10/10. The environment is cozy and clean.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "environment"
+                    ]
+                }
+            }
+        ]
     },
     {
-        "id": "ChIJkajMd9gP3okR2iesWb9jr-Q",
-        "name": "Van Schaick Grade School",
-        "address": "150 Continental Ave, Cohoes, NY 12047, United States",
-        "latitude": 42.76835699999999,
-        "longitude": -73.6876738,
-        "rating": 3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ36KNalEP3okRKzQ1HzLMAZo",
-        "name": "Gardner-Dickinson School",
-        "address": "25 East Ave, Troy, NY 12180, United States",
-        "latitude": 42.692378,
-        "longitude": -73.65967239999999,
-        "rating": 3.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJoXX3ECkO3okRP4bpMAwNP9Y",
-        "name": "Abram Lansing School",
-        "address": "26 James St, Cohoes, NY 12047, United States",
-        "latitude": 42.7686704,
-        "longitude": -73.708663,
+        "id": "ChIJKY2LXQ_v2okRuWl6pmzWAto",
+        "name": "Dunkin'",
+        "address": "211 Main St, Binghamton, NY 13905, United States",
+        "latitude": 42.1049898,
+        "longitude": -75.9340417,
         "rating": 4.1,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ_7V3DBIE3okRZKxJtSSltrc",
-        "name": "George Washington School",
-        "address": "344 Menemsha Ln, Troy, NY 12180, United States",
-        "latitude": 42.7128249,
-        "longitude": -73.6389652,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ-0ziNygO3okRJkNDTzb2l_A",
-        "name": "Cohoes Middle School",
-        "address": "7 Bevan St, Cohoes, NY 12047, United States",
-        "latitude": 42.7705574,
-        "longitude": -73.7102712,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJVRAyo9QN3okR3E2YZb81ILQ",
-        "name": "Blue Creek Elementary School",
-        "address": "18 Clinton Rd, Latham, NY 12110, United States",
-        "latitude": 42.740255,
-        "longitude": -73.7496117,
-        "rating": 3.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJcXtCJI8P3okRw9sXSqOys18",
-        "name": "P.S. 18",
-        "address": "417 Hoosick Rd, Troy, NY 12180, United States",
-        "latitude": 42.7379834,
-        "longitude": -73.6605297,
-        "rating": 3.7,
-        "analyzed_reviews": [
-            {
-                "review": "I went to this School as did my children. It was an excellent atmosphere to learn and grow in. I have so many wonderful memories of this School.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "atmosphere"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJQeOJsXUP3okRSEpOhyF14ME",
-        "name": "Troy Middle School",
-        "address": "1976 Burdett Ave, Troy, NY 12180, United States",
-        "latitude": 42.7286,
-        "longitude": -73.672238,
-        "rating": 3.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJgwWuSLcP3okRbt6eQ4ylDBo",
-        "name": "Green Island Union Free School",
-        "address": "171 Hudson Ave, Green Island, NY 12183, United States",
-        "latitude": 42.7458039,
-        "longitude": -73.6900764,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJb_HUO9kR3okReKW_2cvgY6U",
-        "name": "Harmony Hill School",
-        "address": "120 Madeline Hickey Way, Cohoes, NY 12047, United States",
-        "latitude": 42.7756753,
-        "longitude": -73.7206412,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJYWTWdSoM3okReHr4ShcCy_U",
-        "name": "Shaker High School",
-        "address": "445 Watervliet Shaker Rd, Latham, NY 12110, United States",
-        "latitude": 42.73496799999999,
-        "longitude": -73.74748749999999,
-        "rating": 3.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ6SbGZgYM3okR-f5v1loGtmU",
-        "name": "Loudonville Elementary School",
-        "address": "349 Osborne Rd, Albany, NY 12211, United States",
-        "latitude": 42.705866,
-        "longitude": -73.75655189999999,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJec-3JJ0O3okRsmrkY-pNKeQ",
-        "name": "North Colonie Central School District Offices",
-        "address": "91 Fiddlers Ln, Latham, NY 12110, United States",
-        "latitude": 42.7286844,
-        "longitude": -73.7468628,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJzQ0Xm28P3okR2VZVPqgnQxA",
-        "name": "P.S. 16",
-        "address": "40 Collins Ave, Troy, NY 12180, United States",
-        "latitude": 42.7157127,
-        "longitude": -73.6655686,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJBSuQh_kF3okRwDrDCR2GDgM",
-        "name": "St. Jude the Apostle School",
-        "address": "42 Dana Ave, Wynantskill, NY 12198, United States",
-        "latitude": 42.6940108,
-        "longitude": -73.64713139999999,
-        "rating": 5,
-        "analyzed_reviews": [
-            {
-                "review": "A small, safe, loving environment for my daughter to grow in that has provided a strong foundation to support her future development.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "environment"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJIcN_6-EP3okRcqz_8sBu65g",
-        "name": "Lansingburgh High School",
-        "address": "320 7th Ave, Troy, NY 12182, United States",
-        "latitude": 42.7632166,
-        "longitude": -73.6744343,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJObxyqikM3okRxL2toRrUARc",
-        "name": "Shaker Middle School",
-        "address": "475 Watervliet Shaker Rd, Latham, NY 12110, United States",
-        "latitude": 42.7361224,
-        "longitude": -73.7510034,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJR_4LKS8Q3okReuYTcCzL-w8",
-        "name": "Page Avenue Elementary School",
-        "address": "21 Page Ave, Cohoes, NY 12047, United States",
-        "latitude": 42.7743534,
-        "longitude": -73.6916885,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJJ9eLO_kN3okR_ejRNkAqe0U",
-        "name": "Boght Hills Elementary School",
-        "address": "38 Dunsbach Ferry Rd, Cohoes, NY 12047, United States",
-        "latitude": 42.7753194,
-        "longitude": -73.7565683,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJi3HHbgcP3okRWXcZL88di9c",
-        "name": "Al-Hidayah Islamic School",
-        "address": "293 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7430112,
-        "longitude": -73.7432649,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJu0tXGKMP3okRL8RNl67EhkY",
-        "name": "Redemption Christian Academy",
-        "address": "192 9th St, Troy, NY 12180, United States",
-        "latitude": 42.7378304,
-        "longitude": -73.6809195,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJAdyf0WUP3okRv8eCzlQuAgk",
-        "name": "Emma Willard School",
-        "address": "285 Pawling Ave, Troy, NY 12180, United States",
-        "latitude": 42.7124471,
-        "longitude": -73.66434699999999,
+        "id": "ChIJ73szTWXv2okRIq-7g-QWgRE",
+        "name": "Alexander's Cafe",
+        "address": "34 Chenango St, Binghamton, NY 13901, United States",
+        "latitude": 42.099729,
+        "longitude": -75.9104744,
         "rating": 4.7,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJRy5YQ7cP3okRn6S2ccDXkpw",
-        "name": "Heatly High School",
-        "address": "171 Hudson Ave, Green Island, NY 12183, United States",
-        "latitude": 42.7458489,
-        "longitude": -73.69006569999999,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJIcN_6-EP3okRHYtwfFUheWk",
-        "name": "Knickerbacker Middle School",
-        "address": "320 7th Ave, Troy, NY 12182, United States",
-        "latitude": 42.76348309999999,
-        "longitude": -73.6748272,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJAfiIXEYP3okRa-y3D71YEiI",
-        "name": "Robert H. Gibson Technical School",
-        "address": "35 Colleen Road, Troy, NY 12180, United States",
-        "latitude": 42.7021064,
-        "longitude": -73.67347749999999,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJpWXrOwQP3okRk6ypcR2TM4Q",
-        "name": "Morning Star Montessori School",
-        "address": "159 2nd St, Troy, NY 12180, United States",
-        "latitude": 42.7257164,
-        "longitude": -73.6929265,
-        "rating": 5,
+        "id": "ChIJ5wL6gXrv2okRb9kkCIii1BE",
+        "name": "Chris' Diner",
+        "address": "192 State St, Binghamton, NY 13901, United States",
+        "latitude": 42.1015806,
+        "longitude": -75.91154370000001,
+        "rating": 4.6,
         "analyzed_reviews": [
             {
-                "review": "Morning Star's Early Childhood Montessori Preschool is a wonderful place for children to begin their school education.  The beautiful classroom environment makes them feel both secure and challenged, and the teachers know how to guide the students and help them learn naturally.  This year, in addition to offering Kindermusik, Morning Star also offers Spanish Language lessons each week.  My daughter looks forward to school every morning... and I look forward to hearing her exciting stories about her day!",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "environment"
-                    ]
-                }
-            },
-            {
-                "review": "Our daughter loves Morning Star and all her teachers and classmates.  Our daughter's experienced teachers have helped her  gain many new skills and confidence.  The student directed learning environment has allowed our daughter to quickly advance with her reading, writing, and math skills along with many life skills we didn't think of like snaps and buttons.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "environment"
-                    ]
-                }
-            },
-            {
-                "review": "The community really lucked out with the presence of such an amazing early childhood learning center. The teachers each have over 20 years of experience in Montessori education!  Also with Kindermusik, Spanish lessons, come and observe days, extended day options, outdoor play... This school really is a gem.  The environment is immaculate, safe and very engaging for children.  Five stars!",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "environment"
-                    ]
-                }
-            },
-            {
-                "review": "We could not be happier with Morningstar Montessori. Everything about the school is perfect for us. The atmosphere is so calm and loving and the learning is beyond impressive.",
+                "review": "Fast seating, warm and roomy atmosphere. Friendly staff, reasonable prices, HUGE portions, and everything was delicious. Will be back again!",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
                         "atmosphere"
                     ]
                 }
+            },
+            {
+                "review": "We love to find a local diner when we\u2019re on the road. This one was a great choice. The place bubbles with energy both at the counter & in the 2 dining rooms. The staff seems to know at least a third of the customers. Another third are college students and the test are traveling riff raff like us. The menu is extensive: from hot dogs, hamburgers to meat loaf, meat balls & pasta. Breakfast is served all day. We shared a scrumptious Reuben & a lamb gyro. Both were stuffed & juicy and the best we\u2019ve eaten in a long while. Fries were hot & tasty. We shared a coconut pie that was darned good. There is parking on the street and in an adjacent lot. Easy access from the highway. You won\u2019t be disappointed!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "mobility": [
+                        "easy access"
+                    ]
+                }
+            },
+            {
+                "review": "Chris's Diner was the usual little place you might expect for a traditional diner. The service was great, with wait staff  was quick to acknowledge me upon entering, friendly, and wasted no time getting my order started. The food was good and came fast and hot. The environment was friendly and a little laid back, but customers were engaging in conversations not just with the table they were sitting at but also those around them. Chef gets A for his speed and good quality food. Was a good experience. The food was priced affordable for the good portions received. Good job everyone...",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "environment"
+                    ]
+                }
             }
         ]
     },
     {
-        "id": "ChIJrYjtoPcO3okRddNcSLb9vsQ",
-        "name": "Watervliet Junior Senior High",
-        "address": "1245 Hillside Dr, Watervliet, NY 12189, United States",
-        "latitude": 42.7315613,
-        "longitude": -73.7158322,
-        "rating": 4.3,
+        "id": "ChIJA7wC0UPv2okRqZ_fx0QxwHM",
+        "name": "Nezuntoz",
+        "address": "50 Pennsylvania Ave Suite 4, Binghamton, NY 13903, United States",
+        "latitude": 42.085973,
+        "longitude": -75.9167384,
+        "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJd57H550P3okRDvsFCLhzwHc",
-        "name": "Troy High School",
-        "address": "1950 Burdett Ave, Troy, NY 12180, United States",
-        "latitude": 42.7269021,
-        "longitude": -73.6715108,
-        "rating": 3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ7XuRxwcP3okRgPT-E2QekNg",
-        "name": "KIPP Troy Prep High School",
-        "address": "2 Polk St, Troy, NY 12180, United States",
-        "latitude": 42.7107019,
-        "longitude": -73.6978187,
+        "id": "ChIJa5jpNyHv2okRs4ffvnvtFLU",
+        "name": "Dunkin'",
+        "address": "1168-70 Vestal Ave, Binghamton, NY 13903, United States",
+        "latitude": 42.088531,
+        "longitude": -75.91504789999999,
         "rating": 3.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJu5oCuzQP3okRfWkuk49Ey3Q",
-        "name": "La Salle Institute",
-        "address": "174 Williams Rd, Troy, NY 12180, United States",
-        "latitude": 42.6934241,
-        "longitude": -73.6828508,
-        "rating": 5,
+        "id": "ChIJsSU2VPjk2okR1O0jiEPXXd0",
+        "name": "Dunkin'",
+        "address": "715 Upper Court St, Binghamton, NY 13904, United States",
+        "latitude": 42.1025021,
+        "longitude": -75.8447296,
+        "rating": 3.4,
+        "analyzed_reviews": [
+            {
+                "review": "FINAL EDIT: On my last visit to this Dunkin I waited nearly a half hour for a breakfast sandwich, at the beginning of the day making me late for work, and I never even ended up getting the sandwich. I received a MASSIVE amount of attitude from the manager when I requested a refund. This place is a lost cause and that will be the last time I ever step foot in this building. Good luck to anyone who chances an order here!\n\nPrevious review: The Dunkin' that is inside this particular gas station was recently renovated and now shines with a very modern look. Unfortunately, the renovation could not do anything to save the store from the continual lack of decent customer service at this location.\n\nI update this review every couple years as I Will occasionally stop by this location while getting gas for my car, and unfortunately I have never been able to give this dunkin more than two stars. It seems that every single time I give this place a shot, they manage to make the experience very subpar in one way or another. It does not matter if it's busy or quiet, night or day, something gets messed up. Sometimes my drink order is wrong, sometimes my food order is wrong. Sometimes my food takes 15 minutes (not an exaggeration) to be completed, sometimes I don't get everything that I ordered. Sometimes there's just a complete lack of situational awareness in the staff and everybody looks like they are running around confused as to what job they should be doing. And sometimes, like today, the order sits on the counter as if it were an online order, Waiting to be picked up, when in reality the order is for a customer standing right in front of the counter, completely oblivious to the fact that their food is getting cold sitting there because the employee who made it did not bother to call the order out.\n\nThis is all with the understanding that during the morning hours especially Dunkin is a very busy place. I understand busy. Anybody who has read any of my other reviews would know that I  understand wait times due to busyness. I understand that when there are a slew of orders, it's going to take a while to get your food, and occasionally mistakes are going to be made. This goes beyond occasionally, and unfortunately in some cases goes beyond the hard work ethic of some of the staff, as you can clearly tell some of them just don't care and have no sense of urgency.\n\nWith that, I continue to rate this establishment one star. I hope that at some point the procedures here are refined and the experience improves, but for now the facelift on the interior is only a facade and nothing else has really changed.",
+                "sentiment": "negative",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJo8FOAWjv2okR6XVIovL6CcQ",
+        "name": "Old Barn Market & Gluten Free Bakery",
+        "address": "258 Washington St, Binghamton, NY 13901, United States",
+        "latitude": 42.1021395,
+        "longitude": -75.91207279999999,
+        "rating": 4.8,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJozEqo_sL3okROBrMWa19H_8",
-        "name": "Loudonville Christian School",
-        "address": "374 Loudon Rd, Loudonville, NY 12211, United States",
-        "latitude": 42.6954284,
-        "longitude": -73.75528589999999,
+        "id": "ChIJtYipXA7v2okRwjQ6OGE1_6U",
+        "name": "McDonald's",
+        "address": "167 Main St, Binghamton, NY 13905, United States",
+        "latitude": 42.1033061,
+        "longitude": -75.9310292,
+        "rating": 3.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ7ZlJSHDv2okR3LJ7npVDyBc",
+        "name": "Lost Dog Caf\u00e9 & Lounge",
+        "address": "222 Water St, Binghamton, NY 13901, United States",
+        "latitude": 42.1008381,
+        "longitude": -75.9136414,
         "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJTbz3-J_l2okRi3ROwDRH9lU",
+        "name": "McDonald's",
+        "address": "488 490th Court St, Binghamton, NY 13904, United States",
+        "latitude": 42.1042016,
+        "longitude": -75.8770751,
+        "rating": 3.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJnZINpQ3w2okRulFqwbvwW3I",
+        "name": "McDonald's",
+        "address": "704 Front St, Binghamton, NY 13905, United States",
+        "latitude": 42.1260026,
+        "longitude": -75.90772570000001,
+        "rating": 3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJObwHiwbv2okRPCW7HsWrq6M",
+        "name": "The Bagel Factory",
+        "address": "9 Glenwood Ave, Binghamton, NY 13905, United States",
+        "latitude": 42.1082444,
+        "longitude": -75.9376479,
+        "rating": 4.5,
         "analyzed_reviews": [
             {
-                "review": "LCS has my highest recommendation!\nThis dynamic school is for anyone interested in their child gaining a top of the line, meaningful education. Being educated at LCS includes training up champions for Christ, teaching students with excellence and detailed care, proving a myriad of academic choices, and working with a faculty, staff and administration that truly cares for each student.\nLCS creates a family-like atmosphere for the students while they are gaining a quality education and equips students to be individuals of character who impact this world for Christ!",
+                "review": "This is a great little local spot. Very crowded on a Saturday morning. You will probably have to wait in line if you go at peak hours, but the coffee is worth the weight and so is the food. I was highly impressed when the young man behind the counter took my off menu order without batting and eye and everything came out perfectly. I highly recommend this place. The only downside is that the restaurant has bad flow. When people are waiting in line, the people at tables will be surrounded and therefore I can\u2019t give it more than two stars for atmosphere. But it\u2019s a bagel place and it\u2019s worth it.",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
@@ -492,118 +297,175 @@
         ]
     },
     {
-        "id": "ChIJlcsE0tgR3okR67xUltE544A",
-        "name": "Cohoes High School",
-        "address": "1 Tiger Cir, Cohoes, NY 12047, United States",
-        "latitude": 42.7752584,
-        "longitude": -73.718626,
-        "rating": 4.2,
+        "id": "ChIJsdudhULv2okR26-Qk9aP0Lo",
+        "name": "Manni's Donuts",
+        "address": "1185 Vestal Ave, Binghamton, NY 13903, United States",
+        "latitude": 42.0895965,
+        "longitude": -75.91404639999999,
+        "rating": 4.6,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ4XBIPCkM3okRz6uffYBWco4",
-        "name": "Latham Christian Academy",
-        "address": "495 Watervliet Shaker Rd, Latham, NY 12110, United States",
-        "latitude": 42.7357635,
-        "longitude": -73.7528348,
-        "rating": 3.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ9-8OUk0O3okRcNdSh753UIk",
-        "name": "Achievements PLLC",
-        "address": "32 Cohoes Rd, Watervliet, NY 12189, United States",
-        "latitude": 42.7431011,
-        "longitude": -73.7016541,
+        "id": "ChIJVT4028rl2okRrS3IUMFctKs",
+        "name": "Stop N Shop Deli 1",
+        "address": "232 Conklin Ave, Binghamton, NY 13903, United States",
+        "latitude": 42.0948279,
+        "longitude": -75.89403650000001,
         "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJOS8_TUkN3okRiVao6qMA93k",
-        "name": "Catholic Central School",
-        "address": "347 Old Loudon Rd, Latham, NY 12110, United States",
-        "latitude": 42.75780109999999,
-        "longitude": -73.75301209999999,
-        "rating": 2,
+        "id": "ChIJ_4GnWsL72okRFyXoht78-cM",
+        "name": "Rockin Robin Diner",
+        "address": "1080 Chenango St, Binghamton, NY 13901, United States",
+        "latitude": 42.1473482,
+        "longitude": -75.88836599999999,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJKWN_SN7u2okRpKKvXqwtxPU",
+        "name": "Starbucks",
+        "address": "4706 Vestal Pkwy E, Vestal, NY 13850, United States",
+        "latitude": 42.092358,
+        "longitude": -75.950091,
+        "rating": 4.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ9X1OKGXv2okRhDlZ3WgPeq0",
+        "name": "Rolando's Diner",
+        "address": "140 Court St, Binghamton, NY 13901, United States",
+        "latitude": 42.09937,
+        "longitude": -75.90848600000001,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJnRi_v7CY2okRR2pOcfOfg60",
+        "name": "Wendy's",
+        "address": "170 Main St, Binghamton, NY 13905, United States",
+        "latitude": 42.1037917,
+        "longitude": -75.93069659999999,
+        "rating": 3.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJR4KbYKjl2okRg9vVOpLbBH8",
+        "name": "Jane's Diner",
+        "address": "591 Conklin Ave, Binghamton, NY 13903, United States",
+        "latitude": 42.1008259,
+        "longitude": -75.8637873,
+        "rating": 4.6,
         "analyzed_reviews": [
             {
-                "review": "I have to start off with I am very disappointed in how I was deceived by a Catholic School. One of the reasons for seeking out a Catholic school was for the morals, and for a better school atmosphere. Me and my wife went to the open school night to see the school and get information. I met one of the 2 principles, so I asked him about if busses were available. I stressed the importance of being able to get transportation because my wife works and I am a disabled Veteran with severe back issues that required major surgery, but I still get severe chronic pain, and it is permanent damage. I told him I would not be able to drive them to school every day. He told me that they have had many kids from our area that take the bus. Me and my wife were told that to get the bus, you have to register for school and pay the initial tuition so they can put in a request to transportation for the need. I said, I can't really count on a loose promise like that, it's a matter of me not being able to drive the long distance every day due to my injury. He swore and promised up and down that all we had to do was pay the tuition, hold the spots before it was \"too late,\" and the busses would be worked out. So, I paid the tuition. When it started getting close to school starting, I called back and asked how to set up for the bus. They told me then, THERE ARE NO BUSSES FOR MY AREA, and that they didn't know what I was talking about with the busses. No one remembered a thing, even though every teacher in the area was nodding their heads and agreeing the whole time the principle talked to us. He told us that he was very sorry, DIDN'T KNOW WHO TOLD ME THAT, and that he will tell his staff to not say things like that anymore.I was told to call the school district I was in and work it out with them. Ichabod Crane told me that they never heard of that. Now I'm stuck driving 40 mins to the school and 40 mins back every day, when there isn't traffic. My pain levels have been insane, and this has caused many problems for me and my family. I did give 2 stars instead of 1 because there are some really nice teachers and the main office receptionist tried her best to help after that, so there definitely is some good people at this school. But I have no clue what that was about, but I feel scammed, and I seriously feel incredibly sad about that. I know of at least 1 other parent at the school that they did something like this too as well.",
+                "review": "This is a wonderful eatery, owned by wonderful people, with wonderful food and a wonderful, community atmosphere.\n\nAll patrons are treated as friends and family.  My kids' artwork is on the wall behind the counter.  Employees take the time to learn your name.\n\nBreakfast, lunch, or dinner the menu has you covered, and the specials are constantly updated with reasonably priced, delicious options.\n\nThe desert selection can't be beat.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ4fkoUGHv2okRrGrV6lGZEYc",
+        "name": "Park Diner",
+        "address": "119 Conklin Ave, Binghamton, NY 13903, United States",
+        "latitude": 42.0931399,
+        "longitude": -75.90484760000001,
+        "rating": 4.4,
+        "analyzed_reviews": [
+            {
+                "review": "The diner has a hometown atmosphere with excellent views of the river.\n\nThe kids enjoyed the cheeseburger,  French fries, mozzarella sticks and spaghetti and meatballs.\n\nThe roast beef sandwich was perfectly made.\n\nThe Greek salad was fresh and excellent.    The spinach pie had too many cooked onions and was a huge portion.\n\nAn excellent variety of menu items and specials every day.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJw1MTigvv2okR-XklQ9BrZ9k",
+        "name": "Brass Rail Bar & Grill",
+        "address": "180 Clinton St, Binghamton, NY 13905, United States",
+        "latitude": 42.1061455,
+        "longitude": -75.9270422,
+        "rating": 4.4,
+        "analyzed_reviews": [
+            {
+                "review": "Not the best part of the town, seemingly. We were there with a few friends, played shuffleboard and had a few drinks. It was quiet, not many people there at the time, but we had a fun time. Brian (I think) was our server and whipped up the drinks with flair. Very friendly.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ9cTduE7v2okRL4bN5TTmuIU",
+        "name": "King Fried Chicken & Smoke shop",
+        "address": "496 Chenango St, Binghamton, NY 13901, United States",
+        "latitude": 42.1162299,
+        "longitude": -75.9018473,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ2-6HjHrv2okRm0O0OAM87EY",
+        "name": "FAMILY'S DINER",
+        "address": "190 Main St, Binghamton, NY 13905, United States",
+        "latitude": 42.1044104,
+        "longitude": -75.93202339999999,
+        "rating": 3.7,
+        "analyzed_reviews": [
+            {
+                "review": "Val\u2019s Diner is an eating establishment designed for those who want a quick breakfast or lunch served with a smile. I dined here one morning during a beer tour of Central New York and I found much to like about this simple yet nice restaurant establishment.\n\nFirst, let\u2019s talk about the location because it is unique. Val\u2019s Diner is located inside a bus terminal, making it a popular option for travelers as they arrive from a bus excursion or right before they depart. I like how they have the bus schedule announcements right inside the restaurant. You can hear them on the speaker, which is perfect for those who want to grab a bite to eat but don\u2019t want to have to worry that they might miss their bus.\n\nNext, the atmosphere. It is a diner in every sense and it has that look one associates with this type of restaurant. The sky blue colored walls, checkered tile floors, and bar stools without back supports are just what you expect in a diner.  There isn\u2019t a ton of seating, but because it is part of a bus terminal, I can\u2019t imagine it ever gets extremely busy.\n\nI was here for breakfast and I ordered an omelet, toast, and home fries. The food was served relatively quickly and it tasted fresh and good. The jelly is served in packets and I added a dab to my toast along with a small amount of catsup on my fries. I finished the entire contents of my plate in a short time and left feeling satisfied.\n\nDiners are not as common as other types of restaurants, but they exude a certain charm and make a nice change of pace from the usual restaurant. Val\u2019s Diner is a cool place for breakfast or lunch and great for those who are traveling by bus and need something to eat. Even if you\u2019re not using the bus terminal, Val\u2019s Diner is a good place for a simple meal and I\u2019m glad I discovered this friendly diner here in Binghamton, New York.",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
                         "atmosphere"
                     ],
                     "language": [
-                        "information"
+                        "announcements"
                     ]
                 }
             }
         ]
     },
     {
-        "id": "ChIJ3414CEQO3okRv6oSYyHDZww",
-        "name": "St Colman's Home",
-        "address": "11 Haswell Rd, Watervliet, NY 12189, United States",
-        "latitude": 42.7475536,
-        "longitude": -73.7183361,
+        "id": "ChIJSWL03qP62okRmgBtWG6W92I",
+        "name": "Dunkin'",
+        "address": "1315 Front St, Binghamton, NY 13901, United States",
+        "latitude": 42.1613457,
+        "longitude": -75.8943783,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ5_jMN5bv2okRRfhdpGLZn1A",
+        "name": "Royal Fried Chicken",
+        "address": "52 Main St, Binghamton, NY 13905, United States",
+        "latitude": 42.0994043,
+        "longitude": -75.9200809,
         "rating": 4.3,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ7eGhUukP3okRTvuUuHbu7eE",
-        "name": "Esteves School of Education Administration Building",
-        "address": "65 1st St, Troy, NY 12180, United States",
-        "latitude": 42.7272267,
-        "longitude": -73.6942256,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJh-A9wmQJ3okRPYXzJ7AWP4M",
-        "name": "North Albany Middle School",
-        "address": "570 N Pearl St, Menands, NY 12204, United States",
-        "latitude": 42.6732159,
-        "longitude": -73.739932,
-        "rating": 4.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJJXWOLysQ3okREbRglEL5FYs",
-        "name": "Sonshine Patch Pre School",
-        "address": "123 Mohawk St, Cohoes, NY 12047, United States",
-        "latitude": 42.7734423,
-        "longitude": -73.6998656,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJA6n5pPkO3okRGYFHgR9jnzU",
-        "name": "Watervliet City School District",
-        "address": "1245 Hillside Dr, Watervliet, NY 12189, United States",
-        "latitude": 42.7308566,
-        "longitude": -73.7158978,
-        "rating": 3.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJEYLvJSsK3okRMMlGuApaGos",
-        "name": "Arbor Hill Elementary School",
-        "address": "1 Arbor Dr, Albany, NY 12207, United States",
-        "latitude": 42.6629295,
-        "longitude": -73.751137,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJfQn6654P3okRAlMf2xMrWaU",
-        "name": "Rensselaer Polytechnic Institute",
-        "address": "110 8th St, Troy, NY 12180, United States",
-        "latitude": 42.7297628,
-        "longitude": -73.67888839999999,
-        "rating": 4.4,
+        "id": "ChIJDyuZXp3v2okRqpRFgK9P6qk",
+        "name": "Red Oak",
+        "address": "305 Front St, Binghamton, NY 13905, United States",
+        "latitude": 42.10924139999999,
+        "longitude": -75.912796,
+        "rating": 4.3,
         "analyzed_reviews": [
             {
-                "review": "I had a wonderful time at RPI. The campus had some beautiful older building with some more modern architecture interspersed into it. The food was good and the people there were very friendly. If you like engineering or computer science then RPI has a great atmosphere for that. They have many cool facilities including a wind tunnel so its a great spot if you want to do aero.",
+                "review": "The food tastes awesome, the portion are large and the service is great, the menu has a  lot of options, nice atmosphere, the lasagna it was tasty",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
@@ -614,48 +476,540 @@
         ]
     },
     {
-        "id": "ChIJB-S0Lr8P3okRxv5QbTzjgvk",
-        "name": "Troy City School District",
-        "address": "475 1st St, Troy, NY 12180, United States",
-        "latitude": 42.712695,
-        "longitude": -73.697419,
-        "rating": 3.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJD7mkmPAL3okRtJO2qmx-S54",
-        "name": "St Pius X Catholic School",
-        "address": "75 Upper Loudon Rd, Albany, NY 12211, United States",
-        "latitude": 42.6971293,
-        "longitude": -73.76115089999999,
+        "id": "ChIJ0zarehDv2okRVUUDn1l6bps",
+        "name": "Project LeanNation Binghamton",
+        "address": "33 S Washington St, Binghamton, NY 13903, United States",
+        "latitude": 42.0902338,
+        "longitude": -75.9135506,
         "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJVak3qd4P3okRTnuk1M23aMo",
-        "name": "Academy at Rensselaer Educational Center",
-        "address": "35 Colleen Road, Troy, NY 12180, United States",
-        "latitude": 42.7017289,
-        "longitude": -73.6734211,
-        "rating": 0,
-        "analyzed_reviews": []
+        "id": "ChIJsVwGf_fu2okRXcvANuOxf2Q",
+        "name": "Dunkin'",
+        "address": "120 Baldwin St, Johnson City, NY 13790, United States",
+        "latitude": 42.1121601,
+        "longitude": -75.9581804,
+        "rating": 3.8,
+        "analyzed_reviews": [
+            {
+                "review": "Newly opened store. Convenient location, clean environment and plenty of parking. Gas station and the Hone Depot are within walking.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "environment"
+                    ]
+                }
+            }
+        ]
     },
     {
-        "id": "ChIJISOBETQK3okRrc2UTJ6cqPY",
-        "name": "Sheridan Preparatory Academy",
-        "address": "400 Sheridan Ave, Albany, NY 12206, United States",
-        "latitude": 42.6618017,
-        "longitude": -73.76660009999999,
+        "id": "ChIJU17cEfTv2okRsUEhqBv5g-g",
+        "name": "Cracker Barrel Old Country Store",
+        "address": "876 Front St, Binghamton, NY 13905, United States",
+        "latitude": 42.1313338,
+        "longitude": -75.9049576,
+        "rating": 4.4,
+        "analyzed_reviews": [
+            {
+                "review": "The service was very efficient and fast. All staff were kind and friendly. The food is good and matches the atmosphere accordingly. Nice pit stop to eat, relax and shop after a long ride.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJm5Z18gDv2okRwwpE0kmB4Po",
+        "name": "Ary's halal gyro",
+        "address": "1188 Vestal Ave, Binghamton, NY 13903, United States",
+        "latitude": 42.08906260000001,
+        "longitude": -75.9136654,
         "rating": 3.9,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJZed8pTYP3okRbuxvoSyIbZM",
-        "name": "Hudson Valley Community College",
-        "address": "80 Vandenburgh Ave, Troy, NY 12180, United States",
-        "latitude": 42.6958308,
-        "longitude": -73.68238529999999,
-        "rating": 4,
+        "id": "ChIJqYT1_Xj72okRC1m2iD6MPqU",
+        "name": "Batch Coffee",
+        "address": "70 Chenango Bridge Rd, Binghamton, NY 13901, United States",
+        "latitude": 42.1687385,
+        "longitude": -75.88037729999999,
+        "rating": 4.6,
+        "analyzed_reviews": [
+            {
+                "review": "Came across this gem on our roadtrip back home, I ordered the grilled chicken wrap and a salted caramel coconut latte, both tasted amazing! I love the space here, all the natural lighting that comes through and the ladies taking our orders were also extremely sweet! I would definitely come back here the next time I visit! Had to take a cup to go cause I knew I wouldn\u2019t be coming back for a while \ud83e\udd23",
+                "sentiment": "positive",
+                "accessibility": {
+                    "vision": [
+                        "lighting"
+                    ],
+                    "sensory": [
+                        "natural lighting",
+                        "lighting"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ9RvyaXDv2okRFIEr3zmVdHY",
+        "name": "The Shop",
+        "address": "219 Washington St, Binghamton, NY 13901, United States",
+        "latitude": 42.1009835,
+        "longitude": -75.9128506,
+        "rating": 4.5,
+        "analyzed_reviews": [
+            {
+                "review": "I had never been to the shop before today. The restaurant itself is beautiful, nice atmosphere.I was really disappointed in the food and the service. I am Wondering if the server was brand new as he was not very polite or attentive to our table. I cannot remember word for word what he said but he said something to the effect of \u201c are you guys done or what.\u201d The crepe my son got left much to be desired. I think this type of restaurant is a really great concept and could be great, adding more crepes to the menu would be awesome. Hopefully it was just a bad night ?",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJES25cUDv2okRc6rczVgPh8Q",
+        "name": "CAFF\u00c8 del CORSO",
+        "address": "3701 Vestal Pkwy E Suite 10 & 11, Vestal, NY 13850, United States",
+        "latitude": 42.0979642,
+        "longitude": -75.9825496,
+        "rating": 4.7,
         "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ_0uEB6762okR-3s6MscskgM",
+        "name": "My Uncle's Place",
+        "address": "120 E Service Rd, Binghamton, NY 13901, United States",
+        "latitude": 42.1494369,
+        "longitude": -75.8894729,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJI9XVR3rl2okRDiCKOnp1t0I",
+        "name": "House of Reardon",
+        "address": "25 Grant St, Binghamton, NY 13904, United States",
+        "latitude": 42.1125055,
+        "longitude": -75.89044729999999,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ5XXiDc7v2okRPQUwV874USY",
+        "name": "Parlor City Vegan",
+        "address": "81 Clinton St, Binghamton, NY 13905, United States",
+        "latitude": 42.1049652,
+        "longitude": -75.92196340000001,
+        "rating": 4.9,
+        "analyzed_reviews": [
+            {
+                "review": "Delighted to have a dedicated vegan place in this area!  Excellent atmosphere in the sitting area.  The food presentation is also top notch, everything looks great!  The actual taste of the food is a bit of a disappointment though, with things being oddly tasteless in many cases...  I think the root of the problem may just be that the kitchen is averse to using salt for some reason.  This is especially puzzling on the fries, for example.  Still worth a trip for any vegans in the area!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "Parlor City Vegan is a lovely spot for lunch, dinner or even snack. Generous portions, great service, inviting atmosphere and tasty food. I travel a LOT for work which means I scout the heck out of all the vegan options all over the Northeast.\n\nThe friend mushroom \u2018patty\u2019 on the Spicy Hen sandwich, I kid you not, was 3\u201d thick and bigger than my entire hand.\n\nDainty little chocolate chip cookie was yummy and the maple drizzled coffee was perfect to keep the work day going.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "This place is absolutely phenomenal. They have excellent vegan food with very reasonable prices. The food is absurdly delicious and they take their time and put love into what they do. The staff has always been great and the atmosphere is fantastic. The portions may not be huge but they are decently sized and very rich so you'll likely be full anyway. So happy that this place exists. The muffins and cookies are delicious. We did order a cake there for our anniversary and everybody who ate it loved it. It was honestly a little bit dry but it was still very rich and delicious. Everyone was very impressed to know that it was vegan but the one thing that everybody did mention was that it was just a bit dry for their taste which I can totally agree with. I feel like if it was less dry it would have been a completely perfect cake for our anniversary party. Either way I love to support this place because the people are great, the food is mind-blowingly delicious and the desserts are very good most of the time. The coffee is also excellent..",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJgVWiJKzv2okR134UAZsRzyg",
+        "name": "Fit Kitchen",
+        "address": "20 Hawley St, Binghamton, NY 13901, United States",
+        "latitude": 42.0967787,
+        "longitude": -75.91355140000002,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJzf8jU3Dv2okRmXii8W1CY5o",
+        "name": "River Bistro",
+        "address": "225 Water St, Binghamton, NY 13901, United States",
+        "latitude": 42.1011666,
+        "longitude": -75.91429600000001,
+        "rating": 4.2,
+        "analyzed_reviews": [
+            {
+                "review": "I enjoyed sitting at the bar for an early dinner last night. The IPA beer I had (green alligator draft handle) was quite nice. The food was okay and not anything to rave about \u2026 I ordered the Brussel Sprouts Appetizer and the Bartender was kind and took it away and off my bill. The Brussel Sprouts were grossly overcooked to the point of mushiness. The main course I ordered was a Bistro Bowl, Pineapple Fajita which didn\u2019t have any pineapple in any quantity. The grilled flank steak was overcooked but still flavorful \u2026 over all this dish was tasty even with the shortfalls. I would eat there again and be very specific with whoever is taking the order on how I want my food prepared. I took a slice of their chocolate cake home and it was the best. Give the River Bistro a try \u2026 you will enjoy the atmosphere and the food is above average which is terrific. LIVE LOVE LAUGH ALWAYS \u2026 \ud83d\udc99\ud83c\uddee\ud83c\uddf1\ud83d\udc99",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJPbgMvzLv2okRn67vqdznILs",
+        "name": "The Grove",
+        "address": "65 Court St, Binghamton, NY 13901, United States",
+        "latitude": 42.0988502,
+        "longitude": -75.9123458,
+        "rating": 4.3,
+        "analyzed_reviews": [
+            {
+                "review": "Really great place. Cool atmosphere, great service!!! I actually really liked sitting at the bar. There is more room behind the bar than anywhere I've been which made the whole place seem more spacious. And it didn't feel like the bartender was in your face. I look forward to visiting again soon! Definitely want to try the chocolate lava cake!!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "Service was bad, girls were just texting and not attentive. The food was seemingly made with decent ingredients, but the cooks ruined every aspect of the meal. Everything was overcooked and flavorless.\n\nThe atmosphere was fine, but extremely cold (all guests had their jackets on) and the music was really loud for a weekend morning.",
+                "sentiment": "negative",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "The grove has a good atmosphere and ambiance. The service and the staff are great and friendly. Serves halal food. The taste was a little bland to our taste and found the serving size to be a tad bit too small. The chicken strips had less chicken and more batter. The stuffed breast had an exceptionally small portion and rest was full of veggies. The chicken sandwich was also a little dry and full of batter. Lastly, the mango chicken was good but again the chicken strips were too thin but with decent quantity. Tasted great with rice in the side.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJcUTNwHjl2okRM1OE8U4Mcro",
+        "name": "Cortese Restaurant",
+        "address": "117 Robinson St, Binghamton, NY 13904, United States",
+        "latitude": 42.10742279999999,
+        "longitude": -75.8927242,
+        "rating": 4.4,
+        "analyzed_reviews": [
+            {
+                "review": "Cortese Restaurant is an absolute gem in Binghamton, NY, and without a doubt, serves the best Italian food I've ever had. From the moment you step inside, you're greeted with a warm, inviting atmosphere that sets the stage for an unforgettable dining experience.\nThe highlight of Cortese is, of course, the food. Every dish is a testament to the art of Italian cuisine. The sauces are nothing short of perfection \u2013 rich, flavorful, and clearly crafted with the finest ingredients. Whether you're indulging in their classic marinara or their creamy Alfredo, each bite is a delightful explosion of taste that will have you savoring every moment.  Not to mention the pizza.\nOne cannot speak highly enough about the staff at Cortese. They are the epitome of friendliness and professionalism, always ready with a smile and eager to make your dining experience exceptional. Their knowledge of the menu and their ability to cater to individual preferences ensure that every customer feels special and well-cared for.\nSpecial mentions go to their exquisite pasta dishes and their mouthwatering lasagna, which stands out as a must-try. The portions are generous, and the presentation is impeccable, making it evident that a lot of love and care goes into every meal prepared.\nCortese Restaurant is a must-visit for anyone in Binghamton or even passing through. It offers not just a meal, but a memorable experience of authentic Italian dining that leaves you longing for more. Do yourself a favor and make a reservation \u2013 you'll be glad you did!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "Honestly, good could have been amazing and I would still write this:\nBeautiful atmosphere, really love the privacy of the booths! And the extremely friendly host!\nWe ordered the Fried Calamari and got maybe 20 pieces. It was fine but super thin and the portion size was way smaller than expected. The rest of our food was good! We got the spaghetti and fettuccine.\nI wanted to get the Fettuccine with the lobster tail but the server didn\u2019t seem too happy to be there so I didn\u2019t want to ask about market pricing.\nOverall, this review is more a remark at service. We paid 70 dollars for a server who never was even slightly friendly. We love going out to eat and would never punish someone (by giving less than 20%) for just having a bad day. But, it\u2019s a semi slow lunch shift and you seem like we\u2019re annoying you for ordering with no additional questions. Just not a welcoming table side environment for such a beautiful place. It\u2019s our first time here! But we all know service makes or breaks even the best of cuisine.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere",
+                        "environment"
+                    ]
+                }
+            },
+            {
+                "review": "The best Italian food I\u2019ve ever had!  My husband grew up coming here and we made the 2 hour drive to come for dinner.  I\u2019m obsessed.  The history, the service, the atmosphere and THE FOOD.  Absolute perfection.  Thank you to our server Nicole who was AMAZING and so pleasant!  Our compliments to the chef..DELICIOUS!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJgQ29iHvv2okRS3d8SLhlEK8",
+        "name": "AMICI",
+        "address": "126 1/2 Henry St, Binghamton, NY 13901, United States",
+        "latitude": 42.1018632,
+        "longitude": -75.90573370000001,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJy6_cCm_v2okRfNinof8o8PQ",
+        "name": "Despina's Mediterranean Taste",
+        "address": "8 Main St, Binghamton, NY 13905, United States",
+        "latitude": 42.0990118,
+        "longitude": -75.9171076,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJtwJWL1bu2okRuaYEPD4GFNQ",
+        "name": "The Grapevine Cafe",
+        "address": "220 Main St, Johnson City, NY 13790, United States",
+        "latitude": 42.1146907,
+        "longitude": -75.9542646,
+        "rating": 4.8,
+        "analyzed_reviews": [
+            {
+                "review": "Loved this place! So many vegan options, friendly service and a relaxing atmosphere. I had a soup of the day which happened to be a plant based dumpling soup and it was so soothing and just what I needed on a cold, rainy day. This place is a gem - highly recommend :)",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "I love this place! They serve light lunch and dinner, not exclusively plant-based but there are a lot of vegetarian and vegan options. I have tried the Tempeh Reuben and Vegan \u201cPulled Pork\u201d sandwiches and both were great. Their rotating baked goods are also delicious. I love that they do tea lattes made to order with your choice of tea, they have an interesting tea list. Their feature cocktails also look fun but I haven\u2019t had a chance to try.\nThe atmosphere is very cozy and the staff is friendly and welcoming. They have their regulars but they treat everyone with the same warm attitude.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJsyXJ8cnv2okR2elwVPXTFzw",
+        "name": "Downtown by Chef Jay Pisculli",
+        "address": "20 Hawley St, Binghamton, NY 13901, United States",
+        "latitude": 42.096377,
+        "longitude": -75.9137016,
+        "rating": 4.4,
+        "analyzed_reviews": [
+            {
+                "review": "We wanted to try this restaurant and found the service and atmosphere very nice!\n\nThe food is also very good. The highlights for us were the pork chop, which was perfectly cooked with a great crust, and the corn cream brulee, which was delicious!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "Downtown By Chef Jay Pisculli brings an excellent upscale experience to Binghamton!\n\nWe Visited Downtown on a weekday evening between 6 and 8pm, the establishment was semi-busy. RESERVATIONS were made and are highly recommended here.\n\nWe decided on Downtown for a special event after hearing of the recent renovations to make the Downtown Beer Tree location a little more upscale.  We were greeted at the door and immediately shown a table.\n\nOn this visit I opted for the special which was a steak topped with crumbly blue cheese and a side of  corn creme brulee. We also opted for an appetizer, crispy deviled eggs. The deviled eggs were excellent! I was a little reserved about this choice but those reservations quickly went away after the first bite, and I would highly recommend them. The steak was cooked to perfect temperature (I opt for mid-rare) and was packed with flavor. The corn creme brulee was another item that blew me away, I was not expecting it to be as delicious as it was. A great and well put together meal!\n\nAnother neat touch is you get to choose the knife you would like to use to cut your entree from a boxed selection. It adds a bit to the experience.\n\nDo keep in mind that this restaurant is now catering to a more upscale vibe, and with that comes upscale costs. Our trip, with two entrees, an appetizer and alcohol, put us back around $200.  This is not a restaurant that the average Joe is going to frequent often, but it does make for a wonderful experience for those special occasions.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "temperature"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJUboozH7v2okRu00LnV4O7Cg",
+        "name": "The Stone Fox",
+        "address": "15 Hawley St, Binghamton, NY 13901, United States",
+        "latitude": 42.0974432,
+        "longitude": -75.9134566,
+        "rating": 4,
+        "analyzed_reviews": [
+            {
+                "review": "Was in town for a softball tournament, and they were extremely accommodating of our very large group of kids and families. Thank you again, especially to our waitress who spent most of the time we were there just taking care of us. The cocktail menu had a decent variety, good choice of beers in bottles or draft. The food was good. I just had pizza and wings, and though they weren't 5 star exceptional, both were still very good. Wings were bang bang sauce, nice kick and flavor. Pizza had some kind of honey drizzled in along with a couple meat toppings and was pretty good. The outdoor area is well heated and made for a nice atmosphere and perfect for larger groups. We would go here again for sure.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "\ud83e\udd8aWas our first time here and honestly, we loved it! Went on a Wednesday not knowing about the $5 Margherita pizza deal and we very much enjoyed it. We also got a Golden Fox Pizza, a Rosemary Truffle pizza and the Garlic Bacon pizza. All of our pizza's had an adequate amount of toppings and were very flavorful! The crust was thin with a nice crisp, yet at the same time still had some chewiness resulting in a perfect combination. We also got a FULL basket of fried dill pickle chips which were perfectly prepared and addictingly delicious!  The atmosphere here is welcoming, and we chose to sit inside but next to the opened garage door. We then noticed the heat lamps in the ceiling over the outdoor seating, which will be nice when we go again and want to sit outside without being uncomfortably cold while we eat. The staff was busy yet attentive, so no issues there! Pricey pizzas? Perhaps. But we will definitely revisit for more of their unique pizzas, we'll give the wings a whirl (Tuesday special, $7!), and order another basket of the dill pickle chips! \ud83d\ude0b",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "Great outdoor seating !!! $5 Margherita pizza Wendsday is worth it!! Not greasy or lays in ur stomach.  Very friendly staff and clean environment.  Great rum punch!! Perfect pizza \ud83d\udcaf  and I hat e cheese (lactose ) still impeccable  pie. A+ guys!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "environment"
+                    ]
+                }
+            },
+            {
+                "review": "I have eaten at this restaurant prior to the new ownership \u2026 it was okay then \u2026 now it\u2019s really good \u2026 the staff is terrific and extremely accommodating with a commitment to your satisfaction \u2026 I like that a lot \u2026 I had a Hard Blueberry Cider with my meal \u2026 for an appetizer I had the Burrata and it was awesome \u2026 first time I had that cheese \u2026 it won\u2019t be the last \u2026 for my main it was a Margarita Pizza which was almost perfect \u2026 the dough was slightly undercooked and still really good \u2026 I definitely recommend the Stone Fox \u2026 the people, atmosphere and food are all top notch \u2026 LIVE LOVE LAUGH & EAT ALWAYS \u2026 \ud83d\udc99\ud83c\uddee\ud83c\uddf1\ud83d\udc99",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ3woqQnDv2okRcLoX0spExaw",
+        "name": "Garage Taco Bar",
+        "address": "211 Washington St, Binghamton, NY 13901, United States",
+        "latitude": 42.1008253,
+        "longitude": -75.9130571,
+        "rating": 4.3,
+        "analyzed_reviews": [
+            {
+                "review": "Traveling from PA, wanted tacos, this was on our route! So glad we stopped, very accommodating with our 2 dogs. Everyone was thrilled to have dogs there! Service, food, and atmosphere was AMAZING!!!  Would definitely visit again! Shout out to Alfredo! Thank you so much!!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJbRPVk3Dv2okRrg4KGAqinyU",
+        "name": "Something Different",
+        "address": "332 Clinton St, Binghamton, NY 13905, United States",
+        "latitude": 42.1101489,
+        "longitude": -75.9362529,
+        "rating": 4.1,
+        "analyzed_reviews": [
+            {
+                "review": "I was blown away by how delicious my cajun chicken pasta was! Hubby ate homemade hamburger and really liked it. The menu is varied; anyone could find something to like here. I also got a side of collards, and it is made with beef bacon, so any creed could enjoy. They tasted as good as any  I have eaten in the Deep South. I say that as a Southerner! It is a clean, cute little place furnished with hand-me-downs (which I really don't mind at all - actually I am all about reuse/repurpose/recycle,) obviously very newly opened, so I was prepared to forgive a lot, but did not have to. Bonus: the couple who own and work the place are genuinely nice and interesting people. We were treated as honored guests and my huge service dog and my equally huge service dog in training were welcomed. The only reason I left off one star on atmosphere was because the neighborhood is a little bit shabby, but there appears to be a movement to revitalize it. I was not the least concerned to be there. And good for this couple to be part of that movement to make their world a better place! I definitely would make a point of coming here again next trip through.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "I was so disappointed. Ordered a Philly cheese steak sandwich. Could not eat eat, instructions for toppings on the side not followed and was hard pressed to find any meat in the sandwich when I picked it apart. Fish and chips were mediocre, fish over fried and dry and chewy and the chips seasoned well but soggy, but I never expect anyone's chips too be edible... Had no banana pudding so replaced with sweet potato pie, which was good but I was disappointed it was prepackaged. Not likely to order from there again.",
+                "sentiment": "negative",
+                "accessibility": {
+                    "language": [
+                        "instructions"
+                    ]
+                }
+            },
+            {
+                "review": "One of the best halal spots to eat at here in Binghamton. The menu and food is really \"something different.\" The food is beyond amazing, and when complemented with the atmosphere and the hospitality of the chef, makes the perfect place to eat when you're hungry. You'll understand what I mean once you go. I pray for the best for the restaurant and it's owner.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJm_43DQ7v2okRCmmt75qqQos",
+        "name": "Danny's Diner",
+        "address": "151 Main St, Binghamton, NY 13905, United States",
+        "latitude": 42.1026655,
+        "longitude": -75.9295159,
+        "rating": 4.6,
+        "analyzed_reviews": [
+            {
+                "review": "First time visiting this classic diner--it was everything a diner should be. Comfortable classic atmosphere, clean & friendly, reasonably priced & really good food. I had the sausage gravy & biscuit plate with home fries--and a bowl of grits. It was heavenly. My new favorite breakfast spot in Binghamton.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJa453wi7v2okRWwmq5HsPg9U",
+        "name": "Pho Nomenal",
+        "address": "20 Hawley St, Binghamton, NY 13901, United States",
+        "latitude": 42.096505,
+        "longitude": -75.9128326,
+        "rating": 4.3,
+        "analyzed_reviews": [
+            {
+                "review": "Food was good, but the spoons they used, the cups they served the drinks in, were very bad quality. The prices of the food were very expensive, you would think they would have money to get better cups. I found a bug in my food and that wasn't very appetizing anymore, although It did taste good until I found the bug. I picked it out and set it aside, I have a photo showing the bug. I got disgusted so I didn't really eat much afterwards. Took a long time to get my check and then we paid in cash, and it took about 5 minutes to get my change. A little upsetting I'll be honest...\nWaiter checked on us a good amount of times so service was decent. I never told them about the bug to not make a fuss. The chili sauce that was on the tables had the texture of old sauce on top, therefore my family scooped the sauce from the bottom. We ordered 3 bowls of Pho, and got 2 plates of bean sprouts, which, for my family was more than enough but wouldn't it make sense to give 3 plates for 3 bowls...\nthere was music in the background and the place is pretty quiet.\nI would go again and recommend the place, its not too dirty but just because of the bug I have decided to never come here again.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            },
+            {
+                "review": "I had the chance to visit various Vietnamese restaurants before, but during our recent adventure in Watertown, New York, we stumbled upon this delightful eatery for our midday meal, and we were genuinely amazed by our experience there. This particular dining establishment offers a diverse array of dishes featuring flavorful meat broths and unique add-on options that I had not encountered elsewhere. The portions and accompaniments on our plates were more than satisfactory, and the prices were quite reasonable. We decided to savor their vegetable summer rolls and tofu pho accompanied by extra eggs in meat broth on the side which made pho taste more creamy. Additionally, the presentation included a delectable spicy chili paste, perfectly balanced in its spiciness and heat level. I must also mention the delightful peanut sauce that accompanied the summer rolls. The overall atmosphere of the restaurant was inviting. If you appreciate Vietnamese cuisine and beverages, this spot is an excellent choice for a leisurely brunch. While we didn't sample any cocktails from their impressive bar, the freshly prepared food was truly delightful, serving generous portions. I thoroughly enjoyed the excellent service, decent fare, and, notably, the exceptional chili paste at this establishment.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "Atmosphere of the restaurant was beautiful and service was great, but the pho broth was lacking in flavor. The wings were delicious, however.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            },
+            {
+                "review": "Highly recommend. This was our first but not last visit. Staff was very accommodating with regards to vegan options. Everything was great staff, food, and atmosphere.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJw0PbNL_t2okRaDd2m2P1DMs",
+        "name": "Sam's Club Cafe",
+        "address": "2441 Vestal Pkwy E, Vestal, NY 13850, United States",
+        "latitude": 42.098509,
+        "longitude": -76.00757,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJiws4JgDw2okRLyt-IfLeByI",
+        "name": "Sonic Drive-In",
+        "address": "1103 Front St, Binghamton, NY 13905, United States",
+        "latitude": 42.146736,
+        "longitude": -75.9020681,
+        "rating": 4.3,
+        "analyzed_reviews": [
+            {
+                "review": "Food is okay, shakes are really good - I tried strawberry cheese cake - wonderful ! This place is always slow for service but the workers are very nice and make up for it.\n\nmy only issue is just the restroom and I think the restaurant needs to be expanded more so it can be better for the customers, the restroom should be inside the restaurant not on the outside, I also think it needs more lighting",
+                "sentiment": "positive",
+                "accessibility": {
+                    "vision": [
+                        "lighting"
+                    ],
+                    "sensory": [
+                        "lighting"
+                    ]
+                }
+            }
+        ]
     }
 ]

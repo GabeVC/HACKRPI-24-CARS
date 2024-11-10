@@ -10,14 +10,13 @@ const HomePage = () => {
   const [center, setCenter] = useState([40.7128, -74.0060]); // Default to NYC
   const [locationName, setLocationName] = useState('');
   const [data, setData] = useState([]);
-  const [mode, setMode] = useState('Specific'); // Start in "General" mode
+  const [mode, setMode] = useState('Specific'); // Start in "Specific" mode
   const [radius, setRadius] = useState(4828); // Default radius for "General" mode circle in meters (3 miles)
   const autocompleteRef = useRef(null);
   const mapContainerRef = useRef(null);
   const reviewsContainerRef = useRef(null);
   const navigate = useNavigate();
 
-  // Fetch filtered reviews based on the bounding box around the center
   const fetchFilteredReviews = async () => {
     try {
       const response = await axios.post('http://localhost:3000/api/reviews-within-area', {
@@ -31,7 +30,6 @@ const HomePage = () => {
   };
 
   useEffect(() => {
-    // Initialize Google Maps autocomplete
     const loadAutocomplete = () => {
       if (window.google) {
         const autocomplete = new window.google.maps.places.Autocomplete(
@@ -46,30 +44,25 @@ const HomePage = () => {
             const lng = place.geometry.location.lng();
             setCenter([lat, lng]);
             setLocationName(place.formatted_address);
-            setMode("Specific"); // Ensure we're in "Specific" mode on new location
+            setMode("Specific");
 
-            // Scroll partially to the map to keep the search bar in sight
             const mapContainerTop = mapContainerRef.current.getBoundingClientRect().top + window.scrollY;
-            window.scrollTo({ top: mapContainerTop - 100, behavior: 'smooth' }); // Adjust offset as needed
+            window.scrollTo({ top: mapContainerTop - 100, behavior: 'smooth' });
           }
         });
       }
     };
 
     loadAutocomplete();
-
-    // Fetch initial data for the heatmap (if you want to show some data by default)
     fetchFilteredReviews();
   }, []);
 
   useEffect(() => {
-    // Fetch filtered reviews whenever center or radius changes
     fetchFilteredReviews();
   }, [center, radius]);
 
   const handleSeeReviews = () => {
     if (locationName) {
-      // Scroll just below the map to reveal the reviews section
       const reviewsContainerTop = reviewsContainerRef.current.getBoundingClientRect().top + window.scrollY;
       window.scrollTo({ top: reviewsContainerTop, behavior: 'smooth' });
     }
@@ -79,14 +72,23 @@ const HomePage = () => {
     <div className="landing-page">
       <header className="header">
         <h1 className="title">City Accessibility Rating System (CARS)</h1>
-        {!user ? (
-          <nav className="auth-links">
-            <Link to="/login" className="button login-button">Login</Link>
-            <Link to="/register" className="button register-button">Register</Link>
-          </nav>
-        ) : (
-          <button onClick={logout} className="button logout-button">Logout</button>
-        )}
+        <nav className="auth-links">
+          {user ? (
+            <>
+              <button className="button profile-button" onClick={() => navigate('/profile')}>
+                Profile
+              </button>
+              <button onClick={logout} className="button logout-button">
+                Logout
+              </button>
+            </>
+          ) : (
+            <>
+              <Link to="/login" className="button login-button">Login</Link>
+              <Link to="/register" className="button register-button">Register</Link>
+            </>
+          )}
+        </nav>
       </header>
 
       <main className="main-content">
@@ -117,7 +119,6 @@ const HomePage = () => {
           <HeatMap center={center} data={data} mode={mode} radius={radius} />
         </section>
 
-        {/* Review Cards Section */}
         <section className="reviews-section" ref={reviewsContainerRef}>
           <h2>Reviews in this Area</h2>
           <div className="review-cards">

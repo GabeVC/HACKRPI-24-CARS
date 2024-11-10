@@ -83,7 +83,7 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
 
   const fetchReviewsForLocation = async (locationId) => {
     const reviewsCollection = collection(db, "reviews");
-    const snapshot = await getDocs(reviewsCollection);
+    const snapshot = await getDocs(reviewsCollection);;
     const reviews = snapshot.docs
       .map(doc => doc.data())
       .filter(review => review.locationId === locationId)
@@ -97,6 +97,7 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
         sensoryRating: review.sensory,
         languageRating: review.language,
       }));
+      console.log(reviews); 
     setSelectedReviews(reviews);
   };
 
