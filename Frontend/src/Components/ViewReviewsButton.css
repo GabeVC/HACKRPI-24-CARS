@@ -1,0 +1,20 @@
+.view-reviews-button {
+    background-color: #008CBA; /* Blue background */
+    color: white; /* White text */
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .view-reviews-button:hover {
+    background-color: #007bb5; /* Darker blue on hover */
+  }
+  
+  .view-reviews-button:focus {
+    outline: none; /* Remove focus outline */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  

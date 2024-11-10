@@ -1,6 +1,6 @@
 // src/Components/HeatMap.jsx
 import React, { useState, useEffect } from 'react';
-import { MapContainer, TileLayer, Marker, Popup, Circle, useMapEvents } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, Circle, useMapEvents, useMap } from 'react-leaflet';
 import { collection, getDocs } from 'firebase/firestore';
 import { db } from '../firebaseConfig';
 import L from 'leaflet';
@@ -8,14 +8,16 @@ import 'leaflet.heat';
 import 'leaflet/dist/leaflet.css';
 import AddReviewButton from './AddReviewButton';
 import ViewReviewsButton from './ViewReviewsButton';
-import ReviewModal from './ReviewModal'; // Import the ReviewModal component
 
 function HeatLayer({ data }) {
   const map = useMapEvents({});
 
   useEffect(() => {
-    const heatData = data.map(({ lat, lng, rating }) => [lat, lng, rating / 5]);
-    const heatLayer = L.heatLayer(heatData, {
+    const validHeatData = data
+      .filter(({ lat, lng }) => lat !== undefined && lng !== undefined)
+      .map(({ lat, lng, rating }) => [lat, lng, rating / 5]);
+
+    const heatLayer = L.heatLayer(validHeatData, {
       radius: 25,
       maxZoom: 15,
       gradient: {
@@ -42,31 +44,11 @@ function ClickableMap({ onMapClick, setZoomLevel, mode }) {
       onMapClick({ lat, lng, mode });
     },
     zoomend(e) {
-      setZoomLevel(e.target.getZoom()); // Update zoom level on zoom end
+      setZoomLevel(e.target.getZoom());
     }
   });
 
   return null;
-}
-
-function fetchAddress(lat, lng, onMapClick) {
-  if (!window.google || !window.google.maps) {
-    console.error("Google Maps API is not loaded");
-    return;
-  }
-
-  const geocoder = new window.google.maps.Geocoder();
-  const location = { lat, lng };
-
-  geocoder.geocode({ location }, (results, status) => {
-    if (status === "OK" && results[0]) {
-      const address = results[0].formatted_address;
-      onMapClick({ lat, lng, address });
-    } else {
-      console.error("Geocoding failed:", status);
-      onMapClick({ lat, lng, address: "Address not found" });
-    }
-  });
 }
 
 function RecenterMap({ center, zoomLevel }) {
@@ -81,12 +63,9 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
   const [zoomLevel, setZoomLevel] = useState(13);
   const [mode, setMode] = useState(initialMode);
   const [radius, setRadius] = useState(initialRadius);
-  const [circlePosition, setCirclePosition] = useState(center);
-  const [markerPosition, setMarkerPosition] = useState(null);
-  const [markerAddress, setMarkerAddress] = useState('');
   const [firebaseMarkers, setFirebaseMarkers] = useState([]);
-  const [isReviewModalOpen, setIsReviewModalOpen] = useState(false);
-  const [selectedLocation, setSelectedLocation] = useState(null); // Store selected location data for the modal
+  const [markerPosition, setMarkerPosition] = useState(null);
+  const [circlePosition, setCirclePosition] = useState(center);
 
   useEffect(() => {
     const fetchLocations = async () => {
@@ -106,18 +85,12 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
     }
   }, [center, mode]);
 
-  const handleMapClick = ({ lat, lng, address }) => {
-    setMarkerPosition([lat, lng]);
-    setMarkerAddress(address);
-    setSelectedLocation({ locationId: address, coordinates: { lat, lng } });
-  };
-
-  const openReviewModal = () => {
-    setIsReviewModalOpen(true); // Open the modal when the Add Review button is clicked
-  };
-
-  const handleCloseModal = () => {
-    setIsReviewModalOpen(false); // Close the modal without changing marker position
+  const handleMapClick = ({ lat, lng, mode }) => {
+    if (mode === "Specific") {
+      setMarkerPosition([lat, lng]);
+    } else if (mode === "General") {
+      setCirclePosition([lat, lng]);
+    }
   };
 
   return (
@@ -126,10 +99,6 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
       />
-      <HeatLayer data={data} />
-      <ClickableMap onMapClick={handleMapClick} setZoomLevel={setZoomLevel} />
-
-      {firebaseMarkers.map((marker, index) => (
 
       <div style={{ position: 'absolute', top: 10, left: 10, zIndex: 1000, background: 'white', padding: '5px', borderRadius: '4px' }}>
         <label>Mode: </label>
@@ -157,6 +126,9 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
       <RecenterMap center={center} zoomLevel={zoomLevel} />
       <ClickableMap onMapClick={handleMapClick} setZoomLevel={setZoomLevel} mode={mode} />
 
+      {/* HeatLayer only rendered in "Heatmap" mode */}
+      {mode === "Heatmap" && data && data.length > 0 && <HeatLayer data={data} />}
+
       {mode === "Specific" && firebaseMarkers.map((marker, index) => (
         marker.coordinates && marker.coordinates.lat !== undefined && marker.coordinates.lng !== undefined ? (
           <Marker 
@@ -166,7 +138,7 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
             <Popup>
               <strong>{marker.locationId || "No address provided"}</strong> <br />
               Latitude: {marker.coordinates.lat}, Longitude: {marker.coordinates.lng} <br />
-              <AddReviewButton selectedLocation={{ locationId: marker.locationId, coordinates: marker.coordinates }} openReviewModal={openReviewModal} />
+              <AddReviewButton selectedLocation={{ locationId: marker.locationId, coordinates: marker.coordinates }} />
               <ViewReviewsButton fetchReviews={() => Promise.resolve(["Sample review 1", "Sample review 2"])} />
             </Popup>
           </Marker>
@@ -183,26 +155,13 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
       )}
 
       {mode === "Specific" && markerPosition && (
-      {markerPosition && (
         <Marker position={markerPosition}>
           <Popup>
             <strong>Latitude: {markerPosition[0]}, Longitude: {markerPosition[1]}</strong> <br />
-            <AddReviewButton
-              selectedLocation={selectedLocation}
-              openReviewModal={openReviewModal}
-            />
+            <AddReviewButton selectedLocation={{ locationId: "Selected Location", coordinates: { lat: markerPosition[0], lng: markerPosition[1] } }} />
             <ViewReviewsButton fetchReviews={() => Promise.resolve(["Sample review 1", "Sample review 2"])} />
           </Popup>
         </Marker>
-      )}
-
-      {/* Render the ReviewModal only when isReviewModalOpen is true */}
-      {isReviewModalOpen && (
-        <ReviewModal
-          isOpen={isReviewModalOpen}
-          onClose={handleCloseModal}
-          selectedLocation={selectedLocation}
-        />
       )}
     </MapContainer>
   );
