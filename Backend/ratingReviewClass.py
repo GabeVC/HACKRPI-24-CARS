@@ -31,7 +31,7 @@ class ratingReviewParse:
     
     def calcOverall(self):
         sum = self.mobility + self.language + self.sensory + self.vision
-        self.overallAccessibleScore = sum / 5.0
+        self.overallAccessibleScore = sum / 4.0
     
     def setQuality(self, value):
         self.qualityReview = float(value)
