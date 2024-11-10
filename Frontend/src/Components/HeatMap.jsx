@@ -1,4 +1,3 @@
-// src/Components/HeatMap.jsx
 import React, { useState, useEffect } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, Circle, useMapEvents, useMap } from 'react-leaflet';
 import { collection, getDocs } from 'firebase/firestore';
@@ -37,11 +36,13 @@ function HeatLayer({ data }) {
   return null;
 }
 
-function ClickableMap({ onMapClick, setZoomLevel, mode }) {
+function ClickableMap({ onMapClick, setZoomLevel, mode, isModalOpen }) {
   const map = useMapEvents({
     click(e) {
-      const { lat, lng } = e.latlng;
-      onMapClick({ lat, lng, mode });
+      if (!isModalOpen) { // Only trigger onMapClick if modal is closed
+        const { lat, lng } = e.latlng;
+        onMapClick({ lat, lng, mode });
+      }
     },
     zoomend(e) {
       setZoomLevel(e.target.getZoom());
@@ -66,6 +67,7 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
   const [firebaseMarkers, setFirebaseMarkers] = useState([]);
   const [markerPosition, setMarkerPosition] = useState(null);
   const [circlePosition, setCirclePosition] = useState(center);
+  const [isModalOpen, setIsModalOpen] = useState(false); // Track modal state
 
   useEffect(() => {
     const fetchLocations = async () => {
@@ -124,7 +126,7 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
       </div>
 
       <RecenterMap center={center} zoomLevel={zoomLevel} />
-      <ClickableMap onMapClick={handleMapClick} setZoomLevel={setZoomLevel} mode={mode} />
+      <ClickableMap onMapClick={handleMapClick} setZoomLevel={setZoomLevel} mode={mode} isModalOpen={isModalOpen} />
 
       {/* HeatLayer only rendered in "Heatmap" mode */}
       {mode === "Heatmap" && data && data.length > 0 && <HeatLayer data={data} />}
@@ -138,7 +140,10 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
             <Popup>
               <strong>{marker.locationId || "No address provided"}</strong> <br />
               Latitude: {marker.coordinates.lat}, Longitude: {marker.coordinates.lng} <br />
-              <AddReviewButton selectedLocation={{ locationId: marker.locationId, coordinates: marker.coordinates }} />
+              <AddReviewButton 
+                selectedLocation={{ locationId: marker.locationId, coordinates: marker.coordinates }}
+                setIsModalOpen={setIsModalOpen} // Pass state function to update modal status
+              />
               <ViewReviewsButton fetchReviews={() => Promise.resolve(["Sample review 1", "Sample review 2"])} />
             </Popup>
           </Marker>
@@ -158,7 +163,10 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
         <Marker position={markerPosition}>
           <Popup>
             <strong>Latitude: {markerPosition[0]}, Longitude: {markerPosition[1]}</strong> <br />
-            <AddReviewButton selectedLocation={{ locationId: "Selected Location", coordinates: { lat: markerPosition[0], lng: markerPosition[1] } }} />
+            <AddReviewButton 
+              selectedLocation={{ locationId: "Selected Location", coordinates: { lat: markerPosition[0], lng: markerPosition[1] } }}
+              setIsModalOpen={setIsModalOpen} // Pass state function to update modal status
+            />
             <ViewReviewsButton fetchReviews={() => Promise.resolve(["Sample review 1", "Sample review 2"])} />
           </Popup>
         </Marker>

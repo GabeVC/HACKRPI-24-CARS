@@ -19,8 +19,6 @@ const RegisterPage = () => {
         const userCredential = await createUserWithEmailAndPassword(auth, email, password);
         const user = userCredential.user;
         const queryParams = new URLSearchParams(location.search);
-        const redirect = queryParams.get('redirect');
-        const [path, gameId] = redirect.split('/');
         await setDoc(doc(db, 'users', user.uid), {
             userId: user.uid,
             username: username,
