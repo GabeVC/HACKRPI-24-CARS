@@ -1,3 +1,6 @@
+import json
+import uuid
+
 class ratingReviewParse:
     def __init__(self, id, locateId):
         self.id = id
@@ -9,7 +12,6 @@ class ratingReviewParse:
         self.reviewContent = ""
         self.qualityReview = 0.0
         self.overallAccessibleScore = 0.0
-        
         
     def setMobility(self, value):
         self.mobility = float(value)
@@ -35,16 +37,6 @@ class ratingReviewParse:
     
     def setQuality(self, value):
         self.qualityReview = float(value)
-        
-
-
-
-import json
-import uuid
-from ratingReviewClass import ratingReviewParse
-
-# Generate a random UUID
-unique_id = uuid.uuid4()
 
 # Load JSON data from file
 def load_json_data(filename="places_with_reviews.json"):
@@ -67,20 +59,33 @@ def convert_reviews_to_objects(data):
             # Set review content
             review_obj.setContent(review_data.get("review", ""))
             
-            # Assign values to accessibility categories based on keywords
-            accessibility_mentions = review_data.get("accessibility", {})
-            if "mobility" in accessibility_mentions:
-                review_obj.setMobility(1.0)  # Arbitrary value; you could use another metric
-            if "vision" in accessibility_mentions:
-                review_obj.setVision(1.0)
-            if "sensory" in accessibility_mentions:
-                review_obj.setSensory(1.0)
-            if "language" in accessibility_mentions:
-                review_obj.setLang(1.0)
-            
-            # Assign sentiment as quality score (1.0 for positive, 0.5 for neutral, 0.0 for negative)
             sentiment = review_data.get("sentiment")
             quality_score = 1.0 if sentiment == "positive" else 0.5 if sentiment == "neutral" else 0.0
+            
+            # Assign values to accessibility categories based on keywords
+            accessibility_mentions = review_data.get("accessibility", {})
+            
+            # Calculate mobility score based on keywords and quality score
+            if "mobility" in accessibility_mentions:
+                mobility_score = sum(quality_score for _ in accessibility_mentions["mobility"])
+                review_obj.setMobility(mobility_score % 5)
+            
+            # Calculate vision score based on keywords and quality score
+            if "vision" in accessibility_mentions:
+                vision_score = sum(quality_score for _ in accessibility_mentions["vision"])
+                review_obj.setVision(vision_score % 5)
+                
+            # Calculate sensory score based on keywords and quality score
+            if "sensory" in accessibility_mentions:
+                sensory_score = sum(quality_score for _ in accessibility_mentions["sensory"])
+                review_obj.setSensory(sensory_score % 5)
+                
+            # Calculate language score based on keywords and quality score
+            if "language" in accessibility_mentions:
+                language_score = sum(quality_score for _ in accessibility_mentions["language"])
+                review_obj.setLang(language_score % 5)
+            
+            # Set place rating as quality review score
             review_obj.setQuality(place_rating)
             
             # Calculate the overall score
@@ -96,7 +101,7 @@ def convert_reviews_to_objects(data):
                 "language": review_obj.language,
                 "reviewContent": review_obj.reviewContent,
                 "qualityReview": review_obj.qualityReview,
-                "overallAccessibleScore": review_obj.overallScore,
+                "overallAccessibleScore": review_obj.overallAccessibleScore,
             }
             review_objects.append(review_dict)
     
@@ -115,5 +120,3 @@ if __name__ == "__main__":
     # Print a summary of the first few objects for verification
     for review in review_objects:
         print(vars(review))
-
-            
