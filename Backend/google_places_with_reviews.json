@@ -1,621 +1,552 @@
 [
     {
-        "id": "ChIJTwZLUxLM0okRL8fvDw0NO8A",
-        "name": "Denny's",
-        "address": "10390 Bennett Rd, Fredonia, NY 14063, United States",
-        "latitude": 42.45409919999999,
-        "longitude": -79.3091757,
-        "rating": 4,
+        "id": "ChIJcelfIO9v2IkRMmQzCPpwVVw",
+        "name": "Sherman Street Elementary School",
+        "address": "836 Sherman St, Watertown, NY 13601, United States",
+        "latitude": 43.9635981,
+        "longitude": -75.91681729999999,
+        "rating": 4.1,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJvXr4BDnN0okRItf7fLqbv-A",
-        "name": "Totopos Mexican Grill",
-        "address": "3771 E Main St, Fredonia, NY 14063, United States",
-        "latitude": 42.450586,
-        "longitude": -79.3062832,
-        "rating": 3.9,
+        "id": "ChIJL0i0i_5v2IkR5S-V7lSBWco",
+        "name": "Immaculate Heart Central School - Primary Campus",
+        "address": "122 Winthrop St, Watertown, NY 13601, United States",
+        "latitude": 43.9723115,
+        "longitude": -75.9048534,
+        "rating": 3.3,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJZ5VcCBLM0okRjwW6xmoHurg",
-        "name": "Yokoso Japanese Steakhouse",
-        "address": "10370 Bennett Rd, Fredonia, NY 14063, United States",
-        "latitude": 42.4514722,
-        "longitude": -79.30796160000001,
-        "rating": 4.5,
+        "id": "ChIJE6WJ_ghw2IkR76ry1v9cOMs",
+        "name": "North Elementary School",
+        "address": "171 E Hoard St, Watertown, NY 13601, United States",
+        "latitude": 43.98692200000001,
+        "longitude": -75.9014383,
+        "rating": 4.7,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJnRhfkx7M0okREKPerY9w260",
-        "name": "Sullivan's Charbroil",
-        "address": "3590 E Main St, Fredonia, NY 14063, United States",
-        "latitude": 42.4560481,
-        "longitude": -79.2944658,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJoXMi14_L0okRNcUxNOcbIhw",
-        "name": "El Negocio Restaurant",
-        "address": "243 Lake Shore Dr E, Dunkirk, NY 14048, United States",
-        "latitude": 42.4903975,
-        "longitude": -79.3222076,
+        "id": "ChIJqTTB_aZ62IkR8TA0Se5xPgA",
+        "name": "Starbuck Elementary School",
+        "address": "430 E Hoard St, Watertown, NY 13601, United States",
+        "latitude": 43.9862232,
+        "longitude": -75.89698,
         "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ_y_qNKPN0okRfRkyoWR2gp8",
-        "name": "The Spot On The Lake",
-        "address": "19 Lake Shore Dr E, Dunkirk, NY 14048, United States",
-        "latitude": 42.487224,
-        "longitude": -79.3344376,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJi2F1h4HL0okRZRgf0rgpYBw",
-        "name": "Coughlan's Pub",
-        "address": "47 W Main St, Fredonia, NY 14063, United States",
-        "latitude": 42.439088,
-        "longitude": -79.332938,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJIRTFti_N0okRT3KvNpZOckM",
-        "name": "Fredonia Buddy Brewster\u2019s Ale House",
-        "address": "10450 Bennett Rd, Fredonia, NY 14063, United States",
-        "latitude": 42.4561815,
-        "longitude": -79.31017829999999,
+        "id": "ChIJk0u1UrN62IkR7ITf4vD2xRk",
+        "name": "Ohio Street School",
+        "address": "1537 Ohio St, Watertown, NY 13601, United States",
+        "latitude": 43.971623,
+        "longitude": -75.8833381,
         "rating": 4.1,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ3e99rgPN0okRy-ibE_ZmNUo",
-        "name": "Shorty's kitchen",
-        "address": "3962 Vineyard Dr, Dunkirk, NY 14048, United States",
-        "latitude": 42.4596972,
-        "longitude": -79.3186308,
+        "id": "ChIJuwxv05Jv2IkRwiJaOj1NWas",
+        "name": "Harold T Wiley School",
+        "address": "1351 Washington St, Watertown, NY 13601, United States",
+        "latitude": 43.955832,
+        "longitude": -75.9102551,
+        "rating": 4.1,
+        "analyzed_reviews": [
+            {
+                "review": "okay. 1: the meals are disgusting!!! 2: the kids are pretty retarded 3: to many bullies!! 4: the teachers don't care at all 5: 5th graders get only 1 break per day! but I've learned a lot. I'm a quiet unnoticeable kid. so it's easy to avoided these \"issues\" it's a nice school in all but it has some problems....",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ5f4AT_Fv2IkRGAs5f8-PKoo",
+        "name": "Knickerbocker School",
+        "address": "739 Knickerbocker Dr, Watertown, NY 13601, United States",
+        "latitude": 43.96207159999999,
+        "longitude": -75.9055958,
         "rating": 4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJFQ5EuGvM0okRS4Gj2S3WjjY",
-        "name": "El Azteca Restaurant",
-        "address": "3953 Vineyard Dr, Dunkirk, NY 14048, United States",
-        "latitude": 42.4574168,
-        "longitude": -79.3171143,
-        "rating": 4.3,
+        "id": "ChIJDxLP97dv2IkRcLj3hd4EejM",
+        "name": "Immaculate Heart Central School - Jr./Sr. High School",
+        "address": "1316 Ives St, Watertown, NY 13601, United States",
+        "latitude": 43.9592441,
+        "longitude": -75.93288220000001,
+        "rating": 4.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJNZ6z5GrM0okRb8_sUbq06Ik",
-        "name": "Applebee's Grill + Bar",
-        "address": "3908 Vineyard Dr, Dunkirk, NY 14048, United States",
-        "latitude": 42.4595944,
-        "longitude": -79.31491129999999,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJLTGDcdTL0okRl8wv52_COvM",
-        "name": "Campano's Cucina",
-        "address": "31 E Main Rd, Fredonia, NY 14063, United States",
-        "latitude": 42.44033049999999,
-        "longitude": -79.3301315,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJOa9jVhXL0okRjqzNke3DST0",
-        "name": "Angry Squirrel",
-        "address": "36 W Main St, Fredonia, NY 14063, United States",
-        "latitude": 42.4391157,
-        "longitude": -79.3322752,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJn88VqdcE4agRbHFCmj2jahQ",
-        "name": "The Meltdown",
-        "address": "10390 Bennett Rd, Fredonia, NY 14063, United States",
-        "latitude": 42.454102,
-        "longitude": -79.3091666,
+        "id": "ChIJD7ekVQZw2IkRJHoPpM3swRs",
+        "name": "Watertown City School District",
+        "address": "1351 Washington St, Watertown, NY 13601, United States",
+        "latitude": 43.9560193,
+        "longitude": -75.9099961,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJZQpfT4HL0okRMortBGjGckI",
-        "name": "Fred's",
-        "address": "22 Water St, Fredonia, NY 14063, United States",
-        "latitude": 42.4397122,
-        "longitude": -79.33038309999999,
+        "id": "ChIJS4w8ce1v2IkRaIZ6wexAGEA",
+        "name": "Case Middle School",
+        "address": "1237 Washington St, Watertown, NY 13601, United States",
+        "latitude": 43.95906009999999,
+        "longitude": -75.9121627,
+        "rating": 3.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJe2BgEk5l2IkRYk0ncJzEzkM",
+        "name": "Faith Fellowship Christian School",
+        "address": "131 Moore Ave #100d, Watertown, NY 13601, United States",
+        "latitude": 43.9675839,
+        "longitude": -75.88742979999999,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJqVMY0vJv2IkRA4yFZFOK2j4",
+        "name": "Watertown High School",
+        "address": "1335 Washington St, Watertown, NY 13601, United States",
+        "latitude": 43.9573284,
+        "longitude": -75.9125974,
+        "rating": 2.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJOf2wM0Vx2IkRQPqTMRWzn0c",
+        "name": "Glen Park/Brownville Elementary School",
+        "address": "771 Main St, Glen Park, NY 13601, United States",
+        "latitude": 44.0008263,
+        "longitude": -75.9712382,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJVVVVOI1v2IkRNkTBc3ck-2Y",
+        "name": "Wiley Intermediate School",
+        "address": "1351 Washington St, Watertown, NY 13601, United States",
+        "latitude": 43.9558359,
+        "longitude": -75.91026620000001,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJuwxv05Jv2IkRJer-IphBPYs",
+        "name": "Watertown Special Education",
+        "address": "1351 Washington St, Watertown, NY 13601, United States",
+        "latitude": 43.955832,
+        "longitude": -75.9102551,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ0VJfCq9v2IkRQ5zxIz3WcI8",
+        "name": "Music Education Centers of Watertown",
+        "address": "169 Polk St, Watertown, NY 13601, United States",
+        "latitude": 43.9743882,
+        "longitude": -75.9069009,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJf40Xir7r2IkRCv-By1lJOpQ",
+        "name": "Jefferson-Lewis BOCES",
+        "address": "20104 Arsenal St, Watertown, NY 13601, United States",
+        "latitude": 43.9699641,
+        "longitude": -75.9714946,
+        "rating": 3.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ2TsETz1u2IkRgSLV3rBKGNs",
+        "name": "The Sensory Nook",
+        "address": "20255 State Rte 3, Watertown, NY 13601, United States",
+        "latitude": 43.9731139,
+        "longitude": -75.9685989,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJz4e9kTJ62IkRdb_pq0BqLLM",
+        "name": "Calcium Primary School",
+        "address": "25440 Indian River Dr, Calcium, NY 13616, United States",
+        "latitude": 44.0337578,
+        "longitude": -75.854725,
         "rating": 4.6,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJrVl6aYzL0okR4nTTw6wWb9Q",
-        "name": "Dupers LLC",
-        "address": "33 Church St, Fredonia, NY 14063, United States",
-        "latitude": 42.4400669,
-        "longitude": -79.3333095,
-        "rating": 4.7,
+        "id": "ChIJFzvi5rpx2IkRZZBZtSQIZ-w",
+        "name": "Old Cooper Street School",
+        "address": "518 Davidson St, Watertown, NY 13601, United States",
+        "latitude": 43.9806427,
+        "longitude": -75.9089133,
+        "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJc9dd_ibL0okRelo2Mk69Yu0",
-        "name": "64 On The Rocks",
-        "address": "64 W Main St, Fredonia, NY 14063, United States",
-        "latitude": 42.4384905,
-        "longitude": -79.3326933,
-        "rating": 4.3,
+        "id": "ChIJ_f1W54Rv2IkRRlWTK3j8lz8",
+        "name": "Ms. Esther's NeighborSchool",
+        "address": "309 Thompson Blvd, Watertown, NY 13601, United States",
+        "latitude": 43.9611211,
+        "longitude": -75.9013167,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJYQ7Ee4HL0okRGOiyVYLYApc",
-        "name": "DeJohn's Italian Spaghetti House",
-        "address": "26 W Main St, Fredonia, NY 14063, United States",
-        "latitude": 42.4393504,
-        "longitude": -79.3322014,
-        "rating": 4.4,
+        "id": "ChIJZ-cTOVdl2IkRxbw4p_qbKeE",
+        "name": "Watertown City School District",
+        "address": "Watertown City School District, NY, USA",
+        "latitude": 43.9635697,
+        "longitude": -75.8882508,
+        "rating": null,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJu8FqMWLM0okRrVhEoMB9C0I",
-        "name": "China King",
-        "address": "1170 Central Ave, Dunkirk, NY 14048, United States",
-        "latitude": 42.4577228,
-        "longitude": -79.33274800000001,
-        "rating": 3.8,
+        "id": "ChIJAQCEMeBv2IkR-rWn8l6O_HE",
+        "name": "Conley's Flight School",
+        "address": "451 Arsenal St, Watertown, NY 13601, United States",
+        "latitude": 43.9762471,
+        "longitude": -75.9205712,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ8477gIHL0okRKOU6JbPCFJc",
-        "name": "Domus Fare",
-        "address": "41 W Main St, Fredonia, NY 14063, United States",
-        "latitude": 42.4391936,
-        "longitude": -79.3328138,
-        "rating": 4.7,
+        "id": "ChIJfRTdD05l2IkRT1qEZ46wYAQ",
+        "name": "Faith Fellowship School District",
+        "address": "131 Moore Ave #100c, Watertown, NY 13601, United States",
+        "latitude": 43.9675728,
+        "longitude": -75.8873282,
+        "rating": 3,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ-7Dpy4PL0okR6yNdWlAqC0M",
-        "name": "Lena's Pizza, Subs & Wings - Fredonia NY",
-        "address": "18 Canadaway St, Fredonia, NY 14063, United States",
-        "latitude": 42.43805,
-        "longitude": -79.332219,
+        "id": "ChIJPSdetxdu2IkRfUKYMmlE_mU",
+        "name": "Charles H. Bohlen Technical Center",
+        "address": "20104 State Rte 3, Watertown, NY 13601, United States",
+        "latitude": 43.97017770000001,
+        "longitude": -75.96978539999999,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJm08fmC5w2IkR9C32rq86lWo",
+        "name": "Bright Beginnings Preschool",
+        "address": "420 Gaffney Dr, Watertown, NY 13601, United States",
+        "latitude": 43.9852944,
+        "longitude": -75.9397997,
+        "rating": 3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJwWyvG3N82IkRzB2Jb3Pg614",
+        "name": "Black River Elementary School",
+        "address": "160 Leray St, Black River, NY 13612, United States",
+        "latitude": 44.0159454,
+        "longitude": -75.7986226,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ2Q7pKBZu2IkRZUoVBe7joKk",
+        "name": "Jefferson-Lewis BOCES Adult Education Department",
+        "address": "20104 State Rte 3, Watertown, NY 13601, United States",
+        "latitude": 43.9709587,
+        "longitude": -75.9698057,
         "rating": 4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJl1QwqwDN0okRQQPvIBnbb0w",
-        "name": "Spike Dailey's",
-        "address": "18 Central Ave, Dunkirk, NY 14048, United States",
-        "latitude": 42.4877705,
-        "longitude": -79.3353277,
+        "id": "ChIJXdNftxdu2IkRImqjWGK9Zes",
+        "name": "Jefferson-Lewis-Hamilton",
+        "address": "20104 State Rte 3, Watertown, NY 13601, United States",
+        "latitude": 43.9709586,
+        "longitude": -75.9698057,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJU2jjWblv2IkRiIao52O4fc4",
+        "name": "ABLE 2 Driving School",
+        "address": "6300 Arsenal St, Watertown, NY 13601, United States",
+        "latitude": 43.9744728,
+        "longitude": -75.9521303,
+        "rating": 3.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJs-OTScNz2IkRQRUhLcxFO8k",
+        "name": "Dexter Elementary School",
+        "address": "415 E Grove St, Dexter, NY 13634, United States",
+        "latitude": 44.01184629999999,
+        "longitude": -76.0379111,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJV9-mTDN_2IkRtZL9lKxTtmo",
+        "name": "Evans Mills Primary School",
+        "address": "8438 Leray St, Evans Mills, NY 13637, United States",
+        "latitude": 44.085926,
+        "longitude": -75.8067092,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJjdvaT8142IkRh-M-Sjcu2cY",
+        "name": "Evans Mills Elementary School",
+        "address": "8442 S Main St, Evans Mills, NY 13637, United States",
+        "latitude": 44.0853432,
+        "longitude": -75.8074943,
         "rating": 4.6,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJg-9_AOnL0okRLF3YLnW1qBc",
-        "name": "Arctic Bites Fredonia",
-        "address": "44 W Main St, Fredonia, NY 14063, United States",
-        "latitude": 42.438972,
-        "longitude": -79.332516,
+        "id": "ChIJ6fpZ6Phv2IkRd_4Ge-Hqa0w",
+        "name": "Davidson Service Technician Training Program",
+        "address": "18375 US-11, Watertown, NY 13601, United States",
+        "latitude": 43.9324027,
+        "longitude": -75.9378414,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJbZ7rxh9x2IkR73-exMdkwAw",
+        "name": "Deans Collaborative Learning Center - Building 15",
+        "address": "1220 Coffeen St, Watertown, NY 13601, United States",
+        "latitude": 43.9915449,
+        "longitude": -75.93424139999999,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJc0W_tBLZKUAR9nD0p0gK9O0",
+        "name": "Take Angels Aviation - NNY Flys",
+        "address": "444 Vanduzee St, Watertown, NY 13601, United States",
+        "latitude": 43.9869233,
+        "longitude": -75.92388350000002,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJzbEGQz1u2IkRlMkMPGPLE10",
+        "name": "NNY Creative Minds",
+        "address": "646 Coffeen St, Watertown, NY 13601, United States",
+        "latitude": 43.9821854,
+        "longitude": -75.9243276,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJkbs8Utt62IkRq38rO4p7iow",
+        "name": "School of Tone",
+        "address": "25355 State Rte 3, Watertown, NY 13601, United States",
+        "latitude": 43.9839765,
+        "longitude": -75.86369549999999,
         "rating": 4.3,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ04tFlqrN0okRpWR0N24J62Y",
-        "name": "Central Station Restaurant",
-        "address": "332 Central Ave, Dunkirk, NY 14048, United States",
-        "latitude": 42.4837972,
-        "longitude": -79.3343082,
-        "rating": 4.6,
+        "id": "ChIJB1DgwTxq2IkRGgOLtokatjw",
+        "name": "Maynard P. Wilson Elementary School",
+        "address": "13180 US-11, Adams Center, NY 13606, United States",
+        "latitude": 43.85869049999999,
+        "longitude": -76.005078,
+        "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ4fmcfoHL0okRBpCfL-oSubM",
-        "name": "Ellicottville Brewing Company Fredonia",
-        "address": "34 W Main St, Fredonia, NY 14063, United States",
-        "latitude": 42.4391965,
-        "longitude": -79.3322525,
+        "id": "ChIJ-XwBP0tl2IkRN2H9PR3uyeQ",
+        "name": "Benchmark Family Services, Inc.",
+        "address": "1635 Ohio St, Watertown, NY 13601, United States",
+        "latitude": 43.9708666,
+        "longitude": -75.8808172,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ7bwPQi5w2IkRhNO9eIP8ns4",
+        "name": "Jefferson Community College",
+        "address": "1220 Coffeen St, Watertown, NY 13601, United States",
+        "latitude": 43.992231,
+        "longitude": -75.934691,
         "rating": 4.3,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ-RdZQLzN0okRNsipXByqDqQ",
-        "name": "Beach House Bar & Grille",
-        "address": "Wright Park Dr, Dunkirk, NY 14048, United States",
-        "latitude": 42.497493,
-        "longitude": -79.319913,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJVYr7QavN0okRZzreKaRtaRA",
-        "name": "Jenna's 4th St Cafe",
-        "address": "112 E 4th St, Dunkirk, NY 14048, United States",
-        "latitude": 42.4838221,
-        "longitude": -79.3307727,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJEVS_L5w0LYgR-rLsDgjb_4Y",
-        "name": "White Village Restaurant",
-        "address": "5362 W Lake Rd, Dunkirk, NY 14048, United States",
-        "latitude": 42.44759639999999,
-        "longitude": -79.41034789999999,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJy5nfx9Cr0okRt0BsOGF60lA",
-        "name": "Davidson's Family Restaurant",
-        "address": "398 E Fairmount Ave, Lakewood, NY 14750, United States",
-        "latitude": 42.0977924,
-        "longitude": -79.29647659999999,
-        "rating": 4.6,
-        "analyzed_reviews": [
-            {
-                "review": "Food was delicious. Atmosphere nice, dividers gave some privacy and reduced noise around us. Server, Karen was awesome. Gave us recommendations as it was our first time. Very friendly, honest and timely.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "noise"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJYzaJs1AS04kRLUSVCVuIx_Y",
-        "name": "Mothers Restaurant",
-        "address": "33 Virginia Pl, Buffalo, NY 14202, United States",
-        "latitude": 42.89770679999999,
-        "longitude": -78.8734109,
+        "id": "ChIJ-wLHdddv2IkRn_ku37_qWmo",
+        "name": "Watertown Music Studio",
+        "address": "1035 Arsenal St Suite B, Watertown, NY 13601, United States",
+        "latitude": 43.976645,
+        "longitude": -75.9357484,
         "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ_0FLNi8b04kRL-Lx1NfcuYQ",
-        "name": "Waterstone Grill",
-        "address": "3679 Commerce Pl, Hamburg, NY 14075, United States",
-        "latitude": 42.7407437,
-        "longitude": -78.84814229999999,
-        "rating": 4.3,
+        "id": "ChIJlSxx6ARw2IkREOhIjTMeoKI",
+        "name": "Our Lady of the Sacred Heart",
+        "address": "320 W Lynde St, Watertown, NY 13601, United States",
+        "latitude": 43.9819357,
+        "longitude": -75.9098351,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJx3pixDwT04kReaBpp7_G4O4",
-        "name": "Taqueria Ranchos Dos",
-        "address": "445 Delaware Ave, Buffalo, NY 14202, United States",
-        "latitude": 42.8963579,
-        "longitude": -78.8746013,
-        "rating": 4.3,
-        "analyzed_reviews": [
-            {
-                "review": "I\u2019ve been here many of times, the place is bumpin and the food is great. They are honest with the food and really care about the customers experience. Sitting outside is lovely on a warm day being inside can be overwhelming on a DJ night but overall is nice for young people. Birthdays here are next level and they give you a hat to wear and dessert to share. All and all 10/10 been coming back and gonna stay coming back",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "overwhelming"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJeah7CNSo0okRbeBRI7CAtiE",
-        "name": "Bob Evans",
-        "address": "2798 N Main Street Ext, Jamestown, NY 14701, United States",
-        "latitude": 42.119253,
-        "longitude": -79.24016300000001,
-        "rating": 4.1,
+        "id": "ChIJ83QPsvxv2IkRaqili1j6f1I",
+        "name": "First Step Day Care INC",
+        "address": "317 Washington St # 34, Watertown, NY 13601, United States",
+        "latitude": 43.9716604,
+        "longitude": -75.91052979999999,
+        "rating": 3.7,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJU_JU6cCo0okR6iYlEi9vGeE",
-        "name": "The Coffee Cup",
-        "address": "902 E 2nd St, Jamestown, NY 14701, United States",
-        "latitude": 42.1055354,
-        "longitude": -79.2242023,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJoRPYnpYa04kR6q5X33k4pYY",
-        "name": "Hoak's",
-        "address": "4100 Lake Shore Rd, Hamburg, NY 14075, United States",
-        "latitude": 42.7731108,
-        "longitude": -78.8642854,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJp8_j5mZy04kR_iGfm3Px3Ro",
-        "name": "Taste of India",
-        "address": "3192 Sheridan Dr, Buffalo, NY 14226, United States",
-        "latitude": 42.9810817,
-        "longitude": -78.81526459999999,
-        "rating": 3.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJIy5PpOgb04kRX4tLWFhu3sw",
-        "name": "Wanakah Grill",
-        "address": "2293 Pleasant Ave, Lake View, NY 14085, United States",
-        "latitude": 42.7293886,
-        "longitude": -78.91702939999999,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJC7vJFSObLIgRvW6D0cSCij4",
-        "name": "Amigos Tex-Mex",
-        "address": "109 George St, Hamilton, ON L8P 1E3, Canada",
-        "latitude": 43.2582858,
-        "longitude": -79.878669,
-        "rating": 4.4,
-        "analyzed_reviews": [
-            {
-                "review": "I went here for dinner with a friend on a weekday evening. I ordered the Amigos Famous Wrap Cruncho Supremo and it was delicious! I like that it came with chips and salsa. The portion size was pretty good for the price too.\n\nOur server was great as well. She was very friendly and helpful.\n\nThe overall atmosphere was cool with the lights hanging from the ceiling. We didn\u2019t sit outside on the patio but it appeared to have an equally cool vibe to it.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "lights"
-                    ]
-                }
-            },
-            {
-                "review": "With a very colorful exterior and a well furnished interior, once you walk in you're hit with the loud music and chatter. If you're looking for a place to have a quiet dinner this is not the place as it's just bursting with energy.\n\nWe were immediately seated with the lovely staff. If you take a look around you can see the kitchen and the cooks working right in front of you which is a nice touch.\n\nWe ordered the loaded nachos as an appetizer  and the birria tacos, enchiladas, and quesadillas as our entree.\n\nI feel 20 dollars for nachos is a bit steep but everything else was reasonably priced.\n\nThe food was great but I wouldn't call it the best Mexican food I've ever had. I will say though I loved the enchiladas and if I came back here that would probably be my go to order.\n\nWe didn't order any drinks but they do have a bar you can sit at if this is your thing.\n\nIf I'm ever in the area again I'll definitely be stopping by.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "quiet"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJU4CbzomYLIgRUR7JQqYjghA",
-        "name": "The Powerhouse",
-        "address": "21 Jones St, Stoney Creek, ON L8G 3H9, Canada",
-        "latitude": 43.21694290000001,
-        "longitude": -79.7541399,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJz3txaZybLIgRu9pVkCELuzw",
-        "name": "The Ship",
-        "address": "23 Augusta St, Hamilton, ON L8N 1P6, Canada",
-        "latitude": 43.2520915,
-        "longitude": -79.8700199,
+        "id": "ChIJ2x5nC41v2IkRylxFpBZSfIA",
+        "name": "The Wiley School Trails",
+        "address": "Watertown, NY 13601, United States",
+        "latitude": 43.9548685,
+        "longitude": -75.90993019999999,
         "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJKWcgb8FD04kRVm9enwsr6xs",
-        "name": "Flavors & Spices",
-        "address": "5500 Victoria Ave, Niagara Falls, ON L2G 3L2, Canada",
-        "latitude": 43.0948408,
-        "longitude": -79.0724798,
-        "rating": 4.6,
+        "id": "ChIJ2Y6Y2AVw2IkRknyHj3YhjCc",
+        "name": "Dance World",
+        "address": "680 Mill St, Watertown, NY 13601, United States",
+        "latitude": 43.9829061,
+        "longitude": -75.9055222,
+        "rating": 4.8,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJTUOkBoebLIgRdTlyHxHxpkA",
-        "name": "Born & Raised",
-        "address": "224 James St N, Hamilton, ON L8R 2L3, Canada",
-        "latitude": 43.2623778,
-        "longitude": -79.8663995,
-        "rating": 4.4,
+        "id": "ChIJGyMaqPxv2IkRu30dp1Z87OM",
+        "name": "Trillium Performing Arts Center",
+        "address": "403 Washington St, Watertown, NY 13601, United States",
+        "latitude": 43.9710374,
+        "longitude": -75.91084409999999,
+        "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ2ez86pMVK4gRmQ7ydwwGXGY",
-        "name": "Munchers",
-        "address": "10 Flowertown Ave Unit 11, Brampton, ON L6X 2J9, Canada",
-        "latitude": 43.68210699999999,
-        "longitude": -79.77995399999999,
-        "rating": 4.4,
+        "id": "ChIJvcECCGdx2IkR0rcuirmI_mw",
+        "name": "First Student Inc.",
+        "address": "Watertown, NY 13601, United States",
+        "latitude": 43.9978953,
+        "longitude": -75.9172586,
+        "rating": 1.9,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ_-etCE81K4gRyTsn9avI36k",
-        "name": "Tut's Egyptian Street Food",
-        "address": "567 King St W, Toronto, ON M5V 1M1, Canada",
-        "latitude": 43.6443887,
-        "longitude": -79.3994032,
-        "rating": 4.4,
+        "id": "ChIJY9jdSx1w2IkRpS4i-t9KONU",
+        "name": "Tehonica's Taekwondo & Hapkido",
+        "address": "210 Court St #6, Watertown, NY 13601, United States",
+        "latitude": 43.97684890000001,
+        "longitude": -75.9123992,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJr6EITaE1K4gRuXbV5EoAjOo",
-        "name": "RUNWAY06",
-        "address": "132 John St, Toronto, ON M5V 2E3, Canada",
-        "latitude": 43.6486764,
-        "longitude": -79.3908009,
-        "rating": 4.5,
+        "id": "ChIJhT0xBv1v2IkRVBHtxWbhQ24",
+        "name": "Craig Sirianni Vocal Studios",
+        "address": "245 W Flower Ave, Watertown, NY 13601, United States",
+        "latitude": 43.9671922,
+        "longitude": -75.9180418,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJQY_nP9I0K4gRj0Fo9reXGQ4",
-        "name": "Earls Kitchen + Bar",
-        "address": "150 King St W #100, Toronto, ON M5H 1J9, Canada",
-        "latitude": 43.6480411,
-        "longitude": -79.38439629999999,
-        "rating": 4.3,
+        "id": "ChIJ-TsclBlw2IkRrQbVgM_94Lo",
+        "name": "General Brown Central School District",
+        "address": "17643 Cemetery Rd, Dexter, NY 13634, United States",
+        "latitude": 44.0147226,
+        "longitude": -76.0199773,
+        "rating": 2.8,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ61G1yy5HK4gR1OXbj2vB0tA",
-        "name": "Reds Square One",
-        "address": "100 City Centre Drive, 815 Square One Dr Unit #2, Mississauga, ON L5B 2C9, Canada",
-        "latitude": 43.59375199999999,
-        "longitude": -79.643242,
-        "rating": 4.2,
-        "analyzed_reviews": [
-            {
-                "review": "Natalie was our waitress, she was great.\nThe place was well lit, and I had asked when making reservation for a quiet booth; well received!\nIt was our first time there, and we were so impressed.\nThe food; DELICIOUS, Drinks-Amazing.\nI had the Old fashioned drink, and  cheese ravioli w shrimp, and hubby had the whisky sour drink, and  steak w lobster sushi; we Highly recommend it.\nWe will be back.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "quiet"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJUZ1jp405K4gRthInBq4YQMU",
-        "name": "Boston Pizza",
-        "address": "5 Carlson Ct, Etobicoke, ON M9W 6A2, Canada",
-        "latitude": 43.6888206,
-        "longitude": -79.58582190000001,
-        "rating": 3.9,
+        "id": "ChIJg_AwuBIT2IkRHnenuGvGp0A",
+        "name": "Sackets Harbor Central School",
+        "address": "215 S Broad St, Sackets Harbor, NY 13685, United States",
+        "latitude": 43.9432966,
+        "longitude": -76.12106179999999,
+        "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJybVAu900K4gRAyx0LHXMRN4",
-        "name": "La Palette",
-        "address": "492 Queen St W, Toronto, ON M5V 2B2, Canada",
-        "latitude": 43.64791959999999,
-        "longitude": -79.4009761,
-        "rating": 4.5,
+        "id": "ChIJuR48SJ5v2IkRg_iXubAfVyw",
+        "name": "Janine M. Johnson Piano Studio",
+        "address": "169 Polk St, Watertown, NY 13601, United States",
+        "latitude": 43.97431599999999,
+        "longitude": -75.906717,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJCaWZbFTN1IkRqkQXwok_zxc",
-        "name": "RUDY",
-        "address": "1330 Danforth Ave, Toronto, ON M4J 1M9, Canada",
-        "latitude": 43.6822873,
-        "longitude": -79.329257,
-        "rating": 4.2,
+        "id": "ChIJLwovdJMM2IkRBcSXuaqpmbU",
+        "name": "Genesis Elementary School",
+        "address": "12749 NY-12E, Chaumont, NY 13622, United States",
+        "latitude": 44.0593243,
+        "longitude": -76.1158698,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ61DjDTLL1IkR32L7tu79_UU",
-        "name": "Chachu's",
-        "address": "113 Bond St, Toronto, ON M5B 1Y2, Canada",
-        "latitude": 43.6571903,
-        "longitude": -79.3783823,
-        "rating": 4.6,
-        "analyzed_reviews": [
-            {
-                "review": "Great Pakistani fusion restaurant downtown! The meat are so tender and marinated beautifully. We had a lovely conversation with the owner and you can tell the food and the business was driven full of passion. The restaurant was located in the basement and I would have preferred a more open and accessible place. The food portions were small but overall a really good spot!",
-                "sentiment": "positive",
-                "accessibility": {
-                    "mobility": [
-                        "accessible"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJ56Uwdis_K4gR2fOwc_w_7No",
-        "name": "Tandoori Boys",
-        "address": "7171 Torbram Rd Unit C5, Mississauga, ON L4T 3W4, Canada",
-        "latitude": 43.6981411,
-        "longitude": -79.6569705,
-        "rating": 4.5,
+        "id": "ChIJaQVCLtNv2IkRBMO17BQ6aU4",
+        "name": "Staples",
+        "address": "1283 Arsenal St #16, Watertown, NY 13601, United States",
+        "latitude": 43.9736726,
+        "longitude": -75.9458769,
+        "rating": 4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ_0CAst40K4gRjafxFNhlago",
-        "name": "Myth",
-        "address": "522 King St W, Toronto, ON M5V 1L7, Canada",
-        "latitude": 43.6452414,
-        "longitude": -79.39740429999999,
+        "id": "ChIJyatgkmMM2IkRZ_OvblQiZ8w",
+        "name": "Lyme Central School",
+        "address": "11868 Academy St, Chaumont, NY 13622, United States",
+        "latitude": 44.0666468,
+        "longitude": -76.1346221,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ249YjyVw2IkRYOARPGHX8Nk",
+        "name": "St. Lawrence Scuba Co.",
+        "address": "1035 Coffeen St, Watertown, NY 13601, United States",
+        "latitude": 43.9851635,
+        "longitude": -75.9344435,
+        "rating": 4.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJL6cRIaOJ2IkRCtr_LFqV0K0",
+        "name": "Copenhagen Central School",
+        "address": "3020 Mechanic St, Copenhagen, NY 13626, United States",
+        "latitude": 43.8920503,
+        "longitude": -75.677582,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJqR41P18qzUwR-M5RtTw08EI",
+        "name": "Indian River Intermediate School",
+        "address": "32430 US-11, Philadelphia, NY 13673, United States",
+        "latitude": 44.1342378,
+        "longitude": -75.721789,
         "rating": 4.2,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJCTdNZa-11okRv5CMDiCeunQ",
-        "name": "CRISP Rochester",
-        "address": "819 S Clinton Ave, Rochester, NY 14620, United States",
-        "latitude": 43.1417481,
-        "longitude": -77.59817629999999,
-        "rating": 4.4,
-        "analyzed_reviews": [
-            {
-                "review": "This was our first time dining at this little place in the South Wedge. It was Friday night and busy.  We were able to make reservations online fairly easily, but our table wasn't ready when we arrived, so we ate outside (reservations recommended for this seating too) instead of waiting 15 minutes or so. There was only one waiter, and we sat for almost 15 minutes without even a glass of water. He was nice when he came, but we spent a good portion of the evening trying to get his attention.\n\nWe tried the brie and goat cheese with bread ( toast points). It was warm but surprisingly sweet.  I think the goat was mixed with something like an apricot jelly,  which made a good spread.  The brie separately (it was laid in strips on top) was good but just a strange mix with the jelly concoction.\n\nOne of us had Buffalo chicken Mac and cheese served cold.  By the time it was heated and returned, the rest of us had almost finished eating.    It was surprisingly tasty.  My BBQ pulled pork sandwich was also very good - nice and tender. Another companion had shrimp and grits.  After recently vacationing in the southeast,  this was unimpressive. It really did not look like pictured in the online menu,  and he noted very little cheese and three shrimp.\n\nIt was fun eating outside.  It got pretty dark so it was difficult to read the check when it was time to go.  They were hesitant to turn on the lighting,  and I could see why.  When they did,  it changed the mood.  The LED lights were harsh,  and it felt like we were sitting in a refrigerated display.  Maybe some goofy white Christmas lights would suit better.  Overall,  we enjoyed our experience enough to return.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "lights"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJN5ARE6U0K4gReXlsVKn60L4",
-        "name": "ONE Restaurant",
-        "address": "116 Yorkville Ave, Toronto, ON M5R 1C2, Canada",
-        "latitude": 43.6708872,
-        "longitude": -79.393307,
-        "rating": 4.2,
-        "analyzed_reviews": [
-            {
-                "review": "Have eaten here many times even for birthday dinners and the food is excellent. I like to go on the more quiet days since it is a busy social hub in the summer especially on the patio and inside can her packed as well. Despite whether its busy or quiet the atmosphere is wonderful. Its definitely a vibe.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "quiet"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJn1t8if1004kRyYLxaBRkyJM",
-        "name": "Angry Buffalo @ The Rose Garden",
-        "address": "2753 Wehrle Dr, Williamsville, NY 14221, United States",
-        "latitude": 42.9561397,
-        "longitude": -78.6843837,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJxQ-GvDRBK4gRTLKEwPZn4sE",
-        "name": "Tremendous Chinese Restaurant",
-        "address": "3550 Wolfedale Rd, Mississauga, ON L5C 2V6, Canada",
-        "latitude": 43.573099,
-        "longitude": -79.65101899999999,
-        "rating": 3.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJc0n1DIo1K4gRP1ahExjPcVs",
-        "name": "The Bombay",
-        "address": "259 Queen St W Unit 2A, Toronto, ON M5V 1Z4, Canada",
-        "latitude": 43.6501317,
-        "longitude": -79.38904470000001,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJbYdXd-wL04kRfXgRzOHVJkQ",
-        "name": "Andale 2 Mexican Restaurant & Bar",
-        "address": "1402 French Rd, Depew, NY 14043, United States",
-        "latitude": 42.8683224,
-        "longitude": -78.7002242,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJr_tCsVg1K4gREHA5C-YHJys",
-        "name": "A\u00f1ejo Restaurant",
-        "address": "600 King St W, Toronto, ON M5V 1M3, Canada",
-        "latitude": 43.6447447,
-        "longitude": -79.39998109999999,
-        "rating": 4.4,
+        "id": "ChIJj0nwHPiG2IkRw-LyqgstEU0",
+        "name": "West Carthage Elementary School",
+        "address": "21568 Cole Rd, Carthage, NY 13619, United States",
+        "latitude": 43.98040659999999,
+        "longitude": -75.655593,
+        "rating": 4.8,
         "analyzed_reviews": []
     }
 ]

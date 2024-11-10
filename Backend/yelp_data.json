@@ -12,22 +12,7 @@
             "Sandwiches",
             "Breakfast & Brunch",
             "American"
-        ],
-        "reviews": []
-    },
-    {
-        "id": "vvBtPsLbVEhriuhwgKfn3w",
-        "name": "Jacob Alejandro",
-        "rating": 4.6,
-        "review_count": 86,
-        "phone": "",
-        "address": "274 River St, Troy, NY 12180",
-        "latitude": 42.73201241312373,
-        "longitude": -73.69098192035293,
-        "categories": [
-            "Coffee & Tea"
-        ],
-        "reviews": []
+        ]
     },
     {
         "id": "yNQOQiDq370xVUcckFcILg",
@@ -42,8 +27,7 @@
             "Breakfast & Brunch",
             "Coffee & Tea",
             "Vegan"
-        ],
-        "reviews": []
+        ]
     },
     {
         "id": "Gc7hSgl-eRrDuYsh0wNdmg",
@@ -58,8 +42,20 @@
             "Cafes",
             "Wine Bars",
             "Tapas/Small Plates"
-        ],
-        "reviews": []
+        ]
+    },
+    {
+        "id": "vvBtPsLbVEhriuhwgKfn3w",
+        "name": "Jacob Alejandro",
+        "rating": 4.6,
+        "review_count": 86,
+        "phone": "",
+        "address": "274 River St, Troy, NY 12180",
+        "latitude": 42.73201241312373,
+        "longitude": -73.69098192035293,
+        "categories": [
+            "Coffee & Tea"
+        ]
     },
     {
         "id": "4P1uhNgDX9IT27WrKrGJKQ",
@@ -74,7 +70,6 @@
             "Coffee & Tea",
             "Sandwiches",
             "Salad"
-        ],
-        "reviews": []
+        ]
     }
 ]
