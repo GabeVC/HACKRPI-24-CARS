@@ -76,7 +76,7 @@ def save_to_json(data, filename="google_places_with_reviews.json"):
 # Usage example
 if __name__ == "__main__":
     try:
-        data = fetch_google_places_data(query="restaurants businesses cafes gym", location="42.7284,-73.6918", radius=5000)
+        data = fetch_google_places_data(query="restaurants", location="42.7284,-73.6918", radius=5000)
         save_to_json(data, "google_places_with_reviews.json")
         
     except requests.exceptions.HTTPError as e:
