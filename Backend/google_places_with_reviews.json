@@ -1,153 +1,30 @@
 [
     {
+        "id": "ChIJTU0zsR8P3okRhYAIDAu5_Ow",
+        "name": "Nighthawks",
+        "address": "461 Broadway, Troy, NY 12180, United States",
+        "latitude": 42.7308889,
+        "longitude": -73.68794129999999,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
         "id": "ChIJ3QNX1wUP3okRps7OI7FCpAs",
         "name": "Lucky Corner",
         "address": "162 3rd St, Troy, NY 12180, United States",
         "latitude": 42.72603590000001,
         "longitude": -73.6911616,
         "rating": 4.6,
-        "reviews": [
-            "Wonderful service the food was delicious only the sweet and sour chicken could've been better was kinda soggy but everything else I got was great",
-            "I first started going to this restaurant years ago during college. I have since come here every time I am back in the Troy area. I. love the general tso's tofu as well as the various braised rice dishes. The bubble tea is also very good, although the 'bubbles' can sometimes be inconsistent textures. The guy that works there is very nice and it's lovely to see him every time we go. There used to be dine-in seating but that has been removed since Covid.",
-            "Delicious taiwanese food at good prices.  Highly recommend mince pork over rice.  This is a take out place so the atmosphere isnt super nice, its perfect to order ahead, grab your food and go\n\nThe guy working here is always nice, though sometimes is very busy.  The drinks here are good too- they have an ample variety of teas.",
-            "Orange chicken is so delicious! Love the broccoli as well! Ive been twice now and quality is consistent! I would definitely recommend!",
-            "Great Taiwanese food and very reasonable prices. I would suggest calling ahead because they're a small mom and pop shop and get backed up when it's busy."
-        ]
+        "analyzed_reviews": []
     },
     {
-        "id": "ChIJdVr2UFUO3okRK6PXT2i-9j8",
-        "name": "China Dragon",
-        "address": "201 23rd St, Watervliet, NY 12189, United States",
-        "latitude": 42.7329101,
-        "longitude": -73.7012881,
-        "rating": 3.9,
-        "reviews": [
-            "I'm not the one to leave a bad review BUT...... I ordered crab ragoons. Never again. Taste like I was eating a rubber dirty fryer. They went to the trash. Ordered veggie lo mean. Rubber that to in the trash.  Never again",
-            "I appreciate having some type of Chinese food that\u2019s similar to home.\n\nSo far it\u2019s the closest thing to the food in NYC. So I\u2019ll drive and grab my food from here.\n\nI usually order my food beforehand and it\u2019s available when I arrive. I pay in cash because I\u2019ve read the reviews of issues with card payments (haven\u2019t had any dilemmas).\n\nThe food is hot when I get it. I check my order and things are usually there.\n\nIt just threw me off that I had to stand outside to grab my food the first time I went to pickup my foot. It  reminded me of the 24 hour bodega with the spin around windows in the city.\n\nI recommend eating here. Just pay in cash and check your order. They\u2019re busy\u2026 and human. Expect a mistake to occur occasionally. So always check your order when you\u2019re getting take out.",
-            "I have to say that this is one of the better Chinese food restaurants I've eaten at over the last ten years.  The food is always hot and fresh and the people friendly.",
-            "It\u2019s definitely a blessing to eat authentic American Chinese food-  This is Something you just can\u2019t find in the  Southern states. Thank You!!",
-            "A lot of the negative reviews here suggest that people misunderstand efficiency for rudeness. Yes, the employees are blunt and quick, but that's to be expected when the shop is non-stop. I stood at the counter for about ten minutes and the phone never stopped ringing, so if the complainers take their business to where they'll be sufficiently coddled, this place won't suffer.\n\nThat said, I got take-out from here tonight. The service was efficient, the food was good and the prices were fair. That's all I wanted and that's exactly what I got."
-        ]
-    },
-    {
-        "id": "ChIJT6iZumAF3okRHArUGx4S1Ds",
-        "name": "Plum Blossom",
-        "address": "685 Hoosick Rd, Troy, NY 12180, United States",
-        "latitude": 42.7429616,
-        "longitude": -73.6484792,
-        "rating": 4.5,
-        "reviews": [
-            "Very beautiful interior in the restaurant. Nice classical music playing. Friendly wait staff. Quick service. If you\u2019re looking for Chinese food in Brunswick (and it\u2019s not easy to find!), this place delivers. I had the general tso chicken - delicious. And the shumai was wonderful! Plus their house horseradish mustard was killer on the sinuses, in a good way. Really liked this place!",
-            "True 5 Stars. The food was not frozen BS. Everything was beyond good. The presentation was excellent. From start to finish there was no complaint.",
-            "Came here Saturday Night, only an hour before closing for dinner before a game against Albany with my soccer team. They got our food out quickly, were kind and friendly and the food was beyond amazing! - Augusta Moose Women\u2019s Soccer",
-            "5/5 for me! The staff is friendly and fast! The food was delicious and tasty. Everything was fresh and hot when it arrived to the table. They serve hot tea and water as soon as you sit down and I loved that. They also have the old fried noodles what the hot mustard and duck sauce. This is the best place in Troy that I\u2019ve had.",
-            "Mother's Day dinner.  Attentive service, clean and relaxing atmosphere.  Everything ordered was hot, fresh, and delicious."
-        ]
-    },
-    {
-        "id": "ChIJlx3vK4oP3okRPmieKRF18YQ",
-        "name": "A Dragon III",
-        "address": "564 Hoosick Rd, Troy, NY 12180, United States",
-        "latitude": 42.7398874,
-        "longitude": -73.6566613,
-        "rating": 4.4,
-        "reviews": [
-            "Second time eating at \"A Dragon.\" First time, we got take-out and it was good and fast for lunch. This time we ate in and it was even better. In fact, there's no picture of my order since it arrived so fast and hot and smelled excellent I simply forgot to take one. The General Tso's chicken with white rice was spectacular.  The girl behind the counter was proficient and friendly. Clean place also which is always nice. Treat yourself today for some great Chinese food.",
-            "I have been going here for years, I\u2019ve never had a bad experience, ever! Food is great. Usually I bring it home and ad a bunch of different vegetables and fry it up again. The service is fast and friendly!! The owners are very personable and you can strike up a conversation with then anytime!",
-            "Really good food and price for what we got.  Best wonton soup we have ever had and the hot and sour soup was jammed packed with ingredients.  Definitely the best Chinese take-out we have found!  Here is a menu.",
-            "I went in for a take out lunch.\nNo call ahead, so I waited for its preparation. It was my first time there.\nThe service was quick, the young man who took my order was pleasant, the menu had what I wanted and the lunch specials were priced well. Unfortunately I ordered chicken and eggplant in garlic sauce and when I got it home discovered that there was no eggplant in my dish. It was good, as was the spring rolls and sesame chicken dinner, but it was a disappointment for me not to get what I wanted. I will probably go back and try again at some point since the food was tasty.",
-            "The best Chinese restaurant that I have been to! The workers are so nice and the food taste great and looks great. I would recommend getting the Seafood combination and the General tso\u2019s chicken! :D"
-        ]
-    },
-    {
-        "id": "ChIJI1p-qScP3okRV-fCvcus94A",
-        "name": "The Kebab Zone",
-        "address": "126 College Ave, Troy, NY 12180, United States",
-        "latitude": 42.7268388,
-        "longitude": -73.6788531,
-        "rating": 4.8,
-        "reviews": [
-            "It's one of those excellent foods in a hole in the wall location, and well worth the wait for the food (small, with 2 people working at the take out, but there was a long line of customers just waiting patiently to either order or get their food.) street parking only (if you can get it.)  tons of locals hanging at the front, so you know the food is good!",
-            "One of the smallest restaurants I ever been in but one of the most delicious restaurants in the city of Troy it\u2019s small place but good location do to  Rensselaer Polytechnic Institute college entrance and  it\u2019s near the Samaritan Hospital I dad mixed platter and we go there. Try it.",
-            "Found this gem of a take out kebab place in Troy, NY. We sat outside the restaurant and enjoyed a delicious lamb shish kebab platter. Tender and beautifully seasoned lamb with pickled onions and red cabbage on the side as well as grilled tomato and green pepper on a bed of rice. Their white sauce topped it off. Authentic food.  Good for the soul.",
-            "The people at Kebab Zone and Big Apple are always so kind to me!! As an RPI student, their location is perfect for nights when I miss dinner and need something to eat. Their Gyro Burgers are so good, highly recommended them!",
-            "I recently had the pleasure of dining at The Kebab Zone, and it was an absolutely delightful experience! From the moment I walked in, I was greeted with warm hospitality and a cozy atmosphere that made me feel right at home.\n\nThe menu is packed with a fantastic variety of dishes, but the kebabs are truly the star of the show. I tried the mixed grill platter, and every bite was bursting with flavor. The meats were perfectly seasoned and cooked to juicy perfection. The accompanying sides, from the fresh salad to the aromatic rice, were the perfect complement to the kebabs.\n\nWhat really stood out to me was the attention to detail\u2014the presentation of the food was top-notch, and you could tell that a lot of care went into every dish. The portion sizes were generous, and the prices were very reasonable, especially considering the high quality of the food.\n\nThe service was also excellent\u2014friendly, attentive, and quick without feeling rushed. It\u2019s clear that The Kebab Zone takes great pride in both their food and their customer service.\n\nOverall, The Kebab Zone is a must-visit for anyone who loves authentic, delicious kebabs and a welcoming dining experience. I can\u2019t wait to go back and try more from their menu! Highly recommended! \ud83e\udd59\ud83d\udd25"
-        ]
-    },
-    {
-        "id": "ChIJ2zXLlCEQ3okRRsQN70I5cUE",
-        "name": "Spring Garden Troy",
-        "address": "472 2nd Ave, Troy, NY 12182, United States",
-        "latitude": 42.7711183,
-        "longitude": -73.6786401,
-        "rating": 4.4,
-        "reviews": [
-            "The food was delicious and the price definitely worth it. I had it delivered and the driver was very nice I tip $5 .\n\nHomemade Sweet Tea 10 out of 10.\n\nBroccoli and Shrimp 10 out of 10.\n\nCrab Rangoon 7 out of 10 only because I don\u2019t like sweet Crab Rangoon.\n\nI like the original cream cheese taste, and it was not crispy it was more of a  soft dough.",
-            "I ordered delivery; General Tso\u2019s Chicken (spicy), Crab Rangoon, and the Egg Roll Sampler w/ their Homemade Duck sauce. I got a call about 15 minutes later and the sweet lady on the phone was calling to let me know my delivery would be a few minutes late. This is truly the reason I decided to take time to leave this review. She was kind, friendly, apologetic (which I expressed wasn\u2019t necessary, I was grateful for the call in general). Fast forwarding to the food, AMAZING! It still showed up hot. The chicken was great! Crispy and the sauce was awesome! Crab Rangoon seemed homemade to me. The egg rolls were hot and crispy with huge pieces of shrimp and chicken, and that homemade duck sauce was fire!!!\n\nI could go into detail but whatever. The fact is, I decided to take 10min out of my day to let you know how I felt. I never leave reviews. Great customer service and great food ti back it up!!!\n\nGive this spot a try\u2026 GREAT PEOPLE and the food is a 8.7/10",
-            "I\u2019ve been here three times for take out and each time the food has been great, it\u2019s actually the best I\u2019ve had after trying many places in the capital region over the past 2 years. The chicken wings and bourbon chicken are AMAZING!!! The woman at the counter is consistently friendly and always welcoming, they always leave cute inspirational notes on your order and it\u2019s just a genuine nice experience. Thank you \ud83d\udc9b",
-            "Food is delicious. You can feel the loved and positive energy put into it. Customer Service is excellent. This is the best Chinese food I\u2019ve had in ny since moving from California 2 years ago. Thank you spring garden \ud83e\udeb4 \ud83e\udd0d\ud83d\ude4f\ud83c\udffc",
-            "First off I'd like to say that the service was impressive here. Whomever answered the phone was very pleasant.  The food was exceptional as well! I do wish they had used white meat for the sesame chicken but that does cost more, so no complaints! Thank you!"
-        ]
-    },
-    {
-        "id": "ChIJyXeuzCoQ3okRyRpDBjh3Ce4",
-        "name": "Smith's Public House",
-        "address": "171 Remsen St, Cohoes, NY 12047, United States",
-        "latitude": 42.7720473,
-        "longitude": -73.7006761,
-        "rating": 4.4,
-        "reviews": [
-            "We walked in as a party of four. Our server Jordan explained the specials and beers on tap. The Appetizers of Wings and Fried Cheese was great! We had Burgers and Pasta with Chicken. Food and Service was Outstanding and will definitely be back.",
-            "I went up to Cohoes music Hall last night. We're looking for a place to eat so we wind up at Smith's public House. What a wonderful place to go with friends. Food was great. The service was awesome and The beer was good. Little warm but it was okay. That was my first time ever being there. If you're in the Cohoes area you should stop by. I'm pretty sure that you enjoy yourself. Definitely will go back again",
-            "Wanted to try Smith's for a long time. Very good food menu, beer selection is subpar. Went on father's day and they were out of menu items. They weren't busy. My burger middle was cooked properly but the bottom was completely burned and crispy. Was not a good experience.",
-            "If I could give it 6 stars I would. The food was amazing, the dessert was extraordinary and the atmosphere was cozy and elegant. Great service as well",
-            "Came here for lunch today, the place looked amazing. It was very clean and service was very good.  Appetizers came out in a timely manner and they were actually really good.  Cocktails that we ordered were top notch, we all loved our drinks.  Our lunch dishes were very good, our server was very nice and attentive.   I can\u2019t wait for the opportunity to come here for their dinner menu."
-        ]
-    },
-    {
-        "id": "ChIJrfIU5aUP3okRRq4zNu2eFkk",
-        "name": "Brown's Brewing Company's Troy Taproom and Brewery",
-        "address": "417 River St, Troy, NY 12180, United States",
-        "latitude": 42.7357355,
-        "longitude": -73.6875498,
-        "rating": 4.4,
-        "reviews": [
-            "I recently had the opportunity to dine at Brown's Brewing in Troy, and I must say, the location is absolutely stunning. Overlooking the beautiful Hudson River, the restaurant offers both indoor and outdoor seating, making it a perfect spot for enjoying a meal with family and friends. The ambiance is inviting, and the seating arrangements are well thought out, providing a comfortable experience.\n\nNow, let's talk about the food and beer \u2013 both were exceptional! The menu features a variety of delicious options that cater to different tastes, and the craft beers are some of the best I've had. It's clear that the kitchen and brewing team take pride in their offerings, and it truly enhances the dining experience.\n\nHowever, I did encounter some issues with the service that I feel compelled to mention. There seemed to be a lack of coordination between the reservation desk and the seating arrangements. Despite seeing several empty tables that were not reserved, we had to wait 45 minutes to be seated. This was frustrating, especially since it appeared that other guests who arrived after us were served much more quickly.\n\nWhile I want to emphasize that my experience may not reflect the restaurant as a whole, I did feel that the service was somewhat biased. Again, I want to clarify that I am not suggesting any intentional discrimination, but it was disheartening to witness a disparity in service. Regardless, I chose to leave a 20% tip because I wanted to focus on the positive aspects of the meal and leave with good memories.\n\nOverall, while the food and atmosphere at Brown's Brewing are fantastic, the service left something to be desired. Unfortunately, this experience has led me to decide that it will be my last visit. I hope they can address these issues in the future, as the potential for a great dining experience is certainly there.",
-            "I have been here at least 10 times over the past 10 years and it\u2019s always solid. I seek out their cherry raz beer which is outstanding! The ambiance is great too. Indoors, they have a bar and dining area downstairs and more dining upstairs.  I had my engagement dinner and graduation dinner upstairs over in the past and it was great!\n\nLove their outdoor patio area as well. My husband and I came on a Friday evening but still got seated right away outside. We shared the artichoke dip, I had the Moroccan tuna and my hubby had the short rib tacos. 1 star was lost because surprisingly the Moroccan tuna was very bland. It was encrusted in sesame seeds and tasted like\u2026. Nothing. I will admit I don\u2019t know what Moroccan food is \u201cfamous\u201d for or what to expect but I just imagined in my head something exotic, maybe a little spicy or something and I didn\u2019t get that.\n\nWe\u2019ll definitely be back, I\u2019ll just skip the tuna next time.",
-            "My husband and I favorite place to dine in!! Beautiful views and most of all there food  was delicious!!highly recommended to everyone.. \u2764\ufe0f",
-            "The most amazing wings ever. Awesome place and tons of seating. Super cool to overlook the water with their outdoor deck seating. Definitely go here!!! Lots of menu and beer options. A little on the pricier side though. But they\u2019re known for the wings so get them!",
-            "Lovely evening event in the Hudson room upstairs. We were able to decorate in a simple, elegant fall theme. Staff was attentive, responsive and pleasant, food was excellent - guests were surprised it was more than basic bar food. We had a buffet and a 2 hour bar tab, worked very well to enable lots of mingling, but with seating for everyone, too. The atmosphere was just right, a combination of the social quality of a bar but still a private space. Highly recommend for events. Many thanks to Nicki for managing the event and to Jeff for attending to all of us."
-        ]
-    },
-    {
-        "id": "ChIJY_onBCEP3okRW6t2p_ws9xg",
-        "name": "Naughter's",
-        "address": "1809 5th Ave, Troy, NY 12180, United States",
-        "latitude": 42.7312362,
-        "longitude": -73.6879173,
-        "rating": 4.9,
-        "reviews": [
-            "Small inside (Only 9-10 seats), with a couple of tables on the sidewalk, but the service and food was excellent. The lunch menu isn't large, and we wanted something different, so we ordered the chick pea salad and industrial eggplant sandwiches. The chick pea salad was surprisingly  delicious, and my eggplant was also impressively tasty. And then I realized our meals were vegan as well (we are not vegetarians). I cut the eggplant sandwich in half (which squished it a little) and took a picture so you can see the layers of flavor.\nThe fries were also very good. Very simple, like the frenchfries we would get decades ago. No coating. No processing, just fries good well.\nWe want to try their breakfast next time!\nAtmosphere was old fashioned and simple, but fun. Like a luncheonette from the 60's. Great music.",
-            "I\u2019ve been to Naughters twice, and honestly, I\u2019m a little surprised by its high rating.\n\nIt\u2019s an adorable diner with charming interiors that have a vintage vibe. When you enter, you\u2019ll find a few tables and some bar seats. Due to the limited seating, depending on the day and time, you might encounter a wait.\n\nThe menu at Naughters is small. I\u2019ve tried their vegetable hash and the eggplant sandwich. The food was just okay, but it was nice to see the chefs cooking right in front of you in the open kitchen. The staff were quick, patient, and attentive. The coffee was also just okay.\n\nOne advantage this spot has is that it\u2019s open till 2:30 AM on Fridays and Saturdays, making it a potential go-to for a late-night bite after drinks.\n\nI felt like my experience was pretty average, and I probably wouldn\u2019t go out of my way to visit again.",
-            "Update: i finally tried the french toast here and it is amazing!  Crunchy and tossed with sugar.  Everyone should order this, perhaps as an extra dish to share.  The burger here is really good as are the fries.  The tuna melt is great, wish it came with some more fresh lettuce or tomatoes.\n\nOriginal review:\nAmazing little spot in downtown troy.  Super cool vibes and great staff, the food is simple.  Sometimes have to wait a bit as its very small inside but usually things move fairly quickly.  Love the coffee refills too.  Homefries, egg, toast, bacon egg and cheese are all good\n\nCant wait to try the chopped cheese",
-            "We were visiting our son at RPI and was looking for a place that serves breakfast. We\u2019re so glad to find this gem in downtown Troy. I had the Eggs Benedict, and it was perfect. My husband had the French omelette and it was also cooked perfectly and good.\nThe storefront is light blue. We missed it the first time because we didn\u2019t see a sign.\nWe will definitely be back to try their lunch and dinner menus.",
-            "Went out for a bite to eat in downtown Troy, one of the only place we found serving food late at night. We ordered eggs and home fries others at the bar had the chopped cheese sandwich and the fresh toast sticks were HUGE ended up sharing with 3 friends. Fair prices and good food. I liked the old school bar stools and the staff were friendly and accommodating. Check them out for a bite to eat early or late!"
-        ]
-    },
-    {
-        "id": "ChIJEVvh1QcP3okR4_g15LGi0Ms",
-        "name": "Famous Lunch",
-        "address": "111 Congress St, Troy, NY 12180, United States",
-        "latitude": 42.7286799,
-        "longitude": -73.68901009999999,
+        "id": "ChIJqabiYZgP3okRzEgsVUoHM60",
+        "name": "Ali Baba",
+        "address": "2243 15th St, Troy, NY 12180, United States",
+        "latitude": 42.73602500000001,
+        "longitude": -73.6760917,
         "rating": 4.7,
-        "reviews": [
-            "The food is average but the price is fantastic. I tried the mini hotdogs with the works. They were more like a chili dog than upstate NY meat sauce hot dog. The burger and fries were good. The rice pudding was homemade so, better than the store bought but not quite as good as Grandma's recipe. It's nice to see a little mom and pop place like this is still open. You can fill up without shelling out a lot of money.",
-            "Yummy little hot dogs! We loved the crispy fries. Old school atmosphere \ud83e\udd70",
-            "My all time favorite lunch spot. Literally my first choice, always. From a kid, to bringing my kids. Their mini hot dogs and sauce are truly the best around. Staff is always kind and polite. Hard workers! If you havent been, you're missing out!",
-            "Not just a greasy spoon. It\u2019s not just an aesthetic. This place is the real deal. Why have one got dog when you can have two, why have two hot dogs when you can have four covered in meat sauce and mustard.  The little dogs are so cute and satisfying to eat. But don\u2019t miss the burger. It doesn\u2019t look like much but it\u2019s truly special. The fries are also perfect. Wish I could be a regular here",
-            "As usual, it is standing room only here. Scott and his crew serve up mini hotdogs with meat sauce and other delicacies that will make your mouth water !\nIn my younger days, my brother and I could eat twenty hotdogs each at a sitting. Nowadays, five is my limit. I always grab five extra \"for later\" since five just isn't enough. One other strong point that keeps me coming back is that they serve RC cola and 7 up - two of my favorite soft drinks. Thanks again, Scott !"
-        ]
+        "analyzed_reviews": []
     },
     {
         "id": "ChIJUWYcjpMP3okR2MMrxyRZbiU",
@@ -156,6 +33,69 @@
         "latitude": 42.7447548,
         "longitude": -73.6708474,
         "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJY_onBCEP3okRW6t2p_ws9xg",
+        "name": "Naughter's",
+        "address": "1809 5th Ave, Troy, NY 12180, United States",
+        "latitude": 42.7312362,
+        "longitude": -73.6879173,
+        "rating": 4.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJm5yzggcP3okR3gRxhu1P8-U",
+        "name": "Bacchus Wood-Fired",
+        "address": "33 2nd St, Troy, NY 12180, United States",
+        "latitude": 42.7305256,
+        "longitude": -73.6918279,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJQ5_G-MUN3okRW6Hzkt6FZW0",
+        "name": "Applebee's Grill + Bar",
+        "address": "555 Troy-Schenectady Rd, Latham, NY 12110, United States",
+        "latitude": 42.7513929,
+        "longitude": -73.7650704,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ49WG-QcP3okRToCWAGXGYq4",
+        "name": "Lo Porto",
+        "address": "85 4th St, Troy, NY 12180, United States",
+        "latitude": 42.7305239,
+        "longitude": -73.68928269999999,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ_0QF2QUP3okR3HXp33XVjqM",
+        "name": "Red Front",
+        "address": "71 Division St, Troy, NY 12180, United States",
+        "latitude": 42.7261281,
+        "longitude": -73.6909174,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJEVvh1QcP3okR4_g15LGi0Ms",
+        "name": "Famous Lunch",
+        "address": "111 Congress St, Troy, NY 12180, United States",
+        "latitude": 42.7286799,
+        "longitude": -73.68901009999999,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJV1lfXdMP3okRcfQ6G2INgb4",
+        "name": "Donna's",
+        "address": "217 Broadway, Troy, NY 12180, United States",
+        "latitude": 42.7313011,
+        "longitude": -73.6909661,
+        "rating": 4.4,
         "analyzed_reviews": []
     },
     {
@@ -174,979 +114,15 @@
         ]
     },
     {
-        "id": "ChIJY83Qy1AP3okRHblw-yDxw4o",
-        "name": "EMRY's Garden",
-        "address": "2 King St, Troy, NY 12180, United States",
-        "latitude": 42.7347746,
-        "longitude": -73.687634,
-        "rating": 4.5,
-        "reviews": [
-            "Super tasty craft beers, beer flights and the Vegan options on the menu were all top notch. Wonderful people working hard to make sure you have an outstanding experience.",
-            "This place used to be the old Troy Beirgarten very interesting decor inside with lots of love plants. Cozy area to sit, relax, eat, etc. There is a room in the back that would be wonderful in the winter to feel like you are actually outside. We ordered a few drinks at the bar they were delicious, would love to go back another time and try out the food as well",
-            "I celebrated my 25th birthday here with my twin sister and group of about 10 friends and we had a blast! I had never been before but loved the atmosphere and rustic decor. It was hard to decide what drink to order because all the speciality cocktails looked good but I went with a blood orange margarita and enjoyed it very much. The drinks were a little on the pricier side, but you get what you pay for. The service was amazing and they gave me and my sister complimentary birthday shots which was very nice of them. We ordered some appetizers, including the pretzel bites and fries and they were very tasty and shareable portions. It is also in a very central location in Troy, so a perfect place to start off the night before hitting up other bars. I will definitely be back!",
-            "Had an absolutely wonderful evening out. A bit louder than I expected (in my mind, it was low-key and intimate), but nonetheless we had a great time. The pizza was delishly fresh with a nice crisp on the crust, yet soft, and the wings were quite good (not the best I've had). Drinks were stiff, and their local crafts brews were plentiful (the cider donut one was A++). Will return!",
-            "Dining at EMBY\u2019S Garden was great experience! The inside is beautiful and looks like the set of brunch scene in a romantic movie. Our waitress was wonderful, attentive, and knowledgeable about the menu and pairing recommendations. Every time she came by our table we ended up chatting for several minutes. The food was delicious and affordable compared to other restaurants in the area. The drink menu included fun, seasonal selections with fresh ingredients. I ended up going to EMBY\u2019S Garden later  that week with some friends."
-        ]
-    },
-    {
-        "id": "ChIJcasRbGAO3okRgPNnB8SuNBE",
-        "name": "Golden House",
-        "address": "143 Troy-Schenectady Rd, Watervliet, NY 12189, United States",
-        "latitude": 42.737751,
-        "longitude": -73.7240824,
-        "rating": 4.1,
-        "reviews": [
-            "Best Chinese takeout in the area.  Their egg rolls are perfection EVERY time.  Every dish is excellent, always fast & friendly. Happy to accommodate (like no carrots please ).\nNever had a bad meal;  often takeout & delivery.",
-            "Piping hot food. Great flavor. Located right in Hill Top Plaza so there's plenty of parking. Definitely a good spot to get food or for those looking for their all the time \"chinese spot\"\n\nReally liked the shrimp egg roll and fried dumplings. Sesame chicken special combo (my go to besides general tso) was plentiful and had good flavor.\n\nDisclaimer: Pics were taken after we devoured some of the food \ud83d\ude01",
-            "I always get a meal and many sides.  Everything was fresh and delicious.  This not your typical Chinese food, it has flavor, so much flavor! A slight hint of curry and ginger makes all rhe difference! It was ready when I arrived and I was quickly cashed out.  I was shocked how inexpensive it was based on all the items I ordered! I highly recommend this place! In fact, I just placed another order today. You will not waste your money here, you get a big meal for a small price and it's amazingly delicious! \u2764\ud83e\udd29",
-            "This has been my go-to Chinese takeout place for a very long time, and they have never once let me down. They have never gotten an order wrong or cooked something poorly. The food is always perfect and tasty, and the person behind the counter is super nice.",
-            "Very genuine customer service . very large size portion of seame chicken and veg fried rice . recommend general two's chicken and  shrimp egg roll the bomb size."
-        ]
-    },
-    {
-        "id": "ChIJJ8R_KRoP3okR4dsNBrgD4O8",
-        "name": "Tipsy Moose Tap & Tavern",
-        "address": "62 Vandenburgh Ave, Troy, NY 12180, United States",
-        "latitude": 42.6998108,
-        "longitude": -73.68881329999999,
-        "rating": 4.4,
-        "reviews": [
-            "I\u2019m visiting my sister from SC. She\u2019s lived close to the Tipsy Moose for years and has only just started going so this was my first time. I lived the atmosphere! The service was also very good. We tried the \u201csomething in the orange\u201d cocktail. It was delicious along with the blackberry margarita and the peach sangria. The strewn corn dip was delicious along with the cheeseburger Mac n cheese. I will definitely make this a regular when I come to visit.",
-            "Super tasty burgers, fries, and onion rings. Waitstaff are nice, the atmosphere of the restaurant is nice, it has very themed decor that makes me really feel like a North-Easterner! But; it can sometimes feel awkward if you\u2019re seated at a table in the middle of the room since you\u2019ve got neighbors you could reach out and touch. Not too big of a deal though. Recommend!",
-            "Went here for a late lunch. Had some chicken wings plus a burger. The chicken wings were very good. The burger was good as well. The  wait staff and the service were good as well. The bathroom was clean, which is always a plus when you go somewhere to eat.",
-            "The space is small but inviting-your nose is hit with the smell of barbeque and the options on their menu won't disappoint. Highly recommend!",
-            "Pulled pork sandwich is top notch. Moosehead Lager is pretty good. The French fries are the best you'll find. Service was exceptional. Great establishment."
-        ]
-    },
-    {
-        "id": "ChIJYQZBLwYP3okR_QiitBbhihM",
-        "name": "Hao Wei",
-        "address": "148 4th St #4101, Troy, NY 12180, United States",
-        "latitude": 42.727903,
-        "longitude": -73.6895361,
-        "rating": 3.4,
-        "reviews": [
-            "Food is decent. Way over priced but decent. If you order I\u2019d suggest an online service as the people who work here are rude and they take 2+ hours to deliver cold food. Chinese food is everywhere it\u2019s not worth the 2 hour wait for delivery",
-            "I'll give this a 5 because I think it deserves at least a 4. They're out on the front lines delivering when not many Chinese places are. It got here within an hour, food is solid, cooked perfectly, huge portions, they even threw in a free 2 liter. General Tso (Dragon and Phoenix) especially, among the best I've had. Sweet with just a hint of spice. I dislike that they make you sign the receipt even when paying online (are they disinfecting the pen regularly?), but that is my only complaint. Hope to visit the restaurant someday. It's a gem hidden in plain sight, try it out next time you get a craving.",
-            "\ud83e\udd14 This place right here is a hard review but here we go\ud83d\ude48\ud83d\ude49\ud83d\ude4a.Customer service at this location leaves a bad taste in my mouth so be ready. Not friendly and my clients orders are never ready and I feel im treated as if im the problem. \ud83e\uddd0Despite the bad I do get consistent requests from this location. So there has to be somthing good about it I'm not seeing \ud83d\udc40 or tasting\ud83d\ude15 i guess. I  personally will  never know\ud83e\udd37\ud83c\udfff\u200d\u2642\ufe0f.",
-            "Food is pretty good, service is decent, nice and friendly people who are polite and work hard to please their customers and get the food out to you as fast as possible. The restaurant is somewhat decent as far as placing orders and waiting, okay to eat in real quick but nothing fancy for a date type done in experience.",
-            "I order from this place all the time when I'm at my brother's house. But this time I was home and ordered through Uber eats and a totally different experience. The food was all old and refried. I ordered chicken fingers and fries and got an order of sweet and sour chicken and fries instead. That order was clearly old and refried. It was so oily and dry my kids couldn't even eat it. Next the chicken wings and fries was also clearly ordered by someone and never picked up and the just refried them and sent them to me. This post actually is hard because the food is usually soo good. It's disappointing."
-        ]
-    },
-    {
-        "id": "ChIJmREqO2QP3okRMo5hDlr87gE",
-        "name": "Grill Mediterranean Cuisine and Mega Istanbul Food Court",
-        "address": "908 River St, Troy, NY 12180, United States",
-        "latitude": 42.7535962,
-        "longitude": -73.6821641,
-        "rating": 4.7,
-        "reviews": [
-            "Went there last night for my birthday dinner and was not disappointed! The service was super friendly and the food was incredible. I will definitely be going back. The five-person family platter is more than enough food for 4 people. Served with some of the best bread I've ever had while eating out.",
-            "After seeing photos of the food here, I knew I needed to check it out. My husband and I shared a platter for 2  (we requested a half meat and half vegetarian option, which they were happy to accommodate). It was a really impressive array of foods and a very generous portion. Everything was really fresh and delicious. Their housemade lavash bread was incredible, very soft with a crispy exterior. The best I've ever had. The meats all had a beautiful char and were moist and tasty. All of the vegetables were fresh and well seasoned as well.  I live nearby and will definitely be coming back to try other menu items as often as possible. Thanks so much for the delicious meal!\nThe atmosphere is simple with a family oriented feeling. It is not a fancy environment, but the food is really good.  The staff was all very welcoming. Also, they do have their own parking lot and plenty of parking. There is also a small outdoor area.\nI highly recommend stopping by to try their food, it will speak for itself!",
-            "Absolutely amazing food.  I got the Mix Iskender Kabob.  The meat was extremely tender and perfectly seasoned.  The Baklava was delicious.   Will be adding to my favorites for the next time I'm in the area.",
-            "This is such a wonderful restaurant with an extremely friendly owner and staff! The food is absolutely delicious and wonderful, and the service is impeccable!  It was the perfect location for a beautiful lunch for our baby shower! There is also a hookah lounge/night club on premises.  I highly recommend visiting this wonderful establishment!",
-            "I had an incredible experience at one of the best restaurants I have ever visited in New York and I can say that the food is wonderful, incredible flavor, I highly recommend it, it is the best Turkish food in the United States."
-        ]
-    },
-    {
-        "id": "ChIJNzp74DEP3okRSQq64pBKPEY",
-        "name": "China Wok",
-        "address": "75 Vandenburgh Ave, Troy, NY 12180, United States",
-        "latitude": 42.6966223,
-        "longitude": -73.690311,
-        "rating": 3.9,
-        "reviews": [
-            "Ordered food through DoorDash for myself, my wife and son. Got halfway through eating my food when I round this roach. Absolutely disgusting. Will NEVER order from here again. DoorDash made it right by refunding more than half the total order amount",
-            "Food is amazing! These are our favorite dishes here: the house special lo mein, general tso's chicken, and the double saut\u00e9ed pork.",
-            "So we ordered our food on door dash. Received the food opened it up to have a dog nail fall out of the dish. I do not own a dog. I would leave 0 stars if i could",
-            "I've been coming here for over 10 years & I am never disappointed. Excellent food.",
-            "The ABSOLUTE BEST Chinese take-out, hands down! The food is always hot & fresh. They don't offer their own delivery, but they are on Grubhub & Doordash. They do have a seating area to dine in, but most people just take out. They're pretty accommodating and offer deals if you pick up you're own order."
-        ]
-    },
-    {
-        "id": "ChIJo1RQ0AcP3okRYrwADiUjI6E",
-        "name": "I Love Pizza of Troy",
-        "address": "125 4th St, Troy, NY 12180, United States",
-        "latitude": 42.7288969,
-        "longitude": -73.6897412,
-        "rating": 4.5,
-        "reviews": [
-            "Great NYC style pizza. They offer 6,8,12,18 piece cut. Prices aren\u2019t bad. A little greasy but the pizza was delicious. The men working were very nice and accommodating with bringing us napkins, plates and cups when we changed our mind from take out to eating there. We also got a free 2L soda with our 8 cut pizza! Would go back because it was also made to order very quickly.",
-            "I love this place! Been eating pizza from here for a few decades. Used to be called I Love NY Pizza but Troy is more appropriate :) Always has lots of choices for walk in counter pick up, and my favorite is their broccoli. I've tried many slices and never a bad bite. They heat it back up and Im outta there in ten minutes total. I've stayed to eat at their tables a few times but I can't give it a 5 for atmosphere. The only atmosphere it has is \"hot delicious quick pizza\" not murals on the wall or fancy lights. If atmosphere is what you want go somewhere else, but you will be missing out on the yummy pizza!! It is a high traffic area so you are in and out. Yes it is clean and the staff are nice. Decently priced, grab a slice!",
-            "Forget fancy toppings and gourmet ingredients, at I Love New York Pizza in Troy, you'll find something truly special: authentic pizza done right with flavor at a price thats affordable. And let me tell you, their chicken marsala pizza is a revelation!\n\nThis isn't your average pizza with a few measly chicken chunks and a drizzle of sauce. Juicy, tender chicken bathes in a rich, mushroom-infused marsala sauce that perfectly complements the tangy tomato base. Every bite is an explosion of flavor, perfectly balanced and oh-so-satisfying. I honestly believe it might be one of the best chicken marsala pizza I've ever had in the capital region.\n\nThe crust is not too thick, not too thin, with a perfect amount of chew. It's the kind of crust that holds its own without overpowering the toppings, creating the ideal foundation for flavortown. Every slice is a masterpiece, and at their prices, you won't feel guilty ordering another (or two).\n\nSpeaking of prices, let's just say I Love New York Pizza lives up to its name in more ways than one. You won't find a better deal for such high-quality pizza in the entire Capital District. This is probably one of the last bastions of true, classic pizza places left, where they focus on quality ingredients and delicious simplicity, not trendy gimmicks.\n\nAnd the service? Fast, friendly, and exactly what you expect from a classic pizza joint. No fuss, no muss, just good vibes and good eats.\n\nSo, if you're looking for an excellent pizza experience that won't break the bank, stop searching and head straight to I Love New York Pizza in Troy. You won't regret it! Just be sure to try the chicken marsala pizza \u2013 it's a game-changer!",
-            "I absolutely LOVE this place for their food. I can\u2019t say that about the people there. I called to place an order for pick up and had to change it to delivery. There was no driver available, so I apologized for being unable to pick it up. And the person on the phone said in a very disrespectful attitude \u201cwell, it\u2019s a waste now. I can\u2019t sell that.\u201d I apologized and they just hung up. Whoever was on the phone was rude, and needs some classes in customer service.",
-            "Great pizza, wonderful staff - place is always clean inside. You can see right into the kitchen and it's always clean - even when they're slammed!"
-        ]
-    },
-    {
-        "id": "ChIJha6LSwYP3okRPsBgKXk075o",
-        "name": "The Ruck",
-        "address": "104 3rd St, Troy, NY 12180, United States",
-        "latitude": 42.7284099,
-        "longitude": -73.69074010000001,
-        "rating": 4.4,
-        "reviews": [
-            "In town on business and did some Yelping to see what was good in the area. I checked out this place and their menu then made the decision. Here's how it went...\n\nAtmosphere/Appearance: Right off of a city street is this gem. It's got a good mixture of a dive bar and a decent pub. They were in the middle or doing some renovations so I'm excited to see what the new interior looks like when they're all done! For now there's lots of darker woods all over along with a decent bar rail right near the front entrance. Along the back wall is a very long bench seat paired with tables that you can push together to form one long one. It's a college town so it was a bit loud inside, but you kind-of expect that from these types of bars.\n\nService: Katie took great care of us. She was so friendly, charismatic, funny and just overall brought an extra level of joy to our dining experience.\n\nFood: I saw wings on the menu so l went for it. They had a list of flavors with some interesting names. I went with the \"Brother Rob Hot\" which is supposed to be some super hot sauce, but it wasn't. It had a good amount of eat and great flavor, but it's nothing to be afraid of. Another flavor I got was the Buffalo Garlic Parmesan. It was delicious and my preferred sauce over the others. Next up was Medium. Medium was medium. I also got the chance to try their Honey BBQ which was a great deep, tangy flavor with natural-tasting sweetness. Last, but not least was the \"Sauce of the Day\" a sweet, tangy, honey-based selection. It was okay, but quite different. The wings were also big, juicy and not fried so much to where they were burnt. Their house-made bleu cheese was fantastic and went perfectly with the spiciness of the wings.\n\nValue: 20 big juicy wings with bleu cheese, celery and carrots will run you $28.00. Given the size of them and that I can get more than 1 FULL MEAL out of them makes them worth it for sure.\n\nI'd totally come back here specifically for the wings. It's a nice chill place to hang out with your friends or coworkers to get a beer, some food and take a load off for the day.",
-            "The Buckshot Burger was OUTSTANDING. Two Wagyu patties topped with onion rings, bacon, and BBQ sauce. This place had a lot of activity on a Monday night. Seems like a very good place to hang out and watch a game. Lots of options on the menu. Good service. Walkable distance from most major hotels in Troy.",
-            "Saturday lunch date. New place for me. Parking may be an issue on busy days but otherwise a gem of Troy. Lovely dark wood, friendly, and cool vibe here. Staff is amazing . Food delicious. Had the legend chicken sandwich, my friend had the mushroom Swiss burger. All was cooked perfectly. Loved the bacon jam on the chicken sandwich. Come here and get treated well. 30+ beers on tap. Awesome time. Would definitely come back.",
-            "This was my first visit.  Loved it!  After business hours you can park in the lot across the street.  Very convenient.  Not really a dive or ruin pub, but really good local pub.",
-            "This place has been a solid place to enjoy beers in Troy for well over a decade of me knowing about it. The prices have climbed with the economy so your Wing Burger is a bit more but the food is good and still competitive with the locals.\n\nThey have a cute outdoor patio, fun keg urinals, and shuffle board to play in the back. Plenty of space to enjoy an after work happy hour and I even saw some decent NA brews for anyone needing to DD.\n\nThe decor keeps to the Ruck standards and the staff are still welcoming and friendly. Comfortable to enjoy if you are a regular or if you drop in from time to time.\n\nOn a bigger plus they allow your pups to join you which makes another pup friendly destination in Troy NY.\n\nThank you\ud83d\ude01"
-        ]
-    },
-    {
-        "id": "ChIJm0I2GKYP3okRmnb0byFKApY",
-        "name": "Dinosaur Bar-B-Que",
-        "address": "377 River St, Troy, NY 12180, United States",
-        "latitude": 42.734568,
-        "longitude": -73.689239,
-        "rating": 4.5,
-        "reviews": [
-            "Amazing BBQ and sides!  Try the 2 or 3 meat combo platter for a great variety.  The BBQ fried rice and simmered greens were fantastic.  Great location also right on the river.  Will be back when I'm in the area.",
-            "Came here for a work event. Ordered everything family style. It all came in platters and we built our own plates. Great selection of meats and sides. Chicken wings are outstanding! Ribs and brisket were good. Cajun Mac and cheese was great! Fried green tomatoes are the best! Lots of love for this place. Easy walk from local hotels in downtown Troy.",
-            "Situated right by the Hudson River, the stunning views enhance the meal. The food is absolutely delicious, especially the brisket, which is perfectly cooked and packed with flavor. Overall, this spot offers a wonderful blend of great food, beautiful scenery, and excellent service. Highly recommended!",
-            "Admittedly, I did not eat, but the person I was with did and his food did look good.  The deviled eggs looked amazing.  Good bar selection of liquors and beer.  Very nice bartenders..1 in particular who has been with them for about 13 years..\nPlace was crowded and there was a wait.  I went for bar seating so no wait for a table.  They do have outdoor seating so evenings would be nice outside by the river.",
-            "Had the k pow chicken wings and fried green tomatoes,  cooked to perfection \ud83d\udc4c.  All our meals were super Delicious and we were stuffed taking half our plates home. The cheese cake wit caramel whiskey sauce was delightful.  We wil return."
-        ]
-    },
-    {
-        "id": "ChIJ0YKXQ90P3okRN0SqpJDS7zA",
-        "name": "Anthony\u2019s Italian Restaurant",
-        "address": "239-241 Remsen St, Cohoes, NY 12047, United States",
-        "latitude": 42.7703669,
-        "longitude": -73.7002286,
-        "rating": 4.5,
-        "reviews": [
-            "If you\u2019re looking for an authentic and quaint Italian restaurant, this is the place to go. The service was great the food was even better. They weren\u2019t kidding when they said the pasta is fresh and homemade. You can definitely tell!",
-            "Food was amazing hot and fresh. The dining room needs some updating but it\u2019s part of the charm.",
-            "It was my first time at Anthony's and will definitely be back. The restaurant is nicely decorated and clean. The service could not have been better. The food was served quickly and was hot and delicious. Prices were very reasonable. If you like fried mozzarella you are in for a treat. Crispy outside, melted cheese inside, and delicious sauce for dipping.",
-            "Delicious beyond our expectations. The portion size was amazing for both the antipasto and the chicken parmesan with linguine. The pictures don't do the food Justice and we had plenty of leftovers as we shared one order of antipasto and one order of chicken. Highly recommended we can't wait to come back.",
-            "SO good! Even the simple starter salad was so tasty. My pasta was freshly made. The serving size was enough for a few meals. Our server Josh was so great! Very cute atmosphere too."
-        ]
-    },
-    {
-        "id": "ChIJzwV_SNwO3okROKbofG-pIyI",
-        "name": "Giuseppe's Pizzeria & Deli",
-        "address": "450 3rd Ave, Watervliet, NY 12189, United States",
-        "latitude": 42.7115487,
-        "longitude": -73.7083646,
-        "rating": 4.4,
-        "reviews": [
-            "The pizza dough was a bit undercooked, ordered a tots with cheddar cheese but they put liquid cheese which made the potato soggy. My expectations were high, but my experience may not be yours.",
-            "Ordered a 12 cut square pizza and boneless wings tonight. The wings were fine but the pizza was so severely overcooked, bottom burnt and the texture of cardboard. Mind you it also took an hour and a half to be delivered. When I called to complain and ask for some sort of compensation they refused a partial refund and only offered 10% off my next order which really doesn\u2019t seem fair. Definitely will not be ordering from here again.",
-            "If I could do a zero star I would U guys really think this penne ala vodka you must be joking very unhappy and this food is not good pasta is not cooked it gummy and no light pink sauce like it\u2019s suppose to bed u are a joke and will never order from here again and to top it all off sausage was not cooked and chicken had no flavor",
-            "We order a pizza or two from Giuseppe's Pizzeria and Deli almost every Friday. We have them deliver our order so we can't rate the atmosphere.\n\nOur old pizza place changed the menu,  ingredients, and location. We ordered from them 2 or 3 more times and didn't like the the way the food tasted  anymore. We started trying every pizzeria we had been mailed a menu or post card from.\n\nFinally, we tried Giuseppe's. They are a keeper! Their pizza is consistently delicious! We just tried a 2 cheese calzone and that was delicious too!\n\nWe have been ordering from Giuseppe's exclusively for 3 - 4 months now. We've been happy and satisfied with every order. We really like the pizza with meatballs.\n\nWe don't rate many restaurants 5 stars. Our experience has been when we've been ordering from a place once a week for 3 or 4 weeks the service and quality goes down. It's like they seem to take our loyalty for granted.\n\nNot Giuseppe's, the food and service is constantly top notch, we highly recommend them!!!",
-            "So I decided not to make pizza tonight like we normally do on Friday nights. We are a bit of pizza snobs. My husband ordered from the pizzeria and the pizza was a hit in this house. The crust was cooked perfectly and has wonderful crunch while still being light and soft with just enough chew. What was even better than the crust was the antipasto that we ordered. No slimy lettuce and cheap cold cuts here! All the veggies were fresh and they use quality Italian cold cuts. We cannot wait to order again! Thanks for making dinner for us tonight."
-        ]
-    },
-    {
-        "id": "ChIJUaiTxKcP3okRLQ3Pdfc6FmU",
-        "name": "First Choice Caribbean",
-        "address": "451 Fulton St, Troy, NY 12180, United States",
-        "latitude": 42.7321643,
-        "longitude": -73.6881233,
-        "rating": 3.9,
-        "reviews": [
-            "I ordered the oxtail (take out) with grubhub. Our food got to us steaming hot, and we all agreed it was fantastic. The oxtail was falling off the bone tender, and the rice/plantains/cabbage were also delicious. Definitely worth the price. Highly recommend!",
-            "I come here for ricky,\nAnd I stay for the food!\n\nVery casual environment.  I always feel satisfied after eating here, as if my body is thanking me. The rice,callaloo, cabbage, plantains, and chickpeas compliment each other. What a nourishing meal. They have scotch bonnet sauce in case you like it spicy",
-            "My Dad and I came in last week (9/24) There appeared to be only one man working. Two customers were ahead of us waiting on their orders to go, which didn't seem to take the guy very long to do. The gentleman working there seemed very laid back and treated us well. My Dad and I both got the chicken jerk. It was a little spicy for my taste, but I can appreciate good cooking regardless. My Dad loved it. I'd go back. I most likely WILL return at some point. I'm giving this gentleman , the place, and food full stars \u2b50 \ud83d\ude0a",
-            "I usually get their food at the farmer\u2019s market on Saturdays, but I was craving it today and ordered it through grubhub. Everything arrived quickly and was very warm, and tasted great. Grateful to have this place nearby !",
-            "Ordered from here via Door Dash for lunch.  Only getting 1 star due to nice portion size and price.  I ordered curry chicken and all I could taste was curry spice. No seasoning on the chicken and the cabbage was plain. The rice was okay but drowned by curry heat.  It was spicy but unflavorful overall. Didn't finish it. There are other places that deliver spice with great seasoning."
-        ]
-    },
-    {
-        "id": "ChIJ_TlRJagP3okRRcBW9fo9j4Q",
-        "name": "Sushi King",
-        "address": "200 Broadway #101, Troy, NY 12180, United States",
-        "latitude": 42.7317499,
-        "longitude": -73.6913403,
-        "rating": 4.1,
-        "reviews": [
-            "This place is absolutely amazing! The environment was great and the service was phenomenal. The restaurant was clean as well. The food is also super good and affordable. This is a perfect place to go to eat a nice dinner with friends or family if you happen to be in the area. Would definitely come again!!",
-            "this is the best place to go to hangout with some friends !!! i went with some friends yesterday for dinner and we all had such a great experience. the service was speedy and the servers were all very patient and kind. the price is also pretty reasonable considering that some restaurants charge way more. definitely will come back again !!!",
-            "I decided to go there last week for lunch with my friends and we had such a good time. The food was really good and the service was fast. All the sashimi tasted really fresh especially the tuna. I loved the eel maki and my friend enjoyed the salmon roe sushi a lot. The place was kept really clean. Me and my two other friends spent around 90 dollars and we all left with our stomach full.",
-            "The food here is amazing!! Me and my husband have frequent dates here and we gobble up the pork fried rice!! The memories I have here are so wholesome and the place is kept neat and tidy with top tier service. Mindy is so sweet and wonderful it is a pleasure seeing her whenever we come to eat!! \ud83c\udf7d\ufe0f\ud83d\ude0b",
-            "absolutely loved eating here! the restaurant is very clean and welcoming. the staff are nice, friendly and will answer whatever questions you might have. overall, the food is affordable and i enjoyed my time here."
-        ]
-    },
-    {
-        "id": "ChIJk3xsStUR3okRu_KLFygPNHM",
-        "name": "The Daisy Cohoes",
-        "address": "182 Remsen St, Cohoes, NY 12047, United States",
-        "latitude": 42.7717071,
-        "longitude": -73.70086549999999,
-        "rating": 4.6,
-        "reviews": [
-            "The Daisy is a cute chic taco and margarita place. The tacos are fusion, they have a bulgogi one with kimchi and a fried chicken and a coconut shrimp one plus others. Not authentic Mexican tacos but stills delicious. Classy place.\n\nThe margaritas are strong! I saw a sign for buy one get one margaritas on Wednesdays. They have a decent amount of tables even though it\u2019s a small place, there is a back room with more tables.\n\nThe servers were attentive and friendly.\n\nThe coconut margarita was creamy and I liked the coconut shreds on the rim. Margaritas and tacos are all around $13. Tacos come with 2. Bill can definitely add up but it\u2019s worth it. Great environment to catch up with friends.\n\nThe chip appetizer with pico de gallo was delicious. The chips had a great crisp, they tasted deep fried. Perfectly salted. I liked my coconut shrimp tacos the best. 2 big meaty shrimp in each taco, crunchy and cooked well and the pineapple in it gave it a nice sweetness. The fried chicken tacos were a mix of dark and light meat chunks, which were very tender and soft. Though a bit too soft for my likening of chicken texture. And the sauce has a very strong cilantro flavor.\n\nIf I\u2019m in the area again I would love to come back and try other tacos and margarita flavors!",
-            "The place is very cute and cozy. My friend and I went there last month and I had the bulgogi tacos without the shell and a classic margarita. We really liked the ambiance, service, and the reasonable prices so we came back the second time last week! This time we had Coconut Shrimp and Beef Bulgogi with the shell  now!\n\nI love the fusion of two cultures here. highly recommended!",
-            "Went for tacos and margaritas on a Wednesday night. The tacos and margaritas were all good; the flavors were great. I think I loved the fried chicken taco the best. Any one with the aji verde sauce is a winner! The only problem with the tacos were that they were really small; like 2 bites each. I could eat the nachos all day, they were soo good. The margaritas were buy one get one free and were good. Service left a little to be desired. They would ask if we needed anything quickly and walk away before everyone responded. They were hard to catch when we did need something. When it came to the bill we were told we had to ask for separate checks at the beginning but they never told us that at the beginning. \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f still had a great time but compared to similar places, it was just ok.",
-            "One one Delicious  the quac alone was fresh along with the homemade chips was spiced right and had bold and robust flavor.\n\nWe both ventured for the Korean beef and babacou pork tacos. The Korean beef spicy but yummy melted in your mouth.  I am not a big fan of pork but I would get that again.\n\nBoth items 5 stars.\n\nWe did the eats in the streets. Great time and friendly people.\n\nWill definitely be back.",
-            "We ordered 4 different tacos to share and they were all fantastic- my favorite was the Beef Bulgogi taco. Delish margs, coconut was the best! Friendly, efficient staff."
-        ]
-    },
-    {
-        "id": "ChIJqabiYZgP3okRzEgsVUoHM60",
-        "name": "Ali Baba",
-        "address": "2243 15th St, Troy, NY 12180, United States",
-        "latitude": 42.73602500000001,
-        "longitude": -73.6760917,
-        "rating": 4.7,
-        "reviews": [
-            "We visited on a Thursday for lunch, and while there was no one there when we got there the place filled up quickly  it's easy to see why.  Very good food and friendly service.\n\nWe ordered way too much food, though, wanting to try a bunch of things.  All was good.  The large Lavash bread is very good, and also very large. Same with the pizzas.",
-            "Excellent Turkish food, service was good, portions good sized. Lavash was great, kebabs were good, I had the lamb kebabs. The hummus was great, as was the Celery Root salad, Esme, and Muhammara.",
-            "Would leave 10 stars if I could. This place is INCREDIBLE.\n\nWe came up from the city so I could take the Bar exam (super scary stressful test). I was hoping for something Mediterranean for light and healthy but not expecting much.\n\nWe were transported to Turkey. The pizza oven with fresh breads was warm and beautiful. Each dish was more flavorful than the next and the whole team here is warm and welcoming.\n\nWe ordered to go for lunch tomorrow and are going to come back for dinner on our last night. This is my favorite kind of food and they\u2019re doing it right.\n\nThank you!",
-            "I was very impressed with my experience at Ali Baba this past week. Although it has a large dining area there are many takeout orders that primarily serve as a large part of their business. The food was phenomenal. They gave huge portions for their prices. You can\u2019t go wrong with the yogurt sauce and the pita bread. The Kebab is the best kept secret in my opinion. Can\u2019t wait to go back.",
-            "Ali Baba is a hidden gem serving delicious food with reasonable price. Their bread was served warm, satisfying and went perfectly with the dipping appetizers."
-        ]
-    },
-    {
-        "id": "ChIJxy4Aj_4P3okRhFX0R8Za4yg",
-        "name": "Finn\u2019s",
-        "address": "40 River St, Troy, NY 12180, United States",
-        "latitude": 42.7250599,
-        "longitude": -73.6952647,
-        "rating": 4.8,
-        "reviews": [
-            "Really great spot!\nThe service was a bit slow in a Friday night around 730pm.\n\nBut the food was bomb!\nSuper delicious with tons of flavor. The fries were a bit on the salty side.\n\nBut the burger was amazing!!! Best burger I\u2019ve had in the region so far.\n\nThe sausage pasta was delicious as well. Very tasty and great presentation.\n\nOverall a great experience. We\u2019d definitely come again.\n\nThe space is a little small so be prepared to wait on a busy Friday/saturday.\n\nLots of parking in the area. Very dead at night.",
-            "Nice hidden gem on the outskirts of downtown Troy. Really nice aesthetic inside and out parking was a little small in the lot but the street has plenty. Our server was great. He recommended our drinks and a couple appetizers to try. I tried the Hugo spritz and to eat we had the octopus wedge salad and stracciatella. It was plenty of food to not order entress. Our bill for 2 cocktails and 3 decadent well crafted appetizers  was $90. I will definitely be back to try more.",
-            "We loved our first experience at Finns. The food was unique and fantastic. There was depth of flavor on every plate and the staff was friendly and attentive. They have a unique menu that must change constantly so people would not get bored with the menu. We will most definitely return.",
-            "This restaurant is definitely a place to check out while you\u2019re in Troy. Very unique dishes catered to everyone depending on what you\u2019re craving. Salads, burgers, pasta , vegan dishes . And they even have a pool table if you\u2019re  trying to play a few rounds before hitting the bars around town afterwords. This is a nice place to bring friends with you.",
-            "Visiting a restaurant during a soft opening shows the promise of what will be. If you were a fan of Kaskade, or love the tacos/margaritas at The Daisy this place is for you.   The historic 1910 building has an old timey feeling juxtaposed against the industrial decor.  The menu is small, but well thought out.   There are creative cocktails and a few wine choices.   The tater tots are a must try.  Delightful little gluten bombs that melt in your mouth.  The fish sandwich, and fish and chips are spot on.  The breading is panko and keeps everything light and crunchy.  The burger was excellent and cooked to perfection.  The desserts were interesting, but not showstoppers. Just like the sister restaurants, this one is in the winner's circle."
-        ]
-    },
-    {
-        "id": "ChIJLexYRfwP3okRnHKAZpcy1_8",
-        "name": "The Trestle Restaurant & Pub",
-        "address": "2 Cohoes Rd, Watervliet, NY 12189, United States",
-        "latitude": 42.7399314,
-        "longitude": -73.7007548,
+        "id": "ChIJC-4OC8up0okRNqaBBLBdGjE",
+        "name": "Pearl City Hops",
+        "address": "150 W 4th St, Jamestown, NY 14701, United States",
+        "latitude": 42.0972119,
+        "longitude": -79.24355109999999,
         "rating": 4.2,
-        "reviews": [
-            "This is the quintessential old school restaurant. Similar to the roots of that building, The Purple Pub. Affordable, healthy portions, personal friendly service and a classic wide open dinning room with an active bar with TV\u2019s. The food was fresh, tasty and portions beyond one person\u2019s appetite. We will be back!",
-            "Formerly the Purple Pub, The Trestle has quickly put their own stamp on popular pub. Our pizza as topnotch with a great crust and quality ingredients. Our side salad was fresh with solid Italian dressing. There are plenty of other options...burgers, wings, salads and reasonably priced entrees. Very friendly and accommodating staff.",
-            "Ordered a large half pepper/pepperoni half cheese pizza for lunch today and it came was absolutely delicious. Everything was exactly how a pizza should be with just the right amount of sauce/toppings mix. Staff was above and beyond making sure I was content with my very short wait. I will most definitely be ordering takeout on the weekends. Thank you!!",
-            "Incredible hand-tossed margarita pizza! Fresh basil, generous mozzarella and just the right amount of sauce. Also love how the new owners of the space opened up and brightened up the decor. Well done! \ud83d\udc4f\ud83c\udffb",
-            "Ordered takeout. First few times was amazing. The 3rd time we ordered, they already changed the way sandwiches were made on the menu. Ordered again tonight and everything from the container, to the portion and presentation has rapidly declined. Very sad because the first orders were amazing. Have never been inside but gave atmosphere the benefit of the doubt."
-        ]
-    },
-    {
-        "id": "ChIJ89AWO_YF3okRYv1uS0SmGz4",
-        "name": "Chris' Pizzeria",
-        "address": "786 Pawling Ave, Troy, NY 12180, United States",
-        "latitude": 42.6998116,
-        "longitude": -73.65263399999999,
-        "rating": 4.4,
-        "reviews": [
-            "Pizza was good.  Crust was light and sauce was good.  Bread sticks were very basic at best, and the canned mushrooms left something to be desired.  The building is pretty sketchy and likely to collapse in a few years, but that\u2019s a future problem.  Would eat here again\u2026better than Kay\u2019s in my opinion.",
-            "They fed our firehouse in Troy after a decent brush fire today. They sent pizza wings and this fried broccoli thing that was amazing. Thanks Sheri. SUPPORT LOCAL!",
-            "I\u2019ve ordered here twice recently. Both times the food was really good!",
-            "I tried this place  after work one day on a whim after a long day. they delivered my food quick. The Philly cheesesteak #2 was awesome, its one of the best I've ever had. I also got mild wings they were great. All and all delicious and worth the money, great serving sizes. You guys rock.",
-            "Best pizza in town! We love their wings, apps and subs too! Love Dawn and glad she is back. Their square pizza is the only square pizza I'll eat. I love that they brush their crust with garlic butter. Gives it a nice crisp and tastes delicious!!"
-        ]
-    },
-    {
-        "id": "ChIJZ1Pby1gP3okR7If24GfoMsw",
-        "name": "Villa Valenti",
-        "address": "729 Pawling Ave, Troy, NY 12180, United States",
-        "latitude": 42.7017392,
-        "longitude": -73.655329,
-        "rating": 4.3,
-        "reviews": [
-            "Went in the other night and the place was really friendly.  A guy invited me to an empty seat at the bar.  Another guy ordered a pizza to share with anyone who wanted some.  People were really lively about the college game on the TV.  There were a lot of conversations going on between regulars and unfamiliars.  Just altogether welcoming and nice bar experience.  Will definitely go back.",
-            "Once we got our food it was pretty good. The service sucked. Waited and waited for drinks, our food. Our grandkids finally got there food when the adult's were half way done eating there food. Then brought out wrong food. I won't be going back anytime soon, if ever.",
-            "Small town spot, we stopped here for an early dinner and the food was great! We just moved to the area from Buffalo so it's nice to find a Bills backer so close to our new home, will definitely be watching a few games here when the season starts!",
-            "Since the new owners took over, this place has been on point with every order!!! Finally a restaurant that cooks my fries and onion chips well done!!! Chicken fingers and sauce are DELICIOUS!!!",
-            "I would never order from this restaurant again: this is a place we have ordered from several times, they not only charged us full price for the original order we placed, in which they made a mistake and did not deliver! We ordered 2 pizza\u2019s, one, plain pepperoni and cheese, the other a Cobb pizza. They delivered a 10 cut cheese and meatball pizza. We had 4 children and 2 adults we were feeding; certainly not enough food. Upon calling, the person answering the phone, Frank, was beyond rude and swore at me. He promised to correct the error and send out the correct pizza, which never happened. We were still charged and never received our pizza.  Absolutely unacceptable. This person does not have the capability to operate a business or handle mistakes or manage a business."
-        ]
-    },
-    {
-        "id": "ChIJSQ5ly0YP3okRYuxW41bsPPw",
-        "name": "Sabor Caribe\u00f1o (Authentic Spanish Restaurant)",
-        "address": "230 4th St, Troy, NY 12180, United States",
-        "latitude": 42.7245991,
-        "longitude": -73.69029139999999,
-        "rating": 4.8,
-        "reviews": [
-            "The food was very tasty definitely feels like I was in my beautiful Island of Puerto Rico. Bring back so much good memories. The quantity was great. Plus Good conversation and laughter with the staff here as well. I would definitely recommend for anyone to try and I will definitely come back for more.",
-            "I had the best experience . Very friendly atmosphere n great food\nThe best appetizers n my first time having a Alcapurria also amazing\nStew chicken yellow rice\nChicken n beef empanada Alcapurria in the picture\nI enjoyed it very much definitely recommend for people to try",
-            "Absolutely delicious!!!! Best in the capital region, easily. Huge portions, great prices, and a welcoming atmosphere. Miss Iris is awesome and I will definitely be coming back!",
-            "Pardon my pics I had dug in already but all I can say is the food was ok it could have had a bit more flavor I\u2019m from down state and I\u2019ve realized it\u2019s not to many great options up here I got the pepper steak with rice and beans they put enough gravy like how I like and the plantains was good the presentation could have been better not the best but not the worst either",
-            "The guys at the counter were very friendly and polite. Food was DELICIOUS! I definitely recommend anyone to come here. I will be coming back"
-        ]
-    },
-    {
-        "id": "ChIJKb4Z0AcP3okRXz1rohMIJ4o",
-        "name": "Gino's Pizzeria & Fried Chicken",
-        "address": "123 4th St, Troy, NY 12180, United States",
-        "latitude": 42.729012,
-        "longitude": -73.689685,
-        "rating": 4.2,
-        "reviews": [
-            "I ordered via Uber eats during the night. I\u2019m glad other people enjoyed their food. However, I\u2019m surprise to order a 6pc Wing Ding from a wing place that serves wings that have a yummy flavor but lack meat because each wing is mostly breading and fat. I also did not receive my ranch dressing ( but I know we are all human so mistakes will happen). The pictures I reviewed are misleading. The fries were expensive and the container was filled halfway.",
-            "Since my first post, the manager reached out to me about the situation, offered to send me a replacement pizza, and I accepted, He was courteous and respectful, and checked with me after the pizza was delivered.\nHe chose to upgrade my pizza to an xl 12 slice, pizza was hot when delivered, He stepped up his service, and made me happy with his restaurant!\n\nSo, just ordered a pie from Gino's,  guy said 45min to an hour, delivery guy calls and says \" boss gave me wrong address\", so I tell him my address, and sent hot link with the same, about ten minutes go by, he calls and says\" I'm outside with your pizza\" go outside, no guy, no pizza, call him back and tell him hey you're not here!, told him I sent him my address as a hot link, to check his text, he says\" I be right there\" I said my pizza is going to be cold, he swears it's not,  shows up,my son goes outside to meet him,  gives him a tip and brings the pie in, this started at 10:41p, he shows at 11:45p with cold food,\nNot happy, called the shop, owner says he went to wrong address twice, that's why it was cold, I said I paid you $26 for a hot pizza, what are you going to do!?! He says we are closed,  call back tomorrow.\nI am pissed to say the least.",
-            "Horrible, Nasty! Never go there. I used get Chicken Over rice from here. It was nice organized with lots of rice and chicken and the White sauce on top. Not right now, it is almost a cup of rice with little bit of chicken and Salad. Not worth it. The wings used to come saucy and juicy, but not right now.",
-            "Horrible service, clearly no one there understands English. Asked for a HAMBURGER! No cheese no sauce. Waited over an hour just to receive a cheeseburger. Called back to correct the order and waited another 30 minutes just to receive ANOTHER CHEESEBURGER!! They had the nerve to give me an attitude because of their mistake. Definitely won\u2019t be ordering from them again.",
-            "\ud83d\ude00\ud83d\udc4d this place was really cool\ud83d\udc4d. I smelled the pizza well before I got into the restaurant\ud83d\ude0b. The staff  were nice and polite. Also my delivery was packaged and ready to go for my clients. I was in and out. Will definitely be back on my down time."
-        ]
-    },
-    {
-        "id": "ChIJm5yzggcP3okR3gRxhu1P8-U",
-        "name": "Bacchus Wood-Fired",
-        "address": "33 2nd St, Troy, NY 12180, United States",
-        "latitude": 42.7305256,
-        "longitude": -73.6918279,
-        "rating": 4.5,
-        "reviews": [
-            "Pick this restaurant off of Google maps and couldn\u2019t have been happier. Garlic bread appetizer was fabulous as were the pizzas that we had for a main course. Good wine selection at very reasonable. Prices would definitely go back if forever in the Troy Albany area again.",
-            "Went out for a late night bite with kiddo and boyfriend. Atmosphere was great, the waitress we had was very friendly, on point, refilled as well as took plates out of the way pretty quickly! Food was AMAZING!! Would recommend for a late night out for a quick bite and drink!",
-            "Love going to bacchus. The artichoke spinach dip is one of my favorite appetizers to get. It\u2019s very creamy and cheesy without being too much. The garlic bread is also delicious and is always worth getting. You really can\u2019t go wrong getting a personal pizza for an entree but the pasta is also very good if you aren\u2019t in a pizza mood. They only take reservations for 6 or more people so if you have a large crowd, I recommend making a reservation so they can accommodate.",
-            "Must try wood fire pizza! Lovely seating at their outside seating which was very nicely set up and decorated. Great attention from our  server, I would recommend going here!",
-            "We stumbled upon this place one evening and it\u2019s become a favorite little hidden gem. Great pizza, apps, wine, and beer."
-        ]
-    },
-    {
-        "id": "ChIJj9ElYFYO3okRp48beLa0sj8",
-        "name": "Deacon Blues",
-        "address": "806 25th St, Watervliet, NY 12189, United States",
-        "latitude": 42.7358548,
-        "longitude": -73.7079402,
-        "rating": 4.5,
-        "reviews": [
-            "Absolutely phenomenal place!! For years n years growing up in the Capital District I thought I found all the \"hidden gems\" on places you would not know about - where the food is outstanding; well a friend of mine introduced thos place to me and 5*'s across the board! Seriously, great prices, very tasty food (huge portions) and the service top notch! Reminds me of being a child going to some old school eatery my mom would take me to! Can't wait to go back!",
-            "We used to LOVE their pizza! We have out-of-state family who always had to have Deacon Blue's pizza, even an extra to bring home.\n\nWas it Covid? Or some other event? The pizza size was cut in half while the price didn't change.  We stopped going as it's just a fond memory now of what used to be.",
-            "I had attended a luncheon with family members, there were 10 of us and our server Thomas had no problem keeping up with us, he was wonderful he did a great job taking care of us as well as the other customers he is one of the sweetest servers ever. I had no idea what type of establishment this was I thought it was maybe a bar but it's a very lovely restaurant very good food, and I will be back, especially if Thomas is working",
-            "We have a lot of our family gatherings here.  The staff is always friendly and attentive.  The pizza and the turkey dinner are worth the trip.",
-            "Absolutely Awesome... I ordered the Chicken Parmesan and Spaghetti & leftovers for 2 days... Michelle was our Waitress again, so Happy for that... this was our 2nd visit there"
-        ]
-    },
-    {
-        "id": "ChIJTU0zsR8P3okRhYAIDAu5_Ow",
-        "name": "Nighthawks",
-        "address": "461 Broadway, Troy, NY 12180, United States",
-        "latitude": 42.7308889,
-        "longitude": -73.68794129999999,
-        "rating": 4.6,
-        "reviews": [
-            "We tried here on Sunday 10-20 we were seated quickly by great host. Everyone was awesome this place is definitely our kinda place our kinda people. I ordered the cheeseburger and fries. It was cooked perfectly as I ordered. The fries were excellent also. My wife got the house made veggie burger. No pics sry. She said that it was the best she's ever had. For price you can not go wrong here. And we will absolutely be going back.",
-            "I took my teenage son, and we both really liked our food. I'm glad there's a burger on the menu because it was the only thing he was interested in, so that's something to keep in mind if you have younger kids or picky eaters. The pickles on our burgers were the best part, as they were amazing. They said they had to seat us at the bar because we didn't have a reservation, which was kinda weird because the place was mostly empty the whole time we were there, but the bartender was incredibly sweet. I will say that it is very expensive. I got one mixed drink, my son had a root beer, and our two burgers and fries was $75 including the tip.",
-            "I have had some great meals at Nighthawks. The vibe as you walk in is very inviting and welcoming. The fried chicken sandwich and cheeseburger are two of my favorite things to get. I can\u2019t also say enough about the asparagus toast or cinnamon bun. There are so many different options and sometimes it can be difficult to choose. I see that as a good thing because sometimes you want to have that problem!\n\nThe outdoor seating is very nice as well during the hotter months and I would definitely recommend making reservations if you are going not matter the day or time just to make sure you can get a table. There is a bar to sit as well, but if you want a table I would suggest making a reservation.",
-            "Nighthawks is one of my favorite places to eat in Troy! The menu is fascinating and filled with bangers, and the staff is super friendly. I\u2019ve had some of my all-time favorite dishes eating here.\n\nAs a note\u2014the attached photos (save for the one with the cod and greens, which I had last night and it was amazing) aren\u2019t just from recent menus. I\u2019ve been here a bunch of times and wanted to highlight some of my favorite meals there! By the way, get the opera cake for dessert.",
-            "Best juicy and flavorful burger!!!\nEverything was perfect\u2026 soft bun, meat cook perfectly, cheesy, flavorful, home made French fries \ud83c\udf5f mmmmmm!!!"
-        ]
-    },
-    {
-        "id": "ChIJ49WG-QcP3okRToCWAGXGYq4",
-        "name": "Lo Porto",
-        "address": "85 4th St, Troy, NY 12180, United States",
-        "latitude": 42.7305239,
-        "longitude": -73.68928269999999,
-        "rating": 4.6,
-        "reviews": [
-            "There are many Italian restaurants in the Capital District and this is the best. From the fried calamari and wonderful oil with basil, garlic, herb and Parmesan cheese for dipping bread started the evening perfectly paired with  Pinot noir wine. Then we continue on to veal cutlet Parmesan with a sauce full of flavor. Others in the party had tried a variety of items and enjoyed all. Finish off with expressions and lemon mascarpone  cake with berries. Excellent meal and service",
-            "Best Italian meal and experience I've had in years. It was a most delightfully delicious evening.",
-            "My boyfriend and I went to Lo Porto for the very first time tonight as our anniversary dinner and I couldn\u2019t possibly recommend it more! The food was delicious, the atmosphere was so cozy and welcoming, and our server, Lidia, was the absolute sweetest and so attentive! We loved her, though everyone in the restaurant was so kind and wished us a happy anniversary on our way out. Would definitely recommend if you are in the area!",
-            "I had a great meal at Lo Porto\u2019s yesterday. This is one of the best hidden gems of downtown Troy for those who have not been, you need to give it a try. It has a very authentic Italian feel and the service is impeccable. I would recommend making reservations if you are going during busier days than normal.\n\nThe veal, spaghetti carbonara, and the Tortellini Alla Panna, are some of my favorite things to get. The sauce is nice and thick. Do not miss the opportunity to get a cannoli for dessert. Even if you have to take it to go, it is definitely worth the extra room in your stomach! Can\u2019t wait to go back, thanks!",
-            "Such a great experience! Came here for an anniversary with my girlfriend, The food and service were impeccable. Our server, Lidia, was very kind and attentive! Whole staff were very sweet and the atmosphere was perfect! Will be coming back again!!"
-        ]
-    },
-    {
-        "id": "ChIJh8FOB80I3okRkM_JB6Dp5ZY",
-        "name": "Moscatiello's Italian Family Restaurant",
-        "address": "99 N Greenbush Rd, Troy, NY 12180, United States",
-        "latitude": 42.6900862,
-        "longitude": -73.6868599,
-        "rating": 4.2,
-        "reviews": [
-            "We really enjoyed our dinner here! Our favorites were the lobster ravioli, shrimp imperial, and shrimp florentine. The blue cheese dressing on the side salads was also amazing (I think it's homemade). The bar area was a little loud/rowdy, but other than that, it was a great time!",
-            "Great first experience. Food and service were impeccable! We'll be visiting again.",
-            "Wednesdays, they have a $5.00 dz steamed clams appetizer so we finally took the short ride to a restaurant we've been fond of for years. Its always been a mainstay for family events and fundraisers but it's also a first class dining place.\nHappy hour prices for the bar patrons offer generous glasses of wine and 22oz beers for the pint price.\nThe clams were amazing as was the fresh calamari with a spicy marinara. Also had the peperoni bread with marinara which was 5 stars!\nGreat staff and service, plenty of parking. They have an extensive variety on the menu which never disappoints. Treat yourself!",
-            "Despite the heavy Northern West coast style rain that plagued our region last night, we had delicious dinner out with friends, which delighted us. Amongst what we enjoyed were a an appetizer of Portobello mushrooms and roasted peppers. These were delicious! The soup du jour was large bowl of Manhattan Clam Chowder, cooked to perfection.\n\nThe main Main meals consisted of a \u201cSteak Michael,\u201d which was saut\u00e9ed in a natural beef sauce with mushrooms, asparagus, tomatoes, artichoke hearts, and yellow peppers. A Lobster Imperial: 2 four-ounce lobster tails and crab meat, saut\u00e9ed in a white cream sauce, which was delicious with generous proportions.\nAnd finally, a dish of Fried Sausage and Peppers, saut\u00e9ed in a meat sauce with spaghetti, also in a meat sauce.\ufffc\n\nThat, along with a nice bottle of Montepulciano D\u2019Abruzzo wine, and two bowls of steamed clams, which were only $5.00 a dozen on special, made for a delicious evening, along with a lively conversation peppered throughout.\n\nDespite being extremely busy, even for a 6 o\u2019clock reservation on a Wednesday night, the service, largely performed by a coterie of young women who were very professional and quick, came quite rapidly and efficiently. Everyone was friendly, cordial and professional. I wondered why so many people were there mid week. The reason was that they have a periodic special on Wednesdays with steamed clams, which again were a bargain at only five dollars a dozen. Highly recommended. Buon appetito!",
-            "Wide variety of Italian American cuisine,we went on a Wednesday night which sometimes have five dollar a dozen steamed clams which is a great value.Great selection of options and fresh bread.A bit expensive  but good quality food.I ordered tortellini with a red sauce and sausage,additionally ordered a small salad with a creamy Italian dressing."
-        ]
-    },
-    {
-        "id": "ChIJAQAczSoQ3okRBOtgyFhn91c",
-        "name": "Donnie Magoo's Restaurant",
-        "address": "165 Remsen St, Cohoes, NY 12047, United States",
-        "latitude": 42.7721702,
-        "longitude": -73.7007081,
-        "rating": 3.9,
-        "reviews": [
-            "At first, we didn't have high hopes as we had lots of difficulty confirming that they were open.  Even drive to their location to find out they were unexpectedly closed... But when we finally was able to dine there, we changed our minds. The staff was very laid back. Food was good (even though it was a little overcooked). Atmosphere wise-it offered local pub style vibes but had better lighting with more contemporary seating in the back.  They even had some live music in the front. Even though we were expecting a below-average experience, we have changed our minds and are planning on going back for another experience someday.",
-            "Headed in to hear live music \ud83c\udfb6 Moe and Shows \ud83d\udc4d\ud83d\udc4d were great!\nEnjoyed the Reuben egg rolls made fresh with house made corned beef. \ud83d\ude0b\ud83e\udd24\nOut of NA beer... Bartender offered to make a mocktail \ud83d\ude32\u2764\ufe0f was delicious with ginger beer, fruit and ???\nCheers to an enjoyable evening!",
-            "I had a very nice time at Donnie Magoo\u2019s this past weekend. Our waiter/bartender Jack was very friendly and knowledgeable about the menu and gave us good drink recommendations. I would suggest getting the California Burger and utilizing the back patio seating when it\u2019s nice out.",
-            "Waitress was nice. Music too loud to hear the beers on tap. Advertises \"wine bar\" but only a few selections. Lots of IPAs. Staff & customers smoking, etc. outside the door and their smoke filled the whole dining area inside. We went for dinner because the choices looked good but only stayed for a beer - then left.",
-            "Not only were the staff very inviting but even the regulars that were there seemed very friendly. I had a burger with fries and my sister had a steak sandwich with fries. We both were very happy with our meals and will definitely suggest to our family and friends to go to this wonderful little restaurant."
-        ]
-    },
-    {
-        "id": "ChIJR_rOJQYP3okRwWnlD_f_070",
-        "name": "Sunhee's Farm and Kitchen",
-        "address": "95-97 Ferry St, Troy, NY 12180, United States",
-        "latitude": 42.7275796,
-        "longitude": -73.6893972,
-        "rating": 4.6,
-        "reviews": [
-            "A warm and cozy place with wholesome food experience. I had jujube tea, bulgogi and soft tofu stew with seafood. I highly recommend trying these three on the menu.",
-            "amazing korean food! both food and service is 10/10. thank you! we\u2019ll be back \ud83d\ude97\ud83e\ude77\ud83d\udca8",
-            "Very flavorful and fresh ingredients.  Best ambience to a perfect meal ! Authentic Korean experience with bar/store in restaurant type; have Korean snacks and merchandise for sale. A feast for the pallette and your eyes :) Attendants are very accommodating and answers your questions attentively !",
-            "This review rating is based on availability, not on authenticity.  Great idea to offer some Korean grocery items while serving various Korean dishes.  Service was great!  Kind of a cute place.  As for the food, the veggies with beef over rice and the tofu stew was very average, comparing to what we could get in NY and CA, but it is nice to at least be available here in Troy.  Prices were a bit higher than expected.  I also would like to suggest a lot less use of MSG!",
-            "I\u2019m a returning customer, so that says a lot about Sunhee\u2019s. An indicator of a good restaurant for me is that they do not have a long menu, because it usually means they focus on quality than quantity. Everything I have ordered from them has always been delicious and hearty. I always leave the restaurant feeling content."
-        ]
-    },
-    {
-        "id": "ChIJo9ZeBOAP3okRURtYUfswZyw",
-        "name": "Troy Five Star Gourmet Deli & Grill",
-        "address": "380 5th Ave, Troy, NY 12182, United States",
-        "latitude": 42.7666789,
-        "longitude": -73.6767641,
-        "rating": 4.5,
-        "reviews": [
-            "ALWAYS good food!!! GET YOU SOME ASAP! i get sum different every time i go but the wings always hit",
-            "I love the people here always willing to fix things and make things special and good everytime! the food is fresh and tasty every single time! the customer service is top tier! this is the only food mart I will eat from! 10/10 for sure!",
-            "In my honest opinion, five star has been nothing but absolutely kind absolutely truthful. They never leave me waiting. They never leave me hanging. They have always been professional. Have the best service it\u2019s become my spot. It\u2019s become my place to go to when I need some chicken wings or some chicken tenders but by the way, our top tiered. The place feels like home",
-            "My favorite wing spot in Troy. Their food is always good and fresh. Customer service on point.",
-            "Troy 5 Star Deli is SOLID ACROSS THE BOARD! Not only is the food delicious, super fresh, fast and consistent, the same can be said about the staff. I haven't had a single thing on the menu that didn't exceed my expectations and blow competitor's comparable offerings out if the water. My favorites are the wings (any & all flavors), quesadilla, chopped cheese and cobb salad. They have an open kitchen and you'll never see an item that isn't visibly fresh and of good quality. And the staff is the best part--they're all incredibly friendly and seem to share a tangible energy that matches the great food!!!"
-        ]
-    },
-    {
-        "id": "ChIJ9_nhUv4O3okR1_JzSLheyAo",
-        "name": "Black Bear Inn",
-        "address": "310 19th St, Watervliet, NY 12189, United States",
-        "latitude": 42.7304268,
-        "longitude": -73.7030798,
-        "rating": 4.5,
-        "reviews": [
-            "The food was absolutely amazing. The hamburger came out and was massive and the homemade fries hit the spot. The mac & cheese across the way on someone else\u2019s plate amazing also that will be my next try here. I highly recommend the Black Bear Inn to everyone",
-            "Stopped by with the cousin for a late dinner, and stumbled into a raucous, delightful karaoke night!\nThe gal at the bar was holding down the fort alone, but was friendly and super helpful. The patrons were having a blast and the atmosphere was welcoming.\nFood was fantastic. We snagged the nachos and the cowboy bites off the appetizer menu, and it was a full meal and then some! Definitely planning to come back, there's a lot more we want to try!",
-            "Great food. Little loud you want to just eat and not join the bar crowd. Had the nachos and buffalo chicken mac and cheese",
-            "We loved everything about the experience we had yesterday when we stopped for dinner. Great service, delicious food that came out quickly, and a relaxed spot to hang out in.\n\nI knew going in that the wings were a must-try and I was still surprised by how good they were; crispy but still moist and flavorful without having to be drowned in sauce. Loved the loaded fries too! Burger was juicy and the mac and cheese I added for my side will be the next day's lunch.\n\nHighly recommend stopping by to try it for yourself!",
-            "We stopped by at the end of the day on a Friday.  First, the atmosphere inside was cheery and welcoming. It reminded me of a bar like the old series \u201cCheers\u201d or the Ben Affleck movie \u201cThe Tender Bar\u201d - people were gathered like old friends at the end of a long work week. Katy was the bartender and server - very welcoming, upbeat- we can\u2019t say enough about the great service we got.  Now the food - we had read great reviews from Facebook and finally had a chance to try it out. We were not disappointed! This is pub food better than best - it\u2019s the real deal. First we started with an order of honey BBQ bone in wings (they have many sauce flavor options)- best we\u2019ve had in the capital region - hot, crispy, large sized and absolutely delicious. Next we tried the plain Mac and cheese and it, too, was delicious- lovely melted cheese on top of cavatappi pasta with a lovely blend of creamy cheeses underneath. We didn\u2019t need to add any salt because the flavors were perfectly delicious already. Next we had the pulled pork sandwich that came with Cole slaw and their homemade, hand cut fries. I opted for onion rings. Can\u2019t even begin to describe how delicious everything was - the pulled pork had excellent smoky tenderness, the Cole slaw was delicious \u2014 (too many places just can\u2019t make a good Cole slaw but this place has it down !)\nAnd then there are the fries and onion rings - wow - both were excellent! Super flavor and perfect light crispy texture- haven\u2019t had good fries/onion rings like this in years! The menu had many other pub fare options from chicken to salads and burgers. It\u2019s a small cozy place inside, people are very friendly. Highly recommend this place. Katy was great and she makes a top notch White Russian. Our hats go off to the chefs/cooks for the extra mile on serving amazing pub food that sets this place apart from so many other places in the Capital Region"
-        ]
-    },
-    {
-        "id": "ChIJLf-SQ5gP3okRJHcOP5jjLZk",
-        "name": "Amante Pizza",
-        "address": "2304 15th St, Troy, NY 12180, United States",
-        "latitude": 42.7366185,
-        "longitude": -73.6752858,
-        "rating": 4.2,
-        "reviews": [
-            "I usually LOVE their pizza but tonight was not the norm (hopefully a one-off). Way too much sauce as you can see from the photo. I've never been given anything different than the pizza in the photo they use in their menu so I'm not sure what's changed. I was also charged for a bottle of soda but was given a can. Not the best experience but not the worst by any means.",
-            "I ordered a beef over rice platter with spicy sauce on the side. I also asked the uber driver to ask for extra white sauce. I got the extra white sauce (see photo) but no spicy sauce\u2026 Never ordered here before so this might not be normal but I was extremely disappointed in the taste of the beef and the astronomical amount of white sauce they threw on top of the food\u2026",
-            "A few nights ago, I ordered a medium cheese pizza.\n\nIt took over an hour for the pizza to arrive, and I only live a few blocks up the road. My pizza only showed up after I called to check on its status and they told me the driver was on his way. When it got here five minutes later, it was merely warm, which tells me it had been sitting and might possibly have been forgotten.\n\nNormally, I give restaurants the benefit of the doubt, but this time, I didn't feel the wait time justified the tip. It's important to note I am fully plastic and do not carry cash, so I tip via a percentage option in the charge card app the drivers use on their phones. So, as soon as the option came up, I pressed \"No Tip,\" and what happened next is the reason for my review.\n\nWhen you pay with a debit card, the charge card app has a final signature screen. Every regular Amante driver that has ever delivered to me in the past has held their phone out for me to digitally sign. This driver was not familiar to me and as soon as I clicked \"no tip,\" he yanked his phone away and began to walk off.\n\nWhen I told him I still needed to sign for it, he scribbled on the line himself and then held it out for me to see. In the moment, I let it go because I wanted to eat my pizza confrontation-free, but on principle, I need to make the business aware of the fact. This was not only rude, but legally speaking, a fraudulent action.\n\nWhile the customer signature is certainly not necessary, nobody should sign the card holder signature line except the card holder. Full stop. To the owners of this business, please make sure your drivers are fully aware of this fact. NEVER sign a line that is not your line to sign.",
-            "Best Pizza and Wings I've had in Troy at a very reasonable price, plus they have great bundle deals!  The guys working there are really nice and polite even when they're slammed with customers.  You don't wait forever for your food either!",
-            "Amante is affordable and the pizza is consistently good. For a college town pizza joint, I couldn\u2019t ask for more. The chicken shawarma wrap is one of my favorites"
-        ]
-    },
-    {
-        "id": "ChIJBz-uzuAO3okRyN8g16G2Ix0",
-        "name": "Valente's Restaurant",
-        "address": "315 8th St #3631, Watervliet, NY 12189, United States",
-        "latitude": 42.7159371,
-        "longitude": -73.7061609,
-        "rating": 4.2,
-        "reviews": [
-            "This Italian restaurant has been here since forever. First time going and I'm definitely coming back. Food is good and the staff is nice. The dining room is small but relaxing with a bar right when you walk in. I highly recommend stopping in",
-            "A great Italian restaurant that has been around for over 60 years. I had two thick pork chops that were excellent. It came with a soup or salad plus two more sides plus bread was put on the table. HUGE portions reasonably priced. I highly recommend. Heather our waitress was very busy, but did a fine job. 6-13-24 This is my go to restaurant  for the largest, most tender, tasty pork chops in the land. I counted 5 sides. Apple sauce, bread, salad, french fries, broccoli. Still the same huge portions. Very reasonably priced. I highly recommend",
-            "This is my go to Italian restaurant,  portions are huge, quality is always great. The prime rib is phenomenal!  If it's a special order it you won't be disappointed . Atmosphere is really nice old school decor. Three little pigs is a delicious appetizer. Anything on the menu is delicious!",
-            "First time diners August \u201824. Waitstaff was excellent and the dinners outstanding!\nBar: cocktail specials, beer, wine\nMenu:Italian/American. Selection of apps, salads, entrees (veal, beef (steak), chicken, seafood, pork chops, Burgers, and a kids menu. Let\u2019s not forget a dessert menu!\nLast and just as importantly: a very affordable dining experience.\nWe plan to enjoy Valente\u2019s again and again",
-            "the food was good but the waitress took our order then ignored us for two hours.  Finally we complained and she stared at us ran off saying she'll check the kitchen order... except for the food and the nice bus boys who helped it's not a place to eat at anymore.  No greeting, no personality from any of the wait staff and no commutation skills at all.  My days of eating there are over."
-        ]
-    },
-    {
-        "id": "ChIJfV1OoWMO3okR1awl3l5_z5s",
-        "name": "Scarlet Knife",
-        "address": "195 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7401777,
-        "longitude": -73.7329689,
-        "rating": 4.4,
-        "reviews": [
-            "Went here with my partner for our anniversary dinner. Had a reservation but it wasn't too busy on a late Wednesday night. Restaurant was clean and modern. Restrooms were super spacious, private, and clean. Lights slightly dimmed but not too much. Our waitress was sweet and attentive without being over bearing. She had great knowledge of the menu and answered all our questions. The truffle potato appetizer was amazing! We both ordered the prime filet steak and it was cooked perfectly and had a great sauce. Lots of wine to choose from. Our table was in the middle but we could still see the kitchen and the cooks. This restaurant made our night out a special time! Would definitely come back here again!",
-            "5 stars all around. Our server Payson was an absolute gem. Chef Paul explained several details about the restaurant for us and even gave me a tour! We sat at the chefs table and we enjoyed watching everyone hard at work in the kitchen while we enjoyed our dinner. I can\u2019t wait to experience the dessert room and have events in \u201cThe Gallery\u201d. The food was top notch. Our ribeye/ filet was cooked perfectly and the sides complimented them beautifully. I wish I had words to explain how delicious and beautiful the dessert was, but there isn\u2019t. It\u2019s easily in my top 5 favorite desserts I\u2019ve ever had in my lifetime. It was an experience in itself.\n\nScarlet Knife is an experience and I cannot wait to come back!",
-            "My husband and I celebrated our anniversary at the beginning of the month. We had the option of sitting at the chef's table, which is an awesome experience to see how the chef and staff work behind the scenes.\n\nThe good was delicious and great portion sizes, we went home with leftovers! I love that the menu add wine pairings for food items, which is really fun to try.\nAppetizers: cheese board and oysters\nDinner: French onion short rib and grilled ribeye\n\nWe didn't check out the dessert room, but certainly had some dessert. The pistachio creme brulee and raspberry rose sorbet were a deliciously unique pairing.\n\nAt the end of our meal, we were approached by both the manager and chef (separately) about our experience which was really nice.\n\nWe will definitely come back!",
-            "Husband and I had amazing lunch at this beautiful place.. our foods outstanding!! My husband told me they have the best chef ! The services was beautiful young lady with a beautiful smile and recommended as to go back some dinner time. Highly recommend this place to everyone.. restaurant with class\u2764\ufe0f. We defenitely coming back.",
-            "We came for brunch, and it was delicious.  The mushroom onion soup is amazing.  We also had the Creme Brule French toast, which was delicious, and the Eggs Benedict was pretty good. I only wish the potatoes were a little bit crispier. We'll definitely be back."
-        ]
-    },
-    {
-        "id": "ChIJiQFyEgUP3okRlkXtyYhj6c8",
-        "name": "De Fazio's",
-        "address": "266 4th St, Troy, NY 12180, United States",
-        "latitude": 42.7232261,
-        "longitude": -73.6906408,
-        "rating": 4.6,
-        "reviews": [
-            "DeFazio\u2019s has some of the best pizza in New York. The dough is airy and the crust is crispy, and charred perfectly. The sauce is so flavorful, and every pie tastes amazing. As for their dessert, definitely recommend the hangover cake. It\u2019s so moist and melts in your mouth (picture taken after a bite or two\ud83d\ude02). Just be prepared\u2014getting a table or placing a takeout order isn\u2019t easy. Make reservations a few days in advance, but it\u2019s totally worth it",
-            "DeFazio\u2019s Pizza in Troy, New York, is a true gem for pizza lovers. The food is absolutely amazing, deserving of a full five stars. Their wood-fired pizza is perfectly cooked with a crisp yet chewy crust that\u2019s just the right balance. The fresh ingredients really make a difference\u2014you can taste the quality in every bite. The service is also top-notch, earning another five stars. The staff are incredibly welcoming, treating everyone like family and making you feel right at home from the moment you walk in. If you\u2019re in Troy and craving exceptional pizza, DeFazio\u2019s is the place to go!",
-            "Sat in the De Fazio garden this afternoon and enjoyed a chicken and herb salad and a cheese pizza.\n\nThe outdoor space is quaint with an herb garden in the rear.  When we walked in, there was a wonderful aroma. I don't know what it was, but it smelled delicious.\n\nA young lady greeted us and walked us to the garden area.  The service was excellent.\n\nThis place has been in S. Troy for a long time, and you can tell they have an uncompromising quality.\n\nFirst they brought some garlic bread. My guess is that they use an infused olive oil.  The garlic and herb flavor on this bread is delectable.\n\nThe pizza came out first. What stood out for me are the ingredients.  The cheese is high quality, not greasy and flavorful.  Their pizza sauce is fresh, mild and delicious.  It has a very slight  sweetness, with fresh herbs.  It is not spicy. Perfect for a bold red wine.\n\nThe salad is fresh and has roasted red pepper, a medium provolone (a little sharp), cherry tomatoes, leafy greens, black olive and red onions. The chicken was slightly over-cooked, but seasoned nicely.  I'd definitely get it again.\n\nI decided to get the hangover cake to go.  This cake is so good.  I think it made its way into my top 5 cakes.  You must try it.\n\nOverall a great experience.",
-            "Food is excellent- pizza- ravioli - hangover cake but to dine here is rough. Saw a few luxury brand cars pull up, start to park, then just drive away. The exterior used to define the epicenter of Little Italy. Dining is outside and down an alley to a backyard area with metal furniture and a mostly failed attempt at garden, al fresco ambience. Still, the server was pleasant but dine-in is not this place's jam tough big potential. Food is excellent and worth it. Check in at pizza spot not the store or alley to be seated.",
-            "Everyone kept telling me to try DeFazio's Pizzeria because my boys are pizza monsters, and we haven't had our socks knocked off yet since moving to the area. I didn't have any prior knowledge of the place, and we just walked in, not knowing it was completely booked up with reservations. They were still incredibly kind, and made my kids a pizza anyway for us to take home. It only took about 15 mins, and the guy up front was nice enough to even bring it out to our car. We all agreed (even the 6 year old with the bougie palate) that it was the best pizza we have had so far in the capital district. I highly recommend!\n\nWe also grabbed some cookies, and they were also immediately devoured."
-        ]
-    },
-    {
-        "id": "ChIJf9lrLOAP3okRvj1tFPZANCg",
-        "name": "Herbie's Burgers (Troy)",
-        "address": "415 Fulton St, Albany, NY 12208, United States",
-        "latitude": 42.7322156,
-        "longitude": -73.6882424,
-        "rating": 4.2,
-        "reviews": [
-            "Herbie\u2019s has great burgers, shakes, and fries. I recommend getting the cheeseburger with the nerdy sauce. The fries are very indulgent as well but very good. You need to get them with cheese to make it worthwhile. They are very friendly, and service is pretty fast. Love it here!",
-            "Normally I can deal with a mistake or two.  But, I went to pick up my order and was given a completely wrong order.  Original order was for two double cheeseburgers, both with bacon, and a large fry. When I got home and opened the bag, both burgers were extemely skimpy single cheeseburgers, no bacon to be found anywhere, and if the fry was really a large, that is completely laughable.  My order seemed to be one of the only ones at the time, I was the only order sitting behind the register and there was no one at the restaurant. I could see if it was busy and orders were flying out the door a mistake could perhaps be made.  This was not the case.  Extremely disappointed for two burgers and fries that came to a $40 total. Also, mealeo platform provided no help and told me to reach out directly to the business. Bad all around, do not recommend at all.\n\nEDIT: Mealeo refunded my full purchase after opening a dispute via Paypal.  very nice gesture",
-            "The place is small but the Burgers are tasty. We ordered a Vegan and Cheese burgers and the packaging, the taste, the filling, everything was spot on. There is a finesse to the taste that is hard to describe, you need to eat it to find the difference.",
-            "Juicy, and fresh cheese burger with well seasoned french fries. I consider this is one of the best burger I have ever have. The atmosphere is cosy but lack of cool air. I am really enjoy my dinning experience at Herbie's burger. Please consider doing something for improving the air conditioner. Thank you for this absolute wonderful cheese burger and I will revisit this place if I have a chance.",
-            "*** Update*** At this particular location, you can see directly into the kitchen. There was 1 cashier & the kitchen staff was plentiful. I stand firmly on what I said.\n\nI visited this location Friday evening on August 26, 2024. The female at the register was fantastic, she deserves a raise. However, it concerns me that the kitchen staff didn\u2019t seem to have her back, they chose not to make my shake and failed to communicate that to the cashier."
-        ]
-    },
-    {
-        "id": "ChIJEddx_aUP3okRMKXqeR-J4js",
-        "name": "Ryan's Wake",
-        "address": "403 River St # 1, Troy, NY 12180, United States",
-        "latitude": 42.7352831,
-        "longitude": -73.6877951,
-        "rating": 4.6,
-        "reviews": [
-            "I went in this afternoon to ask if they take reservations, and then I returned a few hours to put our name in for a table. The employee who greeted me the first time remembered me when I returned and greeted me kindly. The waitstaff was excellent. The ambiance is great. We ordered the big pretzel to share, and it was crispy and hot when it came out. I'm pretty sure the four of us devoured it in under three minutes. Two in our party ordered the steak salad, and I ordered the Cesar wrap with shrimp and fries. Our fourth ordered the chicken teriyaki. All was good and came out quickly.  We will definitely go back the next time we are in town.",
-            "Go here! I\u2019ve been in the past (like 5-10 years) but the place has doubled in size since. You should go here for the view and outdoor/ alfresco seating. My husband and I came for a drink. He got a dirty martini and I got an espresso martini.  Both strong and delicious and we could pick our own seating in the sunshine. I\u2019ll definitely be back and get dinner next time. Great vibe and location!",
-            "UPDATE 8/13/24: This is now the 6th time I've gone since the last review, yeah I said 6th. I'm doubling down on everything below and adding that I appreciate the warm greeting from my guy Jared. Please read below and follow suit. Thank me later!\n\nListen, Linda, listen, this is my second time here and I'm just gonna say it like this, if you haven't gone please bring that you know what there. I honestly love everything I've tried, drinks included in that testament \ud83d\ude02. Does it get a little windy at times, sure -- but thats mother nature's fault and actually feels nice when its 1,000 degrees out. Suggestion is to sit outside whether it is windy or not, enjoy the river and the atmosphere. We had another great server today, Mia or Mya (forgive the spelling), she was attentive and did not try and rush us out after we finished eating, she actually asked us if we were going to just chill out or did we need the check. Now that is some REAL service right there. Who does that today? There is always a feeling of having to rush through a meal, so thank you for not making us feel rushed -- even though we didn't stick around too long afterwards.\n\nI met Jared today as well, stand-up guy, gave me a handshake and all. I told him I would be back, and I will be coming back!\n\nPictures are of Baja Tacos, and the Bacon Blue -- I'm fat and I already started digging into that. I had that with the onion rings and homemade blue cheese .. sheesh it was delicious. Also, get the Calamari (extra crispy). UPDATE: pictures are of the Reuben (yeah I took a bite), fish and chips, and Kickin Chicken sandwich all \ud83d\udd25\n\nDon't wait, don't hesitate just go there and you will enjoy it.\n\nI can't wait to go back honestly\n\nThank me later.\nVin Vin",
-            "Bacon Ranch fries were a little over done and extremely salty. Didn\u2019t seem like there was much ranch. Service was great. Bartender was very helpful.",
-            "Client and I had never been there before but review sounded interesting and view of river appealing. Inside was too noisy for business discussion, but outside on deck was just perfect. Service was prompt and efficient. Menu was diverse and both of us thoroughly enjoyed our choices of food, complimented by a beer and a shot of tequila. Will definitely come again!"
-        ]
-    },
-    {
-        "id": "ChIJXSnIcuEN3okRWlEyDEglP1Q",
-        "name": "New York Style Pizza",
-        "address": "638 Columbia St Ext, Cohoes, NY 12047, United States",
-        "latitude": 42.7621912,
-        "longitude": -73.7526858,
-        "rating": 4.2,
-        "reviews": [
-            "Quick stop for a few slices of pizza. Lacked some of the flavor you expect of pizza along with needing more salt in the sauce. Satisfied the hunger but wouldn't return. Crust was perfect! Seating with a few small, tables are available for quick, stop eating or waiting on order.  Appreciated drinks were included with the order and great value overall.",
-            "I'm from Little Italy, and I gotta tell you, this Pizza is AMAZING! The sauce, good amount of cheese, crust, just really good. And they have about 12 different flavors of sliced pies to choose from. Loving it, I'm actually still devouring it!...",
-            "The staff, the food, the atmosphere. All 1000/10. The family that owns this place are all so genuinely kind and compassionate about what they do. I stop atleast twice a week, always greeted with a smile. The pizza is NYC style, amazing taste!",
-            "My husband and I come here every other week (if not more often). Their pizza is BOMB. Traditional New York thin style crust, and they get it nice and crispy. Reheats super well (if you ever have leftovers). Get their garlic knots too. Absolutely delicious! Their carry out special is a great deal as well: a two-liter included with a large pizza. Makes weekend dinner easy.",
-            "I am from Maryland and whenever I come up north to New York, I try to find pizza more authentic to a New York Style.  What better place to check out than a place called New York Style Pizza.  My expectations have been low for a long time as I've noticed it getting harder and harder to find NY style pizzas anywhere, including in NY itself.\n\nThe place is nice and clean with a few tables but I think it is more of a pick up kind of place.  The pizzas are all handmade and thin.  The staff was extremely friendly.  I could have been swindled however the staff was nice to let me know my order qualified for a promotion and I was able to get a discount.\n\nThe pizza itself was good.  Not great but well above average.  I could have done with a touch more cheese and more of the toppings but this is being extremely nitpicky.  Compared to the other pizza joints in the area, if you are looking for NY style, this is as close as you will get.  I would come back here again without hesitation."
-        ]
-    },
-    {
-        "id": "ChIJleH77eEN3okRwAH3P6r0coY",
-        "name": "Karavalli",
-        "address": "9 Johnson Rd, Latham, NY 12110, United States",
-        "latitude": 42.762337,
-        "longitude": -73.748355,
-        "rating": 4.4,
-        "reviews": [
-            "One of our favorite go-to restaurants. We\u2019ve been coming here for years and the food is always excellent! The garlic naan is the best we have ever had, perfectly fluffy and charred. The lamb dishes are super tender and flavorful.",
-            "Absolutely loved this cozy South Indian restaurant in Albany. It\u2019s my third time visiting this restaurant and they never fail to impress. Had some delicious biryani, chicken pepper fry and banana leaf fish reminding me of coastal southern Indian food.\nThe ambience and service was top notch!\nWill definitely return back when I\u2019m visiting upstate New York again.",
-            "Ambience, food and service was great. Highly recommend trying it!",
-            "Visiting a friend in US from Canada was double special as we enjoyed our lunch at Karavalli for onam!!! Best service and food, would recommend this 100% and especially for Onam \ud83d\udc4c",
-            "Yes. The answer is yes, go here. You will not be disappointed whatsoever. The moment I walked through the door I knew I was going to really enjoy my time and the food. I honestly don't have much to say other than Karavalli is now my standard for Indian restaurants!\n\nThe flavors were strong and not overwhelming, you can tell all the food was fresh, and the portions were just right (I have leftovers and I'm so very excited about that!). The customer service was spot-on, absolutely no complaints just compliments!\n\nFor my first visit here I was left ready for my next of many visits so I can go through their extensive Vegan Menu, and then I'll go through their Vegetarian Menu, and then their Seafood Menu. I absolutely don't see my trips here stopping anytime soon! Oh, and they make a really good drink!\n\nFor not having much to say, Karavalli has me saying a lot! You're going to really enjoy your time here, so again, the answer is YES!"
-        ]
-    },
-    {
-        "id": "ChIJ_0QF2QUP3okR3HXp33XVjqM",
-        "name": "Red Front",
-        "address": "71 Division St, Troy, NY 12180, United States",
-        "latitude": 42.7261281,
-        "longitude": -73.6909174,
-        "rating": 4.2,
-        "reviews": [
-            "We had won a gift certificate for the Red Front in Troy. Have never been there but heard and read different things we went on a Saturday around 5pm. When we arrived there was only a few customers there. We were seated right away and greeted by our server quickly. We ordered a drink each and also ordered the cob (Cheese on Bottom) pizza. Also ordered the chicken parm dinner. The pizza was very crispy and had lots of sauce on the top. The chicken parm portions was just right. I do think the presentation could of been better, was served on a black plastic old plate. Would of looked better on a nice white non plastic plate.  The drinks were very good. We skipped the desert. Our server was very nice and very good. By the time we were leaving, the dining room was almost full and the bar was packed.",
-            "12/6/23\nRuined my granddaughters birthday party with the burnt pizza, the unprofessional owner stated was not, after sending her pictures. Had to get her name from an anonymous person because, she refused to give out! Hard burnt edges and dried out, they overcooked it! For kids, I don't think so, I specifically said a kid party!",
-            "Pie good since I was a child over 50 years and great service",
-            "I recently looked at the menu online and was asking about a Philly cheese steak sandwich it was advertised on here for $7.95 with chips and a pickle and I was asking for a delivery when I ask for the price then it was $18.95 I think they need to update their online menu nothing wrong with that just it's easier to be upfront than rather be guessing all the time and I've had pizza there and it was delicious",
-            "This is a typical family pizza joint. I gave it 5 stars because their famous Cob (cheese on bottom) is the best I\u2019ve ever had and I\u2019m definitely a pizza gal. It\u2019s the sauce and crust that makes it out of this world. Their regular pizza is good but not as good as the Cob. We get it with peppers and onions and it\u2019s a mouth watering flavor. The rest of the food is good, nicely sized portion Italian dishes. Apps are typical fried food but Don\u2019t get the calamari LOL. The antipasto is great, exactly like a traditional Italian salad and it\u2019s huge layered with delicious flavor. The wings are great we always get mild garlic Parmesan and it\u2019s consistent flavor. This restaurant has been a family favorite since I was a kid. Great ambiance for a family gathering, old school but cool and the service is great."
-        ]
-    },
-    {
-        "id": "ChIJYwfu5F8P3okR_LA-5or_yT4",
-        "name": "Cafe Euphoria",
-        "address": "225 River St, Troy, NY 12180, United States",
-        "latitude": 42.7313652,
-        "longitude": -73.6931451,
-        "rating": 4.6,
-        "reviews": [
-            "My wife and I went for brunch on a Wednesday morning.  I ordered a Euphoria omelette and my wife a breakfast burrito and two coffees.   I really enjoyed the omelette.  Very delicate and the green salsa sauce is delicious.   It\u2019s nothing like your typical huge diner omelette.   My wife enjoyed her burrito and the sauce (pesto?) that came with it as well.  Overall a quite pleasant experience.",
-            "Went for a Sunday Brunch with a very small group of friends. I got the Prix Fixe at full price given how much I make and, to my surprise, it was actually a steal for the quality of food and service I was getting. Bagel with lox, egg/tofu scramble, and the butternut squash soup were my favorite, but everything else was still 10/10. The menu can change by the season.  It takes time for entrees to come out especially if it's busy since it's a smaller place, so I'd recommend bringing a +1 for idle chat. The staff were so nice too! I'm definitely coming back.",
-            "Stopped in while running errands, and grabbed a caramel latte, and some cute stickers! Truly one of the tastiest lattes I\u2019ve ever had. Appreciate the space you\u2019ve curated for the community, it\u2019s lovely and welcoming and I\u2019m happy to have stumbled upon it!",
-            "What a pleasant surprise this place is!!! We went by the great reviews online and we weren't disappointed. When I tell you, everything was so so scrumptiously amazing, everything was so so scrumptiously amazing and delectable. We will be making this place a must go to on our time out. You can tell great thought was put into every morsel of food and drinks. Impeccable customer service, clean and cozy setting, upbeat vibe. Ten, ten all around, chefs kiss. Keep up the wonderful work Cafe Euphoria.",
-            "Great place ! Very welcoming atmosphere. The food is always good. It is an important part of the Troy community. I look forward to going back to Cafe Euphoria. Thank you for being an excellent establishment!!"
-        ]
-    },
-    {
-        "id": "ChIJEfCTjzYF3okRF-4RJDsqrSM",
-        "name": "Zotto's The Pine",
-        "address": "814 Hoosick Rd, Troy, NY 12180, United States",
-        "latitude": 42.7492402,
-        "longitude": -73.6341491,
-        "rating": 4.4,
-        "reviews": [
-            "A wonderful stop for dinner on our New England road trip visiting from Wisconsin. The food was exceptional\u2014we enjoyed seafood chowder special (the best we\u2019ve ever had), chili, salmon, and a club sandwich. The staff was incredibly friendly, and it was easy to get on and off State Highway 7, making it a perfect, convenient spot for travelers.",
-            "Delicious food fast friendly staff. Amazing specials for dinner and dessert. I'm difficult to please with Chicken riggies being from the Utica area but was pleasantly surprised with the dinner special! If only it had cherry peppers not red bell. \ud83d\ude15 Peanut butter cup cheese cake for take home!!",
-            "Had a quick dinner here 5/17/24 , Although the food was good \u2026the cocktail was better than the meal.( \ud83d\udc4f great Bartender!) Appetizers scored=50/50 Mozzarella sticks were perfect but boneless wings tasted like chicken meatballs and looked like them as well..(minced chicken \ud83e\udd37\u200d\u2642\ufe0f)  I ordered the Bacon Mushroom Burger \ud83c\udf54 medium well.. received it with NO Bacon and was well done, which was OK... My Dinner Partner ordered a Hot Sandwich ..chips loosely on the side of the sandwich would have been classier but it literally came with a small bag of Lays Chips.. That were OUTDATED by 5 months stamped best if used by 12/23!  The waitress was wonderful and the meal came rather quickly. Atmosphere was good yet, tables were too close\u2026 it was quite the maze to leave.. OVERALL \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
-            "I had pizza. It was really good. Nothing spectacular but was tasty. My husband had the chicken Parm and it was outstanding too huge pieces of chicken, a mild marinara sauce and it comes with a side of spaghetti. It was really good.",
-            "Moved back to my hometown and was so happy the Zotto\u2019s reopened a new place. The best pizza, and wings around. Brunswick needed this place!!! All the waitresses were amazing and welcoming too!!"
-        ]
-    },
-    {
-        "id": "ChIJTTrDKV0F3okRnYjHqe_0zM0",
-        "name": "Pancho's Troy",
-        "address": "740 Hoosick Rd Suite 6, Troy, NY 12180, United States",
-        "latitude": 42.7447222,
-        "longitude": -73.6411111,
-        "rating": 4.2,
-        "reviews": [
-            "Extremely small portions when you order online compared to going in person. The tortillas are not handmade despite claiming to be a Mexican restaurant. Looks like they went to taco bell to get my food. I measured the amount of rice they gave me, 2 tablespoons, oof. The \"chili\" I ordered was also extremely watered down as well, almost not even worth putting in my food at that point.\n\nAlso, notice how every positive review is them eating in person... hmm...",
-            "My friend and I went here for a quick lunch on a Sunday. This place has amazing food and the wait staff was so nice. Just a great",
-            "The restaurant is located within a strip shopping center near the Walmart, it was very pleasant, with plenty of outdoor seating.  it was a very friendly restaurant. The staff and their service was so quick we thought they had the wrong table when they brought out the food.\n\nEverything was cooked as we ordered it. there was plenty there and the prices were quite reasonable.\n\nBig heaping plate of nacho chips and salsa within seconds of sitting down and drinks came out just as fast.\n\nI would definitely go back again.",
-            "Kids and family love this restaurant.\n\nThe food comes out super fast and it's always delicious.\n\nThe staff are very respectful and kind. They are so gentle with kids as well.\n\nNothing but good things to say about this establishment. Every time I go, I order something new. I haven't had a bad dish yet.",
-            "I come here very often to the point where the waitress Maria sees me and my fiance and smiles and greets us. The waitstaff are super friendly and attentive. The lights are nice and dimmed, and the whole atmosphere is very warm and inviting. The food is absolutely wonderful and flavorful. I love everything I've tried here. Absolutely worth a try as their prices are more than reasonable."
-        ]
-    },
-    {
-        "id": "ChIJbflwyyoQ3okRy2ypDnhu2QE",
-        "name": "Yuan Japanese Asian Restaurant",
-        "address": "177 Remsen St, Cohoes, NY 12047, United States",
-        "latitude": 42.7719203,
-        "longitude": -73.700643,
-        "rating": 4.6,
-        "reviews": [
-            "We were going to see Spring Awakening at the Cohoes Music Hall today and decided to have lunch before. The food was fresh and hot, delicious and delivered to our table quickly by our very sweet and friendly server.\n\nWe all got bento boxes and were happy with the quality, quantity and taste of the food. The crispy noodles were delicious and the hot tea was a nice addition.",
-            "I\u2019m so happy me and my boyfriend came here. It reminded me so much of home, I used to go to this place golden ginza and it is the best but this is my new fav restaurant out here, because it taste fresh and delicious. I even customized my roll and it was just what I wanted",
-            "Excellent food, great service, reasonably priced. \u262e\ufe0f",
-            "Holy cow, this place looks like a tiny little family restaurant (which it is) but it feels like a fine dining experience! Such great service, and the food presentation is art!\nAnd its not expensive! Very reasonable prices, especially considering how much food you get! I very highly recommend this place for everyone!",
-            "Reviews look pretty good so I figured I would give it a shot. Everything that my expectations if you really enjoy Sushi you need to check this place out and is very clean and the food they prepare you as fresh made-to-order you can't judge a book by it's cover they crank out some good food out of that kitchen stop in and hang out for a few minutes or you can get it to go nice atmosphere and vibe"
-        ]
-    },
-    {
-        "id": "ChIJ2RG-P3wP3okRTOaS2zLaGrg",
-        "name": "A Bite of Xian",
-        "address": "1 14th St, Troy, NY 12180, United States",
-        "latitude": 42.7237795,
-        "longitude": -73.6801976,
-        "rating": 4.3,
-        "reviews": [
-            "Wow! Definitely my new go-to for \"Chinese takeout\" food was hot, fresh, and flavorful! The scallion pancakes were savory and crispy, braised pork ribs were super tender and the honeydew bubble tea was light and refreshing! Also I love that the combo came with hot and sour soup!!!  Everything was delicious!",
-            "The pork was just like straight fat. I have never gotten pork fried rice like that. It didn't look like pork. Just like fat mush that was clear or white. It wasn't even pork color. I think green shell is better for the area serviced. This whole thing really grossed me out. I never post reviews but felt I had to mention this.",
-            "If you are vegan or vegetarian, you need to try this place! I have been searching high and low for an Asian joint that actually cooks their tofu well. At most places, it\u2019s rubbery & slippery with some sauce splashed over it. Here, you can tell it\u2019s been pressed and/or baked \u2014 it has an incredibly firm texture and well-coated flavor (I got the sesame tofu). My non-vegetarian boyfriend also enjoyed his meal \u2014 he got a pork bun and General Tso\u2019s Chicken with fried rice. We were thoroughly impressed and will be returning. Don\u2019t let the unassuming exterior turn you away!",
-            "Wow. First time ordering delivery from here and everything was so delicious! Our delivery came within 40 minutes. The ribs and udon were the best I ever had. The hot and sour soup tasted so fresh. Definitely will be ordering again.",
-            "Couldn't take pictures ate my food before I could\nFood: I ordered a braised pork combo meal, chicken broccoli combo meal, and a small lo mein\ud83e\udd61. Combo meals come with white or fried rice and also a hot and sour soup\ud83c\udf72. I asked for no soup on one of the orders, and they instead gave me a egg roll\ud83d\ude0a\nBraised pork was soft and tender, the chicken broccoli was very flavorful, and the lo mein tasted like no other, very aromatic and umami. I ABSOLUTELY LOVE the fact that the pork in the fried rice was not diced bits of red dyed \"pork' and actual soft pork. And the hot and sour soup had a coziness feel to it, I wanted more\ud83e\udd24\n\nSERVICE: We came in last minute hoping that they would accept our order and they did!!\ud83d\ude4f\ud83d\ude4c They were very patient with us very enthusiastic aswell! As we were waiting for our food he handed a complimentary iced tea to test out and it was delicious \ud83d\ude0b will get one next time for sure!\n\nIn summary the food was DELICIOUS and I will be coming back again for more!! My only complaint is that I wished I could've had more of the soup\ud83e\udd7a\ud83d\udc94\ud83d\udc94\ud83d\udc94\ud83c\udf72"
-        ]
-    },
-    {
-        "id": "ChIJdZOaLScP3okRyBhlLLCd8-Q",
-        "name": "Jo's Joint",
-        "address": "221 4th St, Troy, NY 12180, United States",
-        "latitude": 42.72488860000001,
-        "longitude": -73.6905424,
-        "rating": 4.7,
-        "reviews": [
-            "Jo\u2019s Joint is one of the best spots in Troy to go to and enjoy a night out, or to have a drink in a peaceful and welcoming atmosphere on one of the slower days. Jo is amazing and so are all the other staff. A high-standing establishment!",
-            "Our happy place\n\nSpeak of the devil\nNothing but potential\nI once had obsessions\nAnd before that demons\nTurn up, turned up, turnt up\nSpeak of the devil\nCrucible, crucible, crucible\n\nChasing commas\nCan we pretend I'm breaking a sweat\nOn the verge of an inciting incident\nChasing commas\nIt's my word against yours\nInterrupted by amateurs\n\nClose your eyes\nNothing but potential\nI once had obsessions\nAnd before that demons\nTurn up, turned up, turnt up\nClose your eyes\nLies, lies, lies\n\nChasing commas\nCan we pretend I'm breaking a sweat\nOn the verge of an inciting incident\nChasing commas\nIt's my word against yours\nInterrupted by amateurs\n\nI'm the master\nYou're my ceremony\nSpeak of the devil\nAnd before that demons\nTurn up, turned up, turnt up\nI too once had obsessions\nDecisions, decisions, decisions",
-            "Hi Jo. I'm in a volatile place. A dude insulted me. I get invalidated all the time. I thought you felt like I was the problem. Sorry I reacted bad",
-            "Staff are super personable and service is quick. I don't think I've ever waited more than 2 minutes to get a drink.",
-            "A very great place to eat and the staff is very friendly. The food is spectacular and one of the better restaurants I have been to in the area. I very highly recommend this place. Definitely check it out."
-        ]
-    },
-    {
-        "id": "ChIJ0UO7pTIP3okRy0Qvb78JnaU",
-        "name": "Junior's Bar and Grill",
-        "address": "48 N Greenbush Rd, Troy, NY 12180, United States",
-        "latitude": 42.69297950000001,
-        "longitude": -73.6880601,
-        "rating": 4.3,
-        "reviews": [
-            "My complaint here is not about the quality or taste of my meal. My complaint is with the BALT specifically. I can here with two other friends and their portion sizes were great and definitely worth the money. One friend got a burger with fries and 5 wings with a price of $20 personally I feel like that\u2019s a great price. By comparison I payed $14 and got a BLT with avocado  the problem is that the sandwich came with 3 pieces of bacon, two slices of lettuce, two slices of tomato, and one extremely disappointingly sized portion of avocado (as seen in the photo). I\u2019m disappointed in their judgment of the portions and felt like it should be known. But otherwise everything was nice and I\u2019ve come here before and would come here again.",
-            "I did not even know this place was at this location.  Real happy with my 1st experience.  John was bartending and I found him to be knowledged, entertaining and super personable.  Food was OK...only got bar food.  Wings and Nachos.  We were happy with both.",
-            "Service is great here everyone is really nice. Food is amazing here it also doesn't take long to come out. Overall very good place to go recommend you to at least try it.",
-            "First time experience was GREAT! Food was amazing, friendly and open experience, will be coming back!",
-            "It's Juniors! This is one of the easiest places to meet up with coworkers after a long day at the office or just connecting with some friends for a quick drink and non-stop grill foods. The hosts are always super friendly, very accommodating, and they hustle to make sure everybody is tended to. They have outside dining as well, with a grill out back and patio chairs and tables up front. As busy as this place gets, it seems like there's always room for more people.  Everything on the menu is good to try and the prices are very reasonable. Given the location and great service, its no wonder this place is so popular."
-        ]
-    },
-    {
-        "id": "ChIJC6AEHgsP3okRPiSswv5SqNc",
-        "name": "Big Apple Pizzeria",
-        "address": "108 14th St, Troy, NY 12180, United States",
-        "latitude": 42.7268793,
-        "longitude": -73.6789605,
-        "rating": 4.4,
-        "reviews": [
-            "Flew out to visit RPI when I was in high school over a decade ago. This place had the best pizza I'd ever had. Ended up going to a different college but always remembered the pizza here. Visited again recently. In a decade, tastes can change. Quality can change. I actually debated whether to go back, because I didn't want to ruin the good memory. Well I went back, and I'm glad I did. This is still the best pizza I've ever had!",
-            "Got Alfredo ziti and they put it in the oven or a salamander and it broke whatever \u201csauce\u201d there was. It was a pile of butter, no flavor, the chicken wasn\u2019t good either. My wife ordered a bacon chicken ranch roll and it had ham in it. Also we wait wayyyyyy too long just to have bad food.\nSTAY AWAY FROM THIS PLACE!!!",
-            "Top pizza in town hands down. One bite into this beauty and you get transformed into heaven and back. Don\u2019t forget to say hi to Jesus on your way. The clerk at the desk, I believe his name is Kaan, is a distinguished gentleman who makes sure that our trip to and from the Pizza Heaven is seamless. Also try their baklava, it\u2019s the king of Turkish delights.",
-            "The big apple provides quality pizza for the entire area, at all hours one could want pizza. There's coupons too, although they are sort of confusing on which are.able to be used, so I took a star off. Love the chicken bella pizza! Very unique. The crust has a taste similar to garlic bread which defines a big apple pizza. Give it a try!",
-            "The best pizza I have had in capital region. Perfectly crispy crust and a good ratio of sauce to cheese. It was not very greasy, even though I had pepperoni as a topping, which was very nice. The workers were very nice. I will definitely be back and try more of their menu."
-        ]
-    },
-    {
-        "id": "ChIJXyzs0I4P3okRS-y-R3PBx2k",
-        "name": "I Love New York Pizza on Hoosick",
-        "address": "445 Hoosick Rd, Troy, NY 12180, United States",
-        "latitude": 42.7389453,
-        "longitude": -73.660125,
-        "rating": 4.5,
-        "reviews": [
-            "I love the food and the pizza here! I definitely gotta come back again! The owner is so nice and helpful",
-            "Same location, but not the same food. \ud83d\ude22\n\nAs of recently, it looks like a change of ownership within the pizza shop. Compared to before it\u2019s not the same.\n\nMozzarella Sticks and Boneless Wings tasted and felt like they were microwaved. Pizza is still hand made, however looks rushed, and does not taste the same.",
-            "Love this place. Everything fresh and pizza is best. I really recommend everyone should try it!!!!!",
-            "Fresh products great taste \ud83d\udc9a\ngood service \ud83d\udc4c\nOur favorite pizza place from now on \ud83e\udd70",
-            "what happened to this place? Their salads used to be amazing. I just picked up a Greek salad and I\u2019ve never seen anything this bad. It appears as though they just dumped everything Into the container. The feta cheese is just plopped right on top. The chicken is so dry. It makes me think they have new ownership or some thing. Not impressed anymore will be looking someplace else. we live within the neighborhood. This is too bad."
-        ]
-    },
-    {
-        "id": "ChIJleH77eEN3okRwAH3P6r0coY",
-        "name": "Karavalli",
-        "address": "9 Johnson Rd, Latham, NY 12110, United States",
-        "latitude": 42.762337,
-        "longitude": -73.748355,
-        "rating": 4.4,
         "analyzed_reviews": [
             {
-                "review": "Yes. The answer is yes, go here. You will not be disappointed whatsoever. The moment I walked through the door I knew I was going to really enjoy my time and the food. I honestly don't have much to say other than Karavalli is now my standard for Indian restaurants!\n\nThe flavors were strong and not overwhelming, you can tell all the food was fresh, and the portions were just right (I have leftovers and I'm so very excited about that!). The customer service was spot-on, absolutely no complaints just compliments!\n\nFor my first visit here I was left ready for my next of many visits so I can go through their extensive Vegan Menu, and then I'll go through their Vegetarian Menu, and then their Seafood Menu. I absolutely don't see my trips here stopping anytime soon! Oh, and they make a really good drink!\n\nFor not having much to say, Karavalli has me saying a lot! You're going to really enjoy your time here, so again, the answer is YES!",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "overwhelming"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJu3s6R5gP3okRqAGaYCd8jmk",
-        "name": "Red & Blue",
-        "address": "2312 15th St, Troy, NY 12180, United States",
-        "latitude": 42.7369926,
-        "longitude": -73.6751417,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJbflwyyoQ3okRy2ypDnhu2QE",
-        "name": "Yuan Japanese Asian Restaurant",
-        "address": "177 Remsen St, Cohoes, NY 12047, United States",
-        "latitude": 42.7719203,
-        "longitude": -73.700643,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJRev1dhgQ3okRYoU8VYTTFg8",
-        "name": "Verdile's Restaurant",
-        "address": "572 2nd Ave, Troy, NY 12182, United States",
-        "latitude": 42.774946,
-        "longitude": -73.6767522,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ6VOWhiwP3okR2WBpZJEMFGA",
-        "name": "Buffalo Wild Wings 'GO'",
-        "address": "120 Hoosick St, Troy, NY 12180, United States",
-        "latitude": 42.7383104,
-        "longitude": -73.6776786,
-        "rating": 3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJtcQA6SUN3okR2F-mbLCTOvM",
-        "name": "Spice & Beyond Grill",
-        "address": "461 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7467887,
-        "longitude": -73.7579542,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJDS4yT_sP3okRWeD0_9wiMW0",
-        "name": "La Paisana",
-        "address": "827 River St, Troy, NY 12180, United States",
-        "latitude": 42.7507792,
-        "longitude": -73.68261679999999,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ331MGKgP3okRgPZK58hPiEA",
-        "name": "The Greek House",
-        "address": "27 3rd St, Troy, NY 12180, United States",
-        "latitude": 42.73154030000001,
-        "longitude": -73.69042379999999,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJKwMR6MEP3okRsiqKB1Xy7hg",
-        "name": "The Seasoning House",
-        "address": "49 3rd St, Troy, NY 12180, United States",
-        "latitude": 42.7305983,
-        "longitude": -73.6906277,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJEwYqHW0P3okR_MHBxZUEnzY",
-        "name": "Mi Casa",
-        "address": "72 Congress St, Troy, NY 12180, United States",
-        "latitude": 42.7286924,
-        "longitude": -73.69062509999999,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJp75f2AsP3okRwv2bfrqW8ZI",
-        "name": "Mallo's",
-        "address": "156 4th St, Troy, NY 12180, United States",
-        "latitude": 42.727595,
-        "longitude": -73.68959819999999,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJD3lx0QcP3okRaTnonLhXaFU",
-        "name": "Manory's",
-        "address": "99 Congress St, Troy, NY 12180, United States",
-        "latitude": 42.7287264,
-        "longitude": -73.6894153,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJjZAGw9EN3okRNgePwgW1vPo",
-        "name": "Zaitoon Kitchen",
-        "address": "471 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7469994,
-        "longitude": -73.7586262,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJtfhpanIN3okRtZCpHW3QGVY",
-        "name": "Taste of Italy 23",
-        "address": "800 Loudon Rd #960, Latham, NY 12110, United States",
-        "latitude": 42.7488393,
-        "longitude": -73.76327789999999,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJnWj3LSkQ3okRnXnMGFhoaqs",
-        "name": "Bill's Restaurant",
-        "address": "155 Ontario St, Cohoes, NY 12047, United States",
-        "latitude": 42.7737316,
-        "longitude": -73.6926301,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJa--jKKgP3okRNhWVBp65TSw",
-        "name": "Liza's of Troy",
-        "address": "53 3rd St, Troy, NY 12180, United States",
-        "latitude": 42.7304786,
-        "longitude": -73.6905582,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJLUua3_IN3okRm6rBOMPHf6Y",
-        "name": "Tamarind Thai cuisine",
-        "address": "728 Loudon Rd, Latham, NY 12110, United States",
-        "latitude": 42.7410447,
-        "longitude": -73.76230679999999,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJSfaaOiYK3okRHRGQ9MG0u0A",
-        "name": "Yono's",
-        "address": "25 Chapel St, Albany, NY 12210, United States",
-        "latitude": 42.6532787,
-        "longitude": -73.7516359,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJSfaaOiYK3okRqzkRFxrsmOo",
-        "name": "dp An American Brasserie",
-        "address": "25 Chapel St, Albany, NY 12210, United States",
-        "latitude": 42.653258,
-        "longitude": -73.7516507,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ3eZYTQoN3okRXm4nbDOVZg8",
-        "name": "El Charro",
-        "address": "952 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7626048,
-        "longitude": -73.7986576,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJVVp5fzwK3okREzGzl289BjU",
-        "name": "El Mariachi Restaurant",
-        "address": "289 Hamilton St Unit 291, Albany, NY 12210, United States",
-        "latitude": 42.6509512,
-        "longitude": -73.762703,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJn8nQxbQL3okR73wZBl_mHQo",
-        "name": "Chop Stix Restaurant",
-        "address": "419 Central Ave, Albany, NY 12206, United States",
-        "latitude": 42.66767129999999,
-        "longitude": -73.77551489999999,
-        "rating": 3.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJZZIyGzoK3okRs8YchJsUekk",
-        "name": "TapAsia Asian Tapas",
-        "address": "227 Lark St #1101, Albany, NY 12210, United States",
-        "latitude": 42.6553562,
-        "longitude": -73.76494799999999,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJgT8PpoYL3okRYBTPuNhau3o",
-        "name": "Sheba al-yemen restaurant",
-        "address": "340 Central Ave, Albany, NY 12206, United States",
-        "latitude": 42.6658158,
-        "longitude": -73.77400519999999,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ07Ogj0oK3okRS70kts1Lahk",
-        "name": "Afghan Kabab Express",
-        "address": "305 Central Ave #2, Albany, NY 12206, United States",
-        "latitude": 42.6646669,
-        "longitude": -73.7720968,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJO2ewkUoK3okR3-8f3kreH7I",
-        "name": "Irie Vybez",
-        "address": "313 Central Ave, Albany, NY 12206, United States",
-        "latitude": 42.6648943,
-        "longitude": -73.7723558,
-        "rating": 3.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJjflnKbcN3okRjiEEuMzRmLU",
-        "name": "Sonic Drive-In",
-        "address": "701 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7563954,
-        "longitude": -73.7755617,
-        "rating": 3.4,
-        "analyzed_reviews": [
-            {
-                "review": "Food was awesome. Very tasty burger. Didn't have the classic Sonic's atmosphere as dining room was quiet. I wanted to eat in my car in a stall to have the full experience but nobody had answered 5 minutes after pressing the red button.",
+                "review": "Been here twice now. Each time the service was great, the food amazing, and so many choices for drinks. It's a nice and quiet atmosphere as well. The missus and I will continue to stop by when around Jamestown.",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
@@ -1157,56 +133,496 @@
         ]
     },
     {
-        "id": "ChIJq6raE48M3okRqtPiUkbUiiI",
-        "name": "Ruth's Chris Steak House",
-        "address": "1 Metro Park Rd, Albany, NY 12205, United States",
-        "latitude": 42.7201442,
-        "longitude": -73.8027101,
+        "id": "ChIJWbgBDTGp0okRFCjk7IJNhDw",
+        "name": "4 Below Haggy's Bar and Grill",
+        "address": "104 E 2nd St, Jamestown, NY 14701, United States",
+        "latitude": 42.095613,
+        "longitude": -79.2394892,
         "rating": 4.5,
+        "reviews": [
+            "Super tasty craft beers, beer flights and the Vegan options on the menu were all top notch. Wonderful people working hard to make sure you have an outstanding experience.",
+            "This place used to be the old Troy Beirgarten very interesting decor inside with lots of love plants. Cozy area to sit, relax, eat, etc. There is a room in the back that would be wonderful in the winter to feel like you are actually outside. We ordered a few drinks at the bar they were delicious, would love to go back another time and try out the food as well",
+            "I celebrated my 25th birthday here with my twin sister and group of about 10 friends and we had a blast! I had never been before but loved the atmosphere and rustic decor. It was hard to decide what drink to order because all the speciality cocktails looked good but I went with a blood orange margarita and enjoyed it very much. The drinks were a little on the pricier side, but you get what you pay for. The service was amazing and they gave me and my sister complimentary birthday shots which was very nice of them. We ordered some appetizers, including the pretzel bites and fries and they were very tasty and shareable portions. It is also in a very central location in Troy, so a perfect place to start off the night before hitting up other bars. I will definitely be back!",
+            "Had an absolutely wonderful evening out. A bit louder than I expected (in my mind, it was low-key and intimate), but nonetheless we had a great time. The pizza was delishly fresh with a nice crisp on the crust, yet soft, and the wings were quite good (not the best I've had). Drinks were stiff, and their local crafts brews were plentiful (the cider donut one was A++). Will return!",
+            "Dining at EMBY\u2019S Garden was great experience! The inside is beautiful and looks like the set of brunch scene in a romantic movie. Our waitress was wonderful, attentive, and knowledgeable about the menu and pairing recommendations. Every time she came by our table we ended up chatting for several minutes. The food was delicious and affordable compared to other restaurants in the area. The drink menu included fun, seasonal selections with fresh ingredients. I ended up going to EMBY\u2019S Garden later  that week with some friends."
+        ]
+    },
+    {
+        "id": "ChIJHcq7RFkR3okRCRWtJLVIWho",
+        "name": "Oh Corn! Arepas",
+        "address": "429 River St, Troy, NY 12180, United States",
+        "latitude": 42.7361124,
+        "longitude": -73.68744339999999,
+        "rating": 4.7,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJd7-L2swR3okR0tN8aqdSEQc",
-        "name": "Emma Jayne\u2019s Restaurant",
-        "address": "1475 US-9, Clifton Park, NY 12065, United States",
-        "latitude": 42.83496239999999,
-        "longitude": -73.738993,
-        "rating": 4.5,
+        "id": "ChIJJ8R_KRoP3okR4dsNBrgD4O8",
+        "name": "Tipsy Moose Tap & Tavern",
+        "address": "62 Vandenburgh Ave, Troy, NY 12180, United States",
+        "latitude": 42.6998108,
+        "longitude": -73.68881329999999,
+        "rating": 4.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJHckV2TgK3okRs3mlWAyYBCE",
-        "name": "Cafe Lark",
-        "address": "452 Madison Ave, Albany, NY 12208, United States",
-        "latitude": 42.65266700000001,
-        "longitude": -73.768574,
+        "id": "ChIJmREqO2QP3okRMo5hDlr87gE",
+        "name": "Grill Mediterranean Cuisine and Mega Istanbul Food Court",
+        "address": "908 River St, Troy, NY 12180, United States",
+        "latitude": 42.7535962,
+        "longitude": -73.6821641,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJdZOaLScP3okRyBhlLLCd8-Q",
+        "name": "Jo's Joint",
+        "address": "221 4th St, Troy, NY 12180, United States",
+        "latitude": 42.72488860000001,
+        "longitude": -73.6905424,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJZ1Pby1gP3okR7If24GfoMsw",
+        "name": "Villa Valenti",
+        "address": "729 Pawling Ave, Troy, NY 12180, United States",
+        "latitude": 42.7017392,
+        "longitude": -73.655329,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJU_JU6cCo0okR6iYlEi9vGeE",
+        "name": "The Coffee Cup",
+        "address": "902 E 2nd St, Jamestown, NY 14701, United States",
+        "latitude": 42.1055354,
+        "longitude": -79.2242023,
+        "rating": 4.6,
+        "reviews": [
+            "A warm and cozy place with wholesome food experience. I had jujube tea, bulgogi and soft tofu stew with seafood. I highly recommend trying these three on the menu.",
+            "amazing korean food! both food and service is 10/10. thank you! we\u2019ll be back \ud83d\ude97\ud83e\ude77\ud83d\udca8",
+            "Very flavorful and fresh ingredients.  Best ambience to a perfect meal ! Authentic Korean experience with bar/store in restaurant type; have Korean snacks and merchandise for sale. A feast for the pallette and your eyes :) Attendants are very accommodating and answers your questions attentively !",
+            "This review rating is based on availability, not on authenticity.  Great idea to offer some Korean grocery items while serving various Korean dishes.  Service was great!  Kind of a cute place.  As for the food, the veggies with beef over rice and the tofu stew was very average, comparing to what we could get in NY and CA, but it is nice to at least be available here in Troy.  Prices were a bit higher than expected.  I also would like to suggest a lot less use of MSG!",
+            "I\u2019m a returning customer, so that says a lot about Sunhee\u2019s. An indicator of a good restaurant for me is that they do not have a long menu, because it usually means they focus on quality than quantity. Everything I have ordered from them has always been delicious and hearty. I always leave the restaurant feeling content."
+        ]
+    },
+    {
+        "id": "ChIJiQFyEgUP3okRlkXtyYhj6c8",
+        "name": "De Fazio's",
+        "address": "266 4th St, Troy, NY 12180, United States",
+        "latitude": 42.7232261,
+        "longitude": -73.6906408,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJxy4Aj_4P3okRhFX0R8Za4yg",
+        "name": "Finn\u2019s",
+        "address": "40 River St, Troy, NY 12180, United States",
+        "latitude": 42.7250599,
+        "longitude": -73.6952647,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJLf-SQ5gP3okRJHcOP5jjLZk",
+        "name": "Amante Pizza",
+        "address": "2304 15th St, Troy, NY 12180, United States",
+        "latitude": 42.7366185,
+        "longitude": -73.6752858,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJBePccuQP3okRQNQ6rCLgoh4",
+        "name": "Pizza 88 Crepes & Waffles",
+        "address": "2301 15th St, Troy, NY 12180, United States",
+        "latitude": 42.7365784,
+        "longitude": -73.6758557,
+        "rating": 4.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJha6LSwYP3okRPsBgKXk075o",
+        "name": "The Ruck",
+        "address": "104 3rd St, Troy, NY 12180, United States",
+        "latitude": 42.7284099,
+        "longitude": -73.69074010000001,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJydG02QcP3okRsO98h5vCUHY",
+        "name": "Unagi Sushi",
+        "address": "118 4th St, Troy, NY 12180, United States",
+        "latitude": 42.7290606,
+        "longitude": -73.6891238,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJN41sOr0P3okR-yPE66lm7e8",
+        "name": "Green Shell",
+        "address": "120 Hoosick St, Troy, NY 12180, United States",
+        "latitude": 42.7380024,
+        "longitude": -73.6770556,
         "rating": 3.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJtWtzPLcL3okRo8DRFagWa_8",
-        "name": "Josie's Table",
-        "address": "1475 Western Ave, Albany, NY 12203, United States",
-        "latitude": 42.68459740000001,
-        "longitude": -73.8398766,
+        "id": "ChIJTfrq7wwP3okRg3iH2WReY20",
+        "name": "The Hill Beer & Wine Garden",
+        "address": "379 Congress St, Troy, NY 12180, United States",
+        "latitude": 42.7226613,
+        "longitude": -73.6794968,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJr6o35acP3okRBAWK6ekkpfo",
+        "name": "McAddy's",
+        "address": "452 Broadway, Troy, NY 12180, United States",
+        "latitude": 42.731183,
+        "longitude": -73.6883422,
+        "rating": 4.5,
+        "analyzed_reviews": [
+            {
+                "review": "Great prices and lots of seating!! They have a bar scene with tables if you want some noise, then they have a side room with more tables that is more quiet and then a whole upstairs room that\u2019s even quieter. Such a nice place and lots of room. Good menu, on the smaller side but good selection and really good prices. The food came out so fast and it was really good. The waiters were amazing as well. Highly recommend.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet",
+                        "noise"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJk-WrjEBy04kRYejX0M6tXKU",
+        "name": "Kyoto Japanese Restaurant",
+        "address": "4060 Maple Rd, Amherst, NY 14226, United States",
+        "latitude": 42.9912312,
+        "longitude": -78.81239510000002,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJC7vJFSObLIgRvW6D0cSCij4",
+        "name": "Amigos Tex-Mex",
+        "address": "109 George St, Hamilton, ON L8P 1E3, Canada",
+        "latitude": 43.2582858,
+        "longitude": -79.878669,
+        "rating": 4.4,
+        "analyzed_reviews": [
+            {
+                "review": "I went here for dinner with a friend on a weekday evening. I ordered the Amigos Famous Wrap Cruncho Supremo and it was delicious! I like that it came with chips and salsa. The portion size was pretty good for the price too.\n\nOur server was great as well. She was very friendly and helpful.\n\nThe overall atmosphere was cool with the lights hanging from the ceiling. We didn\u2019t sit outside on the patio but it appeared to have an equally cool vibe to it.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "lights"
+                    ]
+                }
+            },
+            {
+                "review": "With a very colorful exterior and a well furnished interior, once you walk in you're hit with the loud music and chatter. If you're looking for a place to have a quiet dinner this is not the place as it's just bursting with energy.\n\nWe were immediately seated with the lovely staff. If you take a look around you can see the kitchen and the cooks working right in front of you which is a nice touch.\n\nWe ordered the loaded nachos as an appetizer  and the birria tacos, enchiladas, and quesadillas as our entree.\n\nI feel 20 dollars for nachos is a bit steep but everything else was reasonably priced.\n\nThe food was great but I wouldn't call it the best Mexican food I've ever had. I will say though I loved the enchiladas and if I came back here that would probably be my go to order.\n\nWe didn't order any drinks but they do have a bar you can sit at if this is your thing.\n\nIf I'm ever in the area again I'll definitely be stopping by.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJTey5W-cS04kR-CBeUIAtg08",
+        "name": "JT\u2019s Restaurant",
+        "address": "905 Elmwood Ave, Buffalo, NY 14222, United States",
+        "latitude": 42.9218533,
+        "longitude": -78.8768236,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJz3txaZybLIgRu9pVkCELuzw",
+        "name": "The Ship",
+        "address": "23 Augusta St, Hamilton, ON L8N 1P6, Canada",
+        "latitude": 43.2520915,
+        "longitude": -79.8700199,
         "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJXaeeroML3okRqTKgRAZ79Vk",
-        "name": "BJ's Restaurant & Brewhouse",
-        "address": "3 Wolf Rd Ste 101, Colonie, NY 12205, United States",
-        "latitude": 42.70861319999999,
-        "longitude": -73.8210517,
+        "id": "ChIJg7l3Amty04kRb1a6GTR7RiY",
+        "name": "Red Pepper Chinese and Vietnamese Cuisine",
+        "address": "3910 Maple Rd, Amherst, NY 14226, United States",
+        "latitude": 42.9912289,
+        "longitude": -78.81835980000001,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJU4CbzomYLIgRUR7JQqYjghA",
+        "name": "The Powerhouse",
+        "address": "21 Jones St, Stoney Creek, ON L8G 3H9, Canada",
+        "latitude": 43.21694290000001,
+        "longitude": -79.7541399,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJRdo4l8ibLIgRnFyuUVaejLA",
+        "name": "The Standard",
+        "address": "10 James St N, Hamilton, ON L8R 2J9, Canada",
+        "latitude": 43.2570789,
+        "longitude": -79.8687447,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJG8BHZfsS04kRDbVdM7TggRg",
+        "name": "Mythos Restaurant",
+        "address": "510 Elmwood Ave, Buffalo, NY 14222, United States",
+        "latitude": 42.9109449,
+        "longitude": -78.8772473,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJR2ckjfI3K4gRhqUxMzRIUsQ",
+        "name": "Chiang Mai Thai Kitchen",
+        "address": "84 Park Lawn Rd, Etobicoke, ON M8Y 3H8, Canada",
+        "latitude": 43.6244796,
+        "longitude": -79.484704,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJoRPYnpYa04kR6q5X33k4pYY",
+        "name": "Hoak's",
+        "address": "4100 Lake Shore Rd, Hamburg, NY 14075, United States",
+        "latitude": 42.7731108,
+        "longitude": -78.8642854,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJBY0Vw0kP04kRs7AXmvhnVb0",
+        "name": "Mighty Taco",
+        "address": "3318 Southwestern Blvd, Orchard Park, NY 14127, United States",
+        "latitude": 42.7942651,
+        "longitude": -78.7552462,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJKWcgb8FD04kRVm9enwsr6xs",
+        "name": "Flavors & Spices",
+        "address": "5500 Victoria Ave, Niagara Falls, ON L2G 3L2, Canada",
+        "latitude": 43.0948408,
+        "longitude": -79.0724798,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJQ21KuDMyK4gRCfxeNqtWQhw",
+        "name": "JOEY Yorkdale",
+        "address": "3401 Dufferin St 305 - B, North York, ON M6A 2T9, Canada",
+        "latitude": 43.72407159999999,
+        "longitude": -79.4539903,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJBdUGfABDK4gRRTpAce59Thc",
+        "name": "The Oakville Pump & Patio",
+        "address": "1011 Upper Middle Rd E, Oakville, ON L6H 4L2, Canada",
+        "latitude": 43.4818164,
+        "longitude": -79.696432,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ40ivyQWINIgRNU0m4U4axIk",
+        "name": "Firebirds Wood Fired Grill",
+        "address": "7300 Cranberry Springs Dr, Cranberry Twp, PA 16066, United States",
+        "latitude": 40.6867483,
+        "longitude": -80.093169,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ7XMHydM0K4gRpKItDSOPH9w",
+        "name": "Moxies Toronto Downtown Restaurant",
+        "address": "70 University Ave, Toronto, ON M5J 2M4, Canada",
+        "latitude": 43.6464675,
+        "longitude": -79.3844654,
+        "rating": 4.2,
+        "analyzed_reviews": [
+            {
+                "review": "We ordered the chicken & ribs, and the chipotle chicken. The rack of ribs was very dry and was not worth it. The flavour was lacking as well. But we will say the chicken in both dishes was really tasty and juicy. Ut basically carried the dish. We were a bit surprised that shrimps and ribs were all made on the same grill. We requested to ensure no shellfish contamination was made because of allergy reasons but they weren\u2019t able to do so. Our allergy was not severe so we still ended up taking the risk and got the ribs. The soup and fries were decent. But the main star was the dessert. The white chocolate brownie was amazing and it made us want to give an extra star just for it. The place was very lively and it was hard to get the waiter\u2019s attention, which was kinda overwhelming at times. But he gave the dessert on the house since we were celebrating a special day, which was really nice!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "overwhelming"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ61G1yy5HK4gR1OXbj2vB0tA",
+        "name": "Reds Square One",
+        "address": "100 City Centre Drive, 815 Square One Dr Unit #2, Mississauga, ON L5B 2C9, Canada",
+        "latitude": 43.59375199999999,
+        "longitude": -79.643242,
+        "rating": 4.2,
+        "analyzed_reviews": [
+            {
+                "review": "Natalie was our waitress, she was great.\nThe place was well lit, and I had asked when making reservation for a quiet booth; well received!\nIt was our first time there, and we were so impressed.\nThe food; DELICIOUS, Drinks-Amazing.\nI had the Old fashioned drink, and  cheese ravioli w shrimp, and hubby had the whisky sour drink, and  steak w lobster sushi; we Highly recommend it.\nWe will be back.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJNYW0DqpDK4gRa3eAZQGuxD8",
+        "name": "Milestones",
+        "address": "3051 Vega Blvd, Mississauga, ON L5L 5Y3, Canada",
+        "latitude": 43.5167425,
+        "longitude": -79.68889170000001,
         "rating": 3.9,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJbwX4mnUN3okRl_RO0otpKuw",
-        "name": "MOSU",
-        "address": "111 Wolf Rd Suite 1, Albany, NY 12205, United States",
-        "latitude": 42.7168642,
-        "longitude": -73.8082799,
+        "id": "ChIJTUOkBoebLIgRdTlyHxHxpkA",
+        "name": "Born & Raised",
+        "address": "224 James St N, Hamilton, ON L8R 2L3, Canada",
+        "latitude": 43.2623778,
+        "longitude": -79.8663995,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ_-etCE81K4gRyTsn9avI36k",
+        "name": "Tut's Egyptian Street Food",
+        "address": "567 King St W, Toronto, ON M5V 1M1, Canada",
+        "latitude": 43.6443887,
+        "longitude": -79.3994032,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJr6EITaE1K4gRuXbV5EoAjOo",
+        "name": "RUNWAY06",
+        "address": "132 John St, Toronto, ON M5V 2E3, Canada",
+        "latitude": 43.6486764,
+        "longitude": -79.3908009,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJB42QL2tvK4gRkpnnA8zT95k",
+        "name": "Symposium Cafe Restaurant MILTON",
+        "address": "611 Holly Ave, Milton, ON L9T 0K4, Canada",
+        "latitude": 43.5111358,
+        "longitude": -79.8550879,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJQY_nP9I0K4gRj0Fo9reXGQ4",
+        "name": "Earls Kitchen + Bar",
+        "address": "150 King St W #100, Toronto, ON M5H 1J9, Canada",
+        "latitude": 43.6480411,
+        "longitude": -79.38439629999999,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJQZCQb8ZDK4gRFIqvov5hvIs",
+        "name": "Sultan Ahmet Turkish Cuisine",
+        "address": "5055 Plantation Pl, Mississauga, ON L5M 6J3, Canada",
+        "latitude": 43.5528191,
+        "longitude": -79.71558,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJpWVj9DFItokRsLZ5_-oi75U",
+        "name": "Founding Farmers Reston Station",
+        "address": "1904 Reston Metro Plaza, Reston, VA 20190, United States",
+        "latitude": 38.9489997,
+        "longitude": -77.3380117,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ-dJfih_IMIgRyjZ54dNBnGs",
+        "name": "Panda",
+        "address": "503 S Court St A, Medina, OH 44256, United States",
+        "latitude": 41.1339556,
+        "longitude": -81.8643471,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJGx-XoLaJK4gResDrbNWmbAM",
+        "name": "A&W Canada",
+        "address": "580 Hespeler Rd, Cambridge, ON N1R 6J8, Canada",
+        "latitude": 43.4033969,
+        "longitude": -80.3272137,
+        "rating": 4.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJgQzqB6ibLIgRpYxH9dh5JOg",
+        "name": "Undefined",
+        "address": "35 King William St, Hamilton, ON L8R 1A1, Canada",
+        "latitude": 43.2574358,
+        "longitude": -79.867593,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJI8q56V9vK4gROH9ocfWXF2c",
+        "name": "St. Louis Bar & Grill",
+        "address": "604 Santa Maria Blvd, Milton, ON L9T 6J5, Canada",
+        "latitude": 43.5021703,
+        "longitude": -79.8656898,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJc0NISMXXKogR8Axdu0FzUIc",
+        "name": "LOCALE King City Restaurant/Bar",
+        "address": "12981 Keele St, King City, ON L7B 1G2, Canada",
+        "latitude": 43.9282561,
+        "longitude": -79.527856,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJvyH_M7ZR04kRoAdPKgJFICI",
+        "name": "Khas Patti",
+        "address": "219 St Paul St, St. Catharines, ON L2R 3M6, Canada",
+        "latitude": 43.158273,
+        "longitude": -79.2438181,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJjevqhZhvK4gR1CpVmmgAGPk",
+        "name": "Pasqualino",
+        "address": "248 Main St E, Milton, ON L9T 1P1, Canada",
+        "latitude": 43.51366729999999,
+        "longitude": -79.8824659,
         "rating": 4.5,
         "analyzed_reviews": []
     }
