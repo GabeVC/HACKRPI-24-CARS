@@ -32,7 +32,7 @@ const ReviewModal = ({ isOpen, onClose, selectedLocation, onSubmit, existingRevi
       const response = await axios.get(`https://maps.googleapis.com/maps/api/geocode/json`, {
         params: {
           latlng: `${selectedLocation?.coordinates?.lat},${selectedLocation?.coordinates?.lng}`,
-          key: "AIzaSyDL_OrANFGeuN2P2OWpiqe2-1eZvhxVOAE", // Replace with actual API key
+          key: "AIzaSyAW23iphHXiv4kM24Y2Ga2giUWQJ2m0xmgE", // Replace with actual API key
         },
       });
 
