@@ -1,59 +1,384 @@
 [
     {
-        "id": "ChIJcelfIO9v2IkRMmQzCPpwVVw",
-        "name": "Sherman Street Elementary School",
-        "address": "836 Sherman St, Watertown, NY 13601, United States",
-        "latitude": 43.9635981,
-        "longitude": -75.91681729999999,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJL0i0i_5v2IkR5S-V7lSBWco",
-        "name": "Immaculate Heart Central School - Primary Campus",
-        "address": "122 Winthrop St, Watertown, NY 13601, United States",
-        "latitude": 43.9723115,
-        "longitude": -75.9048534,
-        "rating": 3.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJE6WJ_ghw2IkR76ry1v9cOMs",
-        "name": "North Elementary School",
-        "address": "171 E Hoard St, Watertown, NY 13601, United States",
-        "latitude": 43.98692200000001,
-        "longitude": -75.9014383,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJqTTB_aZ62IkR8TA0Se5xPgA",
-        "name": "Starbuck Elementary School",
-        "address": "430 E Hoard St, Watertown, NY 13601, United States",
-        "latitude": 43.9862232,
-        "longitude": -75.89698,
+        "id": "ChIJ4ftTkcKV3YkRupRn8TwORm4",
+        "name": "Athens Elementary School",
+        "address": "51 3rd St, Athens, NY 12015, United States",
+        "latitude": 42.2623979,
+        "longitude": -73.8173628,
         "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJk0u1UrN62IkR7ITf4vD2xRk",
-        "name": "Ohio Street School",
-        "address": "1537 Ohio St, Watertown, NY 13601, United States",
-        "latitude": 43.971623,
-        "longitude": -75.8833381,
-        "rating": 4.1,
+        "id": "ChIJSbJSYyWU3YkRX0c7HWbSciA",
+        "name": "Montgomery C. Smith Elementary School",
+        "address": "102 Harry Howard Ave, Hudson, NY 12534, United States",
+        "latitude": 42.2546127,
+        "longitude": -73.7758727,
+        "rating": 3,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJuwxv05Jv2IkRwiJaOj1NWas",
-        "name": "Harold T Wiley School",
-        "address": "1351 Washington St, Watertown, NY 13601, United States",
-        "latitude": 43.955832,
-        "longitude": -75.9102551,
-        "rating": 4.1,
+        "id": "ChIJqxP5Bj2U3YkRTuJydLGTqnA",
+        "name": "Hudson Jr. High School",
+        "address": "215 Harry Howard Ave, Hudson, NY 12534, United States",
+        "latitude": 42.2592305,
+        "longitude": -73.7723887,
+        "rating": 3.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ2QC3cyiU3YkRPkrXolPpE8E",
+        "name": "Hudson City School District",
+        "address": "215 Harry Howard Ave, Hudson, NY 12534, United States",
+        "latitude": 42.2594102,
+        "longitude": -73.772086,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJK2Te-RWU3YkReavkzIB8FZE",
+        "name": "Hudson Sr. High School",
+        "address": "215 Harry Howard Ave, Hudson, NY 12534, United States",
+        "latitude": 42.2600366,
+        "longitude": -73.77175249999999,
+        "rating": 3.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ-VNVdByU3YkRGz72Wb_LSck",
+        "name": "Donald R. Kline Technical School",
+        "address": "131 Union Turnpike, Hudson, NY 12534, United States",
+        "latitude": 42.2488781,
+        "longitude": -73.76386339999999,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJL79N-zqV3YkRcWQd4oKtHVg",
+        "name": "Bard Early College Hudson",
+        "address": "Hudson, NY 12534, United States",
+        "latitude": 42.2558482,
+        "longitude": -73.795514,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJR1ksURG93YkRX4YM1xSUdUo",
+        "name": "Catskill Elementary School",
+        "address": "770 Embought Rd, Catskill, NY 12414, United States",
+        "latitude": 42.2065376,
+        "longitude": -73.8729719,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJQVDuPNiW3YkR7FNPtFh3qaw",
+        "name": "Hudson City School District",
+        "address": "Hudson City School District, NY, USA",
+        "latitude": 42.2259955,
+        "longitude": -73.77132,
+        "rating": null,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJY5lZ1XS93YkR6pQJe8fJDkc",
+        "name": "Catskill Middle School",
+        "address": "345 W Main St, Catskill, NY 12414, United States",
+        "latitude": 42.2196442,
+        "longitude": -73.86996979999999,
+        "rating": 1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJm-5-rDSV3YkR-ZKZlmr43PI",
+        "name": "Viva Las Virtual: Online Preschool Academy",
+        "address": "Virtual Learning, Hudson, NY 12534, United States",
+        "latitude": 42.25292049999999,
+        "longitude": -73.7909106,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJBcDXX5S93YkRSbWTCAgrSBA",
+        "name": "Catskill Montessori School",
+        "address": "44 Anbach Ln, Catskill, NY 12414, United States",
+        "latitude": 42.1923367,
+        "longitude": -73.873989,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJD3AY1XS93YkRtzWTUIG8INQ",
+        "name": "Catskill Senior High School",
+        "address": "341 W Main St, Catskill, NY 12414, United States",
+        "latitude": 42.21772379999999,
+        "longitude": -73.8704223,
+        "rating": 1.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ983VIpy93YkRxzWDRrNHI6c",
+        "name": "St. Patrick's Elementary School",
+        "address": "Catskill, NY 12414, United States",
+        "latitude": 42.2228752,
+        "longitude": -73.85873280000001,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJHXMDZwq93YkRHTqRkYrUGb8",
+        "name": "Catskill Central School District",
+        "address": "343 W Main St, Catskill, NY 12414, United States",
+        "latitude": 42.2190284,
+        "longitude": -73.87013859999999,
+        "rating": 2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJxQFQ_p2W3YkROVm4xwHSyuY",
+        "name": "Starting Place",
+        "address": "51 Short St, Hudson, NY 12534, United States",
+        "latitude": 42.2517494,
+        "longitude": -73.78551120000002,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJsyKO6iyU3YkRqKua3rsmo4k",
+        "name": "Taconic Associates LLC",
+        "address": "27 Bridge St, Hudson, NY 12534, United States",
+        "latitude": 42.2515678,
+        "longitude": -73.7561963,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJuegiPrOj3YkRnzQCRudIzeA",
+        "name": "Germantown Central School",
+        "address": "123 Main St, Germantown, NY 12526, United States",
+        "latitude": 42.1328582,
+        "longitude": -73.8898925,
+        "rating": 3.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ24AYCSyU3YkRJN8yhnsh5Yc",
+        "name": "Early Intervention & Preschool",
+        "address": "325 Columbia St, Hudson, NY 12534, United States",
+        "latitude": 42.252947,
+        "longitude": -73.78992199999999,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJs0OkJgq93YkRHRFdhp1Wid8",
+        "name": "Catskill Central Schools",
+        "address": "347 W Main St, Catskill, NY 12414, United States",
+        "latitude": 42.2199816,
+        "longitude": -73.870583,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJxczSckqW3YkRTcTv5JpAE3c",
+        "name": "Columbia-Greene Community College",
+        "address": "4400 NY-23, Hudson, NY 12534, United States",
+        "latitude": 42.2171859,
+        "longitude": -73.8183059,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJpY9iau-M3YkR9giEt4Crkn8",
+        "name": "Hawthorne Valley Waldorf School",
+        "address": "1926, 330 County Rte 21C, Ghent, NY 12075, United States",
+        "latitude": 42.270828,
+        "longitude": -73.5935851,
+        "rating": 5,
         "analyzed_reviews": [
             {
-                "review": "okay. 1: the meals are disgusting!!! 2: the kids are pretty retarded 3: to many bullies!! 4: the teachers don't care at all 5: 5th graders get only 1 break per day! but I've learned a lot. I'm a quiet unnoticeable kid. so it's easy to avoided these \"issues\" it's a nice school in all but it has some problems....",
+                "review": "We\u2019ve been very pleased here at HVS for the past four years. Our sons both started in kindergarten and now are in the grades. Their teachers are deeply committed and dedicated to their work/the children, while still being super accessible to us parents. In addition to traditional classroom time, the unique ways that academics are taught here foster a real deep learning and in ways that the children love and make a whole lot of sense... math blocks centered around actually constructing a structure, astronomy under the stars, hands on farm work related back to the world at large, established entrepreneurs teaching economic blocks seniors...\nOur boys love Hawthorne Valley Waldorf School and so do we!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "mobility": [
+                        "accessible"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJRdxG8giP3YkRVs2JK37wvVs",
+        "name": "Taconic Hills Central School",
+        "address": "73 Co Rte 11A, Craryville, NY 12521, United States",
+        "latitude": 42.17196370000001,
+        "longitude": -73.5991832,
+        "rating": 2.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJZ0Ht8HS93YkRI5iXkW6CHRs",
+        "name": "Dandelion Nursery Preschool",
+        "address": "1 King St, Catskill, NY 12414, United States",
+        "latitude": 42.2170583,
+        "longitude": -73.86285629999999,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJy3o_H82Q3YkRT2QPy9U--28",
+        "name": "Whistle Down Farm",
+        "address": "20 School Teacher Rd, Hudson, NY 12534, United States",
+        "latitude": 42.1913339,
+        "longitude": -73.74622029999999,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJq_kvtL253YkRCalBzSPaTZI",
+        "name": "Cairo-Durham Elementary School",
+        "address": "424 Main St, Cairo, NY 12413, United States",
+        "latitude": 42.2986438,
+        "longitude": -73.9968586,
+        "rating": 3.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJfw2-t-7q3YkR3KkoX-ieg3Y",
+        "name": "Coxsackie-Athens Middle School",
+        "address": "24 Sunset Blvd, Coxsackie, NY 12051, United States",
+        "latitude": 42.3523293,
+        "longitude": -73.80906449999999,
+        "rating": 3.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJq_kvtL253YkRi9g78MduDw8",
+        "name": "Cairo Durham Central School",
+        "address": "424 Main St, Cairo, NY 12413, United States",
+        "latitude": 42.298785,
+        "longitude": -73.996701,
+        "rating": 3.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJTenxCtim3YkRnzYR46D2Jjg",
+        "name": "Cahill School",
+        "address": "134 Main St, Saugerties, NY 12477, United States",
+        "latitude": 42.0785006,
+        "longitude": -73.94921269999999,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ9VmVocvz3YkR0JJFFLcknJ8",
+        "name": "Chatham Middle School",
+        "address": "50 Woodbridge Ave, Chatham, NY 12037, United States",
+        "latitude": 42.3611918,
+        "longitude": -73.6019933,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJz7dtErm33YkRa9AnSJouCE0",
+        "name": "Cairo-Durham High School",
+        "address": "1301 NY-145, Cairo, NY 12413, United States",
+        "latitude": 42.3406917,
+        "longitude": -74.06241829999999,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJo2w1-n7o3YkRxHciXjETc0E",
+        "name": "Pieter B. Coeymans School",
+        "address": "Church St, Coeymans, NY 12045, United States",
+        "latitude": 42.4750355,
+        "longitude": -73.80013679999999,
+        "rating": 3.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJjXJegNqm3YkRdl6h3OK9Oz4",
+        "name": "Saugerties Senior High School",
+        "address": "310 Washington Ave, Saugerties, NY 12477, United States",
+        "latitude": 42.0857391,
+        "longitude": -73.9479221,
+        "rating": 3.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJDx92LZio3YkRv2V7L8FRbeU",
+        "name": "Middle Way School",
+        "address": "268 W Saugerties Rd, Saugerties, NY 12477, United States",
+        "latitude": 42.1082162,
+        "longitude": -74.0401574,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJXQ1BC7Lv3YkRIy9MG7o3yQI",
+        "name": "Ichabod Crane Primary School",
+        "address": "2930 US-9, Valatie, NY 12184, United States",
+        "latitude": 42.42601790000001,
+        "longitude": -73.68752669999999,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJfw2-t-7q3YkRTZCk2i6XrOY",
+        "name": "Coxsackie-Athens Elementary School",
+        "address": "24 Sunset Blvd, Coxsackie, NY 12051, United States",
+        "latitude": 42.3517824,
+        "longitude": -73.8085303,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJj6QZsL253YkRTVeIV0f7bto",
+        "name": "Cairo-Durham Middle School",
+        "address": "1301 NY-145, Cairo, NY 12413, United States",
+        "latitude": 42.3405342,
+        "longitude": -74.0613327,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJjXJegNqm3YkRXpwai6wOUpY",
+        "name": "Saugerties Junior High School",
+        "address": "310 Washington Ave Exd, Saugerties, NY 12477, United States",
+        "latitude": 42.08611459999999,
+        "longitude": -73.94758700000001,
+        "rating": 2.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJXQ1BC7Lv3YkRi_JgD1195oU",
+        "name": "Ichabod Crane Middle School",
+        "address": "2910 US-9, Valatie, NY 12184, United States",
+        "latitude": 42.4254503,
+        "longitude": -73.68123460000001,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJldwMIfe93YkRN-rn71GogDk",
+        "name": "Catskill Weaving School",
+        "address": "111 Water St Unit 2, Catskill, NY 12414, United States",
+        "latitude": 42.2180466,
+        "longitude": -73.8663943,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJB-hwpkyV3YkR8rcKjMcGL3k",
+        "name": "Night School home of Deep Fried Beers",
+        "address": "21 2nd St, Athens, NY 12015, United States",
+        "latitude": 42.2605704,
+        "longitude": -73.8100881,
+        "rating": 4.7,
+        "analyzed_reviews": [
+            {
+                "review": "My new favorite pizza! The pies are great and enough for two people with some left over (or one very hungry person). They just added a vegan pie which is great! The beers are amazing including the house made selections that you can take home. They have non alcoholic beers and cocktails too. The ambience is perfect and you can eat inside or out by the (quiet) street with a view of the Hudson River. Go!",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
@@ -64,489 +389,174 @@
         ]
     },
     {
-        "id": "ChIJ5f4AT_Fv2IkRGAs5f8-PKoo",
-        "name": "Knickerbocker School",
-        "address": "739 Knickerbocker Dr, Watertown, NY 13601, United States",
-        "latitude": 43.96207159999999,
-        "longitude": -75.9055958,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJDxLP97dv2IkRcLj3hd4EejM",
-        "name": "Immaculate Heart Central School - Jr./Sr. High School",
-        "address": "1316 Ives St, Watertown, NY 13601, United States",
-        "latitude": 43.9592441,
-        "longitude": -75.93288220000001,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJD7ekVQZw2IkRJHoPpM3swRs",
-        "name": "Watertown City School District",
-        "address": "1351 Washington St, Watertown, NY 13601, United States",
-        "latitude": 43.9560193,
-        "longitude": -75.9099961,
+        "id": "ChIJUdtcrAiX3YkRrKdMeDJ2e4c",
+        "name": "Daycare",
+        "address": "4400 NY-23, Hudson, NY 12534, United States",
+        "latitude": 42.2171215,
+        "longitude": -73.81985379999999,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJS4w8ce1v2IkRaIZ6wexAGEA",
-        "name": "Case Middle School",
-        "address": "1237 Washington St, Watertown, NY 13601, United States",
-        "latitude": 43.95906009999999,
-        "longitude": -75.9121627,
-        "rating": 3.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJe2BgEk5l2IkRYk0ncJzEzkM",
-        "name": "Faith Fellowship Christian School",
-        "address": "131 Moore Ave #100d, Watertown, NY 13601, United States",
-        "latitude": 43.9675839,
-        "longitude": -75.88742979999999,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJqVMY0vJv2IkRA4yFZFOK2j4",
-        "name": "Watertown High School",
-        "address": "1335 Washington St, Watertown, NY 13601, United States",
-        "latitude": 43.9573284,
-        "longitude": -75.9125974,
-        "rating": 2.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJOf2wM0Vx2IkRQPqTMRWzn0c",
-        "name": "Glen Park/Brownville Elementary School",
-        "address": "771 Main St, Glen Park, NY 13601, United States",
-        "latitude": 44.0008263,
-        "longitude": -75.9712382,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJVVVVOI1v2IkRNkTBc3ck-2Y",
-        "name": "Wiley Intermediate School",
-        "address": "1351 Washington St, Watertown, NY 13601, United States",
-        "latitude": 43.9558359,
-        "longitude": -75.91026620000001,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJuwxv05Jv2IkRJer-IphBPYs",
-        "name": "Watertown Special Education",
-        "address": "1351 Washington St, Watertown, NY 13601, United States",
-        "latitude": 43.955832,
-        "longitude": -75.9102551,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ0VJfCq9v2IkRQ5zxIz3WcI8",
-        "name": "Music Education Centers of Watertown",
-        "address": "169 Polk St, Watertown, NY 13601, United States",
-        "latitude": 43.9743882,
-        "longitude": -75.9069009,
+        "id": "ChIJPUhduBuU3YkRJlP9-tmhBaY",
+        "name": "Columbia Children's Center",
+        "address": "142 Union Turnpike, Hudson, NY 12534, United States",
+        "latitude": 42.2507355,
+        "longitude": -73.7636696,
         "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJf40Xir7r2IkRCv-By1lJOpQ",
-        "name": "Jefferson-Lewis BOCES",
-        "address": "20104 Arsenal St, Watertown, NY 13601, United States",
-        "latitude": 43.9699641,
-        "longitude": -75.9714946,
-        "rating": 3.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ2TsETz1u2IkRgSLV3rBKGNs",
-        "name": "The Sensory Nook",
-        "address": "20255 State Rte 3, Watertown, NY 13601, United States",
-        "latitude": 43.9731139,
-        "longitude": -75.9685989,
+        "id": "ChIJWfq5SZDg3YkRqZjewmPXNaY",
+        "name": "Morey Hall Pianist",
+        "address": "28 James St, Hudson, NY 12534, United States",
+        "latitude": 42.2621528,
+        "longitude": -73.76846170000002,
         "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJz4e9kTJ62IkRdb_pq0BqLLM",
-        "name": "Calcium Primary School",
-        "address": "25440 Indian River Dr, Calcium, NY 13616, United States",
-        "latitude": 44.0337578,
-        "longitude": -75.854725,
-        "rating": 4.6,
+        "id": "ChIJ71DWiSuU3YkRv02UHK2V-eU",
+        "name": "Apple Hill Dressage",
+        "address": "41 School Teacher Rd, Hudson, NY 12534, United States",
+        "latitude": 42.18722,
+        "longitude": -73.7447251,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJFzvi5rpx2IkRZZBZtSQIZ-w",
-        "name": "Old Cooper Street School",
-        "address": "518 Davidson St, Watertown, NY 13601, United States",
-        "latitude": 43.9806427,
-        "longitude": -75.9089133,
+        "id": "ChIJrZuyfGyU3YkRvCeIksTVd1k",
+        "name": "English Moving Forward",
+        "address": "296 Lincoln Blvd, Hudson, NY 12534, United States",
+        "latitude": 42.2661566,
+        "longitude": -73.7647373,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ_f1W54Rv2IkRRlWTK3j8lz8",
-        "name": "Ms. Esther's NeighborSchool",
-        "address": "309 Thompson Blvd, Watertown, NY 13601, United States",
-        "latitude": 43.9611211,
-        "longitude": -75.9013167,
+        "id": "ChIJb0rqVAWU3YkR3AmBhn0Mefo",
+        "name": "Roz's Dance Works",
+        "address": "187 Healy Blvd, Hudson, NY 12534, United States",
+        "latitude": 42.2527079,
+        "longitude": -73.759919,
         "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJZ-cTOVdl2IkRxbw4p_qbKeE",
-        "name": "Watertown City School District",
-        "address": "Watertown City School District, NY, USA",
-        "latitude": 43.9635697,
-        "longitude": -75.8882508,
+        "id": "ChIJK25oxCiU3YkRE3FomAwIixM",
+        "name": "Perfect Ten After School Inc.",
+        "address": "51 N 5th St 3rd floor, Hudson, NY 12534, United States",
+        "latitude": 42.2511866,
+        "longitude": -73.7850595,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJEZw_WVe93YkRUW95gjNE7_w",
+        "name": "Alekseevna Ballet Academy",
+        "address": "40 Woodland Ave, Catskill, NY 12414, United States",
+        "latitude": 42.222189,
+        "longitude": -73.8572281,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJV1T9mCMI3YkRzxuBBwfL6H8",
+        "name": "Mt. Marion Elementary School",
+        "address": "744 Glasco Turnpike, Saugerties, NY 12477, United States",
+        "latitude": 42.0407278,
+        "longitude": -74.0003495,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJh6FGnZ683YkR6p6ruaLbuy4",
+        "name": "Catskill Central School District",
+        "address": "Catskill Central School District, NY, USA",
+        "latitude": 42.2078684,
+        "longitude": -73.9124674,
         "rating": null,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJAQCEMeBv2IkR-rWn8l6O_HE",
-        "name": "Conley's Flight School",
-        "address": "451 Arsenal St, Watertown, NY 13601, United States",
-        "latitude": 43.9762471,
-        "longitude": -75.9205712,
+        "id": "ChIJx5CaBW2U3YkRitBOrIkJ8V0",
+        "name": "Columbia Elite Allstars",
+        "address": "300 Fairview Ave, Hudson, NY 12534, United States",
+        "latitude": 42.2662357,
+        "longitude": -73.7615592,
         "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJfRTdD05l2IkRT1qEZ46wYAQ",
-        "name": "Faith Fellowship School District",
-        "address": "131 Moore Ave #100c, Watertown, NY 13601, United States",
-        "latitude": 43.9675728,
-        "longitude": -75.8873282,
-        "rating": 3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJPSdetxdu2IkRfUKYMmlE_mU",
-        "name": "Charles H. Bohlen Technical Center",
-        "address": "20104 State Rte 3, Watertown, NY 13601, United States",
-        "latitude": 43.97017770000001,
-        "longitude": -75.96978539999999,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJm08fmC5w2IkR9C32rq86lWo",
-        "name": "Bright Beginnings Preschool",
-        "address": "420 Gaffney Dr, Watertown, NY 13601, United States",
-        "latitude": 43.9852944,
-        "longitude": -75.9397997,
-        "rating": 3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJwWyvG3N82IkRzB2Jb3Pg614",
-        "name": "Black River Elementary School",
-        "address": "160 Leray St, Black River, NY 13612, United States",
-        "latitude": 44.0159454,
-        "longitude": -75.7986226,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ2Q7pKBZu2IkRZUoVBe7joKk",
-        "name": "Jefferson-Lewis BOCES Adult Education Department",
-        "address": "20104 State Rte 3, Watertown, NY 13601, United States",
-        "latitude": 43.9709587,
-        "longitude": -75.9698057,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJXdNftxdu2IkRImqjWGK9Zes",
-        "name": "Jefferson-Lewis-Hamilton",
-        "address": "20104 State Rte 3, Watertown, NY 13601, United States",
-        "latitude": 43.9709586,
-        "longitude": -75.9698057,
+        "id": "ChIJAQuctlGF3YkRoVF0JSoO7Ao",
+        "name": "Hillsdale High School",
+        "address": "73 Co Rte 11A, Craryville, NY 12521, United States",
+        "latitude": 42.1719136,
+        "longitude": -73.599149,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJU2jjWblv2IkRiIao52O4fc4",
-        "name": "ABLE 2 Driving School",
-        "address": "6300 Arsenal St, Watertown, NY 13601, United States",
-        "latitude": 43.9744728,
-        "longitude": -75.9521303,
-        "rating": 3.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJs-OTScNz2IkRQRUhLcxFO8k",
-        "name": "Dexter Elementary School",
-        "address": "415 E Grove St, Dexter, NY 13634, United States",
-        "latitude": 44.01184629999999,
-        "longitude": -76.0379111,
+        "id": "ChIJx4QGsoKW3YkRLlqZXorDSj0",
+        "name": "Balance",
+        "address": "170 Ten Broeck Ln, Hudson, NY 12534, United States",
+        "latitude": 42.2394764,
+        "longitude": -73.77858119999999,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJV9-mTDN_2IkRtZL9lKxTtmo",
-        "name": "Evans Mills Primary School",
-        "address": "8438 Leray St, Evans Mills, NY 13637, United States",
-        "latitude": 44.085926,
-        "longitude": -75.8067092,
+        "id": "ChIJIUiiknOo3YkReg_lbFhcnIc",
+        "name": "Mountaintop Waldorf School",
+        "address": "68 Band Camp Rd, Saugerties, NY 12477, United States",
+        "latitude": 42.076606,
+        "longitude": -74.0344065,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJk4bhC32T3YkRobCNd-4TN8E",
+        "name": "Little Lions Learning Center",
+        "address": "2813 Atlantic Ave, Hudson, NY 12534, United States",
+        "latitude": 42.2874241,
+        "longitude": -73.74595719999999,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ68ztK0ju3YkRXh0AP5uvNgA",
+        "name": "Martin H Glynn School",
+        "address": "3211 Church St, Valatie, NY 12184, United States",
+        "latitude": 42.4156205,
+        "longitude": -73.67705889999999,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJjdvaT8142IkRh-M-Sjcu2cY",
-        "name": "Evans Mills Elementary School",
-        "address": "8442 S Main St, Evans Mills, NY 13637, United States",
-        "latitude": 44.0853432,
-        "longitude": -75.8074943,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ6fpZ6Phv2IkRd_4Ge-Hqa0w",
-        "name": "Davidson Service Technician Training Program",
-        "address": "18375 US-11, Watertown, NY 13601, United States",
-        "latitude": 43.9324027,
-        "longitude": -75.9378414,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJbZ7rxh9x2IkR73-exMdkwAw",
-        "name": "Deans Collaborative Learning Center - Building 15",
-        "address": "1220 Coffeen St, Watertown, NY 13601, United States",
-        "latitude": 43.9915449,
-        "longitude": -75.93424139999999,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJc0W_tBLZKUAR9nD0p0gK9O0",
-        "name": "Take Angels Aviation - NNY Flys",
-        "address": "444 Vanduzee St, Watertown, NY 13601, United States",
-        "latitude": 43.9869233,
-        "longitude": -75.92388350000002,
+        "id": "ChIJZTCFNham3YkR7mSn-8xddLY",
+        "name": "Grant D Morse Elementary School",
+        "address": "70 Harry Wells Rd, Saugerties, NY 12477, United States",
+        "latitude": 42.1074454,
+        "longitude": -74.0138213,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJzbEGQz1u2IkRlMkMPGPLE10",
-        "name": "NNY Creative Minds",
-        "address": "646 Coffeen St, Watertown, NY 13601, United States",
-        "latitude": 43.9821854,
-        "longitude": -75.9243276,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJkbs8Utt62IkRq38rO4p7iow",
-        "name": "School of Tone",
-        "address": "25355 State Rte 3, Watertown, NY 13601, United States",
-        "latitude": 43.9839765,
-        "longitude": -75.86369549999999,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJB1DgwTxq2IkRGgOLtokatjw",
-        "name": "Maynard P. Wilson Elementary School",
-        "address": "13180 US-11, Adams Center, NY 13606, United States",
-        "latitude": 43.85869049999999,
-        "longitude": -76.005078,
+        "id": "ChIJ7eOJtDTy3YkRso5b5fTAHlo",
+        "name": "Mary E. Dardess Elementary School",
+        "address": "50 Woodbridge Ave, Chatham, NY 12037, United States",
+        "latitude": 42.35954359999999,
+        "longitude": -73.6067087,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ-XwBP0tl2IkRN2H9PR3uyeQ",
-        "name": "Benchmark Family Services, Inc.",
-        "address": "1635 Ohio St, Watertown, NY 13601, United States",
-        "latitude": 43.9708666,
-        "longitude": -75.8808172,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ7bwPQi5w2IkRhNO9eIP8ns4",
-        "name": "Jefferson Community College",
-        "address": "1220 Coffeen St, Watertown, NY 13601, United States",
-        "latitude": 43.992231,
-        "longitude": -75.934691,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ-wLHdddv2IkRn_ku37_qWmo",
-        "name": "Watertown Music Studio",
-        "address": "1035 Arsenal St Suite B, Watertown, NY 13601, United States",
-        "latitude": 43.976645,
-        "longitude": -75.9357484,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJlSxx6ARw2IkREOhIjTMeoKI",
-        "name": "Our Lady of the Sacred Heart",
-        "address": "320 W Lynde St, Watertown, NY 13601, United States",
-        "latitude": 43.9819357,
-        "longitude": -75.9098351,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ83QPsvxv2IkRaqili1j6f1I",
-        "name": "First Step Day Care INC",
-        "address": "317 Washington St # 34, Watertown, NY 13601, United States",
-        "latitude": 43.9716604,
-        "longitude": -75.91052979999999,
-        "rating": 3.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ2x5nC41v2IkRylxFpBZSfIA",
-        "name": "The Wiley School Trails",
-        "address": "Watertown, NY 13601, United States",
-        "latitude": 43.9548685,
-        "longitude": -75.90993019999999,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ2Y6Y2AVw2IkRknyHj3YhjCc",
-        "name": "Dance World",
-        "address": "680 Mill St, Watertown, NY 13601, United States",
-        "latitude": 43.9829061,
-        "longitude": -75.9055222,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJGyMaqPxv2IkRu30dp1Z87OM",
-        "name": "Trillium Performing Arts Center",
-        "address": "403 Washington St, Watertown, NY 13601, United States",
-        "latitude": 43.9710374,
-        "longitude": -75.91084409999999,
+        "id": "ChIJEaxlkg6X3YkRuHztx7uMiWw",
+        "name": "Hudson Jazzworks",
+        "address": "338 Kipp Rd, Hudson, NY 12534, United States",
+        "latitude": 42.1954541,
+        "longitude": -73.786721,
         "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJvcECCGdx2IkR0rcuirmI_mw",
-        "name": "First Student Inc.",
-        "address": "Watertown, NY 13601, United States",
-        "latitude": 43.9978953,
-        "longitude": -75.9172586,
-        "rating": 1.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJY9jdSx1w2IkRpS4i-t9KONU",
-        "name": "Tehonica's Taekwondo & Hapkido",
-        "address": "210 Court St #6, Watertown, NY 13601, United States",
-        "latitude": 43.97684890000001,
-        "longitude": -75.9123992,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJhT0xBv1v2IkRVBHtxWbhQ24",
-        "name": "Craig Sirianni Vocal Studios",
-        "address": "245 W Flower Ave, Watertown, NY 13601, United States",
-        "latitude": 43.9671922,
-        "longitude": -75.9180418,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ-TsclBlw2IkRrQbVgM_94Lo",
-        "name": "General Brown Central School District",
-        "address": "17643 Cemetery Rd, Dexter, NY 13634, United States",
-        "latitude": 44.0147226,
-        "longitude": -76.0199773,
-        "rating": 2.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJg_AwuBIT2IkRHnenuGvGp0A",
-        "name": "Sackets Harbor Central School",
-        "address": "215 S Broad St, Sackets Harbor, NY 13685, United States",
-        "latitude": 43.9432966,
-        "longitude": -76.12106179999999,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJuR48SJ5v2IkRg_iXubAfVyw",
-        "name": "Janine M. Johnson Piano Studio",
-        "address": "169 Polk St, Watertown, NY 13601, United States",
-        "latitude": 43.97431599999999,
-        "longitude": -75.906717,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJLwovdJMM2IkRBcSXuaqpmbU",
-        "name": "Genesis Elementary School",
-        "address": "12749 NY-12E, Chaumont, NY 13622, United States",
-        "latitude": 44.0593243,
-        "longitude": -76.1158698,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJaQVCLtNv2IkRBMO17BQ6aU4",
-        "name": "Staples",
-        "address": "1283 Arsenal St #16, Watertown, NY 13601, United States",
-        "latitude": 43.9736726,
-        "longitude": -75.9458769,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJyatgkmMM2IkRZ_OvblQiZ8w",
-        "name": "Lyme Central School",
-        "address": "11868 Academy St, Chaumont, NY 13622, United States",
-        "latitude": 44.0666468,
-        "longitude": -76.1346221,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ249YjyVw2IkRYOARPGHX8Nk",
-        "name": "St. Lawrence Scuba Co.",
-        "address": "1035 Coffeen St, Watertown, NY 13601, United States",
-        "latitude": 43.9851635,
-        "longitude": -75.9344435,
-        "rating": 4.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJL6cRIaOJ2IkRCtr_LFqV0K0",
-        "name": "Copenhagen Central School",
-        "address": "3020 Mechanic St, Copenhagen, NY 13626, United States",
-        "latitude": 43.8920503,
-        "longitude": -75.677582,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJqR41P18qzUwR-M5RtTw08EI",
-        "name": "Indian River Intermediate School",
-        "address": "32430 US-11, Philadelphia, NY 13673, United States",
-        "latitude": 44.1342378,
-        "longitude": -75.721789,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJj0nwHPiG2IkRw-LyqgstEU0",
-        "name": "West Carthage Elementary School",
-        "address": "21568 Cole Rd, Carthage, NY 13619, United States",
-        "latitude": 43.98040659999999,
-        "longitude": -75.655593,
-        "rating": 4.8,
         "analyzed_reviews": []
     }
 ]

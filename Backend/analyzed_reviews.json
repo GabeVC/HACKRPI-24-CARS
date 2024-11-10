@@ -1,14 +1,26 @@
 [
     {
-        "id": "5f347cc2-31d7-48fa-b9e2-fbb49ca21f8b",
-        "locationId": "1351 Washington St, Watertown, NY 13601, United States",
+        "id": "8258d7b4-ee28-4297-b96d-aa5fa74c402d",
+        "locationId": "1926, 330 County Rte 21C, Ghent, NY 12075, United States",
+        "mobility": 1.0,
+        "accessibility": 0.0,
+        "vision": 0.0,
+        "sensory": 0.0,
+        "language": 0.0,
+        "reviewContent": "We\u2019ve been very pleased here at HVS for the past four years. Our sons both started in kindergarten and now are in the grades. Their teachers are deeply committed and dedicated to their work/the children, while still being super accessible to us parents. In addition to traditional classroom time, the unique ways that academics are taught here foster a real deep learning and in ways that the children love and make a whole lot of sense... math blocks centered around actually constructing a structure, astronomy under the stars, hands on farm work related back to the world at large, established entrepreneurs teaching economic blocks seniors...\nOur boys love Hawthorne Valley Waldorf School and so do we!",
+        "qualityReview": 5.0,
+        "overallScore": 0.2
+    },
+    {
+        "id": "7683b127-b38b-47b1-b7a1-d8fcc0f73d27",
+        "locationId": "21 2nd St, Athens, NY 12015, United States",
         "mobility": 0.0,
         "accessibility": 0.0,
         "vision": 0.0,
         "sensory": 1.0,
         "language": 0.0,
-        "reviewContent": "okay. 1: the meals are disgusting!!! 2: the kids are pretty retarded 3: to many bullies!! 4: the teachers don't care at all 5: 5th graders get only 1 break per day! but I've learned a lot. I'm a quiet unnoticeable kid. so it's easy to avoided these \"issues\" it's a nice school in all but it has some problems....",
-        "qualityReview": 4.1,
+        "reviewContent": "My new favorite pizza! The pies are great and enough for two people with some left over (or one very hungry person). They just added a vegan pie which is great! The beers are amazing including the house made selections that you can take home. They have non alcoholic beers and cocktails too. The ambience is perfect and you can eat inside or out by the (quiet) street with a view of the Hudson River. Go!",
+        "qualityReview": 4.7,
         "overallScore": 0.2
     }
 ]

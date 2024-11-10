@@ -24,10 +24,9 @@ const App = () => {
     <div className="App"  >
       <AuthProvider>
         <Routes>
-          <Route path="/" element={<LandingPage />} />
+          <Route path="/" element={<HomePage />} />
           <Route path="/login" element={<LoginPage/>}/> 
           <Route path="/register" element={<RegisterPage />} />
-          <Route path="/home" element={<HomePage />} />
         </Routes>
       </AuthProvider>
     </div>
