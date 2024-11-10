@@ -4,7 +4,7 @@
     "version": "0.0.0",
     "type": "module",
     "scripts": {
-        "dev": "concurrently \"npm run dev --prefix C:/24-25_Coursework/hackrpi/CARS/Frontend\" \"node C:/24-25_Coursework/hackrpi/CARS/Backend/index.js\"",
+        "dev": "concurrently \"npm run dev --prefix C:/Users/conneg2/Cars/Frontend\" \"node C:/Users/conneg2/Cars/Backend/index.js\"",
 
         "build": "vite build",
         "lint": "eslint .",

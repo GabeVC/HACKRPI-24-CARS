@@ -10,10 +10,11 @@ const HomePage = () => {
   const [center, setCenter] = useState([40.7128, -74.0060]); // Default to NYC
   const [locationName, setLocationName] = useState('');
   const [data, setData] = useState([]);
-  const [mode, setMode] = useState('General'); // Start in "General" mode
+  const [mode, setMode] = useState('Specific'); // Start in "General" mode
   const [radius, setRadius] = useState(4828); // Default radius for "General" mode circle in meters (3 miles)
   const autocompleteRef = useRef(null);
   const mapContainerRef = useRef(null);
+  const reviewsContainerRef = useRef(null);
   const navigate = useNavigate();
 
   // Fetch filtered reviews based on the bounding box around the center
@@ -45,8 +46,11 @@ const HomePage = () => {
             const lng = place.geometry.location.lng();
             setCenter([lat, lng]);
             setLocationName(place.formatted_address);
-            setMode("General"); // Ensure we are in "General" mode on new address selection
-            mapContainerRef.current.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            setMode("Specific"); // Ensure we're in "Specific" mode on new location
+
+            // Scroll partially to the map to keep the search bar in sight
+            const mapContainerTop = mapContainerRef.current.getBoundingClientRect().top + window.scrollY;
+            window.scrollTo({ top: mapContainerTop - 100, behavior: 'smooth' }); // Adjust offset as needed
           }
         });
       }
@@ -65,7 +69,9 @@ const HomePage = () => {
 
   const handleSeeReviews = () => {
     if (locationName) {
-      navigate(`/reviews/${encodeURIComponent(locationName)}`);
+      // Scroll just below the map to reveal the reviews section
+      const reviewsContainerTop = reviewsContainerRef.current.getBoundingClientRect().top + window.scrollY;
+      window.scrollTo({ top: reviewsContainerTop, behavior: 'smooth' });
     }
   };
 
@@ -112,7 +118,7 @@ const HomePage = () => {
         </section>
 
         {/* Review Cards Section */}
-        <section className="reviews-section">
+        <section className="reviews-section" ref={reviewsContainerRef}>
           <h2>Reviews in this Area</h2>
           <div className="review-cards">
             {data.map((review) => (
