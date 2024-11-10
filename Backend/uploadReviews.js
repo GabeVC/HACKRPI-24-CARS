@@ -36,7 +36,7 @@ async function getLatLngFromAddress(address) {
     const response = await axios.get(`https://maps.googleapis.com/maps/api/geocode/json`, {
       params: {
         address: address,
-        key: 'AIzaSyAW23iphHXiv4kM24Y2Ga2giUWQJ2m0xmg',
+        key: 'AIzaSyD4UwvRBbWIt6_VJYMKeBNz1e3TQIu7hNU',
       },
     });
 

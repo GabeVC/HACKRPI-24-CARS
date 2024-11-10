@@ -57,8 +57,8 @@ const AddReviewButton = ({ selectedLocation }) => {
   };
 
   const calculateOverallScore = (ratings = {}) => {
-    const { mobility = 0, accessibility = 0, language = 0, sensory = 0, vision = 0 } = ratings;
-    return ((mobility + accessibility + language + sensory + vision) / 5.0).toFixed(1);
+    const { mobility = 0,  language = 0, sensory = 0, vision = 0 } = ratings;
+    return ((mobility + language + sensory + vision) / 4.0).toFixed(1);
   };
 
   const handleReviewSubmit = async (reviewData) => {
@@ -70,7 +70,7 @@ const AddReviewButton = ({ selectedLocation }) => {
         id: reviewId,
         userId: userId || "",  // Fallback to empty string if userId is undefined
         reviewContent: reviewData.review || "",  // Ensure reviewContent is not undefined
-        accessibility: reviewData.accessibility || 0,
+        overAllAccessabilityScore: reviewData.accessibility || 0,
         vision: reviewData.vision || 0,
         language: reviewData.language || 0,
         mobility: reviewData.mobility || 0,

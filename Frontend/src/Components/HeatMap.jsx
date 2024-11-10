@@ -91,7 +91,7 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
         username: "Anonymous", // Placeholder for username
         locationRating: review.overallScore,
         text: review.reviewContent,
-        accessibilityRating: review.accessibility,
+        accessibilityRating: review.overallAccessabilityScore,
         mobilityRating: review.mobility,
         visionRating: review.vision,
         sensoryRating: review.sensory,

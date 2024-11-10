@@ -32,7 +32,7 @@ const ReviewModal = ({ isOpen, onClose, selectedLocation, onSubmit, existingRevi
       const response = await axios.get(`https://maps.googleapis.com/maps/api/geocode/json`, {
         params: {
           latlng: `${selectedLocation?.coordinates?.lat},${selectedLocation?.coordinates?.lng}`,
-          key: "AIzaSyAW23iphHXiv4kM24Y2Ga2giUWQJ2m0xmgE", // Replace with actual API key
+          key: 'AIzaSyD4UwvRBbWIt6_VJYMKeBNz1e3TQIu7hNU', // Replace with actual API key
         },
       });
 
@@ -44,12 +44,12 @@ const ReviewModal = ({ isOpen, onClose, selectedLocation, onSubmit, existingRevi
         reviewContent: review,
         reviewContentPrefix: review.slice(0, 30),
         mobility,
-        accessibility,
+        overAllAccessabilityScore: accessibility,
         vision,
         sensory,
         language,
-        qualityReview: (accessibility + vision + language + mobility + sensory) / 5,
-        overallScore: (accessibility + vision + language + mobility + sensory) / 5,
+        qualityReview: (vision + language + mobility + sensory) / 4,
+        overallScore: (vision + language + mobility + sensory) / 4,
         coordinates: selectedLocation?.coordinates || { lat: 0, lng: 0 },
       };
 
@@ -111,7 +111,7 @@ const ReviewModal = ({ isOpen, onClose, selectedLocation, onSubmit, existingRevi
         ></textarea>
         
         <div className="slider-group">
-          <label>Accessibility: {accessibility}</label>
+          <label>Overall Accessability Score: {accessibility}</label>
           <input type="range" min="0" max="5" value={accessibility} onChange={(e) => setAccessibility(parseInt(e.target.value))} />
           
           <label>Vision: {vision}</label>
