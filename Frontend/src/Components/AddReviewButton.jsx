@@ -6,6 +6,7 @@ import { collection, addDoc, doc, getDoc, updateDoc, setDoc } from 'firebase/fir
 import { v4 as uuidv4 } from 'uuid';
 import AuthModal from './AuthModal';
 import ReviewModal from './ReviewModal';
+import styles from './AddReviewButton.module.css';
 
 const AddReviewButton = ({ selectedLocation }) => {
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
@@ -86,7 +87,7 @@ const AddReviewButton = ({ selectedLocation }) => {
 
   return (
     <>
-      <button className="add-review-button" onClick={handleAddReviewClick}>
+      <button className={styles.addReviewButton} onClick={handleAddReviewClick}>
         {buttonText}
       </button>
 

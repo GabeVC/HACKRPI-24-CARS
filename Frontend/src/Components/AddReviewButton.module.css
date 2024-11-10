@@ -1,0 +1,19 @@
+.addReviewButton {
+  background-color: #4CAF50; /* Green background */
+  color: rgb(231, 228, 228); /* White text */
+  padding: 8px 16px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.addReviewButton:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+
+.addReviewButton:focus {
+  outline: none; /* Remove focus outline */
+  box-shadow: 0 0 5px rgba(0, 128, 0, 0.5);
+}
