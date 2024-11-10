@@ -1,13 +1,6 @@
-const { PythonShell } = require("python-shell");
-const admin = require("firebase-admin");
-const { getFirestore } = require("firebase-admin/firestore");
+const { spawn } = require("child_process");
 
-admin.initializeApp({
-  credential: admin.credential.applicationDefault(),
-});
-
-const db = getFirestore();
-
+// Function to retrieve reviews and pass them to a Python script
 async function reviewRetriever(address) {
   try {
     // 1. Search Firestore for the location with the given address
@@ -22,7 +15,7 @@ async function reviewRetriever(address) {
     }
 
     // 2. Get review IDs from the matching location
-    const locationData = locationSnapshot.docs[0].data();
+    const locationData = locationSnapshot.docs[0].data(); // Assuming one location per address
     const reviewIds = locationData.reviewIds;
 
     if (!reviewIds || reviewIds.length === 0) {
@@ -39,6 +32,7 @@ async function reviewRetriever(address) {
       }
     }
 
+    // 4. Call the Python script with the list of reviews
     callPythonScript(reviews);
 
   } catch (error) {
@@ -46,21 +40,20 @@ async function reviewRetriever(address) {
   }
 }
 
+// Function to call the Python script with the reviews as argument
 function callPythonScript(reviews) {
-  const options = {
-    mode: "json", // We’ll pass and receive JSON
-    pythonOptions: ["-u"], // Unbuffered output for real-time interaction
-    scriptPath: "path/to/your_script_folder", // Path to your Python script
-    args: [JSON.stringify(reviews)], // Pass reviews as JSON string
-  };
+  const pythonProcess = spawn("python3", ["path/to/your_script.py", JSON.stringify(reviews)]);
 
-  PythonShell.run("your_script.py", options, (err, results) => {
-    if (err) {
-      console.error("Error in Python script:", err);
-      return;
-    }
+  pythonProcess.stdout.on("data", (data) => {
+    console.log(`Python output: ${data}`);
+  });
 
-    console.log("Python script output:", results);
+  pythonProcess.stderr.on("data", (data) => {
+    console.error(`Python error: ${data}`);
+  });
+
+  pythonProcess.on("close", (code) => {
+    console.log(`Python script exited with code ${code}`);
   });
 }
 
