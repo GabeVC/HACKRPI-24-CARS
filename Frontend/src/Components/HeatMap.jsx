@@ -1,22 +1,22 @@
 import React, { useState, useEffect } from 'react';
-import { MapContainer, TileLayer, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, useMapEvents, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet.heat';
 import 'leaflet/dist/leaflet.css';
 
 function HeatLayer({ data }) {
-  const map = useMap();
-
+  const map = useMapEvents({});
+  
   useEffect(() => {
     const heatData = data.map(({ lat, lng, rating }) => [lat, lng, rating / 5]);
     const heatLayer = L.heatLayer(heatData, {
       radius: 25,
       maxZoom: 15,
       gradient: {
-        0.2: 'red',
-        0.5: 'orange',
-        0.8: 'yellow',
-        1.0: 'green'
+        0.2: 'green',
+        0.5: 'yellow',
+        0.8: 'orange',
+        1.0: 'red'
       }
     });
     heatLayer.addTo(map);
@@ -29,48 +29,80 @@ function HeatLayer({ data }) {
   return null;
 }
 
-function RecenterMap({ position }) {
-    const map = useMap();
-    useEffect(() => {
-      map.setView(position, 13); // Adjust the zoom level if needed
-    }, [position]);
-    return null;
+function ClickableMap({ onMapClick, setZoomLevel }) {
+  const map = useMapEvents({
+    click(e) {
+      const { lat, lng } = e.latlng;
+      fetchAddress(lat, lng, onMapClick);
+    },
+    zoomend(e) {
+      setZoomLevel(e.target.getZoom()); // Update zoom level on zoom end
+    }
+  });
+
+  return null;
+}
+
+// Helper function to fetch address using Google Maps Geocoder
+function fetchAddress(lat, lng, onMapClick) {
+  if (!window.google || !window.google.maps) {
+    console.error("Google Maps API is not loaded");
+    return;
   }
 
-function HeatMap() {
-  const [position, setPosition] = useState([40.7128, -74.0060]); // Default to NYC
-  const [data, setData] = useState([]);
+  const geocoder = new window.google.maps.Geocoder();
+  const location = { lat, lng };
 
-  useEffect(() => {
-    // Check if the browser supports Geolocation
-    if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(
-        (location) => {
-          const { latitude, longitude } = location.coords;
-          setPosition([latitude, longitude]); // Update map center to user's location
-        },
-        (error) => {
-          console.error("Error fetching location: ", error);
-        }
-      );
+  geocoder.geocode({ location }, (results, status) => {
+    if (status === "OK" && results[0]) {
+      const address = results[0].formatted_address;
+      onMapClick({ lat, lng, address });
     } else {
-      console.error("Geolocation is not supported by this browser.");
+      console.error("Geocoding failed:", status);
+      onMapClick({ lat, lng, address: "Address not found" });
     }
+  });
+}
 
-    // Load heatmap data here, for example via an API
-    fetch('/api/ratings')
-      .then((res) => res.json())
-      .then((data) => setData(data));
-  }, []);
+function RecenterMap({ center, zoomLevel }) {
+  const map = useMap();
+  useEffect(() => {
+    map.setView(center, zoomLevel); // Set view with current zoom level
+  }, [center, zoomLevel]);
+  return null;
+}
+
+function HeatMap({ center, data, onMapClick }) {
+  const [zoomLevel, setZoomLevel] = useState(13);
+  const [markerPosition, setMarkerPosition] = useState(null); // State for marker position
+  const [markerAddress, setMarkerAddress] = useState(''); // State for marker address
+
+  // Update marker position and address on map click
+  const handleMapClick = ({ lat, lng, address }) => {
+    setMarkerPosition([lat, lng]);
+    setMarkerAddress(address);
+    onMapClick({ lat, lng, address });
+  };
 
   return (
-    <MapContainer center={position} zoom={13} style={{ height: '80vh', width: '100%' }}>
+    <MapContainer center={center} zoom={zoomLevel} style={{ height: '100vh', width: '100%' }}>
       <TileLayer
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
       />
       <HeatLayer data={data} />
-      <RecenterMap position={position} />
+      <RecenterMap center={center} zoomLevel={zoomLevel} />
+      <ClickableMap onMapClick={handleMapClick} setZoomLevel={setZoomLevel} />
+      
+      {/* Marker Component - only render if markerPosition is set */}
+      {markerPosition && (
+        <Marker position={markerPosition}>
+          <Popup>
+            <strong>{markerAddress}</strong> <br />
+            Latitude: {markerPosition[0]}, Longitude: {markerPosition[1]}
+          </Popup>
+        </Marker>
+      )}
     </MapContainer>
   );
 }

@@ -22,7 +22,9 @@ export const AuthProvider = ({ children }) => {
   }, []);
 
   const logout = () => {
-    signOut(auth);
+    signOut(auth).then(() => {
+      window.location.reload(); // Refresh the page after logout
+    });
   };
 
   const value = {
