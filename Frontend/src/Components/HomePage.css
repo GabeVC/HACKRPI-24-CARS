@@ -159,4 +159,35 @@
   .logout-button:active {
     background-color: #c0392b;
   }
+
+  .reviews-section {
+    margin-top: 20px;
+  }
+  
+  .review-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .review-card {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .review-card h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .review-card p {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #555;
+  }
   

@@ -102,21 +102,32 @@ async function uploadReviews(ctx) {
     for (const review of reviewsJson) {
       const reviewRef = db.collection('reviews').doc(review.id);
 
-      // Adjusted fields based on new JSON format
-      batch.set(reviewRef, {
+      // Get latitude and longitude for locationId (address)
+      let coordinates = null;
+      try {
+        coordinates = await getLatLngFromAddress(review.locationId);
+      } catch (error) {
+        console.warn(`Failed to fetch coordinates for ${review.locationId}:`, error.message);
+        continue; // Skip this review if geocoding fails
+      }
+
+      // Prepare the review data with coordinates
+      const reviewData = {
         id: review.id,
-        locationId: review.locationId,  // Use the new locationId field
+        locationId: review.locationId,
         mobility: review.mobility || 0.0,
         accessibility: review.accessibility || 0.0,
         vision: review.vision || 0.0,
         sensory: review.sensory || 0.0,
         language: review.language || 0.0,
-        reviewContent: review.reviewContent || "",  // Use the new reviewContent field
+        reviewContent: review.reviewContent || "",
         qualityReview: review.qualityReview || 0.0,
-        overallScore: review.overallScore || 0.0,  // Corrected to use overallScore field
-      });
+        overallScore: review.overallScore || 0.0,
+        coordinates: coordinates // Add coordinates to the review
+      };
 
-      // Check if the locationId exists and update accordingly
+      batch.set(reviewRef, reviewData);
+
       await checkLocation(review.locationId, review.id);
 
       operationCounter++;

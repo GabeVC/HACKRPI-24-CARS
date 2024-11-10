@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { MapContainer, TileLayer, Marker, Popup, useMapEvents, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, Circle, useMapEvents, useMap } from 'react-leaflet';
 import { collection, getDocs } from 'firebase/firestore';
-import { db } from '../firebaseConfig'; // Import your Firebase configuration
+import { db } from '../firebaseConfig';
 import L from 'leaflet';
 import 'leaflet.heat';
 import 'leaflet/dist/leaflet.css';
@@ -31,72 +31,60 @@ function HeatLayer({ data }) {
   return null;
 }
 
-function ClickableMap({ onMapClick, setZoomLevel }) {
+function ClickableMap({ onMapClick, setZoomLevel, mode }) {
   const map = useMapEvents({
     click(e) {
       const { lat, lng } = e.latlng;
-      fetchAddress(lat, lng, onMapClick);
+      onMapClick({ lat, lng, mode });
     },
     zoomend(e) {
-      setZoomLevel(e.target.getZoom()); // Update zoom level on zoom end
+      setZoomLevel(e.target.getZoom());
     }
   });
 
   return null;
-}
-
-// Helper function to fetch address using Google Maps Geocoder
-function fetchAddress(lat, lng, onMapClick) {
-  if (!window.google || !window.google.maps) {
-    console.error("Google Maps API is not loaded");
-    return;
-  }
-
-  const geocoder = new window.google.maps.Geocoder();
-  const location = { lat, lng };
-
-  geocoder.geocode({ location }, (results, status) => {
-    if (status === "OK" && results[0]) {
-      const address = results[0].formatted_address;
-      onMapClick({ lat, lng, address });
-    } else {
-      console.error("Geocoding failed:", status);
-      onMapClick({ lat, lng, address: "Address not found" });
-    }
-  });
 }
 
 function RecenterMap({ center, zoomLevel }) {
   const map = useMap();
   useEffect(() => {
-    map.setView(center, zoomLevel); // Set view with current zoom level
+    map.setView(center, zoomLevel);
   }, [center, zoomLevel]);
   return null;
 }
 
-function HeatMap({ center, data, onMapClick }) {
+function HeatMap({ center, data, mode: initialMode = "General", radius: initialRadius = 4828 }) {
   const [zoomLevel, setZoomLevel] = useState(13);
-  const [markerPosition, setMarkerPosition] = useState(null); // State for marker position
-  const [markerAddress, setMarkerAddress] = useState(''); // State for marker address
-  const [firebaseMarkers, setFirebaseMarkers] = useState([]); // State for markers from Firebase
+  const [mode, setMode] = useState(initialMode);
+  const [radius, setRadius] = useState(initialRadius);
+  const [firebaseMarkers, setFirebaseMarkers] = useState([]);
+  const [markerPosition, setMarkerPosition] = useState(null);
+  const [circlePosition, setCirclePosition] = useState(center);
 
-  // Fetch locations from Firebase on component mount
   useEffect(() => {
     const fetchLocations = async () => {
       const locationsCollection = collection(db, "locations");
       const snapshot = await getDocs(locationsCollection);
       const locations = snapshot.docs.map(doc => doc.data());
-      setFirebaseMarkers(locations); // Set the markers from Firebase
+      setFirebaseMarkers(locations);
     };
-
     fetchLocations();
   }, []);
 
-  // Update marker position and address on map click
-  const handleMapClick = ({ lat, lng, address }) => {
-    setMarkerPosition([lat, lng]);
-    setMarkerAddress(address);
-    onMapClick({ lat, lng, address });
+  useEffect(() => {
+    if (mode === "General") {
+      setCirclePosition(center);
+    } else if (mode === "Specific") {
+      setMarkerPosition(null);
+    }
+  }, [center, mode]);
+
+  const handleMapClick = ({ lat, lng, mode }) => {
+    if (mode === "Specific") {
+      setMarkerPosition([lat, lng]);
+    } else if (mode === "General") {
+      setCirclePosition([lat, lng]);
+    }
   };
 
   return (
@@ -105,16 +93,38 @@ function HeatMap({ center, data, onMapClick }) {
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         attribution='&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
       />
-      <HeatLayer data={data} />
+
+      <div style={{ position: 'absolute', top: 10, left: 10, zIndex: 1000, background: 'white', padding: '5px', borderRadius: '4px' }}>
+        <label>Mode: </label>
+        <select value={mode} onChange={(e) => setMode(e.target.value)}>
+          <option value="Heatmap">Heatmap</option>
+          <option value="Specific">Specific</option>
+          <option value="General">General</option>
+        </select>
+        
+        {mode === "General" && (
+          <>
+            <label style={{ marginLeft: '10px' }}>Radius (miles): </label>
+            <input
+              type="number"
+              value={(radius / 1609.34).toFixed(2)}
+              onChange={(e) => setRadius(e.target.value * 1609.34)}
+              min="0.1"
+              step="0.1"
+              style={{ width: '60px' }}
+            />
+          </>
+        )}
+      </div>
+
       <RecenterMap center={center} zoomLevel={zoomLevel} />
-      <ClickableMap onMapClick={handleMapClick} setZoomLevel={setZoomLevel} />
-      
-      {/* Render markers from Firebase */}
-      {firebaseMarkers.map((marker, index) => (
+      <ClickableMap onMapClick={handleMapClick} setZoomLevel={setZoomLevel} mode={mode} />
+
+      {mode === "Specific" && firebaseMarkers.map((marker, index) => (
         marker.coordinates && marker.coordinates.lat !== undefined && marker.coordinates.lng !== undefined ? (
           <Marker 
             key={index} 
-            position={[marker.coordinates.lat, marker.coordinates.lng]} // Use coordinates field for lat and lng
+            position={[marker.coordinates.lat, marker.coordinates.lng]}
           >
             <Popup>
               <strong>{marker.locationId || "No address provided"}</strong> <br />
@@ -124,12 +134,19 @@ function HeatMap({ center, data, onMapClick }) {
         ) : null
       ))}
 
-      {/* Marker Component - only render if markerPosition is set */}
-      {markerPosition && (
+      {mode === "General" && circlePosition && (
+        <Circle 
+          center={circlePosition} 
+          radius={radius}
+          color="blue"
+          fillOpacity={0.2}
+        />
+      )}
+
+      {mode === "Specific" && markerPosition && (
         <Marker position={markerPosition}>
           <Popup>
-            <strong>{markerAddress}</strong> <br />
-            Latitude: {markerPosition[0]}, Longitude: {markerPosition[1]}
+            <strong>Latitude: {markerPosition[0]}, Longitude: {markerPosition[1]}</strong>
           </Popup>
         </Marker>
       )}

@@ -1,384 +1,23 @@
 [
     {
-        "id": "ChIJ4ftTkcKV3YkRupRn8TwORm4",
-        "name": "Athens Elementary School",
-        "address": "51 3rd St, Athens, NY 12015, United States",
-        "latitude": 42.2623979,
-        "longitude": -73.8173628,
-        "rating": 5,
+        "id": "ChIJ34kedIeL24kRDXQN7FmCe64",
+        "name": "Nina's Italian Resturant & Pizzera",
+        "address": "299 S Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4556739,
+        "longitude": -75.0600817,
+        "rating": 4.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJSbJSYyWU3YkRX0c7HWbSciA",
-        "name": "Montgomery C. Smith Elementary School",
-        "address": "102 Harry Howard Ave, Hudson, NY 12534, United States",
-        "latitude": 42.2546127,
-        "longitude": -73.7758727,
-        "rating": 3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJqxP5Bj2U3YkRTuJydLGTqnA",
-        "name": "Hudson Jr. High School",
-        "address": "215 Harry Howard Ave, Hudson, NY 12534, United States",
-        "latitude": 42.2592305,
-        "longitude": -73.7723887,
-        "rating": 3.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ2QC3cyiU3YkRPkrXolPpE8E",
-        "name": "Hudson City School District",
-        "address": "215 Harry Howard Ave, Hudson, NY 12534, United States",
-        "latitude": 42.2594102,
-        "longitude": -73.772086,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJK2Te-RWU3YkReavkzIB8FZE",
-        "name": "Hudson Sr. High School",
-        "address": "215 Harry Howard Ave, Hudson, NY 12534, United States",
-        "latitude": 42.2600366,
-        "longitude": -73.77175249999999,
-        "rating": 3.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ-VNVdByU3YkRGz72Wb_LSck",
-        "name": "Donald R. Kline Technical School",
-        "address": "131 Union Turnpike, Hudson, NY 12534, United States",
-        "latitude": 42.2488781,
-        "longitude": -73.76386339999999,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJL79N-zqV3YkRcWQd4oKtHVg",
-        "name": "Bard Early College Hudson",
-        "address": "Hudson, NY 12534, United States",
-        "latitude": 42.2558482,
-        "longitude": -73.795514,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJR1ksURG93YkRX4YM1xSUdUo",
-        "name": "Catskill Elementary School",
-        "address": "770 Embought Rd, Catskill, NY 12414, United States",
-        "latitude": 42.2065376,
-        "longitude": -73.8729719,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJQVDuPNiW3YkR7FNPtFh3qaw",
-        "name": "Hudson City School District",
-        "address": "Hudson City School District, NY, USA",
-        "latitude": 42.2259955,
-        "longitude": -73.77132,
-        "rating": null,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJY5lZ1XS93YkR6pQJe8fJDkc",
-        "name": "Catskill Middle School",
-        "address": "345 W Main St, Catskill, NY 12414, United States",
-        "latitude": 42.2196442,
-        "longitude": -73.86996979999999,
-        "rating": 1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJm-5-rDSV3YkR-ZKZlmr43PI",
-        "name": "Viva Las Virtual: Online Preschool Academy",
-        "address": "Virtual Learning, Hudson, NY 12534, United States",
-        "latitude": 42.25292049999999,
-        "longitude": -73.7909106,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJBcDXX5S93YkRSbWTCAgrSBA",
-        "name": "Catskill Montessori School",
-        "address": "44 Anbach Ln, Catskill, NY 12414, United States",
-        "latitude": 42.1923367,
-        "longitude": -73.873989,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJD3AY1XS93YkRtzWTUIG8INQ",
-        "name": "Catskill Senior High School",
-        "address": "341 W Main St, Catskill, NY 12414, United States",
-        "latitude": 42.21772379999999,
-        "longitude": -73.8704223,
-        "rating": 1.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ983VIpy93YkRxzWDRrNHI6c",
-        "name": "St. Patrick's Elementary School",
-        "address": "Catskill, NY 12414, United States",
-        "latitude": 42.2228752,
-        "longitude": -73.85873280000001,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJHXMDZwq93YkRHTqRkYrUGb8",
-        "name": "Catskill Central School District",
-        "address": "343 W Main St, Catskill, NY 12414, United States",
-        "latitude": 42.2190284,
-        "longitude": -73.87013859999999,
-        "rating": 2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJxQFQ_p2W3YkROVm4xwHSyuY",
-        "name": "Starting Place",
-        "address": "51 Short St, Hudson, NY 12534, United States",
-        "latitude": 42.2517494,
-        "longitude": -73.78551120000002,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJsyKO6iyU3YkRqKua3rsmo4k",
-        "name": "Taconic Associates LLC",
-        "address": "27 Bridge St, Hudson, NY 12534, United States",
-        "latitude": 42.2515678,
-        "longitude": -73.7561963,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJuegiPrOj3YkRnzQCRudIzeA",
-        "name": "Germantown Central School",
-        "address": "123 Main St, Germantown, NY 12526, United States",
-        "latitude": 42.1328582,
-        "longitude": -73.8898925,
-        "rating": 3.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ24AYCSyU3YkRJN8yhnsh5Yc",
-        "name": "Early Intervention & Preschool",
-        "address": "325 Columbia St, Hudson, NY 12534, United States",
-        "latitude": 42.252947,
-        "longitude": -73.78992199999999,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJs0OkJgq93YkRHRFdhp1Wid8",
-        "name": "Catskill Central Schools",
-        "address": "347 W Main St, Catskill, NY 12414, United States",
-        "latitude": 42.2199816,
-        "longitude": -73.870583,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJxczSckqW3YkRTcTv5JpAE3c",
-        "name": "Columbia-Greene Community College",
-        "address": "4400 NY-23, Hudson, NY 12534, United States",
-        "latitude": 42.2171859,
-        "longitude": -73.8183059,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJpY9iau-M3YkR9giEt4Crkn8",
-        "name": "Hawthorne Valley Waldorf School",
-        "address": "1926, 330 County Rte 21C, Ghent, NY 12075, United States",
-        "latitude": 42.270828,
-        "longitude": -73.5935851,
-        "rating": 5,
+        "id": "ChIJBc2hKIWL24kRfJ5UcA7I5As",
+        "name": "The Depot Restaurant and Tavern",
+        "address": "4 1/2 Railroad Ave, Oneonta, NY 13820, United States",
+        "latitude": 42.4538981,
+        "longitude": -75.05003950000001,
+        "rating": 4.4,
         "analyzed_reviews": [
             {
-                "review": "We\u2019ve been very pleased here at HVS for the past four years. Our sons both started in kindergarten and now are in the grades. Their teachers are deeply committed and dedicated to their work/the children, while still being super accessible to us parents. In addition to traditional classroom time, the unique ways that academics are taught here foster a real deep learning and in ways that the children love and make a whole lot of sense... math blocks centered around actually constructing a structure, astronomy under the stars, hands on farm work related back to the world at large, established entrepreneurs teaching economic blocks seniors...\nOur boys love Hawthorne Valley Waldorf School and so do we!",
-                "sentiment": "positive",
-                "accessibility": {
-                    "mobility": [
-                        "accessible"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJRdxG8giP3YkRVs2JK37wvVs",
-        "name": "Taconic Hills Central School",
-        "address": "73 Co Rte 11A, Craryville, NY 12521, United States",
-        "latitude": 42.17196370000001,
-        "longitude": -73.5991832,
-        "rating": 2.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJZ0Ht8HS93YkRI5iXkW6CHRs",
-        "name": "Dandelion Nursery Preschool",
-        "address": "1 King St, Catskill, NY 12414, United States",
-        "latitude": 42.2170583,
-        "longitude": -73.86285629999999,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJy3o_H82Q3YkRT2QPy9U--28",
-        "name": "Whistle Down Farm",
-        "address": "20 School Teacher Rd, Hudson, NY 12534, United States",
-        "latitude": 42.1913339,
-        "longitude": -73.74622029999999,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJq_kvtL253YkRCalBzSPaTZI",
-        "name": "Cairo-Durham Elementary School",
-        "address": "424 Main St, Cairo, NY 12413, United States",
-        "latitude": 42.2986438,
-        "longitude": -73.9968586,
-        "rating": 3.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJfw2-t-7q3YkR3KkoX-ieg3Y",
-        "name": "Coxsackie-Athens Middle School",
-        "address": "24 Sunset Blvd, Coxsackie, NY 12051, United States",
-        "latitude": 42.3523293,
-        "longitude": -73.80906449999999,
-        "rating": 3.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJq_kvtL253YkRi9g78MduDw8",
-        "name": "Cairo Durham Central School",
-        "address": "424 Main St, Cairo, NY 12413, United States",
-        "latitude": 42.298785,
-        "longitude": -73.996701,
-        "rating": 3.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJTenxCtim3YkRnzYR46D2Jjg",
-        "name": "Cahill School",
-        "address": "134 Main St, Saugerties, NY 12477, United States",
-        "latitude": 42.0785006,
-        "longitude": -73.94921269999999,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ9VmVocvz3YkR0JJFFLcknJ8",
-        "name": "Chatham Middle School",
-        "address": "50 Woodbridge Ave, Chatham, NY 12037, United States",
-        "latitude": 42.3611918,
-        "longitude": -73.6019933,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJz7dtErm33YkRa9AnSJouCE0",
-        "name": "Cairo-Durham High School",
-        "address": "1301 NY-145, Cairo, NY 12413, United States",
-        "latitude": 42.3406917,
-        "longitude": -74.06241829999999,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJo2w1-n7o3YkRxHciXjETc0E",
-        "name": "Pieter B. Coeymans School",
-        "address": "Church St, Coeymans, NY 12045, United States",
-        "latitude": 42.4750355,
-        "longitude": -73.80013679999999,
-        "rating": 3.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJjXJegNqm3YkRdl6h3OK9Oz4",
-        "name": "Saugerties Senior High School",
-        "address": "310 Washington Ave, Saugerties, NY 12477, United States",
-        "latitude": 42.0857391,
-        "longitude": -73.9479221,
-        "rating": 3.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJDx92LZio3YkRv2V7L8FRbeU",
-        "name": "Middle Way School",
-        "address": "268 W Saugerties Rd, Saugerties, NY 12477, United States",
-        "latitude": 42.1082162,
-        "longitude": -74.0401574,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJXQ1BC7Lv3YkRIy9MG7o3yQI",
-        "name": "Ichabod Crane Primary School",
-        "address": "2930 US-9, Valatie, NY 12184, United States",
-        "latitude": 42.42601790000001,
-        "longitude": -73.68752669999999,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJfw2-t-7q3YkRTZCk2i6XrOY",
-        "name": "Coxsackie-Athens Elementary School",
-        "address": "24 Sunset Blvd, Coxsackie, NY 12051, United States",
-        "latitude": 42.3517824,
-        "longitude": -73.8085303,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJj6QZsL253YkRTVeIV0f7bto",
-        "name": "Cairo-Durham Middle School",
-        "address": "1301 NY-145, Cairo, NY 12413, United States",
-        "latitude": 42.3405342,
-        "longitude": -74.0613327,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJjXJegNqm3YkRXpwai6wOUpY",
-        "name": "Saugerties Junior High School",
-        "address": "310 Washington Ave Exd, Saugerties, NY 12477, United States",
-        "latitude": 42.08611459999999,
-        "longitude": -73.94758700000001,
-        "rating": 2.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJXQ1BC7Lv3YkRi_JgD1195oU",
-        "name": "Ichabod Crane Middle School",
-        "address": "2910 US-9, Valatie, NY 12184, United States",
-        "latitude": 42.4254503,
-        "longitude": -73.68123460000001,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJldwMIfe93YkRN-rn71GogDk",
-        "name": "Catskill Weaving School",
-        "address": "111 Water St Unit 2, Catskill, NY 12414, United States",
-        "latitude": 42.2180466,
-        "longitude": -73.8663943,
-        "rating": 0,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJB-hwpkyV3YkR8rcKjMcGL3k",
-        "name": "Night School home of Deep Fried Beers",
-        "address": "21 2nd St, Athens, NY 12015, United States",
-        "latitude": 42.2605704,
-        "longitude": -73.8100881,
-        "rating": 4.7,
-        "analyzed_reviews": [
-            {
-                "review": "My new favorite pizza! The pies are great and enough for two people with some left over (or one very hungry person). They just added a vegan pie which is great! The beers are amazing including the house made selections that you can take home. They have non alcoholic beers and cocktails too. The ambience is perfect and you can eat inside or out by the (quiet) street with a view of the Hudson River. Go!",
+                "review": "This place was recommended to us by a couple of families so we decided to stop by to check it out. It was an old Depot to a train station (hence the name) tucked away from the main town. You can tell this is where the locals come.\n\nIf you're looking for a fancy place looks elsewhere, this place is no frills. However what they lack in decor they make up in food. Most of our dishes were quiet good, with the exception of the salad which had a very chewy chicken to it. Fried calamari was excellent probably because it was extra fried (same with the fries). I had a wrap and the kids had grilled cheese and chicken tenders.\n\nAgain the only knock was the weird tasting chicken on the salad but other than that a solid choice.",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
@@ -389,174 +28,587 @@
         ]
     },
     {
-        "id": "ChIJUdtcrAiX3YkRrKdMeDJ2e4c",
-        "name": "Daycare",
-        "address": "4400 NY-23, Hudson, NY 12534, United States",
-        "latitude": 42.2171215,
-        "longitude": -73.81985379999999,
+        "id": "ChIJR70y5nmM24kRYhm12Bi_bAs",
+        "name": "Toscana Northern Italian Grill",
+        "address": "76 Chestnut St, Oneonta, NY 13820, United States",
+        "latitude": 42.4545265,
+        "longitude": -75.06580149999999,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ3XnZaRSN24kRZdjjDZuOAC4",
+        "name": "NAGS Bar and Kitchen",
+        "address": "221 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4545414,
+        "longitude": -75.0615862,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJT8NbhDKN24kR0PP2f0eRsS4",
+        "name": "Dazzo's Kitchen",
+        "address": "42 River St, Oneonta, NY 13820, United States",
+        "latitude": 42.4480076,
+        "longitude": -75.0676177,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJBf7wxXWM24kRolVSaiMGm_4",
+        "name": "Alfresco's Italian Bistro",
+        "address": "26 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.44775569999999,
+        "longitude": -75.06350859999999,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJITTXmHeM24kRg5t8x7Zl33Y",
+        "name": "Fiesta Mexican Grill & Cantina",
+        "address": "19 Clinton Plaza Dr, Oneonta, NY 13820, United States",
+        "latitude": 42.4527074,
+        "longitude": -75.06316509999999,
+        "rating": 4.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJyxKEpDeL24kRlBjQqs02sG8",
+        "name": "Plaza Diner",
+        "address": "5536 NY-7, Oneonta, NY 13820, United States",
+        "latitude": 42.4590518,
+        "longitude": -75.0210587,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJTX6qb0SM24kRWiS385rpOco",
+        "name": "STAR MIX GRILL restaurant",
+        "address": "381 Chestnut St, Oneonta, NY 13820, United States",
+        "latitude": 42.4540881,
+        "longitude": -75.0912011,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ51YUn26M24kRGG23HNVpP-4",
+        "name": "Nick's Diner and Pizzeria",
+        "address": "220 Chestnut St, Oneonta, NY 13820, United States",
+        "latitude": 42.4507797,
+        "longitude": -75.0769704,
+        "rating": 4.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJRYOmCU-M24kREORBVntYUXA",
+        "name": "Jay's Place",
+        "address": "453 Chestnut St, Oneonta, NY 13820, United States",
+        "latitude": 42.4557441,
+        "longitude": -75.098197,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ2WwPOkKM24kRUG7bH_SuNFw",
+        "name": "Sloan's New York Grill",
+        "address": "337 Chestnut St, Oneonta, NY 13820, United States",
+        "latitude": 42.4527829,
+        "longitude": -75.08664499999999,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJHRDiiIeL24kRa5Royf76SpI",
+        "name": "The Autumn Cafe",
+        "address": "244 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4547039,
+        "longitude": -75.0607972,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ2-jMFJGL24kRf1Tr3YPYfBs",
+        "name": "Applebee's Grill + Bar",
+        "address": "5006 NY-23 Box M25, Oneonta, NY 13820, United States",
+        "latitude": 42.4475623,
+        "longitude": -75.0453325,
+        "rating": 4.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJTR3DpnOM24kRJJ-mZ59Svxs",
+        "name": "Bella Michael's Restaurant",
+        "address": "57 River St, Oneonta, NY 13820, United States",
+        "latitude": 42.4473304,
+        "longitude": -75.06889579999999,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJNeHvMLCL24kR5X676CloZVQ",
+        "name": "Our Town Cafe & Pub",
+        "address": "5206 NY-23, Oneonta, NY 13820, United States",
+        "latitude": 42.4471063,
+        "longitude": -75.0273825,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ2_bjg4eL24kR-BE0McLWMto",
+        "name": "Wise Guys Sammy's",
+        "address": "261-267 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4551177,
+        "longitude": -75.0606552,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJj_3xJXmL24kRoOZvh3OvMnU",
+        "name": "Social Eats Caf\u00e9",
+        "address": "546 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4566716,
+        "longitude": -75.0393703,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJIdmAELaK24kRSLfN7bq5oZQ",
+        "name": "Andres Blue Ribbon BBQ",
+        "address": "6047 NY-7, Oneonta, NY 13820, United States",
+        "latitude": 42.48549930000001,
+        "longitude": -74.9917847,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJp6eDrHeM24kRtrHF5OrG4tM",
+        "name": "Red's Ale House & Grill",
+        "address": "84 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4512371,
+        "longitude": -75.0637308,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJt3UY9XeM24kRAArmI0Ng9i0",
+        "name": "China 19",
+        "address": "100 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.45184709999999,
+        "longitude": -75.0633622,
+        "rating": 3.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJXXC7j3eM24kRq4PBjSYTkrs",
+        "name": "Simply Thai Restaurant",
+        "address": "139 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4531404,
+        "longitude": -75.0631202,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJB81XG3eN24kRBuwmYlJaDf8",
+        "name": "Indian Grill Oneonta NY",
+        "address": "214 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4541462,
+        "longitude": -75.06132,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJR-m15U-M24kRzhqsffHUCfo",
+        "name": "Soda Jerks",
+        "address": "458 Chestnut St, Oneonta, NY 13820, United States",
+        "latitude": 42.4561618,
+        "longitude": -75.09783829999999,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJk2f7kHiM24kRnPL3pZWMP8E",
+        "name": "Hunan Gourmet",
+        "address": "1962, 19 Ford Ave A, Oneonta, NY 13820, United States",
+        "latitude": 42.4563885,
+        "longitude": -75.0619201,
+        "rating": 2.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJm4NSL0-M24kRUhA3WIf9q3s",
+        "name": "Pizzaland",
+        "address": "24 Oneida St, Oneonta, NY 13820, United States",
+        "latitude": 42.45388519999999,
+        "longitude": -75.0986868,
+        "rating": 4.5,
+        "analyzed_reviews": [
+            {
+                "review": "The food here is usually really delicious! My personal favorite is the chicken marsala with linguini. I've been a handful of times when the food wasn't as amazing as it could have been, but it hasn't stopped me from going back. The wait staff have always had wonderful personalities and great service which more than makes up for when food isn't top notch. The atmosphere could use some updating or brighter lights. The atmosphere definitely doesn't draw me in. Its the food and service",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "lights"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJYRRjnYeL24kRcW7EadF5rUQ",
+        "name": "Sal's New Classic Pizzeria",
+        "address": "285 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4554453,
+        "longitude": -75.0603055,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJyX9FGXiM24kRRJcceL7x7vI",
+        "name": "Tino's Pizza",
+        "address": "180 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4535734,
+        "longitude": -75.06216750000002,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJySdDaL2L24kRAGe-bqvdz8c",
+        "name": "Mt Fuji Japanese Restaurant",
+        "address": "5006 NY-23, Oneonta, NY 13820, United States",
+        "latitude": 42.4475605,
+        "longitude": -75.0433303,
+        "rating": 3.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJWW9ShWea24kRHUBleeJWHy8",
+        "name": "Shooters 5-7 Bar & Grill",
+        "address": "1 S Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4546921,
+        "longitude": -75.0600604,
+        "rating": 4.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJicFwB0WM24kR2ZUiolijf40",
+        "name": "Dante's Pizzeria",
+        "address": "416 Chestnut St #2183, Oneonta, NY 13820, United States",
+        "latitude": 42.4551116,
+        "longitude": -75.0937637,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJVVVlnEWM24kREnq16lC2aL8",
+        "name": "UNDERCOVER EGGPLANT CO.",
+        "address": "421 Chestnut St, Oneonta, NY 13820, United States",
+        "latitude": 42.4549484,
+        "longitude": -75.0947876,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ6draUG-L24kR0ASnNGExhi8",
+        "name": "Molly\u2019s Pizza",
+        "address": "5006 NY-23, Oneonta, NY 13820, United States",
+        "latitude": 42.4475217,
+        "longitude": -75.04507439999999,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJYeWZpnOM24kRentsV5ulOLg",
+        "name": "Restaurant",
+        "address": "57 River St, Oneonta, NY 13820, United States",
+        "latitude": 42.4473214,
+        "longitude": -75.068928,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJPUhduBuU3YkRJlP9-tmhBaY",
-        "name": "Columbia Children's Center",
-        "address": "142 Union Turnpike, Hudson, NY 12534, United States",
-        "latitude": 42.2507355,
-        "longitude": -73.7636696,
-        "rating": 5,
+        "id": "ChIJJWIPkHeM24kRsPlIGWN6kGc",
+        "name": "Yellow Deli",
+        "address": "134 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4529433,
+        "longitude": -75.0628854,
+        "rating": 4.7,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJWfq5SZDg3YkRqZjewmPXNaY",
-        "name": "Morey Hall Pianist",
-        "address": "28 James St, Hudson, NY 12534, United States",
-        "latitude": 42.2621528,
-        "longitude": -73.76846170000002,
-        "rating": 5,
+        "id": "ChIJQReTCQB13IkRMcJRlg6nwuk",
+        "name": "Panera Bread",
+        "address": "5006 NY-23 Suite 24, Oneonta, NY 13820, United States",
+        "latitude": 42.4481039,
+        "longitude": -75.0465507,
+        "rating": 4.1,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ71DWiSuU3YkRv02UHK2V-eU",
-        "name": "Apple Hill Dressage",
-        "address": "41 School Teacher Rd, Hudson, NY 12534, United States",
-        "latitude": 42.18722,
-        "longitude": -73.7447251,
-        "rating": 5,
+        "id": "ChIJL8r1VJCL24kRa17B3Afmu8Y",
+        "name": "Moe's Southwest Grill",
+        "address": "5001 NY-23, Oneonta, NY 13820, United States",
+        "latitude": 42.4491556,
+        "longitude": -75.0469683,
+        "rating": 4.1,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJrZuyfGyU3YkRvCeIksTVd1k",
-        "name": "English Moving Forward",
-        "address": "296 Lincoln Blvd, Hudson, NY 12534, United States",
-        "latitude": 42.2661566,
-        "longitude": -73.7647373,
-        "rating": 0,
+        "id": "ChIJ29gm0JGL24kR7e-1dNrCKtI",
+        "name": "Denny's",
+        "address": "4979 NY-23, Oneonta, NY 13820, United States",
+        "latitude": 42.448608,
+        "longitude": -75.048682,
+        "rating": 3.9,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJb0rqVAWU3YkR3AmBhn0Mefo",
-        "name": "Roz's Dance Works",
-        "address": "187 Healy Blvd, Hudson, NY 12534, United States",
-        "latitude": 42.2527079,
-        "longitude": -73.759919,
-        "rating": 5,
+        "id": "ChIJdW3zEHiM24kR6KsTfjY-_9I",
+        "name": "Red Jug Pub",
+        "address": "195 S Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4540926,
+        "longitude": -75.0619263,
+        "rating": 4.2,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJK25oxCiU3YkRE3FomAwIixM",
-        "name": "Perfect Ten After School Inc.",
-        "address": "51 N 5th St 3rd floor, Hudson, NY 12534, United States",
-        "latitude": 42.2511866,
-        "longitude": -73.7850595,
-        "rating": 5,
+        "id": "ChIJYdxppHeM24kRrwgkRW6WAOU",
+        "name": "B Side Ballroom & Supper Club",
+        "address": "1 Clinton Plaza Dr, Oneonta, NY 13820, United States",
+        "latitude": 42.4523081,
+        "longitude": -75.0632916,
+        "rating": 4.6,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJEZw_WVe93YkRUW95gjNE7_w",
-        "name": "Alekseevna Ballet Academy",
-        "address": "40 Woodland Ave, Catskill, NY 12414, United States",
-        "latitude": 42.222189,
-        "longitude": -73.8572281,
-        "rating": 5,
+        "id": "ChIJSbapkneM24kRvspFlHEq7Iw",
+        "name": "Black Oak Tavern",
+        "address": "14 Water St, Oneonta, NY 13820, United States",
+        "latitude": 42.4528957,
+        "longitude": -75.0626181,
+        "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJV1T9mCMI3YkRzxuBBwfL6H8",
-        "name": "Mt. Marion Elementary School",
-        "address": "744 Glasco Turnpike, Saugerties, NY 12477, United States",
-        "latitude": 42.0407278,
-        "longitude": -74.0003495,
-        "rating": 5,
+        "id": "ChIJP1p9Ov2Y24kRTV3sKGcmt44",
+        "name": "Green's Long River Inn",
+        "address": "54 NY-357, Unadilla, NY 13849, United States",
+        "latitude": 42.3308936,
+        "longitude": -75.29691,
+        "rating": 4.3,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJh6FGnZ683YkR6p6ruaLbuy4",
-        "name": "Catskill Central School District",
-        "address": "Catskill Central School District, NY, USA",
-        "latitude": 42.2078684,
-        "longitude": -73.9124674,
-        "rating": null,
+        "id": "ChIJARdslGWN24kROyDE-COxXlE",
+        "name": "Feel Good Smoothie Bar and Cafe",
+        "address": "4 Clinton Plaza Dr, Oneonta, NY 13820, United States",
+        "latitude": 42.4524565,
+        "longitude": -75.0632522,
+        "rating": 4.8,
+        "analyzed_reviews": [
+            {
+                "review": "Really delicious healthy vegan Tacos, smoothie was refreshing.\n\nThere are two tables outside the front of the store with 2 chairs each. They are under a covered overhang so shielded from rain & direct Sun. Nice to eat outside.\n\nWiFi is usable but not great. 9Mbps download, less than 1Mbps upload.\nWish staff was masked.\nWould go there again for the food. Either eating outside or takeout.\nIt\u2019s a couple blocks away from Oneonta\u2019s Nehwah Park so it would be nice to get takeout and then eat in the park.\n\nThere is a curb right next door (Wolf Wilde Goldsmith) where you can ramp up to the front door of Feel Good. Not sure about the width of the main door but it seems navigable with a wheelchair.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "mobility": [
+                        "wheelchair"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJY00u1-T524kRUNRNEnM9K0U",
+        "name": "The Hartwick Restaurant",
+        "address": "3496 NY-205, Hartwick, NY 13348, United States",
+        "latitude": 42.652075,
+        "longitude": -75.04910509999999,
+        "rating": 4.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJx5CaBW2U3YkRitBOrIkJ8V0",
-        "name": "Columbia Elite Allstars",
-        "address": "300 Fairview Ave, Hudson, NY 12534, United States",
-        "latitude": 42.2662357,
-        "longitude": -73.7615592,
-        "rating": 5,
+        "id": "ChIJrdnui3eM24kR8SOZbKQ1YTI",
+        "name": "J & D's Wagon Wheel",
+        "address": "4918 NY-28, Cooperstown, NY 13326, United States",
+        "latitude": 42.6620426,
+        "longitude": -74.95792639999999,
+        "rating": 4.4,
+        "analyzed_reviews": [
+            {
+                "review": "We\u2019re in town for Dreams Park and I wanted to take my son for some food outside the park.  This place had good reviews and was close to the park so we agreed to try it.\n\nUpon arrival I noticed the parking situation was odd.  Grass parking and parking lot parking, double parked.  Seems ok until you go to leave and realize you have to drive through a smoldering pile of burning tree debris because people didn\u2019t think the back row would need to leave at some point.  A few cones leaving a lane would be ideal.\n\nOnto the restaurant.  We arrived around 8, sat ourselves at a table, and were greeted promptly with menus.  It was busy but didn\u2019t seem overwhelming.  The waitress took our drink order (fountain soda) and came back a few minutes later.  We placed our order for food at 8:13\u2026I ordered a dozen wings with a side of fries and my son ordered their chicken fritters with fries.  Both are types of food that are typically cooked fairly quickly.  So we sit and wait\u2026and we wait\u2026and we wait.  My son is growing impatient and just wants to leave so finally at 9:06 I ask the waitress how long before our food is out.  She checks and comes back and says 5 minutes.  6 minutes later my wings arrive.  My sons food is nowhere to be seen and our fries are still missing.  But I\u2019ve got my wings right so all is good.  4 minutes later and my sons food comes out along with our fries, yay\u202663 minutes for wings and boneless wings.  Not once did the waitress stop by and mention the food order would take so long or that they were overwhelmed and it would be longer than normal.  Fail!\n\nThe food thankfully was good.  5 stars for the wings (bourbon bbq) and 3 stars for the chicken fritters and fries.  Fries weren\u2019t as hot as they should have been which leads me to believe they sat around for several minutes before getting to us.  The portion of chicken fritters seemed small, but it was based on weight and not qty so perhaps it was a typical portion.\n\nOverall, not terribly pleased with our outing.  They seemed short staffed which didn\u2019t help.  There wasn\u2019t a dedicated bartender so the waiters/waitresses were all bartenders so that took away from the table service.  We were a table of 2 with what I thought were quick orders but apparently not.  2 stars total",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "overwhelming"
+                    ]
+                }
+            },
+            {
+                "review": "Stopped in for a beer and had their \u201cCowboy\u201d nachos. These were homemade potato s chips with pulled pork, cheese, sour cream, salsa, and fresh jalape\u00f1os. Very good. Good variety of domestic and craft beer on tap. Place was quiet the day we were there. But they do have a nice sized outdoor seating area as well under a tent outback. Signage is not very good\u2014if I hadn\u2019t searched for a place to go, I would never noticed it by driving by.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "vision": [
+                        "signage"
+                    ],
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ2dheq3eM24kR_HuBMVvWSos",
+        "name": "Legends Filling Station",
+        "address": "82 Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.4512063,
+        "longitude": -75.06373049999999,
+        "rating": 3.8,
+        "analyzed_reviews": [
+            {
+                "review": "Decent townie bar with an awesome staff. Quiet enough when we went for our catered event, but some shady figures chilling across the bar watching us the whole time. Bit weird, but still a great time. Darts, and billiards in the back; lots of great beer on tap.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJPbgMvzLv2okRn67vqdznILs",
+        "name": "The Grove",
+        "address": "65 Court St, Binghamton, NY 13901, United States",
+        "latitude": 42.0988502,
+        "longitude": -75.9123458,
+        "rating": 4.3,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJAQuctlGF3YkRoVF0JSoO7Ao",
-        "name": "Hillsdale High School",
-        "address": "73 Co Rte 11A, Craryville, NY 12521, United States",
-        "latitude": 42.1719136,
-        "longitude": -73.599149,
-        "rating": 0,
+        "id": "ChIJ-y1XJhEH3IkRtc5ul777g7M",
+        "name": "Upstate Bar and Grill",
+        "address": "5418 NY-28, Cooperstown, NY 13326, United States",
+        "latitude": 42.6897621,
+        "longitude": -74.9357071,
+        "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJx4QGsoKW3YkRLlqZXorDSj0",
-        "name": "Balance",
-        "address": "170 Ten Broeck Ln, Hudson, NY 12534, United States",
-        "latitude": 42.2394764,
-        "longitude": -73.77858119999999,
-        "rating": 0,
+        "id": "ChIJJQJOjyYH3IkR0JJUtSYj0d4",
+        "name": "Cooperstown Mt.Fuji sushi restaurant",
+        "address": "134 Main St, Cooperstown, NY 13326, United States",
+        "latitude": 42.7010009,
+        "longitude": -74.92580760000001,
+        "rating": 3.8,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJIUiiknOo3YkReg_lbFhcnIc",
-        "name": "Mountaintop Waldorf School",
-        "address": "68 Band Camp Rd, Saugerties, NY 12477, United States",
-        "latitude": 42.076606,
-        "longitude": -74.0344065,
-        "rating": 5,
+        "id": "ChIJwf2HA0SN24kRTR8SZb1eI0I",
+        "name": "Beer Barrel Inn",
+        "address": "19 1/2 Fonda Ave, Oneonta, NY 13820, United States",
+        "latitude": 42.4474668,
+        "longitude": -75.0754564,
+        "rating": 4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJk4bhC32T3YkRobCNd-4TN8E",
-        "name": "Little Lions Learning Center",
-        "address": "2813 Atlantic Ave, Hudson, NY 12534, United States",
-        "latitude": 42.2874241,
-        "longitude": -73.74595719999999,
-        "rating": 5,
+        "id": "ChIJGxLnLiQH3IkRUQ6ncZpK1js",
+        "name": "Mel's at 22",
+        "address": "22 Chestnut St, Cooperstown, NY 13326, United States",
+        "latitude": 42.700862,
+        "longitude": -74.927229,
+        "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ68ztK0ju3YkRXh0AP5uvNgA",
-        "name": "Martin H Glynn School",
-        "address": "3211 Church St, Valatie, NY 12184, United States",
-        "latitude": 42.4156205,
-        "longitude": -73.67705889999999,
-        "rating": 0,
+        "id": "ChIJGVcYdXiM24kRuTFq9taboh0",
+        "name": "Jimmy T's Cocktail Lounge",
+        "address": "222 S Main St, Oneonta, NY 13820, United States",
+        "latitude": 42.454071,
+        "longitude": -75.0608902,
+        "rating": 3.8,
+        "analyzed_reviews": [
+            {
+                "review": "Legit clubbing experiences in a small town are hard to come by. This place highly impressed me with their sound system, speedy service, and lights. If you like dancing it will be hard to leave.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "lights"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ27KWzI0H3IkRehWKs3eYDPg",
+        "name": "Bocca Osteria",
+        "address": "5438 NY-28, Cooperstown, NY 13326, United States",
+        "latitude": 42.6910156,
+        "longitude": -74.9355659,
+        "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJZTCFNham3YkR7mSn-8xddLY",
-        "name": "Grant D Morse Elementary School",
-        "address": "70 Harry Wells Rd, Saugerties, NY 12477, United States",
-        "latitude": 42.1074454,
-        "longitude": -74.0138213,
-        "rating": 0,
+        "id": "ChIJNQFh_SYH3IkROXHzAsmmJXk",
+        "name": "Toscana of Cooperstown",
+        "address": "64 Main St, Cooperstown, NY 13326, United States",
+        "latitude": 42.7004935,
+        "longitude": -74.9238343,
+        "rating": 4.6,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ7eOJtDTy3YkRso5b5fTAHlo",
-        "name": "Mary E. Dardess Elementary School",
-        "address": "50 Woodbridge Ave, Chatham, NY 12037, United States",
-        "latitude": 42.35954359999999,
-        "longitude": -73.6067087,
-        "rating": 0,
+        "id": "ChIJp62xg2mQ24kRj3O_PXrqDMU",
+        "name": "Rubera's Restaurant",
+        "address": "360 Main St, Otego, NY 13825, United States",
+        "latitude": 42.397636,
+        "longitude": -75.172742,
+        "rating": 4.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJEaxlkg6X3YkRuHztx7uMiWw",
-        "name": "Hudson Jazzworks",
-        "address": "338 Kipp Rd, Hudson, NY 12534, United States",
-        "latitude": 42.1954541,
-        "longitude": -73.786721,
-        "rating": 0,
+        "id": "ChIJjdv4hSYH3IkRHXi7LmCXLEc",
+        "name": "Cooperstown Diner",
+        "address": "136 Main St, Cooperstown, NY 13326, United States",
+        "latitude": 42.7010528,
+        "longitude": -74.9259028,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJV5fB7SYH3IkRyzfe_PeqOK8",
+        "name": "Doubleday Cafe",
+        "address": "93 Main St, Cooperstown, NY 13326, United States",
+        "latitude": 42.7004645,
+        "longitude": -74.9250393,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJBa1M9iYH3IkR0GthKTsm7Eg",
+        "name": "Nicoletta's Italian Cafe",
+        "address": "96 Main St, Cooperstown, NY 13326, United States",
+        "latitude": 42.7007204,
+        "longitude": -74.9248952,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJb1t_mQC924kR2ZMabbyOhrc",
+        "name": "Judy's Corner Kitchen Restaurant",
+        "address": "1714 NY-8, Mt Upton, NY 13809, United States",
+        "latitude": 42.42637,
+        "longitude": -75.3830625,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJtz2qtUbD24kRbdWk9FJYwTs",
+        "name": "Columbus Public House",
+        "address": "4301 NY-80, Sherburne, NY 13460, United States",
+        "latitude": 42.6842241,
+        "longitude": -75.3728053,
+        "rating": 4.7,
         "analyzed_reviews": []
     }
 ]

@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import axios from 'axios';
 import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../AuthContext';
 import HeatMap from './Heatmap';
@@ -9,9 +10,24 @@ const HomePage = () => {
   const [center, setCenter] = useState([40.7128, -74.0060]); // Default to NYC
   const [locationName, setLocationName] = useState('');
   const [data, setData] = useState([]);
+  const [mode, setMode] = useState('General'); // Start in "General" mode
+  const [radius, setRadius] = useState(4828); // Default radius for "General" mode circle in meters (3 miles)
   const autocompleteRef = useRef(null);
-  const mapContainerRef = useRef(null); // Reference to the map container
+  const mapContainerRef = useRef(null);
   const navigate = useNavigate();
+
+  // Fetch filtered reviews based on the bounding box around the center
+  const fetchFilteredReviews = async () => {
+    try {
+      const response = await axios.post('http://localhost:3000/api/reviews-within-area', {
+        center: { lat: center[0], lng: center[1] },
+        radius: radius / 1609.34, // Convert radius from meters to miles
+      });
+      setData(response.data.reviews); // Update `data` with filtered reviews
+    } catch (error) {
+      console.error("Error fetching filtered reviews:", error);
+    }
+  };
 
   useEffect(() => {
     // Initialize Google Maps autocomplete
@@ -27,10 +43,9 @@ const HomePage = () => {
           if (place.geometry) {
             const lat = place.geometry.location.lat();
             const lng = place.geometry.location.lng();
-            setCenter([lat, lng]); // Update center with selected location
+            setCenter([lat, lng]);
             setLocationName(place.formatted_address);
-            
-            // Scroll to the map section to center it in the viewport
+            setMode("General"); // Ensure we are in "General" mode on new address selection
             mapContainerRef.current.scrollIntoView({ behavior: 'smooth', block: 'center' });
           }
         });
@@ -39,21 +54,19 @@ const HomePage = () => {
 
     loadAutocomplete();
 
-    // Fetch data for the heatmap (dummy data for demonstration)
-    fetch('/api/ratings')
-      .then((res) => res.json())
-      .then((data) => setData(data));
+    // Fetch initial data for the heatmap (if you want to show some data by default)
+    fetchFilteredReviews();
   }, []);
+
+  useEffect(() => {
+    // Fetch filtered reviews whenever center or radius changes
+    fetchFilteredReviews();
+  }, [center, radius]);
 
   const handleSeeReviews = () => {
     if (locationName) {
       navigate(`/reviews/${encodeURIComponent(locationName)}`);
     }
-  };
-
-  const handleMapClick = ({ lat, lng, address }) => {
-    console.log(`Clicked location: ${address} (Latitude: ${lat}, Longitude: ${lng})`);
-    setCenter([lat, lng]);
   };
 
   return (
@@ -95,7 +108,20 @@ const HomePage = () => {
             </button>
           </div>
           <h2 className="map-title">City Accessibility Ratings Heat Map</h2>
-          <HeatMap center={center} data={data} onMapClick={handleMapClick} />
+          <HeatMap center={center} data={data} mode={mode} radius={radius} />
+        </section>
+
+        {/* Review Cards Section */}
+        <section className="reviews-section">
+          <h2>Reviews in this Area</h2>
+          <div className="review-cards">
+            {data.map((review) => (
+              <div key={review.id} className="review-card">
+                <h3>Quality Score: {review.qualityReview}</h3>
+                <p>{review.reviewContent}</p>
+              </div>
+            ))}
+          </div>
         </section>
       </main>
     </div>
