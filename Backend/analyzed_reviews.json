@@ -1,62 +1,134 @@
 [
     {
-        "id": "f2e0488e-2643-47a4-9ad6-19afbb6613fd",
-        "locationId": "180 Madison Ave, Albany, NY 12202, United States",
+        "id": "b4b1b394-99c1-41b7-803c-d57c15a66fea",
+        "locationId": "308 Spring Ave, Troy, NY 12180, United States",
         "mobility": 0.0,
-        "accessibility": 0.0,
         "vision": 0.0,
         "sensory": 1.0,
         "language": 0.0,
-        "reviewContent": "6 of us enjoyed dinner here on Sunday evening before a nearby show. If you have an event in the area, this is a great option for a centrally located restaurant. And they are open Sundays, which was hard to find.\nEven without a reservation, we managed to get in. However, we were there early; I suspect a table might have been harder to get later on. Service was amazing! Drink refills without asking, servers checking in just the right amount, and overall great customer service.\nIt is a small pub, which means it gets loud. This was fine for us, but if you are looking for a quiet spot to have long conversations, this will not be the place you want.\nPub food and pizza seems to be their specialty. Boneless wings were very good; a medium sauce had just enough spice. Mozzarella sticks also good (great marinara!) and a decent amount of them too. The pizza was delicious! I snuck a piece of my hubby's pepperoni pizza and loved it! Homemade sauce, great crust, and a nice balance of sauce to cheese. Sandwiches we ordered were good, just not outstanding. If I go back before another show, I would honestly order some more apps and pizza (I was thinking about getting chicken tenders, but didn't. Bet they are great!).\nOverall, a solid choice if you are in the area for a show and looking for some great pub apps and pizza.",
-        "qualityReview": 4.5,
-        "overallScore": 0.2
+        "reviewContent": "Excellent and very dedicated staff, wonderful facilities and a great environment for any child to grow and learn in the Capital Region.  If you are looking to send your child to a private school, this is the one to pick.",
+        "qualityReview": 4.0,
+        "overallAccessibleScore": 0.25
     },
     {
-        "id": "cc142be7-f218-4efd-92b1-c1fd305495da",
-        "locationId": "204 Lark St, Albany, NY 12210, United States",
-        "mobility": 1.0,
-        "accessibility": 0.0,
+        "id": "a0a406bf-bd1b-4274-a7a1-8c3372918fa5",
+        "locationId": "70 110th St, Troy, NY 12182, United States",
+        "mobility": 0.0,
+        "vision": 0.0,
+        "sensory": 0.0,
+        "language": 1.0,
+        "reviewContent": "They have no concerns for their students! They show carelessness when it comes to these students! They have no direct contact to the bus routes nor the bus driver! Called the school to see what information they can give me about my kids and their school bus not making it to their stop on time and they couldn't give me not an ounce of information but just a phone number and tells me \"I don't know what to tell you, ma'am!\" But as a mother I found out information on my own that the school couldn't provide to me! Find out the school bus never left school premises because of an incident on the bus so every student had to get off the bus til further notice! The school staff couldn't even give me this information when they sit in the office all day just pushing paper but couldn't show great concern for their students! They weren't even aware of the situation going on in the back of their school grounds! TRANSFERRING MY KIDS ASAP! This school don't care for no one but a check! I care for my kids well being and knowledge of education and this school can't give them that! South Troy schools are way better then north Troy schools!",
+        "qualityReview": 4.3,
+        "overallAccessibleScore": 0.25
+    },
+    {
+        "id": "9673fb2d-7410-46ea-aac4-f3de5a0e2719",
+        "locationId": "70 110th St, Troy, NY 12182, United States",
+        "mobility": 0.0,
         "vision": 0.0,
         "sensory": 0.0,
         "language": 0.0,
-        "reviewContent": "Nice place to grab a bite to eat with lots of varieties such as a biscotti, coffee, lattes, breakfast and smoothies.\n\nThe cafe is located downstairs in the building, it is a small cafe that is not wheelchair accessible friendly and their bathroom is extremely narrow and tight and also smelled like someone was smoking inside. \ud83d\ude45\ud83c\udffd\u200d\u2642\ufe0f\nThey make amazing smoothie and the people behind the counters were very nice and friendly.\nIt is definitely a place to visit and a great experience.",
-        "qualityReview": 4.5,
-        "overallScore": 0.2
+        "reviewContent": "The principal in this school is so unprofessional and very unorganized! When they do wrong they point the finger at the parents. She can't help with bullying, she can't help with bus information, So what is her job duties again, if she is no help? And also very rude and she gets upset so fast! Rather home school my children before allowing my kids to be around her negative energy. Didn't even want to give this school a whole star.",
+        "qualityReview": 4.3,
+        "overallAccessibleScore": 0.0
     },
     {
-        "id": "9f6a1f89-ac80-4600-a5d6-5abed749833b",
-        "locationId": "115 Philip St, Albany, NY 12202, United States",
+        "id": "01443e1e-5c53-4fca-bfe5-a02c3fd09161",
+        "locationId": "417 Hoosick Rd, Troy, NY 12180, United States",
         "mobility": 0.0,
-        "accessibility": 0.0,
         "vision": 0.0,
         "sensory": 1.0,
         "language": 0.0,
-        "reviewContent": "Quiet little dinner with a lovely atmosphere, polite staff, and delicous food. My pancakes were fluffy and delicous, bacon was fresh and chewy with some crunch. My partners eggs and home fries were fresh and tasty, we both enjoyed the meal and atmosphere. A real rare dinner, not many hole in the wall dinners left around the area that have this level of service, and quality. Highly recommend.",
-        "qualityReview": 4.2,
-        "overallScore": 0.2
+        "reviewContent": "I went to this School as did my children. It was an excellent atmosphere to learn and grow in. I have so many wonderful memories of this School.",
+        "qualityReview": 3.7,
+        "overallAccessibleScore": 0.25
     },
     {
-        "id": "9d433a14-4862-41d5-9308-75a484dd499b",
-        "locationId": "Coffee Shop, 466 Madison Ave, Albany, NY 12208, United States",
+        "id": "b98ee0b1-4882-4246-99ca-db82e8aed28a",
+        "locationId": "42 Dana Ave, Wynantskill, NY 12198, United States",
         "mobility": 0.0,
-        "accessibility": 0.0,
         "vision": 0.0,
         "sensory": 1.0,
         "language": 0.0,
-        "reviewContent": "The style, lights, furniture, orange finger cake, vibrant atmosphere-high level.\n\nmatcha latte - poor quality, too much milk and barely felt matcha taste.",
+        "reviewContent": "A small, safe, loving environment for my daughter to grow in that has provided a strong foundation to support her future development.",
+        "qualityReview": 5.0,
+        "overallAccessibleScore": 0.25
+    },
+    {
+        "id": "7bfd47c1-69a2-467d-8dba-007e7cdbdf26",
+        "locationId": "159 2nd St, Troy, NY 12180, United States",
+        "mobility": 0.0,
+        "vision": 0.0,
+        "sensory": 1.0,
+        "language": 0.0,
+        "reviewContent": "Morning Star's Early Childhood Montessori Preschool is a wonderful place for children to begin their school education.  The beautiful classroom environment makes them feel both secure and challenged, and the teachers know how to guide the students and help them learn naturally.  This year, in addition to offering Kindermusik, Morning Star also offers Spanish Language lessons each week.  My daughter looks forward to school every morning... and I look forward to hearing her exciting stories about her day!",
+        "qualityReview": 5.0,
+        "overallAccessibleScore": 0.25
+    },
+    {
+        "id": "e3839784-3a71-4e00-b1e4-9b376690239d",
+        "locationId": "159 2nd St, Troy, NY 12180, United States",
+        "mobility": 0.0,
+        "vision": 0.0,
+        "sensory": 1.0,
+        "language": 0.0,
+        "reviewContent": "Our daughter loves Morning Star and all her teachers and classmates.  Our daughter's experienced teachers have helped her  gain many new skills and confidence.  The student directed learning environment has allowed our daughter to quickly advance with her reading, writing, and math skills along with many life skills we didn't think of like snaps and buttons.",
+        "qualityReview": 5.0,
+        "overallAccessibleScore": 0.25
+    },
+    {
+        "id": "aead0e52-0362-4c32-b5d6-d794e99a5752",
+        "locationId": "159 2nd St, Troy, NY 12180, United States",
+        "mobility": 0.0,
+        "vision": 0.0,
+        "sensory": 1.0,
+        "language": 0.0,
+        "reviewContent": "The community really lucked out with the presence of such an amazing early childhood learning center. The teachers each have over 20 years of experience in Montessori education!  Also with Kindermusik, Spanish lessons, come and observe days, extended day options, outdoor play... This school really is a gem.  The environment is immaculate, safe and very engaging for children.  Five stars!",
+        "qualityReview": 5.0,
+        "overallAccessibleScore": 0.25
+    },
+    {
+        "id": "5b63213f-8e86-479c-8b76-10bda7679ad4",
+        "locationId": "159 2nd St, Troy, NY 12180, United States",
+        "mobility": 0.0,
+        "vision": 0.0,
+        "sensory": 1.0,
+        "language": 0.0,
+        "reviewContent": "We could not be happier with Morningstar Montessori. Everything about the school is perfect for us. The atmosphere is so calm and loving and the learning is beyond impressive.",
+        "qualityReview": 5.0,
+        "overallAccessibleScore": 0.25
+    },
+    {
+        "id": "96c46054-8026-4816-bcf6-3a66a436968a",
+        "locationId": "374 Loudon Rd, Loudonville, NY 12211, United States",
+        "mobility": 0.0,
+        "vision": 0.0,
+        "sensory": 1.0,
+        "language": 0.0,
+        "reviewContent": "LCS has my highest recommendation!\nThis dynamic school is for anyone interested in their child gaining a top of the line, meaningful education. Being educated at LCS includes training up champions for Christ, teaching students with excellence and detailed care, proving a myriad of academic choices, and working with a faculty, staff and administration that truly cares for each student.\nLCS creates a family-like atmosphere for the students while they are gaining a quality education and equips students to be individuals of character who impact this world for Christ!",
         "qualityReview": 4.6,
-        "overallScore": 0.2
+        "overallAccessibleScore": 0.25
     },
     {
-        "id": "cbc89691-577e-4a32-9227-cd8cd8fbe08f",
-        "locationId": "25 Erie Blvd Suite 1, Albany, NY 12204, United States",
+        "id": "e5eb43db-7178-4411-bafb-7df0ca247590",
+        "locationId": "347 Old Loudon Rd, Latham, NY 12110, United States",
         "mobility": 0.0,
-        "accessibility": 0.0,
+        "vision": 0.0,
+        "sensory": 1.0,
+        "language": 1.0,
+        "reviewContent": "I have to start off with I am very disappointed in how I was deceived by a Catholic School. One of the reasons for seeking out a Catholic school was for the morals, and for a better school atmosphere. Me and my wife went to the open school night to see the school and get information. I met one of the 2 principles, so I asked him about if busses were available. I stressed the importance of being able to get transportation because my wife works and I am a disabled Veteran with severe back issues that required major surgery, but I still get severe chronic pain, and it is permanent damage. I told him I would not be able to drive them to school every day. He told me that they have had many kids from our area that take the bus. Me and my wife were told that to get the bus, you have to register for school and pay the initial tuition so they can put in a request to transportation for the need. I said, I can't really count on a loose promise like that, it's a matter of me not being able to drive the long distance every day due to my injury. He swore and promised up and down that all we had to do was pay the tuition, hold the spots before it was \"too late,\" and the busses would be worked out. So, I paid the tuition. When it started getting close to school starting, I called back and asked how to set up for the bus. They told me then, THERE ARE NO BUSSES FOR MY AREA, and that they didn't know what I was talking about with the busses. No one remembered a thing, even though every teacher in the area was nodding their heads and agreeing the whole time the principle talked to us. He told us that he was very sorry, DIDN'T KNOW WHO TOLD ME THAT, and that he will tell his staff to not say things like that anymore.I was told to call the school district I was in and work it out with them. Ichabod Crane told me that they never heard of that. Now I'm stuck driving 40 mins to the school and 40 mins back every day, when there isn't traffic. My pain levels have been insane, and this has caused many problems for me and my family. I did give 2 stars instead of 1 because there are some really nice teachers and the main office receptionist tried her best to help after that, so there definitely is some good people at this school. But I have no clue what that was about, but I feel scammed, and I seriously feel incredibly sad about that. I know of at least 1 other parent at the school that they did something like this too as well.",
+        "qualityReview": 2.0,
+        "overallAccessibleScore": 0.5
+    },
+    {
+        "id": "04f0ffc1-4b91-4a65-8da1-e6da385f97ce",
+        "locationId": "110 8th St, Troy, NY 12180, United States",
+        "mobility": 0.0,
         "vision": 0.0,
         "sensory": 1.0,
         "language": 0.0,
-        "reviewContent": "I had a lovely morning here! I went about 930 on a Friday and was the only one there. The barista, Jay, was super friendly and chatty. I had a pistachio latte which was delicious. I stayed to read a book in quiet and got a comfy chair in the corner. There\u2019s an outdoor seating area which I would love to sit at during my next visit. Highly recommend!",
-        "qualityReview": 3.9,
-        "overallScore": 0.2
+        "reviewContent": "I had a wonderful time at RPI. The campus had some beautiful older building with some more modern architecture interspersed into it. The food was good and the people there were very friendly. If you like engineering or computer science then RPI has a great atmosphere for that. They have many cool facilities including a wind tunnel so its a great spot if you want to do aero.",
+        "qualityReview": 4.4,
+        "overallAccessibleScore": 0.25
     }
 ]

@@ -1,593 +1,661 @@
 [
     {
-        "id": "ChIJ4zGDJADh3YkR-LLPXfHvzcY",
-        "name": "Delaware Cafe",
-        "address": "180 Delaware Ave, Delmar, NY 12054, United States",
-        "latitude": 42.6274978,
-        "longitude": -73.8122214,
-        "rating": 4.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJe9yugzkK3okRuwzYAxJrNyU",
-        "name": "Stacks Espresso Bar",
-        "address": "260 Lark St, Albany, NY 12210, United States",
-        "latitude": 42.6539806,
-        "longitude": -73.7659741,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJX0E6ADAK3okRFn7EFzU74t4",
-        "name": "Cafe One Eleven",
-        "address": "111 Washington Ave, Albany, NY 12210, United States",
-        "latitude": 42.6550384,
-        "longitude": -73.759788,
+        "id": "ChIJec-3JJ0O3okRuEYz4FzbTdE",
+        "name": "Latham Ridge Elementary School",
+        "address": "Ridge Elementary School, 6 Mercer Ave, Latham, NY 12110, United States",
+        "latitude": 42.7536837,
+        "longitude": -73.7418795,
         "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJmzu86iIK3okRi_ul5idKXl4",
-        "name": "Hill Street Cafe",
-        "address": "180 Madison Ave, Albany, NY 12202, United States",
-        "latitude": 42.6466695,
-        "longitude": -73.7580959,
-        "rating": 4.5,
-        "analyzed_reviews": [
-            {
-                "review": "6 of us enjoyed dinner here on Sunday evening before a nearby show. If you have an event in the area, this is a great option for a centrally located restaurant. And they are open Sundays, which was hard to find.\nEven without a reservation, we managed to get in. However, we were there early; I suspect a table might have been harder to get later on. Service was amazing! Drink refills without asking, servers checking in just the right amount, and overall great customer service.\nIt is a small pub, which means it gets loud. This was fine for us, but if you are looking for a quiet spot to have long conversations, this will not be the place you want.\nPub food and pizza seems to be their specialty. Boneless wings were very good; a medium sauce had just enough spice. Mozzarella sticks also good (great marinara!) and a decent amount of them too. The pizza was delicious! I snuck a piece of my hubby's pepperoni pizza and loved it! Homemade sauce, great crust, and a nice balance of sauce to cheese. Sandwiches we ordered were good, just not outstanding. If I go back before another show, I would honestly order some more apps and pizza (I was thinking about getting chicken tenders, but didn't. Bet they are great!).\nOverall, a solid choice if you are in the area for a show and looking for some great pub apps and pizza.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "quiet"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJt0xD1zYK3okRlX04Gl7AS_g",
-        "name": "Portelli's Joe N' Dough Cafe",
-        "address": "66 Central Ave, Albany, NY 12206, United States",
-        "latitude": 42.6588726,
-        "longitude": -73.76604090000001,
+        "id": "ChIJZYQgAHcP3okRkF0eBJRq18Q",
+        "name": "Public School 14",
+        "address": "1700 Tibbits Ave, Troy, NY 12180, United States",
+        "latitude": 42.7257823,
+        "longitude": -73.6688758,
         "rating": 4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJm_b53gIL3okRDCqRM46qjjc",
-        "name": "Mr Bumbles Cafe",
-        "address": "263 New Scotland Ave, Albany, NY 12208, United States",
-        "latitude": 42.6532059,
-        "longitude": -73.7872634,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJqaQsA2oL3okRaWJg4850XMw",
-        "name": "Iron Coffee Co",
-        "address": "811 Madison Ave, Albany, NY 12208, United States",
-        "latitude": 42.6602076,
-        "longitude": -73.7809029,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJCZeLdSYK3okRdeO2KZQRuT0",
-        "name": "Courthouse Cafe",
-        "address": "16 Eagle St, Albany, NY 12207, United States",
-        "latitude": 42.6525308,
-        "longitude": -73.7528556,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJaaP_njAK3okRKeM9xwdB_U4",
-        "name": "Daily Grind",
-        "address": "204 Lark St, Albany, NY 12210, United States",
-        "latitude": 42.6560598,
-        "longitude": -73.7638473,
-        "rating": 4.5,
-        "analyzed_reviews": [
-            {
-                "review": "Nice place to grab a bite to eat with lots of varieties such as a biscotti, coffee, lattes, breakfast and smoothies.\n\nThe cafe is located downstairs in the building, it is a small cafe that is not wheelchair accessible friendly and their bathroom is extremely narrow and tight and also smelled like someone was smoking inside. \ud83d\ude45\ud83c\udffd\u200d\u2642\ufe0f\nThey make amazing smoothie and the people behind the counters were very nice and friendly.\nIt is definitely a place to visit and a great experience.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "mobility": [
-                        "wheelchair",
-                        "accessible"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJdy672CYK3okRjbO7XpUyeFw",
-        "name": "Stacks Espresso Bar",
-        "address": "488 Broadway, Albany, NY 12207, United States",
-        "latitude": 42.65008419999999,
-        "longitude": -73.7509029,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJj2BiCDAK3okReIs9V3nBRCw",
-        "name": "Museum Cafe",
-        "address": "125 Washington Ave, Albany, NY 12210, United States",
-        "latitude": 42.6555833,
-        "longitude": -73.7607957,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ9TJqtVUK3okRm9dxmUD2utU",
-        "name": "Cafe Madison",
-        "address": "1100 Madison Ave, Albany, NY 12208, United States",
-        "latitude": 42.6657283,
-        "longitude": -73.7920482,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJeb6-jBcK3okR_G5-CEwLQNo",
-        "name": "Betty Boop Diner",
-        "address": "115 Philip St, Albany, NY 12202, United States",
-        "latitude": 42.64453,
-        "longitude": -73.7600154,
-        "rating": 4.2,
-        "analyzed_reviews": [
-            {
-                "review": "Quiet little dinner with a lovely atmosphere, polite staff, and delicous food. My pancakes were fluffy and delicous, bacon was fresh and chewy with some crunch. My partners eggs and home fries were fresh and tasty, we both enjoyed the meal and atmosphere. A real rare dinner, not many hole in the wall dinners left around the area that have this level of service, and quality. Highly recommend.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "quiet"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJAT5Sl7QL3okRilBhwlou0Rw",
-        "name": "Alias Coffee",
-        "address": "76 N Pearl St, Albany, NY 12207, United States",
-        "latitude": 42.6520518,
-        "longitude": -73.7513396,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJU9NmTz4L3okRE6uBCXCa92U",
-        "name": "Bellanista cafe and restaurant",
-        "address": "Backend of the main building. (Facing parking, 700 New Scotland Ave lot side, Albany, NY 12208, United States",
-        "latitude": 42.6577491,
-        "longitude": -73.8061568,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJTcpPhzAK3okRFTfmZM-BYRw",
-        "name": "Iron Gate Cafe",
-        "address": "182 Washington Ave, Albany, NY 12210, United States",
-        "latitude": 42.6560789,
-        "longitude": -73.7624927,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJnVRtENwL3okRw1Ufqc5_KF4",
-        "name": "Dunkin'",
-        "address": "Med Ctr-Aramark, 43 New Scotland Ave, Albany, NY 12208, United States",
-        "latitude": 42.6531717,
-        "longitude": -73.7761002,
-        "rating": 3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJx6_9phkK3okRa52hbr8B1-8",
-        "name": "South Pearl Coffee Shop",
-        "address": "265 S Pearl St, Albany, NY 12202, United States",
-        "latitude": 42.6421547,
-        "longitude": -73.756762,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJUX8xKYcJ3okRg49MDLG9wNA",
-        "name": "Romans Cafe",
-        "address": "800 N Pearl St, Menands, NY 12204, United States",
-        "latitude": 42.6802775,
-        "longitude": -73.7359903,
-        "rating": 4.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJK2iouE0L3okRvDP82qs2mRo",
-        "name": "Choices Cafe",
-        "address": "43 New Scotland Ave, Albany, NY 12208, United States",
-        "latitude": 42.65341189999999,
-        "longitude": -73.7764248,
-        "rating": 3.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJlT4lA4QL3okRvSSuu58NLp4",
-        "name": "Primrose Cafe",
-        "address": "677 Broadway Unit 101, Albany, NY 12207, United States",
-        "latitude": 42.6534643,
-        "longitude": -73.74868579999999,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJk25hy38J3okRkgSV8gc0t1I",
-        "name": "zoleahcafellc",
-        "address": "600 Broadway Ste 200 #3621, Albany, NY 12207, United States",
-        "latitude": 42.64374919999999,
-        "longitude": -73.7418278,
+        "id": "ChIJVVWVhhoP3okRnwl9LO4cVe8",
+        "name": "Troy Community School",
+        "address": "1010 5th Ave, Troy, NY 12180, United States",
+        "latitude": 42.719138,
+        "longitude": -73.6894233,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJP_fVP_0L3okR8hdymAbkRUU",
-        "name": "Peppy D's Cafe",
-        "address": "20 Corporate Woods Blvd, Albany, NY 12211, United States",
-        "latitude": 42.67993449999999,
-        "longitude": -73.7648576,
-        "rating": 4.6,
+        "id": "ChIJnczrTp0O3okR9_Gydjy-EwY",
+        "name": "Goodrich School",
+        "address": "91 Fiddlers Ln, Latham, NY 12110, United States",
+        "latitude": 42.7290637,
+        "longitude": -73.7469407,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJXbbZeFII3okRDH7KcpGz900",
-        "name": "Starbucks",
-        "address": "599 N Greenbush Rd, Rensselaer, NY 12144, United States",
-        "latitude": 42.6463302,
-        "longitude": -73.69725749999999,
-        "rating": 4,
+        "id": "ChIJJ3AEML4P3okRagPZcoNMqU0",
+        "name": "Troy School 2",
+        "address": "470 10th St, Troy, NY 12180, United States",
+        "latitude": 42.7450773,
+        "longitude": -73.677742,
+        "rating": 4.3,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJY7CejdgL3okRyvgvRuwTSkI",
-        "name": "Cafe Madison",
-        "address": "359 Northern Blvd, Albany, NY 12204, United States",
-        "latitude": 42.6760041,
-        "longitude": -73.7486187,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJeQRLCzkK3okRon4kCS6Lc38",
-        "name": "Cafe Hollywood",
-        "address": "275 Lark St, Albany, NY 12210, United States",
-        "latitude": 42.6535851,
-        "longitude": -73.76678079999999,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJfd9fT0EK3okRb6Y47KgycEk",
-        "name": "Starbucks",
-        "address": "Hilton Garden Inn at Albany Medical Ctr, 62 New Scotland Ave, Albany, NY 12208, United States",
-        "latitude": 42.6522111,
-        "longitude": -73.7763294,
-        "rating": 3.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJQeWk2VgL3okRMg3sIzj388s",
-        "name": "Motor Oil Coffee Albany State Street",
-        "address": "136 State St, Albany, NY 12207, United States",
-        "latitude": 42.6507375,
-        "longitude": -73.7550874,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJyYw2sq8L3okRfEZTp-XaESw",
-        "name": "Dunkin'",
-        "address": "677 Central Ave, Albany, NY 12206, United States",
-        "latitude": 42.6761853,
-        "longitude": -73.78501650000001,
-        "rating": 3.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJCdO56I8L3okRSFpA6b6O_2Y",
-        "name": "JA. Peque\u00f1o",
-        "address": "Coffee Shop, 466 Madison Ave, Albany, NY 12208, United States",
-        "latitude": 42.6529744,
-        "longitude": -73.7690266,
-        "rating": 4.6,
-        "analyzed_reviews": [
-            {
-                "review": "The style, lights, furniture, orange finger cake, vibrant atmosphere-high level.\n\nmatcha latte - poor quality, too much milk and barely felt matcha taste.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "lights"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJvUZYCElz3okRt-UPnNGL-8M",
-        "name": "McDonald's",
-        "address": "1006 Central Ave, Albany, NY 12205, United States",
-        "latitude": 42.6834725,
-        "longitude": -73.79467249999999,
-        "rating": 3.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJsdpDPFQK3okRNl1PSDDFz1s",
-        "name": "Dunkin'",
-        "address": "1066 Madison Ave, Albany, NY 12210, United States",
-        "latitude": 42.66528659999999,
-        "longitude": -73.79056229999999,
-        "rating": 3.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJE-2muklz3okRFb3PwECIZTI",
-        "name": "Dunkin'",
-        "address": "1040 Central Ave, Albany, NY 12205, United States",
-        "latitude": 42.6855342,
-        "longitude": -73.7968939,
-        "rating": 3.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJHckV2TgK3okRs3mlWAyYBCE",
-        "name": "Cafe Lark",
-        "address": "452 Madison Ave, Albany, NY 12208, United States",
-        "latitude": 42.65266700000001,
-        "longitude": -73.768574,
-        "rating": 3.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ_fYNLUEK3okR11s6temtB7E",
-        "name": "Panera Bread",
-        "address": "50 New Scotland Ave, Albany, NY 12208, United States",
-        "latitude": 42.6525088,
-        "longitude": -73.7747061,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJXbZM3tQJ3okRyG7IRkQMu48",
-        "name": "Dunkin'",
-        "address": "97 Troy Rd, East Greenbush, NY 12061, United States",
-        "latitude": 42.6205751,
-        "longitude": -73.7021626,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJAX3L6_QJ3okRSRqsZtV0YC4",
-        "name": "Dunkin'",
-        "address": "448 Broadway, Rensselaer, NY 12144, United States",
-        "latitude": 42.6419854,
-        "longitude": -73.7436141,
-        "rating": 3.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJuWMxIzkK3okReChXvChSCko",
-        "name": "Dunkin'",
-        "address": "439 Madison Ave, Albany, NY 12210, United States",
-        "latitude": 42.6528717,
-        "longitude": -73.767788,
-        "rating": 3.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJM1RIqLQJ3okRIQxydC68wac",
-        "name": "Panera Bread",
-        "address": "279 Troy Rd, Rensselaer, NY 12144, United States",
-        "latitude": 42.643146,
-        "longitude": -73.701431,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJfc4eZfEK3okRadYFFKZ838M",
-        "name": "Dunkin'",
-        "address": "601 New Scotland Ave, Albany, NY 12208, United States",
-        "latitude": 42.657245,
-        "longitude": -73.8027693,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJVeax-qML3okRFvQN-dWsa0Q",
-        "name": "Saba Cafe",
-        "address": "348 Central Ave FLOOR 2, Albany, NY 12206, United States",
-        "latitude": 42.6659728,
-        "longitude": -73.7743306,
-        "rating": 4.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJdV5W7iYK3okRsEiMu2x7iNE",
-        "name": "Dunkin'",
-        "address": "39 N Pearl St, Albany, NY 12207, United States",
-        "latitude": 42.6508641,
-        "longitude": -73.75164,
-        "rating": 3.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJL4ln5iQK3okRbPE_NJr-P78",
-        "name": "Dunkin'",
-        "address": "Capital Bldg, 170 State St Nys, Albany, NY 12207, United States",
-        "latitude": 42.652671,
-        "longitude": -73.75747799999999,
-        "rating": 3.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJl9f3rUoI3okRw5fjWBVLX3Y",
-        "name": "Dunkin'",
-        "address": "324 Troy Rd, Rensselaer, NY 12144, United States",
-        "latitude": 42.6458126,
-        "longitude": -73.6975087,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJUaQmfTUL3okRSQ73ZDMzRzE",
-        "name": "McDonald's",
-        "address": "31 Holland Ave, Albany, NY 12209, United States",
-        "latitude": 42.6472079,
-        "longitude": -73.77224749999999,
-        "rating": 3.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJIc5pS0IJ3okRMHczWDfOu-4",
-        "name": "Dunkin'",
-        "address": "60 Broadway, Menands, NY 12204, United States",
-        "latitude": 42.6802516,
-        "longitude": -73.7336432,
-        "rating": 3.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJNS2Xh8nh3YkR6ZvA-z_5Ykc",
-        "name": "Panera Bread",
-        "address": "5 Moriah Rd, Glenmont, NY 12077, United States",
-        "latitude": 42.6122085,
-        "longitude": -73.7856159,
-        "rating": 4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJCcdqUiUK3okRhEJiJdH7RM8",
-        "name": "Dunkin'",
-        "address": "One Commerce Plaza, Albany, NY 12210, United States",
-        "latitude": 42.6546534,
-        "longitude": -73.75913849999999,
-        "rating": 3.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJXSr7Ak0I3okRG5bdJdDFuvw",
-        "name": "Bruegger's Bagels",
-        "address": "279 Troy Rd, East Greenbush, NY 12144, United States",
-        "latitude": 42.6437526,
-        "longitude": -73.7010493,
-        "rating": 3.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ241G0Yvh3YkRPcgJtMmOs9E",
-        "name": "Rooted + Rind Cafe",
-        "address": "14 Booth Rd, Delmar, NY 12054, United States",
-        "latitude": 42.62574,
-        "longitude": -73.8195901,
+        "id": "ChIJGy_X0yEP3okR5Qml-tWEzr4",
+        "name": "Public School 12",
+        "address": "475 1st St, Troy, NY 12180, United States",
+        "latitude": 42.712506,
+        "longitude": -73.697419,
         "rating": 4.7,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ6_nS9iYL3okRRry4M15Uewo",
-        "name": "Uncommon Grounds Coffee & Bagels - Western Avenue",
-        "address": "1225 Western Ave #5, Albany, NY 12203, United States",
-        "latitude": 42.6772669,
-        "longitude": -73.8235339,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJJyhLG-QJ3okRtnH2cCCMPwQ",
-        "name": "Motor Oil Coffee Albany Slip 12",
-        "address": "25 Erie Blvd Suite 1, Albany, NY 12204, United States",
-        "latitude": 42.6640932,
-        "longitude": -73.7387937,
-        "rating": 3.9,
+        "id": "ChIJYaTucGcP3okRKibsyZPx7Ec",
+        "name": "Sacred Heart School",
+        "address": "308 Spring Ave, Troy, NY 12180, United States",
+        "latitude": 42.7082969,
+        "longitude": -73.6624047,
+        "rating": 4,
         "analyzed_reviews": [
             {
-                "review": "I had a lovely morning here! I went about 930 on a Friday and was the only one there. The barista, Jay, was super friendly and chatty. I had a pistachio latte which was delicious. I stayed to read a book in quiet and got a comfy chair in the corner. There\u2019s an outdoor seating area which I would love to sit at during my next visit. Highly recommend!",
+                "review": "Excellent and very dedicated staff, wonderful facilities and a great environment for any child to grow and learn in the Capital Region.  If you are looking to send your child to a private school, this is the one to pick.",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
-                        "quiet"
+                        "environment"
                     ]
                 }
             }
         ]
     },
     {
-        "id": "ChIJDehq24kL3okRkyGXvRTGhB4",
-        "name": "Dunkin'",
-        "address": "339 Southern Blvd, Albany, NY 12209, United States",
-        "latitude": 42.6312132,
-        "longitude": -73.775235,
-        "rating": 3.4,
+        "id": "ChIJ-fhHeEMJ3okRqrPVliDMRGs",
+        "name": "Menands School",
+        "address": "19 Wards Ln, Menands, NY 12204, United States",
+        "latitude": 42.6865007,
+        "longitude": -73.73288509999999,
+        "rating": 4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJSTnDbwIL3okRj15gvvcQb0s",
-        "name": "Dunkin'",
-        "address": "Dunkin' Plaza, 500 Northern Blvd, Albany, NY 12204, United States",
-        "latitude": 42.6730471,
-        "longitude": -73.7501284,
+        "id": "ChIJcz-UBlcO3okR6HFIGG5-__U",
+        "name": "Watervliet Elementary School",
+        "address": "2557 10th Ave #1, Watervliet, NY 12189, United States",
+        "latitude": 42.7369862,
+        "longitude": -73.7106227,
+        "rating": 3.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJia3rAx4Q3okRcTi0P9WClrI",
+        "name": "Rensselaer Park Elementary Sch",
+        "address": "70 110th St, Troy, NY 12182, United States",
+        "latitude": 42.7660715,
+        "longitude": -73.6720215,
+        "rating": 4.3,
+        "analyzed_reviews": [
+            {
+                "review": "They have no concerns for their students! They show carelessness when it comes to these students! They have no direct contact to the bus routes nor the bus driver! Called the school to see what information they can give me about my kids and their school bus not making it to their stop on time and they couldn't give me not an ounce of information but just a phone number and tells me \"I don't know what to tell you, ma'am!\" But as a mother I found out information on my own that the school couldn't provide to me! Find out the school bus never left school premises because of an incident on the bus so every student had to get off the bus til further notice! The school staff couldn't even give me this information when they sit in the office all day just pushing paper but couldn't show great concern for their students! They weren't even aware of the situation going on in the back of their school grounds! TRANSFERRING MY KIDS ASAP! This school don't care for no one but a check! I care for my kids well being and knowledge of education and this school can't give them that! South Troy schools are way better then north Troy schools!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "language": [
+                        "information"
+                    ]
+                }
+            },
+            {
+                "review": "The principal in this school is so unprofessional and very unorganized! When they do wrong they point the finger at the parents. She can't help with bullying, she can't help with bus information, So what is her job duties again, if she is no help? And also very rude and she gets upset so fast! Rather home school my children before allowing my kids to be around her negative energy. Didn't even want to give this school a whole star.",
+                "sentiment": "negative",
+                "accessibility": {
+                    "language": [
+                        "information"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ77-8XL8P3okRwC3B97JzLgQ",
+        "name": "KIPP Troy Prep Elementary School",
+        "address": "3055 6th Ave, Troy, NY 12180, United States",
+        "latitude": 42.7482148,
+        "longitude": -73.681891,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJVaAV7RUP3okR4WRLk4aPAqY",
+        "name": "Carroll Hill School",
+        "address": "112 Delaware Ave, Troy, NY 12180, United States",
+        "latitude": 42.711495,
+        "longitude": -73.6819611,
+        "rating": 3.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ0QoJXWUP3okRo15VCdgAsrQ",
+        "name": "Susan Odell Taylor School",
+        "address": "116 Pinewoods Ave, 75 1st St, Troy, NY 12180, United States",
+        "latitude": 42.71642050000001,
+        "longitude": -73.6647041,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJkajMd9gP3okR2iesWb9jr-Q",
+        "name": "Van Schaick Grade School",
+        "address": "150 Continental Ave, Cohoes, NY 12047, United States",
+        "latitude": 42.76835699999999,
+        "longitude": -73.6876738,
+        "rating": 3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ36KNalEP3okRKzQ1HzLMAZo",
+        "name": "Gardner-Dickinson School",
+        "address": "25 East Ave, Troy, NY 12180, United States",
+        "latitude": 42.692378,
+        "longitude": -73.65967239999999,
         "rating": 3.8,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJn7OjRQAL3okRmtuGB2NrsSA",
-        "name": "Soul Bowl Cafe",
-        "address": "562B Clinton Ave, Albany, NY 12206, United States",
-        "latitude": 42.6654548,
-        "longitude": -73.76971499999999,
+        "id": "ChIJoXX3ECkO3okRP4bpMAwNP9Y",
+        "name": "Abram Lansing School",
+        "address": "26 James St, Cohoes, NY 12047, United States",
+        "latitude": 42.7686704,
+        "longitude": -73.708663,
+        "rating": 4.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ_7V3DBIE3okRZKxJtSSltrc",
+        "name": "George Washington School",
+        "address": "344 Menemsha Ln, Troy, NY 12180, United States",
+        "latitude": 42.7128249,
+        "longitude": -73.6389652,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ-0ziNygO3okRJkNDTzb2l_A",
+        "name": "Cohoes Middle School",
+        "address": "7 Bevan St, Cohoes, NY 12047, United States",
+        "latitude": 42.7705574,
+        "longitude": -73.7102712,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJVRAyo9QN3okR3E2YZb81ILQ",
+        "name": "Blue Creek Elementary School",
+        "address": "18 Clinton Rd, Latham, NY 12110, United States",
+        "latitude": 42.740255,
+        "longitude": -73.7496117,
+        "rating": 3.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJcXtCJI8P3okRw9sXSqOys18",
+        "name": "P.S. 18",
+        "address": "417 Hoosick Rd, Troy, NY 12180, United States",
+        "latitude": 42.7379834,
+        "longitude": -73.6605297,
+        "rating": 3.7,
+        "analyzed_reviews": [
+            {
+                "review": "I went to this School as did my children. It was an excellent atmosphere to learn and grow in. I have so many wonderful memories of this School.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJQeOJsXUP3okRSEpOhyF14ME",
+        "name": "Troy Middle School",
+        "address": "1976 Burdett Ave, Troy, NY 12180, United States",
+        "latitude": 42.7286,
+        "longitude": -73.672238,
+        "rating": 3.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJgwWuSLcP3okRbt6eQ4ylDBo",
+        "name": "Green Island Union Free School",
+        "address": "171 Hudson Ave, Green Island, NY 12183, United States",
+        "latitude": 42.7458039,
+        "longitude": -73.6900764,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJb_HUO9kR3okReKW_2cvgY6U",
+        "name": "Harmony Hill School",
+        "address": "120 Madeline Hickey Way, Cohoes, NY 12047, United States",
+        "latitude": 42.7756753,
+        "longitude": -73.7206412,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJYWTWdSoM3okReHr4ShcCy_U",
+        "name": "Shaker High School",
+        "address": "445 Watervliet Shaker Rd, Latham, NY 12110, United States",
+        "latitude": 42.73496799999999,
+        "longitude": -73.74748749999999,
+        "rating": 3.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ6SbGZgYM3okR-f5v1loGtmU",
+        "name": "Loudonville Elementary School",
+        "address": "349 Osborne Rd, Albany, NY 12211, United States",
+        "latitude": 42.705866,
+        "longitude": -73.75655189999999,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJec-3JJ0O3okRsmrkY-pNKeQ",
+        "name": "North Colonie Central School District Offices",
+        "address": "91 Fiddlers Ln, Latham, NY 12110, United States",
+        "latitude": 42.7286844,
+        "longitude": -73.7468628,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJzQ0Xm28P3okR2VZVPqgnQxA",
+        "name": "P.S. 16",
+        "address": "40 Collins Ave, Troy, NY 12180, United States",
+        "latitude": 42.7157127,
+        "longitude": -73.6655686,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJBSuQh_kF3okRwDrDCR2GDgM",
+        "name": "St. Jude the Apostle School",
+        "address": "42 Dana Ave, Wynantskill, NY 12198, United States",
+        "latitude": 42.6940108,
+        "longitude": -73.64713139999999,
+        "rating": 5,
+        "analyzed_reviews": [
+            {
+                "review": "A small, safe, loving environment for my daughter to grow in that has provided a strong foundation to support her future development.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "environment"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJIcN_6-EP3okRcqz_8sBu65g",
+        "name": "Lansingburgh High School",
+        "address": "320 7th Ave, Troy, NY 12182, United States",
+        "latitude": 42.7632166,
+        "longitude": -73.6744343,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJObxyqikM3okRxL2toRrUARc",
+        "name": "Shaker Middle School",
+        "address": "475 Watervliet Shaker Rd, Latham, NY 12110, United States",
+        "latitude": 42.7361224,
+        "longitude": -73.7510034,
         "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJU8nSQ64L3okRHXScCA7_xwo",
-        "name": "Moliendo Cafe",
-        "address": "791 Madison Ave, Albany, NY 12208, United States",
-        "latitude": 42.6599064,
-        "longitude": -73.7800872,
-        "rating": 4.5,
+        "id": "ChIJR_4LKS8Q3okReuYTcCzL-w8",
+        "name": "Page Avenue Elementary School",
+        "address": "21 Page Ave, Cohoes, NY 12047, United States",
+        "latitude": 42.7743534,
+        "longitude": -73.6916885,
+        "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ92IXWiIK3okR0NRlCG5mBX0",
-        "name": "Caf\u00e9 Capriccio",
-        "address": "49 Grand St, Albany, NY 12207, United States",
-        "latitude": 42.6468931,
-        "longitude": -73.7561977,
-        "rating": 4.5,
+        "id": "ChIJJ9eLO_kN3okR_ejRNkAqe0U",
+        "name": "Boght Hills Elementary School",
+        "address": "38 Dunsbach Ferry Rd, Cohoes, NY 12047, United States",
+        "latitude": 42.7753194,
+        "longitude": -73.7565683,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJT4ZEPCQK3okRNtOdZ7ekYq0",
-        "name": "Ria's Bistro",
-        "address": "113 State St, Albany, NY 12207, United States",
-        "latitude": 42.6511216,
-        "longitude": -73.7547443,
-        "rating": 4.5,
+        "id": "ChIJi3HHbgcP3okRWXcZL88di9c",
+        "name": "Al-Hidayah Islamic School",
+        "address": "293 Troy-Schenectady Rd, Latham, NY 12110, United States",
+        "latitude": 42.7430112,
+        "longitude": -73.7432649,
+        "rating": 5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ6cu54TgK3okRszMwjjCTmvY",
-        "name": "El Loco Mexican Cafe",
-        "address": "465 Madison Ave, Albany, NY 12210, United States",
-        "latitude": 42.6530795,
-        "longitude": -73.7685381,
+        "id": "ChIJu0tXGKMP3okRL8RNl67EhkY",
+        "name": "Redemption Christian Academy",
+        "address": "192 9th St, Troy, NY 12180, United States",
+        "latitude": 42.7378304,
+        "longitude": -73.6809195,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJAdyf0WUP3okRv8eCzlQuAgk",
+        "name": "Emma Willard School",
+        "address": "285 Pawling Ave, Troy, NY 12180, United States",
+        "latitude": 42.7124471,
+        "longitude": -73.66434699999999,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJRy5YQ7cP3okRn6S2ccDXkpw",
+        "name": "Heatly High School",
+        "address": "171 Hudson Ave, Green Island, NY 12183, United States",
+        "latitude": 42.7458489,
+        "longitude": -73.69006569999999,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJIcN_6-EP3okRHYtwfFUheWk",
+        "name": "Knickerbacker Middle School",
+        "address": "320 7th Ave, Troy, NY 12182, United States",
+        "latitude": 42.76348309999999,
+        "longitude": -73.6748272,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJAfiIXEYP3okRa-y3D71YEiI",
+        "name": "Robert H. Gibson Technical School",
+        "address": "35 Colleen Road, Troy, NY 12180, United States",
+        "latitude": 42.7021064,
+        "longitude": -73.67347749999999,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJpWXrOwQP3okRk6ypcR2TM4Q",
+        "name": "Morning Star Montessori School",
+        "address": "159 2nd St, Troy, NY 12180, United States",
+        "latitude": 42.7257164,
+        "longitude": -73.6929265,
+        "rating": 5,
+        "analyzed_reviews": [
+            {
+                "review": "Morning Star's Early Childhood Montessori Preschool is a wonderful place for children to begin their school education.  The beautiful classroom environment makes them feel both secure and challenged, and the teachers know how to guide the students and help them learn naturally.  This year, in addition to offering Kindermusik, Morning Star also offers Spanish Language lessons each week.  My daughter looks forward to school every morning... and I look forward to hearing her exciting stories about her day!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "environment"
+                    ]
+                }
+            },
+            {
+                "review": "Our daughter loves Morning Star and all her teachers and classmates.  Our daughter's experienced teachers have helped her  gain many new skills and confidence.  The student directed learning environment has allowed our daughter to quickly advance with her reading, writing, and math skills along with many life skills we didn't think of like snaps and buttons.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "environment"
+                    ]
+                }
+            },
+            {
+                "review": "The community really lucked out with the presence of such an amazing early childhood learning center. The teachers each have over 20 years of experience in Montessori education!  Also with Kindermusik, Spanish lessons, come and observe days, extended day options, outdoor play... This school really is a gem.  The environment is immaculate, safe and very engaging for children.  Five stars!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "environment"
+                    ]
+                }
+            },
+            {
+                "review": "We could not be happier with Morningstar Montessori. Everything about the school is perfect for us. The atmosphere is so calm and loving and the learning is beyond impressive.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJrYjtoPcO3okRddNcSLb9vsQ",
+        "name": "Watervliet Junior Senior High",
+        "address": "1245 Hillside Dr, Watervliet, NY 12189, United States",
+        "latitude": 42.7315613,
+        "longitude": -73.7158322,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJd57H550P3okRDvsFCLhzwHc",
+        "name": "Troy High School",
+        "address": "1950 Burdett Ave, Troy, NY 12180, United States",
+        "latitude": 42.7269021,
+        "longitude": -73.6715108,
+        "rating": 3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ7XuRxwcP3okRgPT-E2QekNg",
+        "name": "KIPP Troy Prep High School",
+        "address": "2 Polk St, Troy, NY 12180, United States",
+        "latitude": 42.7107019,
+        "longitude": -73.6978187,
+        "rating": 3.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJu5oCuzQP3okRfWkuk49Ey3Q",
+        "name": "La Salle Institute",
+        "address": "174 Williams Rd, Troy, NY 12180, United States",
+        "latitude": 42.6934241,
+        "longitude": -73.6828508,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJozEqo_sL3okROBrMWa19H_8",
+        "name": "Loudonville Christian School",
+        "address": "374 Loudon Rd, Loudonville, NY 12211, United States",
+        "latitude": 42.6954284,
+        "longitude": -73.75528589999999,
+        "rating": 4.6,
+        "analyzed_reviews": [
+            {
+                "review": "LCS has my highest recommendation!\nThis dynamic school is for anyone interested in their child gaining a top of the line, meaningful education. Being educated at LCS includes training up champions for Christ, teaching students with excellence and detailed care, proving a myriad of academic choices, and working with a faculty, staff and administration that truly cares for each student.\nLCS creates a family-like atmosphere for the students while they are gaining a quality education and equips students to be individuals of character who impact this world for Christ!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJlcsE0tgR3okR67xUltE544A",
+        "name": "Cohoes High School",
+        "address": "1 Tiger Cir, Cohoes, NY 12047, United States",
+        "latitude": 42.7752584,
+        "longitude": -73.718626,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ4XBIPCkM3okRz6uffYBWco4",
+        "name": "Latham Christian Academy",
+        "address": "495 Watervliet Shaker Rd, Latham, NY 12110, United States",
+        "latitude": 42.7357635,
+        "longitude": -73.7528348,
+        "rating": 3.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ9-8OUk0O3okRcNdSh753UIk",
+        "name": "Achievements PLLC",
+        "address": "32 Cohoes Rd, Watervliet, NY 12189, United States",
+        "latitude": 42.7431011,
+        "longitude": -73.7016541,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJOS8_TUkN3okRiVao6qMA93k",
+        "name": "Catholic Central School",
+        "address": "347 Old Loudon Rd, Latham, NY 12110, United States",
+        "latitude": 42.75780109999999,
+        "longitude": -73.75301209999999,
+        "rating": 2,
+        "analyzed_reviews": [
+            {
+                "review": "I have to start off with I am very disappointed in how I was deceived by a Catholic School. One of the reasons for seeking out a Catholic school was for the morals, and for a better school atmosphere. Me and my wife went to the open school night to see the school and get information. I met one of the 2 principles, so I asked him about if busses were available. I stressed the importance of being able to get transportation because my wife works and I am a disabled Veteran with severe back issues that required major surgery, but I still get severe chronic pain, and it is permanent damage. I told him I would not be able to drive them to school every day. He told me that they have had many kids from our area that take the bus. Me and my wife were told that to get the bus, you have to register for school and pay the initial tuition so they can put in a request to transportation for the need. I said, I can't really count on a loose promise like that, it's a matter of me not being able to drive the long distance every day due to my injury. He swore and promised up and down that all we had to do was pay the tuition, hold the spots before it was \"too late,\" and the busses would be worked out. So, I paid the tuition. When it started getting close to school starting, I called back and asked how to set up for the bus. They told me then, THERE ARE NO BUSSES FOR MY AREA, and that they didn't know what I was talking about with the busses. No one remembered a thing, even though every teacher in the area was nodding their heads and agreeing the whole time the principle talked to us. He told us that he was very sorry, DIDN'T KNOW WHO TOLD ME THAT, and that he will tell his staff to not say things like that anymore.I was told to call the school district I was in and work it out with them. Ichabod Crane told me that they never heard of that. Now I'm stuck driving 40 mins to the school and 40 mins back every day, when there isn't traffic. My pain levels have been insane, and this has caused many problems for me and my family. I did give 2 stars instead of 1 because there are some really nice teachers and the main office receptionist tried her best to help after that, so there definitely is some good people at this school. But I have no clue what that was about, but I feel scammed, and I seriously feel incredibly sad about that. I know of at least 1 other parent at the school that they did something like this too as well.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ],
+                    "language": [
+                        "information"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ3414CEQO3okRv6oSYyHDZww",
+        "name": "St Colman's Home",
+        "address": "11 Haswell Rd, Watervliet, NY 12189, United States",
+        "latitude": 42.7475536,
+        "longitude": -73.7183361,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ7eGhUukP3okRTvuUuHbu7eE",
+        "name": "Esteves School of Education Administration Building",
+        "address": "65 1st St, Troy, NY 12180, United States",
+        "latitude": 42.7272267,
+        "longitude": -73.6942256,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJh-A9wmQJ3okRPYXzJ7AWP4M",
+        "name": "North Albany Middle School",
+        "address": "570 N Pearl St, Menands, NY 12204, United States",
+        "latitude": 42.6732159,
+        "longitude": -73.739932,
+        "rating": 4.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJJXWOLysQ3okREbRglEL5FYs",
+        "name": "Sonshine Patch Pre School",
+        "address": "123 Mohawk St, Cohoes, NY 12047, United States",
+        "latitude": 42.7734423,
+        "longitude": -73.6998656,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJA6n5pPkO3okRGYFHgR9jnzU",
+        "name": "Watervliet City School District",
+        "address": "1245 Hillside Dr, Watervliet, NY 12189, United States",
+        "latitude": 42.7308566,
+        "longitude": -73.7158978,
+        "rating": 3.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJEYLvJSsK3okRMMlGuApaGos",
+        "name": "Arbor Hill Elementary School",
+        "address": "1 Arbor Dr, Albany, NY 12207, United States",
+        "latitude": 42.6629295,
+        "longitude": -73.751137,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJfQn6654P3okRAlMf2xMrWaU",
+        "name": "Rensselaer Polytechnic Institute",
+        "address": "110 8th St, Troy, NY 12180, United States",
+        "latitude": 42.7297628,
+        "longitude": -73.67888839999999,
         "rating": 4.4,
+        "analyzed_reviews": [
+            {
+                "review": "I had a wonderful time at RPI. The campus had some beautiful older building with some more modern architecture interspersed into it. The food was good and the people there were very friendly. If you like engineering or computer science then RPI has a great atmosphere for that. They have many cool facilities including a wind tunnel so its a great spot if you want to do aero.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "atmosphere"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJB-S0Lr8P3okRxv5QbTzjgvk",
+        "name": "Troy City School District",
+        "address": "475 1st St, Troy, NY 12180, United States",
+        "latitude": 42.712695,
+        "longitude": -73.697419,
+        "rating": 3.8,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ59eyrDwK3okRmEVTxoY9Ozg",
-        "name": "Honest Weight Food Coop Cafe",
-        "address": "Empire State Plaza, Food Court, Concourse Level, Albany, NY 12210, United States",
-        "latitude": 42.6501287,
-        "longitude": -73.7595558,
-        "rating": 4.4,
+        "id": "ChIJD7mkmPAL3okRtJO2qmx-S54",
+        "name": "St Pius X Catholic School",
+        "address": "75 Upper Loudon Rd, Albany, NY 12211, United States",
+        "latitude": 42.6971293,
+        "longitude": -73.76115089999999,
+        "rating": 5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJVak3qd4P3okRTnuk1M23aMo",
+        "name": "Academy at Rensselaer Educational Center",
+        "address": "35 Colleen Road, Troy, NY 12180, United States",
+        "latitude": 42.7017289,
+        "longitude": -73.6734211,
+        "rating": 0,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJISOBETQK3okRrc2UTJ6cqPY",
+        "name": "Sheridan Preparatory Academy",
+        "address": "400 Sheridan Ave, Albany, NY 12206, United States",
+        "latitude": 42.6618017,
+        "longitude": -73.76660009999999,
+        "rating": 3.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJZed8pTYP3okRbuxvoSyIbZM",
+        "name": "Hudson Valley Community College",
+        "address": "80 Vandenburgh Ave, Troy, NY 12180, United States",
+        "latitude": 42.6958308,
+        "longitude": -73.68238529999999,
+        "rating": 4,
         "analyzed_reviews": []
     }
 ]
