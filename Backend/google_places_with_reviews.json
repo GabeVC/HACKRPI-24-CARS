@@ -1,252 +1,81 @@
 [
     {
-        "id": "ChIJTU0zsR8P3okRhYAIDAu5_Ow",
-        "name": "Nighthawks",
-        "address": "461 Broadway, Troy, NY 12180, United States",
-        "latitude": 42.7308889,
-        "longitude": -73.68794129999999,
+        "id": "ChIJiTpeSj6p0okRPa2Eg5uZO2Y",
+        "name": "The Swamp",
+        "address": "250 Jones and Gifford Ave, Jamestown, NY 14701, United States",
+        "latitude": 42.1072771,
+        "longitude": -79.264545,
         "rating": 4.6,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ3QNX1wUP3okRps7OI7FCpAs",
-        "name": "Lucky Corner",
-        "address": "162 3rd St, Troy, NY 12180, United States",
-        "latitude": 42.72603590000001,
-        "longitude": -73.6911616,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJqabiYZgP3okRzEgsVUoHM60",
-        "name": "Ali Baba",
-        "address": "2243 15th St, Troy, NY 12180, United States",
-        "latitude": 42.73602500000001,
-        "longitude": -73.6760917,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJUWYcjpMP3okR2MMrxyRZbiU",
-        "name": "Park Pub Restaurant & Catering",
-        "address": "2701 Lavin Ct Suite 1, Troy, NY 12180, United States",
-        "latitude": 42.7447548,
-        "longitude": -73.6708474,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJY_onBCEP3okRW6t2p_ws9xg",
-        "name": "Naughter's",
-        "address": "1809 5th Ave, Troy, NY 12180, United States",
-        "latitude": 42.7312362,
-        "longitude": -73.6879173,
-        "rating": 4.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJm5yzggcP3okR3gRxhu1P8-U",
-        "name": "Bacchus Wood-Fired",
-        "address": "33 2nd St, Troy, NY 12180, United States",
-        "latitude": 42.7305256,
-        "longitude": -73.6918279,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJQ5_G-MUN3okRW6Hzkt6FZW0",
+        "id": "ChIJj588adCr0okRd6R5I8uj0B8",
         "name": "Applebee's Grill + Bar",
-        "address": "555 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7513929,
-        "longitude": -73.7650704,
+        "address": "340 E Fairmount Ave, Lakewood, NY 14750, United States",
+        "latitude": 42.0985625,
+        "longitude": -79.2996702,
         "rating": 4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ49WG-QcP3okRToCWAGXGYq4",
-        "name": "Lo Porto",
-        "address": "85 4th St, Troy, NY 12180, United States",
-        "latitude": 42.7305239,
-        "longitude": -73.68928269999999,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ_0QF2QUP3okR3HXp33XVjqM",
-        "name": "Red Front",
-        "address": "71 Division St, Troy, NY 12180, United States",
-        "latitude": 42.7261281,
-        "longitude": -73.6909174,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJEVvh1QcP3okR4_g15LGi0Ms",
-        "name": "Famous Lunch",
-        "address": "111 Congress St, Troy, NY 12180, United States",
-        "latitude": 42.7286799,
-        "longitude": -73.68901009999999,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJV1lfXdMP3okRcfQ6G2INgb4",
-        "name": "Donna's",
-        "address": "217 Broadway, Troy, NY 12180, United States",
-        "latitude": 42.7313011,
-        "longitude": -73.6909661,
+        "id": "ChIJceg06M-r0okRC_y3KRcHPe8",
+        "name": "Olive Garden Italian Restaurant",
+        "address": "328 E Fairmount Ave, Lakewood, NY 14750, United States",
+        "latitude": 42.09850660000001,
+        "longitude": -79.30228919999999,
         "rating": 4.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJY83Qy1AP3okRHblw-yDxw4o",
-        "name": "EMRY's Garden",
-        "address": "2 King St, Troy, NY 12180, United States",
-        "latitude": 42.7347746,
-        "longitude": -73.687634,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJHcq7RFkR3okRCRWtJLVIWho",
-        "name": "Oh Corn! Arepas",
-        "address": "429 River St, Troy, NY 12180, United States",
-        "latitude": 42.7361124,
-        "longitude": -73.68744339999999,
+        "id": "ChIJqRUeJ8mr0okRnGWMqg7FNL0",
+        "name": "Farmer Brown's Beef & More",
+        "address": "274 E Fairmount Ave, Lakewood, NY 14750, United States",
+        "latitude": 42.0978445,
+        "longitude": -79.3081326,
         "rating": 4.7,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJJ8R_KRoP3okR4dsNBrgD4O8",
-        "name": "Tipsy Moose Tap & Tavern",
-        "address": "62 Vandenburgh Ave, Troy, NY 12180, United States",
-        "latitude": 42.6998108,
-        "longitude": -73.68881329999999,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJmREqO2QP3okRMo5hDlr87gE",
-        "name": "Grill Mediterranean Cuisine and Mega Istanbul Food Court",
-        "address": "908 River St, Troy, NY 12180, United States",
-        "latitude": 42.7535962,
-        "longitude": -73.6821641,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJdZOaLScP3okRyBhlLLCd8-Q",
-        "name": "Jo's Joint",
-        "address": "221 4th St, Troy, NY 12180, United States",
-        "latitude": 42.72488860000001,
-        "longitude": -73.6905424,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJZ1Pby1gP3okR7If24GfoMsw",
-        "name": "Villa Valenti",
-        "address": "729 Pawling Ave, Troy, NY 12180, United States",
-        "latitude": 42.7017392,
-        "longitude": -73.655329,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJR_rOJQYP3okRwWnlD_f_070",
-        "name": "Sunhee's Farm and Kitchen",
-        "address": "95-97 Ferry St, Troy, NY 12180, United States",
-        "latitude": 42.7275796,
-        "longitude": -73.6893972,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJiQFyEgUP3okRlkXtyYhj6c8",
-        "name": "De Fazio's",
-        "address": "266 4th St, Troy, NY 12180, United States",
-        "latitude": 42.7232261,
-        "longitude": -73.6906408,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJxy4Aj_4P3okRhFX0R8Za4yg",
-        "name": "Finn\u2019s",
-        "address": "40 River St, Troy, NY 12180, United States",
-        "latitude": 42.7250599,
-        "longitude": -73.6952647,
+        "id": "ChIJ6ZTvuR6r0okR_nl6waX7-Rk",
+        "name": "Schuyler's Kitchen",
+        "address": "4477 W Fairmount Ave, Lakewood, NY 14750, United States",
+        "latitude": 42.098988,
+        "longitude": -79.3532814,
         "rating": 4.8,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJLf-SQ5gP3okRJHcOP5jjLZk",
-        "name": "Amante Pizza",
-        "address": "2304 15th St, Troy, NY 12180, United States",
-        "latitude": 42.7366185,
-        "longitude": -73.6752858,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJBePccuQP3okRQNQ6rCLgoh4",
-        "name": "Pizza 88 Crepes & Waffles",
-        "address": "2301 15th St, Troy, NY 12180, United States",
-        "latitude": 42.7365784,
-        "longitude": -73.6758557,
-        "rating": 4.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJha6LSwYP3okRPsBgKXk075o",
-        "name": "The Ruck",
-        "address": "104 3rd St, Troy, NY 12180, United States",
-        "latitude": 42.7284099,
-        "longitude": -73.69074010000001,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJydG02QcP3okRsO98h5vCUHY",
-        "name": "Unagi Sushi",
-        "address": "118 4th St, Troy, NY 12180, United States",
-        "latitude": 42.7290606,
-        "longitude": -73.6891238,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJN41sOr0P3okR-yPE66lm7e8",
-        "name": "Green Shell",
-        "address": "120 Hoosick St, Troy, NY 12180, United States",
-        "latitude": 42.7380024,
-        "longitude": -73.6770556,
-        "rating": 3.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJTfrq7wwP3okRg3iH2WReY20",
-        "name": "The Hill Beer & Wine Garden",
-        "address": "379 Congress St, Troy, NY 12180, United States",
-        "latitude": 42.7226613,
-        "longitude": -73.6794968,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJr6o35acP3okRBAWK6ekkpfo",
-        "name": "McAddy's",
-        "address": "452 Broadway, Troy, NY 12180, United States",
-        "latitude": 42.731183,
-        "longitude": -73.6883422,
-        "rating": 4.5,
+        "id": "ChIJi0OFga6r0okRrfuNG0CWdmo",
+        "name": "La Cocina",
+        "address": "273 E Fairmount Ave, Lakewood, NY 14750, United States",
+        "latitude": 42.0984626,
+        "longitude": -79.3085808,
+        "rating": 4.3,
         "analyzed_reviews": [
             {
-                "review": "Great prices and lots of seating!! They have a bar scene with tables if you want some noise, then they have a side room with more tables that is more quiet and then a whole upstairs room that\u2019s even quieter. Such a nice place and lots of room. Good menu, on the smaller side but good selection and really good prices. The food came out so fast and it was really good. The waiters were amazing as well. Highly recommend.",
+                "review": "A little pricey but everything else made up for it.\n\ud83d\udc4dgood service\ud83d\udc4dgood food\ud83d\udc4dgood atmosphere \ud83d\udc4d\nI enjoy going to this restaurant, this is a good place to enjoy your food with a good atmosphere and comfort for your eyes. I do enjoy cooking around as I eat and there's plenty of little details around this place to enjoy while yo eat. I like to plants and the ceiling I noticed is made interesting to me. I like contrast to it, it's just unique and simple and it makes me notice it. So if you like this type of foods then it definitely is worth it to get a glimpse because it's not a bad place. I'd like it to be a different location but I'm not going to hate it I just do not like the town it's in. The foods bangin' so I like it regardless \ud83d\udc4d\n\ud83c\udf84 loving the Christmas decorations that are up too\ud83c\udf84",
+                "sentiment": "positive",
+                "accessibility": {
+                    "vision": [
+                        "contrast"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJy5nfx9Cr0okRt0BsOGF60lA",
+        "name": "Davidson's Family Restaurant",
+        "address": "398 E Fairmount Ave, Lakewood, NY 14750, United States",
+        "latitude": 42.0977924,
+        "longitude": -79.29647659999999,
+        "rating": 4.6,
+        "analyzed_reviews": [
+            {
+                "review": "Food was delicious. Atmosphere nice, dividers gave some privacy and reduced noise around us. Server, Karen was awesome. Gave us recommendations as it was our first time. Very friendly, honest and timely.",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
-                        "quiet",
                         "noise"
                     ]
                 }
@@ -254,259 +83,51 @@
         ]
     },
     {
-        "id": "ChIJleH77eEN3okRwAH3P6r0coY",
-        "name": "Karavalli",
-        "address": "9 Johnson Rd, Latham, NY 12110, United States",
-        "latitude": 42.762337,
-        "longitude": -73.748355,
-        "rating": 4.4,
-        "analyzed_reviews": [
-            {
-                "review": "Yes. The answer is yes, go here. You will not be disappointed whatsoever. The moment I walked through the door I knew I was going to really enjoy my time and the food. I honestly don't have much to say other than Karavalli is now my standard for Indian restaurants!\n\nThe flavors were strong and not overwhelming, you can tell all the food was fresh, and the portions were just right (I have leftovers and I'm so very excited about that!). The customer service was spot-on, absolutely no complaints just compliments!\n\nFor my first visit here I was left ready for my next of many visits so I can go through their extensive Vegan Menu, and then I'll go through their Vegetarian Menu, and then their Seafood Menu. I absolutely don't see my trips here stopping anytime soon! Oh, and they make a really good drink!\n\nFor not having much to say, Karavalli has me saying a lot! You're going to really enjoy your time here, so again, the answer is YES!",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "overwhelming"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJu3s6R5gP3okRqAGaYCd8jmk",
-        "name": "Red & Blue",
-        "address": "2312 15th St, Troy, NY 12180, United States",
-        "latitude": 42.7369926,
-        "longitude": -73.6751417,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJbflwyyoQ3okRy2ypDnhu2QE",
-        "name": "Yuan Japanese Asian Restaurant",
-        "address": "177 Remsen St, Cohoes, NY 12047, United States",
-        "latitude": 42.7719203,
-        "longitude": -73.700643,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJRev1dhgQ3okRYoU8VYTTFg8",
-        "name": "Verdile's Restaurant",
-        "address": "572 2nd Ave, Troy, NY 12182, United States",
-        "latitude": 42.774946,
-        "longitude": -73.6767522,
+        "id": "ChIJ7TGmQjSr0okRWjM1xCCp_9o",
+        "name": "Stella: A Kitchen & Bar",
+        "address": "60 Chautauqua Ave, Lakewood, NY 14750, United States",
+        "latitude": 42.1037014,
+        "longitude": -79.32646559999999,
         "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ6VOWhiwP3okR2WBpZJEMFGA",
-        "name": "Buffalo Wild Wings 'GO'",
-        "address": "120 Hoosick St, Troy, NY 12180, United States",
-        "latitude": 42.7383104,
-        "longitude": -73.6776786,
-        "rating": 3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJtcQA6SUN3okR2F-mbLCTOvM",
-        "name": "Spice & Beyond Grill",
-        "address": "461 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7467887,
-        "longitude": -73.7579542,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJDS4yT_sP3okRWeD0_9wiMW0",
-        "name": "La Paisana",
-        "address": "827 River St, Troy, NY 12180, United States",
-        "latitude": 42.7507792,
-        "longitude": -73.68261679999999,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ331MGKgP3okRgPZK58hPiEA",
-        "name": "The Greek House",
-        "address": "27 3rd St, Troy, NY 12180, United States",
-        "latitude": 42.73154030000001,
-        "longitude": -73.69042379999999,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJKwMR6MEP3okRsiqKB1Xy7hg",
-        "name": "The Seasoning House",
-        "address": "49 3rd St, Troy, NY 12180, United States",
-        "latitude": 42.7305983,
-        "longitude": -73.6906277,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJEwYqHW0P3okR_MHBxZUEnzY",
-        "name": "Mi Casa",
-        "address": "72 Congress St, Troy, NY 12180, United States",
-        "latitude": 42.7286924,
-        "longitude": -73.69062509999999,
+        "id": "ChIJy75muuKo0okRGn081JwhhG4",
+        "name": "Shawbucks",
+        "address": "212 W 2nd St, Jamestown, NY 14701, United States",
+        "latitude": 42.0952839,
+        "longitude": -79.24412749999999,
         "rating": 4.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJp75f2AsP3okRwv2bfrqW8ZI",
-        "name": "Mallo's",
-        "address": "156 4th St, Troy, NY 12180, United States",
-        "latitude": 42.727595,
-        "longitude": -73.68959819999999,
-        "rating": 5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJD3lx0QcP3okRaTnonLhXaFU",
-        "name": "Manory's",
-        "address": "99 Congress St, Troy, NY 12180, United States",
-        "latitude": 42.7287264,
-        "longitude": -73.6894153,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJjZAGw9EN3okRNgePwgW1vPo",
-        "name": "Zaitoon Kitchen",
-        "address": "471 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7469994,
-        "longitude": -73.7586262,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJtfhpanIN3okRtZCpHW3QGVY",
-        "name": "Taste of Italy 23",
-        "address": "800 Loudon Rd #960, Latham, NY 12110, United States",
-        "latitude": 42.7488393,
-        "longitude": -73.76327789999999,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJnWj3LSkQ3okRnXnMGFhoaqs",
-        "name": "Bill's Restaurant",
-        "address": "155 Ontario St, Cohoes, NY 12047, United States",
-        "latitude": 42.7737316,
-        "longitude": -73.6926301,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJa--jKKgP3okRNhWVBp65TSw",
-        "name": "Liza's of Troy",
-        "address": "53 3rd St, Troy, NY 12180, United States",
-        "latitude": 42.7304786,
-        "longitude": -73.6905582,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJLUua3_IN3okRm6rBOMPHf6Y",
-        "name": "Tamarind Thai cuisine",
-        "address": "728 Loudon Rd, Latham, NY 12110, United States",
-        "latitude": 42.7410447,
-        "longitude": -73.76230679999999,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJSfaaOiYK3okRHRGQ9MG0u0A",
-        "name": "Yono's",
-        "address": "25 Chapel St, Albany, NY 12210, United States",
-        "latitude": 42.6532787,
-        "longitude": -73.7516359,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJSfaaOiYK3okRqzkRFxrsmOo",
-        "name": "dp An American Brasserie",
-        "address": "25 Chapel St, Albany, NY 12210, United States",
-        "latitude": 42.653258,
-        "longitude": -73.7516507,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ3eZYTQoN3okRXm4nbDOVZg8",
-        "name": "El Charro",
-        "address": "952 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7626048,
-        "longitude": -73.7986576,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJVVp5fzwK3okREzGzl289BjU",
-        "name": "El Mariachi Restaurant",
-        "address": "289 Hamilton St Unit 291, Albany, NY 12210, United States",
-        "latitude": 42.6509512,
-        "longitude": -73.762703,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJn8nQxbQL3okR73wZBl_mHQo",
-        "name": "Chop Stix Restaurant",
-        "address": "419 Central Ave, Albany, NY 12206, United States",
-        "latitude": 42.66767129999999,
-        "longitude": -73.77551489999999,
-        "rating": 3.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJZZIyGzoK3okRs8YchJsUekk",
-        "name": "TapAsia Asian Tapas",
-        "address": "227 Lark St #1101, Albany, NY 12210, United States",
-        "latitude": 42.6553562,
-        "longitude": -73.76494799999999,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJgT8PpoYL3okRYBTPuNhau3o",
-        "name": "Sheba al-yemen restaurant",
-        "address": "340 Central Ave, Albany, NY 12206, United States",
-        "latitude": 42.6658158,
-        "longitude": -73.77400519999999,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ07Ogj0oK3okRS70kts1Lahk",
-        "name": "Afghan Kabab Express",
-        "address": "305 Central Ave #2, Albany, NY 12206, United States",
-        "latitude": 42.6646669,
-        "longitude": -73.7720968,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJO2ewkUoK3okR3-8f3kreH7I",
-        "name": "Irie Vybez",
-        "address": "313 Central Ave, Albany, NY 12206, United States",
-        "latitude": 42.6648943,
-        "longitude": -73.7723558,
+        "id": "ChIJJ5cPyaar0okRkIzEvwSmUvs",
+        "name": "Taco Bell",
+        "address": "310 E Fairmount Ave, Lakewood, NY 14750, United States",
+        "latitude": 42.09826890000001,
+        "longitude": -79.3040109,
         "rating": 3.6,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJjflnKbcN3okRjiEEuMzRmLU",
-        "name": "Sonic Drive-In",
-        "address": "701 Troy-Schenectady Rd, Latham, NY 12110, United States",
-        "latitude": 42.7563954,
-        "longitude": -73.7755617,
-        "rating": 3.4,
+        "id": "ChIJWSg4W-Ko0okRhZnWoDtzPi4",
+        "name": "Cherry Lounge",
+        "address": "326 Cherry St, Jamestown, NY 14701, United States",
+        "latitude": 42.0968743,
+        "longitude": -79.242454,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJC-4OC8up0okRNqaBBLBdGjE",
+        "name": "Pearl City Hops",
+        "address": "150 W 4th St, Jamestown, NY 14701, United States",
+        "latitude": 42.0972119,
+        "longitude": -79.24355109999999,
+        "rating": 4.2,
         "analyzed_reviews": [
             {
-                "review": "Food was awesome. Very tasty burger. Didn't have the classic Sonic's atmosphere as dining room was quiet. I wanted to eat in my car in a stall to have the full experience but nobody had answered 5 minutes after pressing the red button.",
+                "review": "Been here twice now. Each time the service was great, the food amazing, and so many choices for drinks. It's a nice and quiet atmosphere as well. The missus and I will continue to stop by when around Jamestown.",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
@@ -517,56 +138,493 @@
         ]
     },
     {
-        "id": "ChIJq6raE48M3okRqtPiUkbUiiI",
-        "name": "Ruth's Chris Steak House",
-        "address": "1 Metro Park Rd, Albany, NY 12205, United States",
-        "latitude": 42.7201442,
-        "longitude": -73.8027101,
+        "id": "ChIJWbgBDTGp0okRFCjk7IJNhDw",
+        "name": "4 Below Haggy's Bar and Grill",
+        "address": "104 E 2nd St, Jamestown, NY 14701, United States",
+        "latitude": 42.095613,
+        "longitude": -79.2394892,
         "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJd7-L2swR3okR0tN8aqdSEQc",
-        "name": "Emma Jayne\u2019s Restaurant",
-        "address": "1475 US-9, Clifton Park, NY 12065, United States",
-        "latitude": 42.83496239999999,
-        "longitude": -73.738993,
+        "id": "ChIJ90YQ6hyp0okRoS6EMGp-Hdo",
+        "name": "Landmark Restaurant",
+        "address": "516 W 4th St, Jamestown, NY 14701, United States",
+        "latitude": 42.09623999999999,
+        "longitude": -79.2482877,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJG42XEeOo0okRhzWO-X-E2BY",
+        "name": "The Pub",
+        "address": "209 N Main St, Jamestown, NY 14701, United States",
+        "latitude": 42.0958197,
+        "longitude": -79.2412823,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJw2C6gSip0okRogtTyx7vu_Y",
+        "name": "Eatery Restaurant",
+        "address": "180 Fluvanna Ave, Jamestown, NY 14701, United States",
+        "latitude": 42.11478229999999,
+        "longitude": -79.2478525,
         "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJHckV2TgK3okRs3mlWAyYBCE",
-        "name": "Cafe Lark",
-        "address": "452 Madison Ave, Albany, NY 12208, United States",
-        "latitude": 42.65266700000001,
-        "longitude": -73.768574,
-        "rating": 3.4,
+        "id": "ChIJmTw1Kwyp0okR0ZVqsSg9bpg",
+        "name": "The Chop House on Main",
+        "address": "2-6 E 2nd St, Jamestown, NY 14701, United States",
+        "latitude": 42.0954444,
+        "longitude": -79.24092399999999,
+        "rating": 4.6,
+        "analyzed_reviews": [
+            {
+                "review": "This was our first time visiting. We went up for our wedding anniversary. The food tasted amazing. I had the loin with mashed potatoes and asparagus. My wife had the shrimp special. I also indulged on an 8oz glass of cabernet. Being our anniversary, they gifted us a well plated, lava cake, with a card signed by the staff!\n\nThe service was also great. Our waiter, Jesse/Jessie (not sure of the spelling) was very personable and knowledgeable. He checked in on us an appropriate amount of times as well. At one point, one manager asked us about our evening, which was nice.\n\nThe atmosphere is more modern with dim lit features and nice light fixtures. A couple of things that got me a bit would be the older tables that are just covered and some finishing work not being done around corners and lights. Being a fairly high-priced place to eat in the area, it also seemed weird that people in street clothes and ball caps were coming in for the bar.\n\nOverall my wife and I had a great dinner and enjoyed ourselves. We will be back and urge you to visit!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "lights"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJeah7CNSo0okRbeBRI7CAtiE",
+        "name": "Bob Evans",
+        "address": "2798 N Main Street Ext, Jamestown, NY 14701, United States",
+        "latitude": 42.119253,
+        "longitude": -79.24016300000001,
+        "rating": 4.1,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJtWtzPLcL3okRo8DRFagWa_8",
-        "name": "Josie's Table",
-        "address": "1475 Western Ave, Albany, NY 12203, United States",
-        "latitude": 42.68459740000001,
-        "longitude": -73.8398766,
+        "id": "ChIJ0dV6rV6o0okRS8p2NEoFXA0",
+        "name": "Jeremy's Belview",
+        "address": "763 Foote Ave, Jamestown, NY 14701, United States",
+        "latitude": 42.0797925,
+        "longitude": -79.2280152,
         "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJXaeeroML3okRqTKgRAZ79Vk",
-        "name": "BJ's Restaurant & Brewhouse",
-        "address": "3 Wolf Rd Ste 101, Colonie, NY 12205, United States",
-        "latitude": 42.70861319999999,
-        "longitude": -73.8210517,
+        "id": "ChIJU_JU6cCo0okR6iYlEi9vGeE",
+        "name": "The Coffee Cup",
+        "address": "902 E 2nd St, Jamestown, NY 14701, United States",
+        "latitude": 42.1055354,
+        "longitude": -79.2242023,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ0S2Yub-mMogR525ap83NaZI",
+        "name": "Dutch Village Restaurant",
+        "address": "8729 W Main St, Clymer, NY 14724, United States",
+        "latitude": 42.0207242,
+        "longitude": -79.6293175,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJowkl20tMzYkR0kaKJ5o_wzM",
+        "name": "Galley",
+        "address": "201 E Main St, Youngsville, PA 16371, United States",
+        "latitude": 41.8517369,
+        "longitude": -79.31639170000001,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJB9ZZ7WqzMogRvjVS0EVWfI4",
+        "name": "Scotties Pittsfield Inn",
+        "address": "418 Main St, Pittsfield, PA 16340, United States",
+        "latitude": 41.8345527,
+        "longitude": -79.38294979999999,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJH5-OWmFEzYkRULfgFH8BwUc",
+        "name": "Peppermill Restaurant",
+        "address": "1505 Pennsylvania Ave E #3126, Warren, PA 16365, United States",
+        "latitude": 41.8341206,
+        "longitude": -79.1272353,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJu8FqMWLM0okRrVhEoMB9C0I",
+        "name": "China King",
+        "address": "1170 Central Ave, Dunkirk, NY 14048, United States",
+        "latitude": 42.4577228,
+        "longitude": -79.33274800000001,
+        "rating": 3.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJYzaJs1AS04kRLUSVCVuIx_Y",
+        "name": "Mothers Restaurant",
+        "address": "33 Virginia Pl, Buffalo, NY 14202, United States",
+        "latitude": 42.89770679999999,
+        "longitude": -78.8734109,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ6XXkuflEzYkRoY_Wc_kyaWc",
+        "name": "McDonald's",
+        "address": "75 Market St, Warren, PA 16365, United States",
+        "latitude": 41.8429268,
+        "longitude": -79.1453543,
+        "rating": 3.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJx3pixDwT04kReaBpp7_G4O4",
+        "name": "Taqueria Ranchos Dos",
+        "address": "445 Delaware Ave, Buffalo, NY 14202, United States",
+        "latitude": 42.8963579,
+        "longitude": -78.8746013,
+        "rating": 4.3,
+        "analyzed_reviews": [
+            {
+                "review": "I\u2019ve been here many of times, the place is bumpin and the food is great. They are honest with the food and really care about the customers experience. Sitting outside is lovely on a warm day being inside can be overwhelming on a DJ night but overall is nice for young people. Birthdays here are next level and they give you a hat to wear and dessert to share. All and all 10/10 been coming back and gonna stay coming back",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "overwhelming"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJk-WrjEBy04kRYejX0M6tXKU",
+        "name": "Kyoto Japanese Restaurant",
+        "address": "4060 Maple Rd, Amherst, NY 14226, United States",
+        "latitude": 42.9912312,
+        "longitude": -78.81239510000002,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJC7vJFSObLIgRvW6D0cSCij4",
+        "name": "Amigos Tex-Mex",
+        "address": "109 George St, Hamilton, ON L8P 1E3, Canada",
+        "latitude": 43.2582858,
+        "longitude": -79.878669,
+        "rating": 4.4,
+        "analyzed_reviews": [
+            {
+                "review": "I went here for dinner with a friend on a weekday evening. I ordered the Amigos Famous Wrap Cruncho Supremo and it was delicious! I like that it came with chips and salsa. The portion size was pretty good for the price too.\n\nOur server was great as well. She was very friendly and helpful.\n\nThe overall atmosphere was cool with the lights hanging from the ceiling. We didn\u2019t sit outside on the patio but it appeared to have an equally cool vibe to it.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "lights"
+                    ]
+                }
+            },
+            {
+                "review": "With a very colorful exterior and a well furnished interior, once you walk in you're hit with the loud music and chatter. If you're looking for a place to have a quiet dinner this is not the place as it's just bursting with energy.\n\nWe were immediately seated with the lovely staff. If you take a look around you can see the kitchen and the cooks working right in front of you which is a nice touch.\n\nWe ordered the loaded nachos as an appetizer  and the birria tacos, enchiladas, and quesadillas as our entree.\n\nI feel 20 dollars for nachos is a bit steep but everything else was reasonably priced.\n\nThe food was great but I wouldn't call it the best Mexican food I've ever had. I will say though I loved the enchiladas and if I came back here that would probably be my go to order.\n\nWe didn't order any drinks but they do have a bar you can sit at if this is your thing.\n\nIf I'm ever in the area again I'll definitely be stopping by.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJTey5W-cS04kR-CBeUIAtg08",
+        "name": "JT\u2019s Restaurant",
+        "address": "905 Elmwood Ave, Buffalo, NY 14222, United States",
+        "latitude": 42.9218533,
+        "longitude": -78.8768236,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJz3txaZybLIgRu9pVkCELuzw",
+        "name": "The Ship",
+        "address": "23 Augusta St, Hamilton, ON L8N 1P6, Canada",
+        "latitude": 43.2520915,
+        "longitude": -79.8700199,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJg7l3Amty04kRb1a6GTR7RiY",
+        "name": "Red Pepper Chinese and Vietnamese Cuisine",
+        "address": "3910 Maple Rd, Amherst, NY 14226, United States",
+        "latitude": 42.9912289,
+        "longitude": -78.81835980000001,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJU4CbzomYLIgRUR7JQqYjghA",
+        "name": "The Powerhouse",
+        "address": "21 Jones St, Stoney Creek, ON L8G 3H9, Canada",
+        "latitude": 43.21694290000001,
+        "longitude": -79.7541399,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJRdo4l8ibLIgRnFyuUVaejLA",
+        "name": "The Standard",
+        "address": "10 James St N, Hamilton, ON L8R 2J9, Canada",
+        "latitude": 43.2570789,
+        "longitude": -79.8687447,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJG8BHZfsS04kRDbVdM7TggRg",
+        "name": "Mythos Restaurant",
+        "address": "510 Elmwood Ave, Buffalo, NY 14222, United States",
+        "latitude": 42.9109449,
+        "longitude": -78.8772473,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJR2ckjfI3K4gRhqUxMzRIUsQ",
+        "name": "Chiang Mai Thai Kitchen",
+        "address": "84 Park Lawn Rd, Etobicoke, ON M8Y 3H8, Canada",
+        "latitude": 43.6244796,
+        "longitude": -79.484704,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJoRPYnpYa04kR6q5X33k4pYY",
+        "name": "Hoak's",
+        "address": "4100 Lake Shore Rd, Hamburg, NY 14075, United States",
+        "latitude": 42.7731108,
+        "longitude": -78.8642854,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJBY0Vw0kP04kRs7AXmvhnVb0",
+        "name": "Mighty Taco",
+        "address": "3318 Southwestern Blvd, Orchard Park, NY 14127, United States",
+        "latitude": 42.7942651,
+        "longitude": -78.7552462,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJKWcgb8FD04kRVm9enwsr6xs",
+        "name": "Flavors & Spices",
+        "address": "5500 Victoria Ave, Niagara Falls, ON L2G 3L2, Canada",
+        "latitude": 43.0948408,
+        "longitude": -79.0724798,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJQ21KuDMyK4gRCfxeNqtWQhw",
+        "name": "JOEY Yorkdale",
+        "address": "3401 Dufferin St 305 - B, North York, ON M6A 2T9, Canada",
+        "latitude": 43.72407159999999,
+        "longitude": -79.4539903,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJBdUGfABDK4gRRTpAce59Thc",
+        "name": "The Oakville Pump & Patio",
+        "address": "1011 Upper Middle Rd E, Oakville, ON L6H 4L2, Canada",
+        "latitude": 43.4818164,
+        "longitude": -79.696432,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ40ivyQWINIgRNU0m4U4axIk",
+        "name": "Firebirds Wood Fired Grill",
+        "address": "7300 Cranberry Springs Dr, Cranberry Twp, PA 16066, United States",
+        "latitude": 40.6867483,
+        "longitude": -80.093169,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ7XMHydM0K4gRpKItDSOPH9w",
+        "name": "Moxies Toronto Downtown Restaurant",
+        "address": "70 University Ave, Toronto, ON M5J 2M4, Canada",
+        "latitude": 43.6464675,
+        "longitude": -79.3844654,
+        "rating": 4.2,
+        "analyzed_reviews": [
+            {
+                "review": "We ordered the chicken & ribs, and the chipotle chicken. The rack of ribs was very dry and was not worth it. The flavour was lacking as well. But we will say the chicken in both dishes was really tasty and juicy. Ut basically carried the dish. We were a bit surprised that shrimps and ribs were all made on the same grill. We requested to ensure no shellfish contamination was made because of allergy reasons but they weren\u2019t able to do so. Our allergy was not severe so we still ended up taking the risk and got the ribs. The soup and fries were decent. But the main star was the dessert. The white chocolate brownie was amazing and it made us want to give an extra star just for it. The place was very lively and it was hard to get the waiter\u2019s attention, which was kinda overwhelming at times. But he gave the dessert on the house since we were celebrating a special day, which was really nice!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "overwhelming"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJ61G1yy5HK4gR1OXbj2vB0tA",
+        "name": "Reds Square One",
+        "address": "100 City Centre Drive, 815 Square One Dr Unit #2, Mississauga, ON L5B 2C9, Canada",
+        "latitude": 43.59375199999999,
+        "longitude": -79.643242,
+        "rating": 4.2,
+        "analyzed_reviews": [
+            {
+                "review": "Natalie was our waitress, she was great.\nThe place was well lit, and I had asked when making reservation for a quiet booth; well received!\nIt was our first time there, and we were so impressed.\nThe food; DELICIOUS, Drinks-Amazing.\nI had the Old fashioned drink, and  cheese ravioli w shrimp, and hubby had the whisky sour drink, and  steak w lobster sushi; we Highly recommend it.\nWe will be back.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJNYW0DqpDK4gRa3eAZQGuxD8",
+        "name": "Milestones",
+        "address": "3051 Vega Blvd, Mississauga, ON L5L 5Y3, Canada",
+        "latitude": 43.5167425,
+        "longitude": -79.68889170000001,
         "rating": 3.9,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJbwX4mnUN3okRl_RO0otpKuw",
-        "name": "MOSU",
-        "address": "111 Wolf Rd Suite 1, Albany, NY 12205, United States",
-        "latitude": 42.7168642,
-        "longitude": -73.8082799,
+        "id": "ChIJTUOkBoebLIgRdTlyHxHxpkA",
+        "name": "Born & Raised",
+        "address": "224 James St N, Hamilton, ON L8R 2L3, Canada",
+        "latitude": 43.2623778,
+        "longitude": -79.8663995,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ_-etCE81K4gRyTsn9avI36k",
+        "name": "Tut's Egyptian Street Food",
+        "address": "567 King St W, Toronto, ON M5V 1M1, Canada",
+        "latitude": 43.6443887,
+        "longitude": -79.3994032,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJr6EITaE1K4gRuXbV5EoAjOo",
+        "name": "RUNWAY06",
+        "address": "132 John St, Toronto, ON M5V 2E3, Canada",
+        "latitude": 43.6486764,
+        "longitude": -79.3908009,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJB42QL2tvK4gRkpnnA8zT95k",
+        "name": "Symposium Cafe Restaurant MILTON",
+        "address": "611 Holly Ave, Milton, ON L9T 0K4, Canada",
+        "latitude": 43.5111358,
+        "longitude": -79.8550879,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJQY_nP9I0K4gRj0Fo9reXGQ4",
+        "name": "Earls Kitchen + Bar",
+        "address": "150 King St W #100, Toronto, ON M5H 1J9, Canada",
+        "latitude": 43.6480411,
+        "longitude": -79.38439629999999,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJQZCQb8ZDK4gRFIqvov5hvIs",
+        "name": "Sultan Ahmet Turkish Cuisine",
+        "address": "5055 Plantation Pl, Mississauga, ON L5M 6J3, Canada",
+        "latitude": 43.5528191,
+        "longitude": -79.71558,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJpWVj9DFItokRsLZ5_-oi75U",
+        "name": "Founding Farmers Reston Station",
+        "address": "1904 Reston Metro Plaza, Reston, VA 20190, United States",
+        "latitude": 38.9489997,
+        "longitude": -77.3380117,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ-dJfih_IMIgRyjZ54dNBnGs",
+        "name": "Panda",
+        "address": "503 S Court St A, Medina, OH 44256, United States",
+        "latitude": 41.1339556,
+        "longitude": -81.8643471,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJGx-XoLaJK4gResDrbNWmbAM",
+        "name": "A&W Canada",
+        "address": "580 Hespeler Rd, Cambridge, ON N1R 6J8, Canada",
+        "latitude": 43.4033969,
+        "longitude": -80.3272137,
+        "rating": 4.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJgQzqB6ibLIgRpYxH9dh5JOg",
+        "name": "Undefined",
+        "address": "35 King William St, Hamilton, ON L8R 1A1, Canada",
+        "latitude": 43.2574358,
+        "longitude": -79.867593,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJI8q56V9vK4gROH9ocfWXF2c",
+        "name": "St. Louis Bar & Grill",
+        "address": "604 Santa Maria Blvd, Milton, ON L9T 6J5, Canada",
+        "latitude": 43.5021703,
+        "longitude": -79.8656898,
+        "rating": 4.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJc0NISMXXKogR8Axdu0FzUIc",
+        "name": "LOCALE King City Restaurant/Bar",
+        "address": "12981 Keele St, King City, ON L7B 1G2, Canada",
+        "latitude": 43.9282561,
+        "longitude": -79.527856,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJvyH_M7ZR04kRoAdPKgJFICI",
+        "name": "Khas Patti",
+        "address": "219 St Paul St, St. Catharines, ON L2R 3M6, Canada",
+        "latitude": 43.158273,
+        "longitude": -79.2438181,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJjevqhZhvK4gR1CpVmmgAGPk",
+        "name": "Pasqualino",
+        "address": "248 Main St E, Milton, ON L9T 1P1, Canada",
+        "latitude": 43.51366729999999,
+        "longitude": -79.8824659,
         "rating": 4.5,
         "analyzed_reviews": []
     }
