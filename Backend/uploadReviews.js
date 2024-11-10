@@ -102,6 +102,19 @@ async function uploadReviews(ctx) {
     for (const review of reviewsJson) {
       const reviewRef = db.collection('reviews').doc(review.id);
 
+      // Extract the first 30 characters for duplicate check
+      const reviewContentPrefix = review.reviewContent.substring(0, 30);
+
+      // Check for duplicate review based on reviewContentPrefix
+      const duplicateCheckQuery = await db.collection('reviews')
+        .where('reviewContentPrefix', '==', reviewContentPrefix)
+        .get();
+
+      if (!duplicateCheckQuery.empty) {
+        console.log(`Duplicate review found with reviewContentPrefix: "${reviewContentPrefix}", skipping this entry.`);
+        continue; // Skip this review if a duplicate is found
+      }
+
       // Get latitude and longitude for locationId (address)
       let coordinates = null;
       try {
@@ -111,8 +124,9 @@ async function uploadReviews(ctx) {
         continue; // Skip this review if geocoding fails
       }
 
-      // Prepare the review data with coordinates
+      // Prepare the review data with coordinates and reviewContentPrefix
       const reviewData = {
+        userId: "",
         id: review.id,
         locationId: review.locationId,
         mobility: review.mobility || 0.0,
@@ -121,6 +135,7 @@ async function uploadReviews(ctx) {
         sensory: review.sensory || 0.0,
         language: review.language || 0.0,
         reviewContent: review.reviewContent || "",
+        reviewContentPrefix: reviewContentPrefix, // Add the prefix field
         qualityReview: review.qualityReview || 0.0,
         overallScore: review.overallScore || 0.0,
         coordinates: coordinates // Add coordinates to the review
@@ -148,6 +163,7 @@ async function uploadReviews(ctx) {
     console.error("Error uploading reviews:", error);
   }
 }
+
 
 // Watch for changes to the analyzed_reviews.json file using chokidar
 const watcher = chokidar.watch(reviewFilePath, {

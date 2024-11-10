@@ -1,23 +1,41 @@
 [
     {
-        "id": "ChIJ34kedIeL24kRDXQN7FmCe64",
-        "name": "Nina's Italian Resturant & Pizzera",
-        "address": "299 S Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4556739,
-        "longitude": -75.0600817,
-        "rating": 4.4,
+        "id": "ChIJ4zGDJADh3YkR-LLPXfHvzcY",
+        "name": "Delaware Cafe",
+        "address": "180 Delaware Ave, Delmar, NY 12054, United States",
+        "latitude": 42.6274978,
+        "longitude": -73.8122214,
+        "rating": 4.9,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJBc2hKIWL24kRfJ5UcA7I5As",
-        "name": "The Depot Restaurant and Tavern",
-        "address": "4 1/2 Railroad Ave, Oneonta, NY 13820, United States",
-        "latitude": 42.4538981,
-        "longitude": -75.05003950000001,
-        "rating": 4.4,
+        "id": "ChIJe9yugzkK3okRuwzYAxJrNyU",
+        "name": "Stacks Espresso Bar",
+        "address": "260 Lark St, Albany, NY 12210, United States",
+        "latitude": 42.6539806,
+        "longitude": -73.7659741,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJX0E6ADAK3okRFn7EFzU74t4",
+        "name": "Cafe One Eleven",
+        "address": "111 Washington Ave, Albany, NY 12210, United States",
+        "latitude": 42.6550384,
+        "longitude": -73.759788,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJmzu86iIK3okRi_ul5idKXl4",
+        "name": "Hill Street Cafe",
+        "address": "180 Madison Ave, Albany, NY 12202, United States",
+        "latitude": 42.6466695,
+        "longitude": -73.7580959,
+        "rating": 4.5,
         "analyzed_reviews": [
             {
-                "review": "This place was recommended to us by a couple of families so we decided to stop by to check it out. It was an old Depot to a train station (hence the name) tucked away from the main town. You can tell this is where the locals come.\n\nIf you're looking for a fancy place looks elsewhere, this place is no frills. However what they lack in decor they make up in food. Most of our dishes were quiet good, with the exception of the salad which had a very chewy chicken to it. Fried calamari was excellent probably because it was extra fried (same with the fries). I had a wrap and the kids had grilled cheese and chicken tenders.\n\nAgain the only knock was the weird tasting chicken on the salad but other than that a solid choice.",
+                "review": "6 of us enjoyed dinner here on Sunday evening before a nearby show. If you have an event in the area, this is a great option for a centrally located restaurant. And they are open Sundays, which was hard to find.\nEven without a reservation, we managed to get in. However, we were there early; I suspect a table might have been harder to get later on. Service was amazing! Drink refills without asking, servers checking in just the right amount, and overall great customer service.\nIt is a small pub, which means it gets loud. This was fine for us, but if you are looking for a quiet spot to have long conversations, this will not be the place you want.\nPub food and pizza seems to be their specialty. Boneless wings were very good; a medium sauce had just enough spice. Mozzarella sticks also good (great marinara!) and a decent amount of them too. The pizza was delicious! I snuck a piece of my hubby's pepperoni pizza and loved it! Homemade sauce, great crust, and a nice balance of sauce to cheese. Sandwiches we ordered were good, just not outstanding. If I go back before another show, I would honestly order some more apps and pizza (I was thinking about getting chicken tenders, but didn't. Bet they are great!).\nOverall, a solid choice if you are in the area for a show and looking for some great pub apps and pizza.",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
@@ -28,508 +46,261 @@
         ]
     },
     {
-        "id": "ChIJR70y5nmM24kRYhm12Bi_bAs",
-        "name": "Toscana Northern Italian Grill",
-        "address": "76 Chestnut St, Oneonta, NY 13820, United States",
-        "latitude": 42.4545265,
-        "longitude": -75.06580149999999,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ3XnZaRSN24kRZdjjDZuOAC4",
-        "name": "NAGS Bar and Kitchen",
-        "address": "221 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4545414,
-        "longitude": -75.0615862,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJT8NbhDKN24kR0PP2f0eRsS4",
-        "name": "Dazzo's Kitchen",
-        "address": "42 River St, Oneonta, NY 13820, United States",
-        "latitude": 42.4480076,
-        "longitude": -75.0676177,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJBf7wxXWM24kRolVSaiMGm_4",
-        "name": "Alfresco's Italian Bistro",
-        "address": "26 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.44775569999999,
-        "longitude": -75.06350859999999,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJITTXmHeM24kRg5t8x7Zl33Y",
-        "name": "Fiesta Mexican Grill & Cantina",
-        "address": "19 Clinton Plaza Dr, Oneonta, NY 13820, United States",
-        "latitude": 42.4527074,
-        "longitude": -75.06316509999999,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJyxKEpDeL24kRlBjQqs02sG8",
-        "name": "Plaza Diner",
-        "address": "5536 NY-7, Oneonta, NY 13820, United States",
-        "latitude": 42.4590518,
-        "longitude": -75.0210587,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJTX6qb0SM24kRWiS385rpOco",
-        "name": "STAR MIX GRILL restaurant",
-        "address": "381 Chestnut St, Oneonta, NY 13820, United States",
-        "latitude": 42.4540881,
-        "longitude": -75.0912011,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ51YUn26M24kRGG23HNVpP-4",
-        "name": "Nick's Diner and Pizzeria",
-        "address": "220 Chestnut St, Oneonta, NY 13820, United States",
-        "latitude": 42.4507797,
-        "longitude": -75.0769704,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJRYOmCU-M24kREORBVntYUXA",
-        "name": "Jay's Place",
-        "address": "453 Chestnut St, Oneonta, NY 13820, United States",
-        "latitude": 42.4557441,
-        "longitude": -75.098197,
-        "rating": 4.6,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ2WwPOkKM24kRUG7bH_SuNFw",
-        "name": "Sloan's New York Grill",
-        "address": "337 Chestnut St, Oneonta, NY 13820, United States",
-        "latitude": 42.4527829,
-        "longitude": -75.08664499999999,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJHRDiiIeL24kRa5Royf76SpI",
-        "name": "The Autumn Cafe",
-        "address": "244 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4547039,
-        "longitude": -75.0607972,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ2-jMFJGL24kRf1Tr3YPYfBs",
-        "name": "Applebee's Grill + Bar",
-        "address": "5006 NY-23 Box M25, Oneonta, NY 13820, United States",
-        "latitude": 42.4475623,
-        "longitude": -75.0453325,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJTR3DpnOM24kRJJ-mZ59Svxs",
-        "name": "Bella Michael's Restaurant",
-        "address": "57 River St, Oneonta, NY 13820, United States",
-        "latitude": 42.4473304,
-        "longitude": -75.06889579999999,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJNeHvMLCL24kR5X676CloZVQ",
-        "name": "Our Town Cafe & Pub",
-        "address": "5206 NY-23, Oneonta, NY 13820, United States",
-        "latitude": 42.4471063,
-        "longitude": -75.0273825,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ2_bjg4eL24kR-BE0McLWMto",
-        "name": "Wise Guys Sammy's",
-        "address": "261-267 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4551177,
-        "longitude": -75.0606552,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJj_3xJXmL24kRoOZvh3OvMnU",
-        "name": "Social Eats Caf\u00e9",
-        "address": "546 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4566716,
-        "longitude": -75.0393703,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJIdmAELaK24kRSLfN7bq5oZQ",
-        "name": "Andres Blue Ribbon BBQ",
-        "address": "6047 NY-7, Oneonta, NY 13820, United States",
-        "latitude": 42.48549930000001,
-        "longitude": -74.9917847,
-        "rating": 4.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJp6eDrHeM24kRtrHF5OrG4tM",
-        "name": "Red's Ale House & Grill",
-        "address": "84 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4512371,
-        "longitude": -75.0637308,
+        "id": "ChIJt0xD1zYK3okRlX04Gl7AS_g",
+        "name": "Portelli's Joe N' Dough Cafe",
+        "address": "66 Central Ave, Albany, NY 12206, United States",
+        "latitude": 42.6588726,
+        "longitude": -73.76604090000001,
         "rating": 4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJt3UY9XeM24kRAArmI0Ng9i0",
-        "name": "China 19",
-        "address": "100 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.45184709999999,
-        "longitude": -75.0633622,
-        "rating": 3.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJXXC7j3eM24kRq4PBjSYTkrs",
-        "name": "Simply Thai Restaurant",
-        "address": "139 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4531404,
-        "longitude": -75.0631202,
+        "id": "ChIJm_b53gIL3okRDCqRM46qjjc",
+        "name": "Mr Bumbles Cafe",
+        "address": "263 New Scotland Ave, Albany, NY 12208, United States",
+        "latitude": 42.6532059,
+        "longitude": -73.7872634,
         "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJB81XG3eN24kRBuwmYlJaDf8",
-        "name": "Indian Grill Oneonta NY",
-        "address": "214 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4541462,
-        "longitude": -75.06132,
-        "rating": 4.6,
+        "id": "ChIJqaQsA2oL3okRaWJg4850XMw",
+        "name": "Iron Coffee Co",
+        "address": "811 Madison Ave, Albany, NY 12208, United States",
+        "latitude": 42.6602076,
+        "longitude": -73.7809029,
+        "rating": 4.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJR-m15U-M24kRzhqsffHUCfo",
-        "name": "Soda Jerks",
-        "address": "458 Chestnut St, Oneonta, NY 13820, United States",
-        "latitude": 42.4561618,
-        "longitude": -75.09783829999999,
-        "rating": 4.3,
+        "id": "ChIJCZeLdSYK3okRdeO2KZQRuT0",
+        "name": "Courthouse Cafe",
+        "address": "16 Eagle St, Albany, NY 12207, United States",
+        "latitude": 42.6525308,
+        "longitude": -73.7528556,
+        "rating": 4.8,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJk2f7kHiM24kRnPL3pZWMP8E",
-        "name": "Hunan Gourmet",
-        "address": "1962, 19 Ford Ave A, Oneonta, NY 13820, United States",
-        "latitude": 42.4563885,
-        "longitude": -75.0619201,
-        "rating": 2.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJm4NSL0-M24kRUhA3WIf9q3s",
-        "name": "Pizzaland",
-        "address": "24 Oneida St, Oneonta, NY 13820, United States",
-        "latitude": 42.45388519999999,
-        "longitude": -75.0986868,
+        "id": "ChIJaaP_njAK3okRKeM9xwdB_U4",
+        "name": "Daily Grind",
+        "address": "204 Lark St, Albany, NY 12210, United States",
+        "latitude": 42.6560598,
+        "longitude": -73.7638473,
         "rating": 4.5,
         "analyzed_reviews": [
             {
-                "review": "The food here is usually really delicious! My personal favorite is the chicken marsala with linguini. I've been a handful of times when the food wasn't as amazing as it could have been, but it hasn't stopped me from going back. The wait staff have always had wonderful personalities and great service which more than makes up for when food isn't top notch. The atmosphere could use some updating or brighter lights. The atmosphere definitely doesn't draw me in. Its the food and service",
+                "review": "Nice place to grab a bite to eat with lots of varieties such as a biscotti, coffee, lattes, breakfast and smoothies.\n\nThe cafe is located downstairs in the building, it is a small cafe that is not wheelchair accessible friendly and their bathroom is extremely narrow and tight and also smelled like someone was smoking inside. \ud83d\ude45\ud83c\udffd\u200d\u2642\ufe0f\nThey make amazing smoothie and the people behind the counters were very nice and friendly.\nIt is definitely a place to visit and a great experience.",
                 "sentiment": "positive",
                 "accessibility": {
-                    "sensory": [
-                        "lights"
+                    "mobility": [
+                        "wheelchair",
+                        "accessible"
                     ]
                 }
             }
         ]
     },
     {
-        "id": "ChIJYRRjnYeL24kRcW7EadF5rUQ",
-        "name": "Sal's New Classic Pizzeria",
-        "address": "285 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4554453,
-        "longitude": -75.0603055,
+        "id": "ChIJdy672CYK3okRjbO7XpUyeFw",
+        "name": "Stacks Espresso Bar",
+        "address": "488 Broadway, Albany, NY 12207, United States",
+        "latitude": 42.65008419999999,
+        "longitude": -73.7509029,
+        "rating": 4.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJj2BiCDAK3okReIs9V3nBRCw",
+        "name": "Museum Cafe",
+        "address": "125 Washington Ave, Albany, NY 12210, United States",
+        "latitude": 42.6555833,
+        "longitude": -73.7607957,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ9TJqtVUK3okRm9dxmUD2utU",
+        "name": "Cafe Madison",
+        "address": "1100 Madison Ave, Albany, NY 12208, United States",
+        "latitude": 42.6657283,
+        "longitude": -73.7920482,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJeb6-jBcK3okR_G5-CEwLQNo",
+        "name": "Betty Boop Diner",
+        "address": "115 Philip St, Albany, NY 12202, United States",
+        "latitude": 42.64453,
+        "longitude": -73.7600154,
+        "rating": 4.2,
+        "analyzed_reviews": [
+            {
+                "review": "Quiet little dinner with a lovely atmosphere, polite staff, and delicous food. My pancakes were fluffy and delicous, bacon was fresh and chewy with some crunch. My partners eggs and home fries were fresh and tasty, we both enjoyed the meal and atmosphere. A real rare dinner, not many hole in the wall dinners left around the area that have this level of service, and quality. Highly recommend.",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJAT5Sl7QL3okRilBhwlou0Rw",
+        "name": "Alias Coffee",
+        "address": "76 N Pearl St, Albany, NY 12207, United States",
+        "latitude": 42.6520518,
+        "longitude": -73.7513396,
+        "rating": 4.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJU9NmTz4L3okRE6uBCXCa92U",
+        "name": "Bellanista cafe and restaurant",
+        "address": "Backend of the main building. (Facing parking, 700 New Scotland Ave lot side, Albany, NY 12208, United States",
+        "latitude": 42.6577491,
+        "longitude": -73.8061568,
+        "rating": 4.3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJTcpPhzAK3okRFTfmZM-BYRw",
+        "name": "Iron Gate Cafe",
+        "address": "182 Washington Ave, Albany, NY 12210, United States",
+        "latitude": 42.6560789,
+        "longitude": -73.7624927,
+        "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJnVRtENwL3okRw1Ufqc5_KF4",
+        "name": "Dunkin'",
+        "address": "Med Ctr-Aramark, 43 New Scotland Ave, Albany, NY 12208, United States",
+        "latitude": 42.6531717,
+        "longitude": -73.7761002,
+        "rating": 3,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJx6_9phkK3okRa52hbr8B1-8",
+        "name": "South Pearl Coffee Shop",
+        "address": "265 S Pearl St, Albany, NY 12202, United States",
+        "latitude": 42.6421547,
+        "longitude": -73.756762,
         "rating": 4.2,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJyX9FGXiM24kRRJcceL7x7vI",
-        "name": "Tino's Pizza",
-        "address": "180 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4535734,
-        "longitude": -75.06216750000002,
-        "rating": 4.5,
+        "id": "ChIJUX8xKYcJ3okRg49MDLG9wNA",
+        "name": "Romans Cafe",
+        "address": "800 N Pearl St, Menands, NY 12204, United States",
+        "latitude": 42.6802775,
+        "longitude": -73.7359903,
+        "rating": 4.9,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJySdDaL2L24kRAGe-bqvdz8c",
-        "name": "Mt Fuji Japanese Restaurant",
-        "address": "5006 NY-23, Oneonta, NY 13820, United States",
-        "latitude": 42.4475605,
-        "longitude": -75.0433303,
-        "rating": 3.9,
+        "id": "ChIJK2iouE0L3okRvDP82qs2mRo",
+        "name": "Choices Cafe",
+        "address": "43 New Scotland Ave, Albany, NY 12208, United States",
+        "latitude": 42.65341189999999,
+        "longitude": -73.7764248,
+        "rating": 3.8,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJWW9ShWea24kRHUBleeJWHy8",
-        "name": "Shooters 5-7 Bar & Grill",
-        "address": "1 S Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4546921,
-        "longitude": -75.0600604,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJicFwB0WM24kR2ZUiolijf40",
-        "name": "Dante's Pizzeria",
-        "address": "416 Chestnut St #2183, Oneonta, NY 13820, United States",
-        "latitude": 42.4551116,
-        "longitude": -75.0937637,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJVVVlnEWM24kREnq16lC2aL8",
-        "name": "UNDERCOVER EGGPLANT CO.",
-        "address": "421 Chestnut St, Oneonta, NY 13820, United States",
-        "latitude": 42.4549484,
-        "longitude": -75.0947876,
+        "id": "ChIJlT4lA4QL3okRvSSuu58NLp4",
+        "name": "Primrose Cafe",
+        "address": "677 Broadway Unit 101, Albany, NY 12207, United States",
+        "latitude": 42.6534643,
+        "longitude": -73.74868579999999,
         "rating": 4.7,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJ6draUG-L24kR0ASnNGExhi8",
-        "name": "Molly\u2019s Pizza",
-        "address": "5006 NY-23, Oneonta, NY 13820, United States",
-        "latitude": 42.4475217,
-        "longitude": -75.04507439999999,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJYeWZpnOM24kRentsV5ulOLg",
-        "name": "Restaurant",
-        "address": "57 River St, Oneonta, NY 13820, United States",
-        "latitude": 42.4473214,
-        "longitude": -75.068928,
+        "id": "ChIJk25hy38J3okRkgSV8gc0t1I",
+        "name": "zoleahcafellc",
+        "address": "600 Broadway Ste 200 #3621, Albany, NY 12207, United States",
+        "latitude": 42.64374919999999,
+        "longitude": -73.7418278,
         "rating": 0,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJJWIPkHeM24kRsPlIGWN6kGc",
-        "name": "Yellow Deli",
-        "address": "134 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4529433,
-        "longitude": -75.0628854,
-        "rating": 4.7,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJQReTCQB13IkRMcJRlg6nwuk",
-        "name": "Panera Bread",
-        "address": "5006 NY-23 Suite 24, Oneonta, NY 13820, United States",
-        "latitude": 42.4481039,
-        "longitude": -75.0465507,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJL8r1VJCL24kRa17B3Afmu8Y",
-        "name": "Moe's Southwest Grill",
-        "address": "5001 NY-23, Oneonta, NY 13820, United States",
-        "latitude": 42.4491556,
-        "longitude": -75.0469683,
-        "rating": 4.1,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ29gm0JGL24kR7e-1dNrCKtI",
-        "name": "Denny's",
-        "address": "4979 NY-23, Oneonta, NY 13820, United States",
-        "latitude": 42.448608,
-        "longitude": -75.048682,
-        "rating": 3.9,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJdW3zEHiM24kR6KsTfjY-_9I",
-        "name": "Red Jug Pub",
-        "address": "195 S Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4540926,
-        "longitude": -75.0619263,
-        "rating": 4.2,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJYdxppHeM24kRrwgkRW6WAOU",
-        "name": "B Side Ballroom & Supper Club",
-        "address": "1 Clinton Plaza Dr, Oneonta, NY 13820, United States",
-        "latitude": 42.4523081,
-        "longitude": -75.0632916,
+        "id": "ChIJP_fVP_0L3okR8hdymAbkRUU",
+        "name": "Peppy D's Cafe",
+        "address": "20 Corporate Woods Blvd, Albany, NY 12211, United States",
+        "latitude": 42.67993449999999,
+        "longitude": -73.7648576,
         "rating": 4.6,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJSbapkneM24kRvspFlHEq7Iw",
-        "name": "Black Oak Tavern",
-        "address": "14 Water St, Oneonta, NY 13820, United States",
-        "latitude": 42.4528957,
-        "longitude": -75.0626181,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJP1p9Ov2Y24kRTV3sKGcmt44",
-        "name": "Green's Long River Inn",
-        "address": "54 NY-357, Unadilla, NY 13849, United States",
-        "latitude": 42.3308936,
-        "longitude": -75.29691,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJARdslGWN24kROyDE-COxXlE",
-        "name": "Feel Good Smoothie Bar and Cafe",
-        "address": "4 Clinton Plaza Dr, Oneonta, NY 13820, United States",
-        "latitude": 42.4524565,
-        "longitude": -75.0632522,
-        "rating": 4.8,
-        "analyzed_reviews": [
-            {
-                "review": "Really delicious healthy vegan Tacos, smoothie was refreshing.\n\nThere are two tables outside the front of the store with 2 chairs each. They are under a covered overhang so shielded from rain & direct Sun. Nice to eat outside.\n\nWiFi is usable but not great. 9Mbps download, less than 1Mbps upload.\nWish staff was masked.\nWould go there again for the food. Either eating outside or takeout.\nIt\u2019s a couple blocks away from Oneonta\u2019s Nehwah Park so it would be nice to get takeout and then eat in the park.\n\nThere is a curb right next door (Wolf Wilde Goldsmith) where you can ramp up to the front door of Feel Good. Not sure about the width of the main door but it seems navigable with a wheelchair.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "mobility": [
-                        "wheelchair"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJY00u1-T524kRUNRNEnM9K0U",
-        "name": "The Hartwick Restaurant",
-        "address": "3496 NY-205, Hartwick, NY 13348, United States",
-        "latitude": 42.652075,
-        "longitude": -75.04910509999999,
-        "rating": 4.4,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJrdnui3eM24kR8SOZbKQ1YTI",
-        "name": "J & D's Wagon Wheel",
-        "address": "4918 NY-28, Cooperstown, NY 13326, United States",
-        "latitude": 42.6620426,
-        "longitude": -74.95792639999999,
-        "rating": 4.4,
-        "analyzed_reviews": [
-            {
-                "review": "We\u2019re in town for Dreams Park and I wanted to take my son for some food outside the park.  This place had good reviews and was close to the park so we agreed to try it.\n\nUpon arrival I noticed the parking situation was odd.  Grass parking and parking lot parking, double parked.  Seems ok until you go to leave and realize you have to drive through a smoldering pile of burning tree debris because people didn\u2019t think the back row would need to leave at some point.  A few cones leaving a lane would be ideal.\n\nOnto the restaurant.  We arrived around 8, sat ourselves at a table, and were greeted promptly with menus.  It was busy but didn\u2019t seem overwhelming.  The waitress took our drink order (fountain soda) and came back a few minutes later.  We placed our order for food at 8:13\u2026I ordered a dozen wings with a side of fries and my son ordered their chicken fritters with fries.  Both are types of food that are typically cooked fairly quickly.  So we sit and wait\u2026and we wait\u2026and we wait.  My son is growing impatient and just wants to leave so finally at 9:06 I ask the waitress how long before our food is out.  She checks and comes back and says 5 minutes.  6 minutes later my wings arrive.  My sons food is nowhere to be seen and our fries are still missing.  But I\u2019ve got my wings right so all is good.  4 minutes later and my sons food comes out along with our fries, yay\u202663 minutes for wings and boneless wings.  Not once did the waitress stop by and mention the food order would take so long or that they were overwhelmed and it would be longer than normal.  Fail!\n\nThe food thankfully was good.  5 stars for the wings (bourbon bbq) and 3 stars for the chicken fritters and fries.  Fries weren\u2019t as hot as they should have been which leads me to believe they sat around for several minutes before getting to us.  The portion of chicken fritters seemed small, but it was based on weight and not qty so perhaps it was a typical portion.\n\nOverall, not terribly pleased with our outing.  They seemed short staffed which didn\u2019t help.  There wasn\u2019t a dedicated bartender so the waiters/waitresses were all bartenders so that took away from the table service.  We were a table of 2 with what I thought were quick orders but apparently not.  2 stars total",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "overwhelming"
-                    ]
-                }
-            },
-            {
-                "review": "Stopped in for a beer and had their \u201cCowboy\u201d nachos. These were homemade potato s chips with pulled pork, cheese, sour cream, salsa, and fresh jalape\u00f1os. Very good. Good variety of domestic and craft beer on tap. Place was quiet the day we were there. But they do have a nice sized outdoor seating area as well under a tent outback. Signage is not very good\u2014if I hadn\u2019t searched for a place to go, I would never noticed it by driving by.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "vision": [
-                        "signage"
-                    ],
-                    "sensory": [
-                        "quiet"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJ2dheq3eM24kR_HuBMVvWSos",
-        "name": "Legends Filling Station",
-        "address": "82 Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.4512063,
-        "longitude": -75.06373049999999,
-        "rating": 3.8,
-        "analyzed_reviews": [
-            {
-                "review": "Decent townie bar with an awesome staff. Quiet enough when we went for our catered event, but some shady figures chilling across the bar watching us the whole time. Bit weird, but still a great time. Darts, and billiards in the back; lots of great beer on tap.",
-                "sentiment": "positive",
-                "accessibility": {
-                    "sensory": [
-                        "quiet"
-                    ]
-                }
-            }
-        ]
-    },
-    {
-        "id": "ChIJPbgMvzLv2okRn67vqdznILs",
-        "name": "The Grove",
-        "address": "65 Court St, Binghamton, NY 13901, United States",
-        "latitude": 42.0988502,
-        "longitude": -75.9123458,
-        "rating": 4.3,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJ-y1XJhEH3IkRtc5ul777g7M",
-        "name": "Upstate Bar and Grill",
-        "address": "5418 NY-28, Cooperstown, NY 13326, United States",
-        "latitude": 42.6897621,
-        "longitude": -74.9357071,
-        "rating": 4.5,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJJQJOjyYH3IkR0JJUtSYj0d4",
-        "name": "Cooperstown Mt.Fuji sushi restaurant",
-        "address": "134 Main St, Cooperstown, NY 13326, United States",
-        "latitude": 42.7010009,
-        "longitude": -74.92580760000001,
-        "rating": 3.8,
-        "analyzed_reviews": []
-    },
-    {
-        "id": "ChIJwf2HA0SN24kRTR8SZb1eI0I",
-        "name": "Beer Barrel Inn",
-        "address": "19 1/2 Fonda Ave, Oneonta, NY 13820, United States",
-        "latitude": 42.4474668,
-        "longitude": -75.0754564,
+        "id": "ChIJXbbZeFII3okRDH7KcpGz900",
+        "name": "Starbucks",
+        "address": "599 N Greenbush Rd, Rensselaer, NY 12144, United States",
+        "latitude": 42.6463302,
+        "longitude": -73.69725749999999,
         "rating": 4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJGxLnLiQH3IkRUQ6ncZpK1js",
-        "name": "Mel's at 22",
-        "address": "22 Chestnut St, Cooperstown, NY 13326, United States",
-        "latitude": 42.700862,
-        "longitude": -74.927229,
-        "rating": 4.5,
+        "id": "ChIJY7CejdgL3okRyvgvRuwTSkI",
+        "name": "Cafe Madison",
+        "address": "359 Northern Blvd, Albany, NY 12204, United States",
+        "latitude": 42.6760041,
+        "longitude": -73.7486187,
+        "rating": 4.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJGVcYdXiM24kRuTFq9taboh0",
-        "name": "Jimmy T's Cocktail Lounge",
-        "address": "222 S Main St, Oneonta, NY 13820, United States",
-        "latitude": 42.454071,
-        "longitude": -75.0608902,
+        "id": "ChIJeQRLCzkK3okRon4kCS6Lc38",
+        "name": "Cafe Hollywood",
+        "address": "275 Lark St, Albany, NY 12210, United States",
+        "latitude": 42.6535851,
+        "longitude": -73.76678079999999,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJfd9fT0EK3okRb6Y47KgycEk",
+        "name": "Starbucks",
+        "address": "Hilton Garden Inn at Albany Medical Ctr, 62 New Scotland Ave, Albany, NY 12208, United States",
+        "latitude": 42.6522111,
+        "longitude": -73.7763294,
+        "rating": 3.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJQeWk2VgL3okRMg3sIzj388s",
+        "name": "Motor Oil Coffee Albany State Street",
+        "address": "136 State St, Albany, NY 12207, United States",
+        "latitude": 42.6507375,
+        "longitude": -73.7550874,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJyYw2sq8L3okRfEZTp-XaESw",
+        "name": "Dunkin'",
+        "address": "677 Central Ave, Albany, NY 12206, United States",
+        "latitude": 42.6761853,
+        "longitude": -73.78501650000001,
         "rating": 3.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJCdO56I8L3okRSFpA6b6O_2Y",
+        "name": "JA. Peque\u00f1o",
+        "address": "Coffee Shop, 466 Madison Ave, Albany, NY 12208, United States",
+        "latitude": 42.6529744,
+        "longitude": -73.7690266,
+        "rating": 4.6,
         "analyzed_reviews": [
             {
-                "review": "Legit clubbing experiences in a small town are hard to come by. This place highly impressed me with their sound system, speedy service, and lights. If you like dancing it will be hard to leave.",
+                "review": "The style, lights, furniture, orange finger cake, vibrant atmosphere-high level.\n\nmatcha latte - poor quality, too much milk and barely felt matcha taste.",
                 "sentiment": "positive",
                 "accessibility": {
                     "sensory": [
@@ -540,75 +311,283 @@
         ]
     },
     {
-        "id": "ChIJ27KWzI0H3IkRehWKs3eYDPg",
-        "name": "Bocca Osteria",
-        "address": "5438 NY-28, Cooperstown, NY 13326, United States",
-        "latitude": 42.6910156,
-        "longitude": -74.9355659,
-        "rating": 4.5,
+        "id": "ChIJvUZYCElz3okRt-UPnNGL-8M",
+        "name": "McDonald's",
+        "address": "1006 Central Ave, Albany, NY 12205, United States",
+        "latitude": 42.6834725,
+        "longitude": -73.79467249999999,
+        "rating": 3.2,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJNQFh_SYH3IkROXHzAsmmJXk",
-        "name": "Toscana of Cooperstown",
-        "address": "64 Main St, Cooperstown, NY 13326, United States",
-        "latitude": 42.7004935,
-        "longitude": -74.9238343,
-        "rating": 4.6,
+        "id": "ChIJsdpDPFQK3okRNl1PSDDFz1s",
+        "name": "Dunkin'",
+        "address": "1066 Madison Ave, Albany, NY 12210, United States",
+        "latitude": 42.66528659999999,
+        "longitude": -73.79056229999999,
+        "rating": 3.5,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJp62xg2mQ24kRj3O_PXrqDMU",
-        "name": "Rubera's Restaurant",
-        "address": "360 Main St, Otego, NY 13825, United States",
-        "latitude": 42.397636,
-        "longitude": -75.172742,
-        "rating": 4.4,
+        "id": "ChIJE-2muklz3okRFb3PwECIZTI",
+        "name": "Dunkin'",
+        "address": "1040 Central Ave, Albany, NY 12205, United States",
+        "latitude": 42.6855342,
+        "longitude": -73.7968939,
+        "rating": 3.6,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJjdv4hSYH3IkRHXi7LmCXLEc",
-        "name": "Cooperstown Diner",
-        "address": "136 Main St, Cooperstown, NY 13326, United States",
-        "latitude": 42.7010528,
-        "longitude": -74.9259028,
-        "rating": 4.4,
+        "id": "ChIJHckV2TgK3okRs3mlWAyYBCE",
+        "name": "Cafe Lark",
+        "address": "452 Madison Ave, Albany, NY 12208, United States",
+        "latitude": 42.65266700000001,
+        "longitude": -73.768574,
+        "rating": 3.4,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJV5fB7SYH3IkRyzfe_PeqOK8",
-        "name": "Doubleday Cafe",
-        "address": "93 Main St, Cooperstown, NY 13326, United States",
-        "latitude": 42.7004645,
-        "longitude": -74.9250393,
-        "rating": 4.5,
+        "id": "ChIJ_fYNLUEK3okR11s6temtB7E",
+        "name": "Panera Bread",
+        "address": "50 New Scotland Ave, Albany, NY 12208, United States",
+        "latitude": 42.6525088,
+        "longitude": -73.7747061,
+        "rating": 4.1,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJBa1M9iYH3IkR0GthKTsm7Eg",
-        "name": "Nicoletta's Italian Cafe",
-        "address": "96 Main St, Cooperstown, NY 13326, United States",
-        "latitude": 42.7007204,
-        "longitude": -74.9248952,
-        "rating": 4.6,
+        "id": "ChIJXbZM3tQJ3okRyG7IRkQMu48",
+        "name": "Dunkin'",
+        "address": "97 Troy Rd, East Greenbush, NY 12061, United States",
+        "latitude": 42.6205751,
+        "longitude": -73.7021626,
+        "rating": 4.1,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJb1t_mQC924kR2ZMabbyOhrc",
-        "name": "Judy's Corner Kitchen Restaurant",
-        "address": "1714 NY-8, Mt Upton, NY 13809, United States",
-        "latitude": 42.42637,
-        "longitude": -75.3830625,
-        "rating": 4.6,
+        "id": "ChIJAX3L6_QJ3okRSRqsZtV0YC4",
+        "name": "Dunkin'",
+        "address": "448 Broadway, Rensselaer, NY 12144, United States",
+        "latitude": 42.6419854,
+        "longitude": -73.7436141,
+        "rating": 3.9,
         "analyzed_reviews": []
     },
     {
-        "id": "ChIJtz2qtUbD24kRbdWk9FJYwTs",
-        "name": "Columbus Public House",
-        "address": "4301 NY-80, Sherburne, NY 13460, United States",
-        "latitude": 42.6842241,
-        "longitude": -75.3728053,
+        "id": "ChIJuWMxIzkK3okReChXvChSCko",
+        "name": "Dunkin'",
+        "address": "439 Madison Ave, Albany, NY 12210, United States",
+        "latitude": 42.6528717,
+        "longitude": -73.767788,
+        "rating": 3.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJM1RIqLQJ3okRIQxydC68wac",
+        "name": "Panera Bread",
+        "address": "279 Troy Rd, Rensselaer, NY 12144, United States",
+        "latitude": 42.643146,
+        "longitude": -73.701431,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJfc4eZfEK3okRadYFFKZ838M",
+        "name": "Dunkin'",
+        "address": "601 New Scotland Ave, Albany, NY 12208, United States",
+        "latitude": 42.657245,
+        "longitude": -73.8027693,
+        "rating": 4.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJVeax-qML3okRFvQN-dWsa0Q",
+        "name": "Saba Cafe",
+        "address": "348 Central Ave FLOOR 2, Albany, NY 12206, United States",
+        "latitude": 42.6659728,
+        "longitude": -73.7743306,
+        "rating": 4.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJdV5W7iYK3okRsEiMu2x7iNE",
+        "name": "Dunkin'",
+        "address": "39 N Pearl St, Albany, NY 12207, United States",
+        "latitude": 42.6508641,
+        "longitude": -73.75164,
+        "rating": 3.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJL4ln5iQK3okRbPE_NJr-P78",
+        "name": "Dunkin'",
+        "address": "Capital Bldg, 170 State St Nys, Albany, NY 12207, United States",
+        "latitude": 42.652671,
+        "longitude": -73.75747799999999,
+        "rating": 3.9,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJl9f3rUoI3okRw5fjWBVLX3Y",
+        "name": "Dunkin'",
+        "address": "324 Troy Rd, Rensselaer, NY 12144, United States",
+        "latitude": 42.6458126,
+        "longitude": -73.6975087,
+        "rating": 4.1,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJUaQmfTUL3okRSQ73ZDMzRzE",
+        "name": "McDonald's",
+        "address": "31 Holland Ave, Albany, NY 12209, United States",
+        "latitude": 42.6472079,
+        "longitude": -73.77224749999999,
+        "rating": 3.2,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJIc5pS0IJ3okRMHczWDfOu-4",
+        "name": "Dunkin'",
+        "address": "60 Broadway, Menands, NY 12204, United States",
+        "latitude": 42.6802516,
+        "longitude": -73.7336432,
+        "rating": 3.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJNS2Xh8nh3YkR6ZvA-z_5Ykc",
+        "name": "Panera Bread",
+        "address": "5 Moriah Rd, Glenmont, NY 12077, United States",
+        "latitude": 42.6122085,
+        "longitude": -73.7856159,
+        "rating": 4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJCcdqUiUK3okRhEJiJdH7RM8",
+        "name": "Dunkin'",
+        "address": "One Commerce Plaza, Albany, NY 12210, United States",
+        "latitude": 42.6546534,
+        "longitude": -73.75913849999999,
+        "rating": 3.6,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJXSr7Ak0I3okRG5bdJdDFuvw",
+        "name": "Bruegger's Bagels",
+        "address": "279 Troy Rd, East Greenbush, NY 12144, United States",
+        "latitude": 42.6437526,
+        "longitude": -73.7010493,
+        "rating": 3.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ241G0Yvh3YkRPcgJtMmOs9E",
+        "name": "Rooted + Rind Cafe",
+        "address": "14 Booth Rd, Delmar, NY 12054, United States",
+        "latitude": 42.62574,
+        "longitude": -73.8195901,
         "rating": 4.7,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ6_nS9iYL3okRRry4M15Uewo",
+        "name": "Uncommon Grounds Coffee & Bagels - Western Avenue",
+        "address": "1225 Western Ave #5, Albany, NY 12203, United States",
+        "latitude": 42.6772669,
+        "longitude": -73.8235339,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJJyhLG-QJ3okRtnH2cCCMPwQ",
+        "name": "Motor Oil Coffee Albany Slip 12",
+        "address": "25 Erie Blvd Suite 1, Albany, NY 12204, United States",
+        "latitude": 42.6640932,
+        "longitude": -73.7387937,
+        "rating": 3.9,
+        "analyzed_reviews": [
+            {
+                "review": "I had a lovely morning here! I went about 930 on a Friday and was the only one there. The barista, Jay, was super friendly and chatty. I had a pistachio latte which was delicious. I stayed to read a book in quiet and got a comfy chair in the corner. There\u2019s an outdoor seating area which I would love to sit at during my next visit. Highly recommend!",
+                "sentiment": "positive",
+                "accessibility": {
+                    "sensory": [
+                        "quiet"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ChIJDehq24kL3okRkyGXvRTGhB4",
+        "name": "Dunkin'",
+        "address": "339 Southern Blvd, Albany, NY 12209, United States",
+        "latitude": 42.6312132,
+        "longitude": -73.775235,
+        "rating": 3.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJSTnDbwIL3okRj15gvvcQb0s",
+        "name": "Dunkin'",
+        "address": "Dunkin' Plaza, 500 Northern Blvd, Albany, NY 12204, United States",
+        "latitude": 42.6730471,
+        "longitude": -73.7501284,
+        "rating": 3.8,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJn7OjRQAL3okRmtuGB2NrsSA",
+        "name": "Soul Bowl Cafe",
+        "address": "562B Clinton Ave, Albany, NY 12206, United States",
+        "latitude": 42.6654548,
+        "longitude": -73.76971499999999,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJU8nSQ64L3okRHXScCA7_xwo",
+        "name": "Moliendo Cafe",
+        "address": "791 Madison Ave, Albany, NY 12208, United States",
+        "latitude": 42.6599064,
+        "longitude": -73.7800872,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ92IXWiIK3okR0NRlCG5mBX0",
+        "name": "Caf\u00e9 Capriccio",
+        "address": "49 Grand St, Albany, NY 12207, United States",
+        "latitude": 42.6468931,
+        "longitude": -73.7561977,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJT4ZEPCQK3okRNtOdZ7ekYq0",
+        "name": "Ria's Bistro",
+        "address": "113 State St, Albany, NY 12207, United States",
+        "latitude": 42.6511216,
+        "longitude": -73.7547443,
+        "rating": 4.5,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ6cu54TgK3okRszMwjjCTmvY",
+        "name": "El Loco Mexican Cafe",
+        "address": "465 Madison Ave, Albany, NY 12210, United States",
+        "latitude": 42.6530795,
+        "longitude": -73.7685381,
+        "rating": 4.4,
+        "analyzed_reviews": []
+    },
+    {
+        "id": "ChIJ59eyrDwK3okRmEVTxoY9Ozg",
+        "name": "Honest Weight Food Coop Cafe",
+        "address": "Empire State Plaza, Food Court, Concourse Level, Albany, NY 12210, United States",
+        "latitude": 42.6501287,
+        "longitude": -73.7595558,
+        "rating": 4.4,
         "analyzed_reviews": []
     }
 ]

@@ -52,7 +52,7 @@ if __name__ == "__main__":
     ]
 
 
-    queries = ["resturants", "business", "parks","outtings", "schools", "post office"]
+    queries = ["resturants", "business", "parks","outtings", "schools", "post office", "cafe", "gym", "recreation center"]
     
     
     for c in coordinates:
