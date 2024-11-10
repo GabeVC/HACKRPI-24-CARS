@@ -2,12 +2,14 @@
   "dependencies": {
     "@koa/cors": "^5.0.0",
     "@koa/router": "^13.1.0",
+    "axios": "^1.7.7",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "firebase-admin": "^12.7.0",
     "koa": "^2.15.3",
     "koa-bodyparser": "^4.4.1",
     "koa-router": "^13.0.1",
+    "path": "^0.12.7",
     "python-shell": "^5.0.0"
   }
 }

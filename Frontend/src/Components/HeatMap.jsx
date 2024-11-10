@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, useMapEvents, useMap } from 'react-leaflet';
+import { collection, getDocs } from 'firebase/firestore';
+import { db } from '../firebaseConfig'; // Import your Firebase configuration
 import L from 'leaflet';
 import 'leaflet.heat';
 import 'leaflet/dist/leaflet.css';
@@ -76,6 +78,19 @@ function HeatMap({ center, data, onMapClick }) {
   const [zoomLevel, setZoomLevel] = useState(13);
   const [markerPosition, setMarkerPosition] = useState(null); // State for marker position
   const [markerAddress, setMarkerAddress] = useState(''); // State for marker address
+  const [firebaseMarkers, setFirebaseMarkers] = useState([]); // State for markers from Firebase
+
+  // Fetch locations from Firebase on component mount
+  useEffect(() => {
+    const fetchLocations = async () => {
+      const locationsCollection = collection(db, "locations");
+      const snapshot = await getDocs(locationsCollection);
+      const locations = snapshot.docs.map(doc => doc.data());
+      setFirebaseMarkers(locations); // Set the markers from Firebase
+    };
+
+    fetchLocations();
+  }, []);
 
   // Update marker position and address on map click
   const handleMapClick = ({ lat, lng, address }) => {
@@ -94,6 +109,21 @@ function HeatMap({ center, data, onMapClick }) {
       <RecenterMap center={center} zoomLevel={zoomLevel} />
       <ClickableMap onMapClick={handleMapClick} setZoomLevel={setZoomLevel} />
       
+      {/* Render markers from Firebase */}
+      {firebaseMarkers.map((marker, index) => (
+        marker.coordinates && marker.coordinates.lat !== undefined && marker.coordinates.lng !== undefined ? (
+          <Marker 
+            key={index} 
+            position={[marker.coordinates.lat, marker.coordinates.lng]} // Use coordinates field for lat and lng
+          >
+            <Popup>
+              <strong>{marker.locationId || "No address provided"}</strong> <br />
+              Latitude: {marker.coordinates.lat}, Longitude: {marker.coordinates.lng}
+            </Popup>
+          </Marker>
+        ) : null
+      ))}
+
       {/* Marker Component - only render if markerPosition is set */}
       {markerPosition && (
         <Marker position={markerPosition}>
