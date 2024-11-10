@@ -17,4 +17,20 @@
     outline: none; /* Remove focus outline */
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
   }
+  .star-rating {
+    display: inline-block;
+    font-size: 1.2em;
+    position: relative;
+    unicode-bidi: bidi-override;
+    color: #d3d3d3; /* Light gray background for empty stars */
+  }
+  
+  .star-rating .filled-stars {
+    color: #ffd700; /* Gold color for filled stars */
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    white-space: nowrap;
+  }
   

@@ -7,6 +7,7 @@ import 'leaflet.heat';
 import 'leaflet/dist/leaflet.css';
 import AddReviewButton from './AddReviewButton';
 import ViewReviewsButton from './ViewReviewsButton';
+import ReviewList from './ReviewList';
 
 function HeatLayer({ data }) {
   const map = useMapEvents({});
@@ -67,7 +68,8 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
   const [firebaseMarkers, setFirebaseMarkers] = useState([]);
   const [markerPosition, setMarkerPosition] = useState(null);
   const [circlePosition, setCirclePosition] = useState(center);
-  const [isModalOpen, setIsModalOpen] = useState(false); // Track modal state
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [selectedReviews, setSelectedReviews] = useState([]); // State to store reviews
 
   useEffect(() => {
     const fetchLocations = async () => {
@@ -79,13 +81,24 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
     fetchLocations();
   }, []);
 
-  useEffect(() => {
-    if (mode === "General") {
-      setCirclePosition(center);
-    } else if (mode === "Specific") {
-      setMarkerPosition(null);
-    }
-  }, [center, mode]);
+  const fetchReviewsForLocation = async (locationId) => {
+    const reviewsCollection = collection(db, "reviews");
+    const snapshot = await getDocs(reviewsCollection);
+    const reviews = snapshot.docs
+      .map(doc => doc.data())
+      .filter(review => review.locationId === locationId)
+      .map(review => ({
+        username: "Anonymous", // Placeholder for username
+        locationRating: review.overallScore,
+        text: review.reviewContent,
+        accessibilityRating: review.accessibility,
+        mobilityRating: review.mobility,
+        visionRating: review.vision,
+        sensoryRating: review.sensory,
+        languageRating: review.language,
+      }));
+    setSelectedReviews(reviews);
+  };
 
   const handleMapClick = ({ lat, lng, mode }) => {
     if (mode === "Specific") {
@@ -128,7 +141,6 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
       <RecenterMap center={center} zoomLevel={zoomLevel} />
       <ClickableMap onMapClick={handleMapClick} setZoomLevel={setZoomLevel} mode={mode} isModalOpen={isModalOpen} />
 
-      {/* HeatLayer only rendered in "Heatmap" mode */}
       {mode === "Heatmap" && data && data.length > 0 && <HeatLayer data={data} />}
 
       {mode === "Specific" && firebaseMarkers.map((marker, index) => (
@@ -142,9 +154,9 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
               Latitude: {marker.coordinates.lat}, Longitude: {marker.coordinates.lng} <br />
               <AddReviewButton 
                 selectedLocation={{ locationId: marker.locationId, coordinates: marker.coordinates }}
-                setIsModalOpen={setIsModalOpen} // Pass state function to update modal status
+                setIsModalOpen={setIsModalOpen} 
               />
-              <ViewReviewsButton fetchReviews={() => Promise.resolve(["Sample review 1", "Sample review 2"])} />
+              <ViewReviewsButton fetchReviews={() => fetchReviewsForLocation(marker.locationId)} />
             </Popup>
           </Marker>
         ) : null
@@ -165,11 +177,17 @@ function HeatMap({ center, data, mode: initialMode = "General", radius: initialR
             <strong>Latitude: {markerPosition[0]}, Longitude: {markerPosition[1]}</strong> <br />
             <AddReviewButton 
               selectedLocation={{ locationId: "Selected Location", coordinates: { lat: markerPosition[0], lng: markerPosition[1] } }}
-              setIsModalOpen={setIsModalOpen} // Pass state function to update modal status
+              setIsModalOpen={setIsModalOpen} 
             />
-            <ViewReviewsButton fetchReviews={() => Promise.resolve(["Sample review 1", "Sample review 2"])} />
+            <ViewReviewsButton fetchReviews={() => fetchReviewsForLocation("Selected Location")} />
           </Popup>
         </Marker>
+      )}
+
+      {selectedReviews.length > 0 && (
+        <div style={{ position: 'absolute', bottom: 0, width: '100%', zIndex: 1000 }}>
+          <ReviewList reviews={selectedReviews} />
+        </div>
       )}
     </MapContainer>
   );
